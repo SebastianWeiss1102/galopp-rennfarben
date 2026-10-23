@@ -1,0 +1,4031 @@
+{
+ "_stand": "2026-10-23",
+ "_hinweis": "Zeichnungen je Bildvorlage (Prüfsumme der Vorlage), z. B. für frühere Renntage. Historische Farben bleiben so, wie sie am Renntag waren.",
+ "vorlagen": {
+  "9adc2c1b311c41361be6c33eec92eca4": {
+   "besitzer": [
+    "Gestüt Schlenderhan"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9adc2c1b31.svg",
+   "datei_galoppfacts": "/assets/trikots/9adc2c1b31.svg"
+  },
+  "624985cd48085db2719c5fc312745809": {
+   "besitzer": [
+    "Gestüt Fährhof",
+    "Stiftung Gestüt Fährhof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/624985cd48.svg",
+   "datei_galoppfacts": "/assets/trikots/624985cd48.svg"
+  },
+  "14ccc34e25170077dc528f236c98a3f2": {
+   "besitzer": [
+    "Gestüt Röttgen",
+    "Gestüt Rottgen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/14ccc34e25.svg",
+   "datei_galoppfacts": "/assets/trikots/14ccc34e25.svg"
+  },
+  "604ac3b8ba818e6270b82b04517dde7b": {
+   "besitzer": [
+    "Gestüt Auenquelle",
+    "Gestut Auenquelle"
+   ],
+   "svg_override": "zeichnungen/vorlagen/604ac3b8ba.svg",
+   "datei_galoppfacts": "/assets/trikots/604ac3b8ba.svg"
+  },
+  "47ebc577e9986413bcd53e34c6b0ccd8": {
+   "besitzer": [
+    "Gestüt Röttgen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/47ebc577e9.svg",
+   "datei_galoppfacts": "/assets/trikots/47ebc577e9.svg"
+  },
+  "a925f81da2bac61f2a8ac5dc9315b086": {
+   "besitzer": [
+    "Gestüt Ittlingen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a925f81da2.svg",
+   "datei_galoppfacts": "/assets/trikots/a925f81da2.svg"
+  },
+  "f5a0198e58cdd93ac6d15dd46f7d24ea": {
+   "besitzer": [
+    "Gestüt Zoppenbroich"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f5a0198e58.svg",
+   "datei_galoppfacts": "/assets/trikots/f5a0198e58.svg"
+  },
+  "5c4a5896265bd7c7d6b6c4bc91e76dab": {
+   "besitzer": [
+    "Stiftung Gestüt Fährhof",
+    "Gestüt Fährhof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5c4a589626.svg",
+   "datei_galoppfacts": "/assets/trikots/5c4a589626.svg"
+  },
+  "5754657a9ba549073b681ea08a532fc2": {
+   "besitzer": [
+    "Gestüt Wittekindshof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5754657a9b.svg",
+   "datei_galoppfacts": "/assets/trikots/5754657a9b.svg"
+  },
+  "03bf5e5077cd999635745a772cc4e333": {
+   "besitzer": [
+    "Gestüt Bona"
+   ],
+   "svg_override": "zeichnungen/vorlagen/03bf5e5077.svg",
+   "datei_galoppfacts": "/assets/trikots/03bf5e5077.svg"
+  },
+  "60cddf0d5981e19f82b2a1edaa4040de": {
+   "besitzer": [
+    "Gestüt Ravensberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/60cddf0d59.svg",
+   "datei_galoppfacts": "/assets/trikots/60cddf0d59.svg"
+  },
+  "895ce73b84781e2f3e819d46111b897e": {
+   "besitzer": [
+    "Gestüt Park Wiedingen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/895ce73b84.svg",
+   "datei_galoppfacts": "/assets/trikots/895ce73b84.svg"
+  },
+  "be820f458ff455fa86ebf245f77a0050": {
+   "besitzer": [
+    "Stall Nizza"
+   ],
+   "svg_override": "zeichnungen/vorlagen/be820f458f.svg",
+   "datei_galoppfacts": "/assets/trikots/be820f458f.svg"
+  },
+  "f565c5a5e31ed699ef0ebadb4dbcbd67": {
+   "besitzer": [
+    "Gestüt Brümmerhof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f565c5a5e3.svg",
+   "datei_galoppfacts": "/assets/trikots/f565c5a5e3.svg"
+  },
+  "bc6ba02370b6b3ea80a2c40ecc510ff3": {
+   "besitzer": [
+    "Stall Steintor"
+   ],
+   "svg_override": "zeichnungen/vorlagen/bc6ba02370.svg",
+   "datei_galoppfacts": "/assets/trikots/bc6ba02370.svg"
+  },
+  "a79f239d63fc0080ffab1e831e0174fb": {
+   "besitzer": [
+    "Gestüt Ebbesloh"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a79f239d63.svg",
+   "datei_galoppfacts": "/assets/trikots/a79f239d63.svg"
+  },
+  "ad9c37037d640fa97ac84a7867c669a2": {
+   "besitzer": [
+    "Gestüt Ammerland"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ad9c37037d.svg",
+   "datei_galoppfacts": "/assets/trikots/ad9c37037d.svg"
+  },
+  "990160ade854e5f85e8e3ceb5a8f066d": {
+   "besitzer": [
+    "Gestüt Karlshof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/990160ade8.svg",
+   "datei_galoppfacts": "/assets/trikots/990160ade8.svg"
+  },
+  "494e29e357780225e10226fd96d066c9": {
+   "besitzer": [
+    "Eckhard Sauren"
+   ],
+   "svg_override": "zeichnungen/vorlagen/494e29e357.svg",
+   "datei_galoppfacts": "/assets/trikots/494e29e357.svg"
+  },
+  "4ec0e0b78a9617e6b362107319899bcf": {
+   "besitzer": [
+    "Gestüt Ebbesloh"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4ec0e0b78a.svg",
+   "datei_galoppfacts": "/assets/trikots/4ec0e0b78a.svg"
+  },
+  "c1d6a363f6fb1cabffe4512c109d71ca": {
+   "besitzer": [
+    "Gestüt Etzean"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c1d6a363f6.svg",
+   "datei_galoppfacts": "/assets/trikots/c1d6a363f6.svg"
+  },
+  "512cf900d355c08bcd4d3a2c6361a539": {
+   "besitzer": [
+    "Jaber Abdullah"
+   ],
+   "svg_override": "zeichnungen/vorlagen/512cf900d3.svg",
+   "datei_galoppfacts": "/assets/trikots/512cf900d3.svg"
+  },
+  "cec86a960373ffd55def0c8736859535": {
+   "besitzer": [
+    "Darius Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cec86a9603.svg",
+   "datei_galoppfacts": "/assets/trikots/cec86a9603.svg"
+  },
+  "c0052ef66340592e83b98a129e82ace2": {
+   "besitzer": [
+    "Rennstall Darboven"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c0052ef663.svg",
+   "datei_galoppfacts": "/assets/trikots/c0052ef663.svg"
+  },
+  "3f4a5ab8ba38c0a91dc39faf60dba932": {
+   "besitzer": [
+    "Rennstall Gestüt Hachtsee"
+   ],
+   "svg_override": "zeichnungen/vorlagen/3f4a5ab8ba.svg",
+   "datei_galoppfacts": "/assets/trikots/3f4a5ab8ba.svg"
+  },
+  "7ad56ef0db4f34d60110f97f92949edb": {
+   "besitzer": [
+    "Godolphin SNC",
+    "Godolphin"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7ad56ef0db.svg",
+   "datei_galoppfacts": "/assets/trikots/7ad56ef0db.svg"
+  },
+  "b73df1c54f6a30e2dffa8c0cdd00fc1d": {
+   "besitzer": [
+    "Stall Hanse"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b73df1c54f.svg",
+   "datei_galoppfacts": "/assets/trikots/b73df1c54f.svg"
+  },
+  "ba19119af4a921e5cfd1f2c8d126b2a2": {
+   "besitzer": [
+    "Stall Lintec"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ba19119af4.svg",
+   "datei_galoppfacts": "/assets/trikots/ba19119af4.svg"
+  },
+  "d924c69779b9779c13adffc5179246da": {
+   "besitzer": [
+    "Stall Lucky Owner"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d924c69779.svg",
+   "datei_galoppfacts": "/assets/trikots/d924c69779.svg"
+  },
+  "11580544a6d2a5785c306ee383fb87c3": {
+   "besitzer": [
+    "Gestüt Görlsdorf",
+    "Gestüt Gorlsdorf"
+   ],
+   "svg_override": "zeichnungen/vorlagen/11580544a6.svg",
+   "datei_galoppfacts": "/assets/trikots/11580544a6.svg"
+  },
+  "f72e952830eb5cf48ac62b0af2ba39ad": {
+   "besitzer": [
+    "Stall Grafenberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f72e952830.svg",
+   "datei_galoppfacts": "/assets/trikots/f72e952830.svg"
+  },
+  "5436a38b4931491e3d34af731f275d7b": {
+   "besitzer": [
+    "Dr Christoph Berglar"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5436a38b49.svg",
+   "datei_galoppfacts": "/assets/trikots/5436a38b49.svg"
+  },
+  "21cc48e79366bcbbd166bb316ac0f3dd": {
+   "besitzer": [
+    "Dr. Christoph Berglar",
+    "Dr Christoph Berglar"
+   ],
+   "svg_override": "zeichnungen/vorlagen/21cc48e793.svg",
+   "datei_galoppfacts": "/assets/trikots/21cc48e793.svg"
+  },
+  "1e6f1605cedd49a65d4c5b5a51b97c7e": {
+   "besitzer": [
+    "Gestüt Niederrhein"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1e6f1605ce.svg",
+   "datei_galoppfacts": "/assets/trikots/1e6f1605ce.svg"
+  },
+  "009f3205d478f41d850292f9179b1c8c": {
+   "besitzer": [
+    "Sheikh Mohammed",
+    "Sheikh Mohammed Obaid Al Maktoum"
+   ],
+   "svg_override": "zeichnungen/vorlagen/009f3205d4.svg",
+   "datei_galoppfacts": "/assets/trikots/009f3205d4.svg"
+  },
+  "e4b14e9dc699140ca06e85634b2202aa": {
+   "besitzer": [
+    "Eckhard Sauren"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e4b14e9dc6.svg",
+   "datei_galoppfacts": "/assets/trikots/e4b14e9dc6.svg"
+  },
+  "232edfeb8df3735de7abb53ca1da6ef1": {
+   "besitzer": [
+    "Gestüt Brümmerhof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/232edfeb8d.svg",
+   "datei_galoppfacts": "/assets/trikots/232edfeb8d.svg"
+  },
+  "dc69d6176f9be3f2dbcf575c01ec13c0": {
+   "besitzer": [
+    "Godolphin"
+   ],
+   "svg_override": "zeichnungen/vorlagen/dc69d6176f.svg",
+   "datei_galoppfacts": "/assets/trikots/dc69d6176f.svg"
+  },
+  "7b819d3a25cf40aad508e821f03d633f": {
+   "besitzer": [
+    "Dirk von Mitzlaff"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7b819d3a25.svg",
+   "datei_galoppfacts": "/assets/trikots/7b819d3a25.svg"
+  },
+  "e15dc57257c629909733ed1580c04855": {
+   "besitzer": [
+    "Holger Renz"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e15dc57257.svg",
+   "datei_galoppfacts": "/assets/trikots/e15dc57257.svg"
+  },
+  "fa18747ca5771fae7ad4b9400d291eb0": {
+   "besitzer": [
+    "Litex Commerce Ad",
+    "Litex Commerce AD"
+   ],
+   "svg_override": "zeichnungen/vorlagen/fa18747ca5.svg",
+   "datei_galoppfacts": "/assets/trikots/fa18747ca5.svg"
+  },
+  "1a5f3d23a558dfaf258acb840abd02e4": {
+   "besitzer": [
+    "Gestüt Ittlingen",
+    "Gestüt Idee"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1a5f3d23a5.svg",
+   "datei_galoppfacts": "/assets/trikots/1a5f3d23a5.svg"
+  },
+  "c3a572d0ea51dfaef92fe5b664c0f374": {
+   "besitzer": [
+    "Anna Schleusner-Fruhriep"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c3a572d0ea.svg",
+   "datei_galoppfacts": "/assets/trikots/c3a572d0ea.svg"
+  },
+  "c92e7f17e4922d3d866d0276408383b4": {
+   "besitzer": [
+    "Gestüt Harzburg",
+    "Gestüt Harzburg GmbH"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c92e7f17e4.svg",
+   "datei_galoppfacts": "/assets/trikots/c92e7f17e4.svg"
+  },
+  "986982c463d92fe0642f48ea1a8899c6": {
+   "besitzer": [
+    "Gestüt Römerhof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/986982c463.svg",
+   "datei_galoppfacts": "/assets/trikots/986982c463.svg"
+  },
+  "11ed0bbbf6a393632947da7af666a70e": {
+   "besitzer": [
+    "Rennstall Darboven"
+   ],
+   "svg_override": "zeichnungen/vorlagen/11ed0bbbf6.svg",
+   "datei_galoppfacts": "/assets/trikots/11ed0bbbf6.svg"
+  },
+  "07ec16b1e37b07684feee5170e697a32": {
+   "besitzer": [
+    "Stall Oberlausitz"
+   ],
+   "svg_override": "zeichnungen/vorlagen/07ec16b1e3.svg",
+   "datei_galoppfacts": "/assets/trikots/07ec16b1e3.svg"
+  },
+  "a6f68b7f9d412f5d56935157a91f4d2a": {
+   "besitzer": [
+    "Gestüt Sommerberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a6f68b7f9d.svg",
+   "datei_galoppfacts": "/assets/trikots/a6f68b7f9d.svg"
+  },
+  "b9c83eddebe17f11a424db747d91b2c1": {
+   "besitzer": [
+    "Stall Dipoli"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b9c83eddeb.svg",
+   "datei_galoppfacts": "/assets/trikots/b9c83eddeb.svg"
+  },
+  "f0985759a62e2ed5e0b8e2a7f99bd07c": {
+   "besitzer": [
+    "Gestüt Haus Hahn"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f0985759a6.svg",
+   "datei_galoppfacts": "/assets/trikots/f0985759a6.svg"
+  },
+  "2e5a34499ed17cdbd9c3bf56b8b114c4": {
+   "besitzer": [
+    "Stall Hornoldendorf"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2e5a34499e.svg",
+   "datei_galoppfacts": "/assets/trikots/2e5a34499e.svg"
+  },
+  "9a14ae0098280d06402c9255de8b18f4": {
+   "besitzer": [
+    "Stall Route 66",
+    "Stall Route 66 & Bernd Reese",
+    "Stall Route 66 u. Bernd Reese",
+    "Stall Route 66 u.Bernd Reese"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9a14ae0098.svg",
+   "datei_galoppfacts": "/assets/trikots/9a14ae0098.svg"
+  },
+  "2a07018dd3568f120c3c84b908e620db": {
+   "besitzer": [
+    "Stall Ad Episas"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2a07018dd3.svg",
+   "datei_galoppfacts": "/assets/trikots/2a07018dd3.svg"
+  },
+  "94d85cfc140e9b2fe5ecf0eb1b1c75a3": {
+   "besitzer": [
+    "Gestüt Park Wiedingen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/94d85cfc14.svg",
+   "datei_galoppfacts": "/assets/trikots/94d85cfc14.svg"
+  },
+  "706bbe1b9157698d8b3c0f6484795fbf": {
+   "besitzer": [
+    "Stall Phillip",
+    "Stall Phillip I"
+   ],
+   "svg_override": "zeichnungen/vorlagen/706bbe1b91.svg",
+   "datei_galoppfacts": "/assets/trikots/706bbe1b91.svg"
+  },
+  "462fa4d2e6c9fe971afe3fcd2f652af3": {
+   "besitzer": [
+    "Stall Helena"
+   ],
+   "svg_override": "zeichnungen/vorlagen/462fa4d2e6.svg",
+   "datei_galoppfacts": "/assets/trikots/462fa4d2e6.svg"
+  },
+  "984fa9adb32814e91f8f450b8f812254": {
+   "besitzer": [
+    "Gestüt Hof Iserneichen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/984fa9adb3.svg",
+   "datei_galoppfacts": "/assets/trikots/984fa9adb3.svg"
+  },
+  "09085d0d5e992d1dec1f4ade7897e139": {
+   "besitzer": [
+    "Stall Mydlinghoven"
+   ],
+   "svg_override": "zeichnungen/vorlagen/09085d0d5e.svg",
+   "datei_galoppfacts": "/assets/trikots/09085d0d5e.svg"
+  },
+  "2db40607f3f29f9cc9470b4f614f6c4b": {
+   "besitzer": [
+    "Stall Dagobert"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2db40607f3.svg",
+   "datei_galoppfacts": "/assets/trikots/2db40607f3.svg"
+  },
+  "5f34fa9fff9350602a61dae561603289": {
+   "besitzer": [
+    "Stall Lucky Owner",
+    "Stall Lucky"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5f34fa9fff.svg",
+   "datei_galoppfacts": "/assets/trikots/5f34fa9fff.svg"
+  },
+  "5f8e983af60dee426dd574010c972dd9": {
+   "besitzer": [
+    "Stall ARC",
+    "Stall Arc"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5f8e983af6.svg",
+   "datei_galoppfacts": "/assets/trikots/5f8e983af6.svg"
+  },
+  "2ebdf0c45cadf7bdf26beb6f19f205c2": {
+   "besitzer": [
+    "Stall Mandarin"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2ebdf0c45c.svg",
+   "datei_galoppfacts": "/assets/trikots/2ebdf0c45c.svg"
+  },
+  "4cd2f6ddd032f7645222439d7afba3cf": {
+   "besitzer": [
+    "Georg Engel"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4cd2f6ddd0.svg",
+   "datei_galoppfacts": "/assets/trikots/4cd2f6ddd0.svg"
+  },
+  "4b904d974db51a3f255eacc9fce53ee3": {
+   "besitzer": [
+    "Liberty Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4b904d974d.svg",
+   "datei_galoppfacts": "/assets/trikots/4b904d974d.svg"
+  },
+  "120010556332091631f4db3645955adf": {
+   "besitzer": [
+    "Gestüt Burg Eberstein"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1200105563.svg",
+   "datei_galoppfacts": "/assets/trikots/1200105563.svg"
+  },
+  "73ced1ce3b907bdf34dfc8a83e657631": {
+   "besitzer": [
+    "Stall Blue Diamond"
+   ],
+   "svg_override": "zeichnungen/vorlagen/73ced1ce3b.svg",
+   "datei_galoppfacts": "/assets/trikots/73ced1ce3b.svg"
+  },
+  "43da2d12449de8eafa7ed6985d74daf6": {
+   "besitzer": [
+    "Galopp Club Deutschland e.V.",
+    "Galopp Club Deutschland",
+    "Galopp Club Deutschland e. V.",
+    "Galopp-Club Deutschland",
+    "Galopp-Club Deutschland e. V.",
+    "Galopp-Club Deutschland e.V."
+   ],
+   "svg_override": "zeichnungen/vorlagen/43da2d1244.svg",
+   "datei_galoppfacts": "/assets/trikots/43da2d1244.svg"
+  },
+  "b9ce59a3e79ab15043f48e9bd03b1d1c": {
+   "besitzer": [
+    "Gestüt Paschberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b9ce59a3e7.svg",
+   "datei_galoppfacts": "/assets/trikots/b9ce59a3e7.svg"
+  },
+  "1224815f2b2a9812526c87dd9b6cf2cb": {
+   "besitzer": [
+    "Stiftung Gestüt Fährhof",
+    "Gestüt Fährhof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1224815f2b.svg",
+   "datei_galoppfacts": "/assets/trikots/1224815f2b.svg"
+  },
+  "8dafe9de12aa1632db837e6ba6cfb8b1": {
+   "besitzer": [
+    "Stall Turffighter",
+    "Stall Turffeighter"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8dafe9de12.svg",
+   "datei_galoppfacts": "/assets/trikots/8dafe9de12.svg"
+  },
+  "90d2a0b45ea1b0bc34ece76f637a1cac": {
+   "besitzer": [
+    "Walter Busch"
+   ],
+   "svg_override": "zeichnungen/vorlagen/90d2a0b45e.svg",
+   "datei_galoppfacts": "/assets/trikots/90d2a0b45e.svg"
+  },
+  "4f182fc61ff46eb397b3fe092dfa8e74": {
+   "besitzer": [
+    "Ulrich Zerrath"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4f182fc61f.svg",
+   "datei_galoppfacts": "/assets/trikots/4f182fc61f.svg"
+  },
+  "0740e3d3bfd1f5fe145d9a8e8994e7c9": {
+   "besitzer": [
+    "Stall Siepenblick"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0740e3d3bf.svg",
+   "datei_galoppfacts": "/assets/trikots/0740e3d3bf.svg"
+  },
+  "d587190149d05836d42fe9e5a0629a38": {
+   "besitzer": [
+    "Gestüt Ittlingen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d587190149.svg",
+   "datei_galoppfacts": "/assets/trikots/d587190149.svg"
+  },
+  "7ea5d4ae063341284a85fcf46d65041e": {
+   "besitzer": [
+    "Stall TMB",
+    "Stall tmb",
+    "Stall Tmb"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7ea5d4ae06.svg",
+   "datei_galoppfacts": "/assets/trikots/7ea5d4ae06.svg"
+  },
+  "73d78600e56d83dae24fafe050b16c4f": {
+   "besitzer": [
+    "Gestüt Wiesengrund"
+   ],
+   "svg_override": "zeichnungen/vorlagen/73d78600e5.svg",
+   "datei_galoppfacts": "/assets/trikots/73d78600e5.svg"
+  },
+  "4112d4d7072d9873df73c98ae56d5ea6": {
+   "besitzer": [
+    "Volker Käufling"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4112d4d707.svg",
+   "datei_galoppfacts": "/assets/trikots/4112d4d707.svg"
+  },
+  "c7e374477f2528f604b4db9d94e432cb": {
+   "besitzer": [
+    "Stall Fürstenhof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c7e374477f.svg",
+   "datei_galoppfacts": "/assets/trikots/c7e374477f.svg"
+  },
+  "77c2cedfe7d4240e34e1c4f67f815f44": {
+   "besitzer": [
+    "Stall Kalifornia"
+   ],
+   "svg_override": "zeichnungen/vorlagen/77c2cedfe7.svg",
+   "datei_galoppfacts": "/assets/trikots/77c2cedfe7.svg"
+  },
+  "720e261d965b209843c84f9bf6f50170": {
+   "besitzer": [
+    "Newsells Park Stud",
+    "Newsells Park Stud Ltd.",
+    "Newsells Park Stud Ltd"
+   ],
+   "svg_override": "zeichnungen/vorlagen/720e261d96.svg",
+   "datei_galoppfacts": "/assets/trikots/720e261d96.svg"
+  },
+  "9dfdfded47e4b6361c920e5628eae424": {
+   "besitzer": [
+    "Moyglare Stud Farm"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9dfdfded47.svg",
+   "datei_galoppfacts": "/assets/trikots/9dfdfded47.svg"
+  },
+  "1865e740969a0e9f84226f9709f10801": {
+   "besitzer": [
+    "Volker Franz Schleusner"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1865e74096.svg",
+   "datei_galoppfacts": "/assets/trikots/1865e74096.svg"
+  },
+  "58b1ffb045486d074acbfb849ca9ea87": {
+   "besitzer": [
+    "Cometica AG",
+    "Cometica Ag"
+   ],
+   "svg_override": "zeichnungen/vorlagen/58b1ffb045.svg",
+   "datei_galoppfacts": "/assets/trikots/58b1ffb045.svg"
+  },
+  "47d92f864263ffcdeb8f21d168b13edd": {
+   "besitzer": [
+    "Graf u.Gräfin von Stauffenberg",
+    "Graf & Gräfin v. Stauffenberg",
+    "Graf u Gräfin von Stauffenberg",
+    "Graf u. Gräfin von Stauffenberg",
+    "Graf & Gräfin von Stauffenberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/47d92f8642.svg",
+   "datei_galoppfacts": "/assets/trikots/47d92f8642.svg"
+  },
+  "678c5a922d1c15a3a2e80e9903454270": {
+   "besitzer": [
+    "Stall Biancolino"
+   ],
+   "svg_override": "zeichnungen/vorlagen/678c5a922d.svg",
+   "datei_galoppfacts": "/assets/trikots/678c5a922d.svg"
+  },
+  "d3d1a4b92a813f0d485529a473f4e9e4": {
+   "besitzer": [
+    "Hermann Schröer-Dreesmann",
+    "H Schröer-Dreesmann",
+    "Andrea Lippert"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d3d1a4b92a.svg",
+   "datei_galoppfacts": "/assets/trikots/d3d1a4b92a.svg"
+  },
+  "56db3c5a51f655afa37a8f314b11b4dc": {
+   "besitzer": [
+    "Stall Perlen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/56db3c5a51.svg",
+   "datei_galoppfacts": "/assets/trikots/56db3c5a51.svg"
+  },
+  "acda522f93cc0484dbb9b165c3118a78": {
+   "besitzer": [
+    "Stall Totti"
+   ],
+   "svg_override": "zeichnungen/vorlagen/acda522f93.svg",
+   "datei_galoppfacts": "/assets/trikots/acda522f93.svg"
+  },
+  "050c2957e774a977bdbc4009c9f24dfd": {
+   "besitzer": [
+    "Stefan Hahne"
+   ],
+   "svg_override": "zeichnungen/vorlagen/050c2957e7.svg",
+   "datei_galoppfacts": "/assets/trikots/050c2957e7.svg"
+  },
+  "e1af5794a349f6bc3011f93d11cc72af": {
+   "besitzer": [
+    "Jaber Abdullah"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e1af5794a3.svg",
+   "datei_galoppfacts": "/assets/trikots/e1af5794a3.svg"
+  },
+  "3b627c0d980330679df6355e296b68d5": {
+   "besitzer": [
+    "Cometica AG"
+   ],
+   "svg_override": "zeichnungen/vorlagen/3b627c0d98.svg",
+   "datei_galoppfacts": "/assets/trikots/3b627c0d98.svg"
+  },
+  "529baafc2ea2fc6df0bffc123d642990": {
+   "besitzer": [
+    "Australian Bloodstock",
+    "Australian Bloodstock Stable"
+   ],
+   "svg_override": "zeichnungen/vorlagen/529baafc2e.svg",
+   "datei_galoppfacts": "/assets/trikots/529baafc2e.svg"
+  },
+  "ca24b05396b6dadde20582c62c654bf7": {
+   "besitzer": [
+    "Zalim Bifov"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ca24b05396.svg",
+   "datei_galoppfacts": "/assets/trikots/ca24b05396.svg"
+  },
+  "33152cf51d783a1403615a02c6ad0a92": {
+   "besitzer": [
+    "Rennstall Germanicus",
+    "Rennstall Germanius"
+   ],
+   "svg_override": "zeichnungen/vorlagen/33152cf51d.svg",
+   "datei_galoppfacts": "/assets/trikots/33152cf51d.svg"
+  },
+  "e994cdb51a05d0e6ccc9c55805c157ac": {
+   "besitzer": [
+    "Stall ROM",
+    "Stall Rom"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e994cdb51a.svg",
+   "datei_galoppfacts": "/assets/trikots/e994cdb51a.svg"
+  },
+  "bc8a78adc06610b88c861f0802d410b8": {
+   "besitzer": [
+    "Stall Nannippus"
+   ],
+   "svg_override": "zeichnungen/vorlagen/bc8a78adc0.svg",
+   "datei_galoppfacts": "/assets/trikots/bc8a78adc0.svg"
+  },
+  "bcd3298c6d6b49328e7192e5a1fc6940": {
+   "besitzer": [
+    "Al Shaqab Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/bcd3298c6d.svg",
+   "datei_galoppfacts": "/assets/trikots/bcd3298c6d.svg"
+  },
+  "0e8642e633f2b8ba84895031c22cdd22": {
+   "besitzer": [
+    "Westminster Race Horses GMBH",
+    "Westminster Stud Gmbh",
+    "Westminster Race Horses GmbH",
+    "Westminster Stud GmbH"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0e8642e633.svg",
+   "datei_galoppfacts": "/assets/trikots/0e8642e633.svg"
+  },
+  "0c1d20f0852843c6672c8a25cb504dde": {
+   "besitzer": [
+    "Capricorn Stud"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0c1d20f085.svg",
+   "datei_galoppfacts": "/assets/trikots/0c1d20f085.svg"
+  },
+  "4883f8b1b5ef16e77e8c67bf0a6bc217": {
+   "besitzer": [
+    "Rennstall Labinsky",
+    "Rennstall LA"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4883f8b1b5.svg",
+   "datei_galoppfacts": "/assets/trikots/4883f8b1b5.svg"
+  },
+  "cf35b167d115be133bbe1393cbd58502": {
+   "besitzer": [
+    "Stall Australia"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cf35b167d1.svg",
+   "datei_galoppfacts": "/assets/trikots/cf35b167d1.svg"
+  },
+  "a9c5d86f372e134a039c7b2bd2190692": {
+   "besitzer": [
+    "Stall Lintec"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a9c5d86f37.svg",
+   "datei_galoppfacts": "/assets/trikots/a9c5d86f37.svg"
+  },
+  "2e750bc3ef8a29811bdad38cea0392e4": {
+   "besitzer": [
+    "Gestüt Haus Zoppenbroich"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2e750bc3ef.svg",
+   "datei_galoppfacts": "/assets/trikots/2e750bc3ef.svg"
+  },
+  "78eb9153fe1eef1bb4220a46fd6f3c5e": {
+   "besitzer": [
+    "Christian Zschache"
+   ],
+   "svg_override": "zeichnungen/vorlagen/78eb9153fe.svg",
+   "datei_galoppfacts": "/assets/trikots/78eb9153fe.svg"
+  },
+  "693e47c55621a2deecd5fc57ec3ef682": {
+   "besitzer": [
+    "Stall Ramon"
+   ],
+   "svg_override": "zeichnungen/vorlagen/693e47c556.svg",
+   "datei_galoppfacts": "/assets/trikots/693e47c556.svg"
+  },
+  "d8a32dc914850b3307473b91b3142f72": {
+   "besitzer": [
+    "Stall Carpe Diem"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d8a32dc914.svg",
+   "datei_galoppfacts": "/assets/trikots/d8a32dc914.svg"
+  },
+  "7e4ce56fcd6b43110f702a3b09362da3": {
+   "besitzer": [
+    "Stall elektrowelt24.de",
+    "Stall Elektrowelt24.de",
+    "Stall Elektrowelt24 De"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7e4ce56fcd.svg",
+   "datei_galoppfacts": "/assets/trikots/7e4ce56fcd.svg"
+  },
+  "b4041fbaec35117fe9ed8ddb3289af44": {
+   "besitzer": [
+    "LMGW-Bloodstock",
+    "LMGW Bloodstock"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b4041fbaec.svg",
+   "datei_galoppfacts": "/assets/trikots/b4041fbaec.svg"
+  },
+  "2b7429d3e9a3bf15a621340221ba7e6b": {
+   "besitzer": [
+    "Stall Simply Red",
+    "Stall Simply"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2b7429d3e9.svg",
+   "datei_galoppfacts": "/assets/trikots/2b7429d3e9.svg"
+  },
+  "80055fd021840d6cd9f8058a53c7e7c1": {
+   "besitzer": [
+    "Stall Mandarin"
+   ],
+   "svg_override": "zeichnungen/vorlagen/80055fd021.svg",
+   "datei_galoppfacts": "/assets/trikots/80055fd021.svg"
+  },
+  "3e6235eccfe37d11f09ba4a159359d26": {
+   "besitzer": [
+    "Galoppgemeinschaft Bad Harzburg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/3e6235eccf.svg",
+   "datei_galoppfacts": "/assets/trikots/3e6235eccf.svg"
+  },
+  "183bb68ca4388f14da514e9150b3ddff": {
+   "besitzer": [
+    "Stall Klosters-Serneus"
+   ],
+   "svg_override": "zeichnungen/vorlagen/183bb68ca4.svg",
+   "datei_galoppfacts": "/assets/trikots/183bb68ca4.svg"
+  },
+  "532dfffe99fd0ec14c956a35e07699c2": {
+   "besitzer": [
+    "Taxi4Horses.com"
+   ],
+   "svg_override": "zeichnungen/vorlagen/532dfffe99.svg",
+   "datei_galoppfacts": "/assets/trikots/532dfffe99.svg"
+  },
+  "6bf2697dfde30f956ec6834ae33a412a": {
+   "besitzer": [
+    "Guido W. Schmitt",
+    "Guido W Schmitt",
+    "Guido W.Schmitt"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6bf2697dfd.svg",
+   "datei_galoppfacts": "/assets/trikots/6bf2697dfd.svg"
+  },
+  "f2e100cb9b0ba003ef7c9b4a91a1e0f4": {
+   "besitzer": [
+    "Stall Leon"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f2e100cb9b.svg",
+   "datei_galoppfacts": "/assets/trikots/f2e100cb9b.svg"
+  },
+  "f056e2d2fcc0040c8add7e7429ea72e6": {
+   "besitzer": [
+    "Westminster Race Horses GMBH",
+    "Westminster Race Horses GmbH"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0e8642e633.svg",
+   "datei_galoppfacts": "/assets/trikots/0e8642e633.svg"
+  },
+  "5311cab1a46156f730105608a70539c7": {
+   "besitzer": [
+    "Michael Wachowitz"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5311cab1a4.svg",
+   "datei_galoppfacts": "/assets/trikots/5311cab1a4.svg"
+  },
+  "0c9fdd5b50ebebdc1578e94f21502980": {
+   "besitzer": [
+    "Rennstall Germanius"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0c9fdd5b50.svg",
+   "datei_galoppfacts": "/assets/trikots/0c9fdd5b50.svg"
+  },
+  "eabda7a3b1c437b723c2ac2bab20363a": {
+   "besitzer": [
+    "Ralf Paulick",
+    "R Paulick"
+   ],
+   "svg_override": "zeichnungen/vorlagen/eabda7a3b1.svg",
+   "datei_galoppfacts": "/assets/trikots/eabda7a3b1.svg"
+  },
+  "011aac84aa5085618b8eff0c14e412e6": {
+   "besitzer": [
+    "Mario Hofer GmbH",
+    "Mario Hofer Gmbh"
+   ],
+   "svg_override": "zeichnungen/vorlagen/011aac84aa.svg",
+   "datei_galoppfacts": "/assets/trikots/011aac84aa.svg"
+  },
+  "cbd90f791741a6249fe32a649e02c3f0": {
+   "besitzer": [
+    "TINK Racing",
+    "TINK RACING"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cbd90f7917.svg",
+   "datei_galoppfacts": "/assets/trikots/cbd90f7917.svg"
+  },
+  "0d62baf39516744a34c808dd0611cc45": {
+   "besitzer": [
+    "Stall Zollern"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0d62baf395.svg",
+   "datei_galoppfacts": "/assets/trikots/0d62baf395.svg"
+  },
+  "17951446358680e379fa4b85a72edd4c": {
+   "besitzer": [
+    "Darius Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1795144635.svg",
+   "datei_galoppfacts": "/assets/trikots/1795144635.svg"
+  },
+  "7761494b098a9929f4474b2984705e9a": {
+   "besitzer": [
+    "Stall Memory"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7761494b09.svg",
+   "datei_galoppfacts": "/assets/trikots/7761494b09.svg"
+  },
+  "d7738e1adbcfd97dd15de8e611b904c6": {
+   "besitzer": [
+    "Stall Bergholz"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d7738e1adb.svg",
+   "datei_galoppfacts": "/assets/trikots/d7738e1adb.svg"
+  },
+  "8c74a9c4967ddc9a6e4b0d27d251495b": {
+   "besitzer": [
+    "Stall Walzertraum"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8c74a9c496.svg",
+   "datei_galoppfacts": "/assets/trikots/8c74a9c496.svg"
+  },
+  "381af3ea9ca94a7c93cdc57835fc838f": {
+   "besitzer": [
+    "Stall Fiesta"
+   ],
+   "svg_override": "zeichnungen/vorlagen/381af3ea9c.svg",
+   "datei_galoppfacts": "/assets/trikots/381af3ea9c.svg"
+  },
+  "1961a7bc609e0fa0f77f27dac3b472e2": {
+   "besitzer": [
+    "Stall Saarbrücken",
+    "Stall Saarbrucken"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1961a7bc60.svg",
+   "datei_galoppfacts": "/assets/trikots/1961a7bc60.svg"
+  },
+  "403c3b67a57ded59e459e653a5898951": {
+   "besitzer": [
+    "Stall Emerald"
+   ],
+   "svg_override": "zeichnungen/vorlagen/403c3b67a5.svg",
+   "datei_galoppfacts": "/assets/trikots/403c3b67a5.svg"
+  },
+  "8db6921cd7b68a362aeccc816627d819": {
+   "besitzer": [
+    "Abdulmagid A Alyousfi"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8db6921cd7.svg",
+   "datei_galoppfacts": "/assets/trikots/8db6921cd7.svg"
+  },
+  "b636c3255709991477bf0a43a94c8227": {
+   "besitzer": [
+    "Sheikh Ahmed al Maktoum",
+    "Sheikh Ahmed Al Maktoum"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b636c32557.svg",
+   "datei_galoppfacts": "/assets/trikots/b636c32557.svg"
+  },
+  "b85c3f12dbe04d14682e47538cb6df32": {
+   "besitzer": [
+    "Stall Chronos"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b85c3f12db.svg",
+   "datei_galoppfacts": "/assets/trikots/b85c3f12db.svg"
+  },
+  "74f5f40833e0bb0ca8294490b94c6786": {
+   "besitzer": [
+    "Manfred Anton Schmelzer",
+    "Karin Brieskorn"
+   ],
+   "svg_override": "zeichnungen/vorlagen/74f5f40833.svg",
+   "datei_galoppfacts": "/assets/trikots/74f5f40833.svg"
+  },
+  "09090f7d2ac0d4c134b2878b021eed47": {
+   "besitzer": [
+    "Karin Brieskorn",
+    "Frau Karin Brieskorn"
+   ],
+   "svg_override": "zeichnungen/vorlagen/09090f7d2a.svg",
+   "datei_galoppfacts": "/assets/trikots/09090f7d2a.svg"
+  },
+  "9f4b5c424019bad53a36ad3ee00e69c2": {
+   "besitzer": [
+    "Stall XY"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9f4b5c4240.svg",
+   "datei_galoppfacts": "/assets/trikots/9f4b5c4240.svg"
+  },
+  "1b0ab430b2660818ac7abc51c77fa7db": {
+   "besitzer": [
+    "Stall Golden Goal"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1b0ab430b2.svg",
+   "datei_galoppfacts": "/assets/trikots/1b0ab430b2.svg"
+  },
+  "ef6ff611d72d8f82ebfe312cede03864": {
+   "besitzer": [
+    "Darius Racing & Michael Motschmann",
+    "Darius Racing",
+    "Darius Racing u. M Motschmann"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ef6ff611d7.svg",
+   "datei_galoppfacts": "/assets/trikots/ef6ff611d7.svg"
+  },
+  "a5f6f97cbc43e216536d37a4753e00c9": {
+   "besitzer": [
+    "Guy Pariente"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a5f6f97cbc.svg",
+   "datei_galoppfacts": "/assets/trikots/a5f6f97cbc.svg"
+  },
+  "88127348c3f2ba8a16b618fe335b6389": {
+   "besitzer": [
+    "Stall Winterhude"
+   ],
+   "svg_override": "zeichnungen/vorlagen/88127348c3.svg",
+   "datei_galoppfacts": "/assets/trikots/88127348c3.svg"
+  },
+  "d1d89218137847ebc0fb430071a7026a": {
+   "besitzer": [
+    "Uwe Aisch"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d1d8921813.svg",
+   "datei_galoppfacts": "/assets/trikots/d1d8921813.svg"
+  },
+  "e5bb12914dfe3825e094da110d87e980": {
+   "besitzer": [
+    "Hans-Georg Fabian",
+    "Hans Georg Fabian"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e5bb12914d.svg",
+   "datei_galoppfacts": "/assets/trikots/e5bb12914d.svg"
+  },
+  "c29578a434f4ec74fdce2d129668e5da": {
+   "besitzer": [
+    "Stall Ritterbusch"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c29578a434.svg",
+   "datei_galoppfacts": "/assets/trikots/c29578a434.svg"
+  },
+  "b3b7423fe12a24818a2f3399957f41b0": {
+   "besitzer": [
+    "Jürgen Sartori"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b3b7423fe1.svg",
+   "datei_galoppfacts": "/assets/trikots/b3b7423fe1.svg"
+  },
+  "21d048a12821cdd71b1b8859b0821035": {
+   "besitzer": [
+    "Wertheimer & Frere"
+   ],
+   "svg_override": "zeichnungen/vorlagen/21d048a128.svg",
+   "datei_galoppfacts": "/assets/trikots/21d048a128.svg"
+  },
+  "afdc86910182df6c9dee68dc6757f478": {
+   "besitzer": [
+    "Stall Donna"
+   ],
+   "svg_override": "zeichnungen/vorlagen/afdc869101.svg",
+   "datei_galoppfacts": "/assets/trikots/afdc869101.svg"
+  },
+  "87bc6897dd4368b6e95a79bca879f463": {
+   "besitzer": [
+    "Cemil Duran"
+   ],
+   "svg_override": "zeichnungen/vorlagen/87bc6897dd.svg",
+   "datei_galoppfacts": "/assets/trikots/87bc6897dd.svg"
+  },
+  "e483760bc6fb9fcdacbae09467394f5b": {
+   "besitzer": [
+    "Stall Wo laufen sie denn?",
+    "Stall wo laufen Sie denn?",
+    "Stall Wo laufen Sie denn?"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e483760bc6.svg",
+   "datei_galoppfacts": "/assets/trikots/e483760bc6.svg"
+  },
+  "7585d4aeafd70551f433dd13d6fff1a5": {
+   "besitzer": [
+    "UNIA Racing",
+    "Stall Unia"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7585d4aeaf.svg",
+   "datei_galoppfacts": "/assets/trikots/7585d4aeaf.svg"
+  },
+  "dc062386c1818af601197bda77c1b2f7": {
+   "besitzer": [
+    "David & Hans-Peter Schön",
+    "David u.Hans-P.Schön"
+   ],
+   "svg_override": "zeichnungen/vorlagen/dc062386c1.svg",
+   "datei_galoppfacts": "/assets/trikots/dc062386c1.svg"
+  },
+  "c78b95a8a7560ea6fa239acee7de1db2": {
+   "besitzer": [
+    "Rennstall SUN-PLANET",
+    "Rennstall Sun-Planet"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c78b95a8a7.svg",
+   "datei_galoppfacts": "/assets/trikots/c78b95a8a7.svg"
+  },
+  "c791468ebf5fcba48409ed95b678d140": {
+   "besitzer": [
+    "Stall Cimba"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c791468ebf.svg",
+   "datei_galoppfacts": "/assets/trikots/c791468ebf.svg"
+  },
+  "c95dc073f46d2e2ea7834aa9855db37b": {
+   "besitzer": [
+    "Art 4 Horseracing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c95dc073f4.svg",
+   "datei_galoppfacts": "/assets/trikots/c95dc073f4.svg"
+  },
+  "52b31c0487d132f668b8feb0ffb4b63f": {
+   "besitzer": [
+    "Qatar Racing Limited",
+    "Qatar Racing Ltd, Ecurie Skymarc Farm & Ecurie Des"
+   ],
+   "svg_override": "zeichnungen/vorlagen/52b31c0487.svg",
+   "datei_galoppfacts": "/assets/trikots/52b31c0487.svg"
+  },
+  "b207cfc742654a1aa379f64214f920e4": {
+   "besitzer": [
+    "Stall Honeycookiehorse"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b207cfc742.svg",
+   "datei_galoppfacts": "/assets/trikots/b207cfc742.svg"
+  },
+  "31582db67d352928761435a82c693751": {
+   "besitzer": [
+    "Elite Racing Club",
+    "Elite Racing Club 004"
+   ],
+   "svg_override": "zeichnungen/vorlagen/31582db67d.svg",
+   "datei_galoppfacts": "/assets/trikots/31582db67d.svg"
+  },
+  "cf202e48bf0d5d2940c5fa4c254f248f": {
+   "besitzer": [
+    "Stall Garden Lounge"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cf202e48bf.svg",
+   "datei_galoppfacts": "/assets/trikots/cf202e48bf.svg"
+  },
+  "ec0b79198e3d59c166f359a0bcc0a442": {
+   "besitzer": [
+    "Stall WeGo"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ec0b79198e.svg",
+   "datei_galoppfacts": "/assets/trikots/ec0b79198e.svg"
+  },
+  "52305c3ff1673e208667bc2bde491821": {
+   "besitzer": [
+    "Wathnan Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/52305c3ff1.svg",
+   "datei_galoppfacts": "/assets/trikots/52305c3ff1.svg"
+  },
+  "edbf33e69466c8e1e9d422cb33271a72": {
+   "besitzer": [
+    "Dr. Christoph Burmester",
+    "Dr Christoph Burmester"
+   ],
+   "svg_override": "zeichnungen/vorlagen/edbf33e694.svg",
+   "datei_galoppfacts": "/assets/trikots/edbf33e694.svg"
+  },
+  "42f0722b06a184f1f789ab478759cd5a": {
+   "besitzer": [
+    "Susanne Ottofülling",
+    "Frau Susanne Ottofülling"
+   ],
+   "svg_override": "zeichnungen/vorlagen/42f0722b06.svg",
+   "datei_galoppfacts": "/assets/trikots/42f0722b06.svg"
+  },
+  "81ee6940b77a4aedee1d862be980eae0": {
+   "besitzer": [
+    "Lokotrans",
+    "Lokotrans s.r.o.",
+    "Lokotrans sro"
+   ],
+   "svg_override": "zeichnungen/vorlagen/81ee6940b7.svg",
+   "datei_galoppfacts": "/assets/trikots/81ee6940b7.svg"
+  },
+  "1a3c3fe44daabb2481cb7b3553e7c5e1": {
+   "besitzer": [
+    "Gestüt am Schlossgarten",
+    "Gestüt Am Schlossgarten",
+    "Gestüt am Schloßgarten"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1a3c3fe44d.svg",
+   "datei_galoppfacts": "/assets/trikots/1a3c3fe44d.svg"
+  },
+  "0c303d067fdca18221745c8fe4274d2a": {
+   "besitzer": [
+    "El Sur Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0c303d067f.svg",
+   "datei_galoppfacts": "/assets/trikots/0c303d067f.svg"
+  },
+  "e3c54a414eae9ab6f67f94afeba19235": {
+   "besitzer": [
+    "Stall Herb"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e3c54a414e.svg",
+   "datei_galoppfacts": "/assets/trikots/e3c54a414e.svg"
+  },
+  "9325164913e6149e6ea8f81537affe17": {
+   "besitzer": [
+    "Middleham Park Racing LX"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9325164913.svg",
+   "datei_galoppfacts": "/assets/trikots/9325164913.svg"
+  },
+  "180aa42db66c5e7b6888bee2695e07a0": {
+   "besitzer": [
+    "Stall Bärtschi",
+    "Stall Bartschi"
+   ],
+   "svg_override": "zeichnungen/vorlagen/180aa42db6.svg",
+   "datei_galoppfacts": "/assets/trikots/180aa42db6.svg"
+  },
+  "cfc9bbf156db5182fa7117bef3835d30": {
+   "besitzer": [
+    "The Dutch Master Stable",
+    "The Dutch Master Stables"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cfc9bbf156.svg",
+   "datei_galoppfacts": "/assets/trikots/cfc9bbf156.svg"
+  },
+  "fac798d5fc81121c86e25526f5e80f6e": {
+   "besitzer": [
+    "Stall Allez les bleus",
+    "Stall Allez les Bleus"
+   ],
+   "svg_override": "zeichnungen/vorlagen/fac798d5fc.svg",
+   "datei_galoppfacts": "/assets/trikots/fac798d5fc.svg"
+  },
+  "b096031063c6d2ea3c1044dbc2383caf": {
+   "besitzer": [
+    "Stall Bergholz"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b096031063.svg",
+   "datei_galoppfacts": "/assets/trikots/b096031063.svg"
+  },
+  "180c525332208ade0e3ec841b289b9df": {
+   "besitzer": [
+    "Victorious Racing",
+    "Victorious Forever"
+   ],
+   "svg_override": "zeichnungen/vorlagen/180c525332.svg",
+   "datei_galoppfacts": "/assets/trikots/180c525332.svg"
+  },
+  "4664e96888ddddc457dc4b0388f98cf2": {
+   "besitzer": [
+    "Stall MarcRuehl.com"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4664e96888.svg",
+   "datei_galoppfacts": "/assets/trikots/4664e96888.svg"
+  },
+  "affd8e7341854e1810e2cd6bbae7623c": {
+   "besitzer": [
+    "Gestüt Westerberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/affd8e7341.svg",
+   "datei_galoppfacts": "/assets/trikots/affd8e7341.svg"
+  },
+  "0685bd0d061c30a11016df3687fe8962": {
+   "besitzer": [
+    "Rennstall Junge Besitzervereinigung"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0685bd0d06.svg",
+   "datei_galoppfacts": "/assets/trikots/0685bd0d06.svg"
+  },
+  "43db3f9fc94c9a6c872b53b76460bcdd": {
+   "besitzer": [
+    "Stall Gattopardo"
+   ],
+   "svg_override": "zeichnungen/vorlagen/43db3f9fc9.svg",
+   "datei_galoppfacts": "/assets/trikots/43db3f9fc9.svg"
+  },
+  "9a7587d027bc96e4fe91c2797d89cf34": {
+   "besitzer": [
+    "Stall Cloverleaf"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9a7587d027.svg",
+   "datei_galoppfacts": "/assets/trikots/9a7587d027.svg"
+  },
+  "55e8221a6dba672ee4cc1e36133dafa4": {
+   "besitzer": [
+    "Cayton Park Stud Ltd"
+   ],
+   "svg_override": "zeichnungen/vorlagen/55e8221a6d.svg",
+   "datei_galoppfacts": "/assets/trikots/55e8221a6d.svg"
+  },
+  "a614087603b5d99410c9b5bd6774d5de": {
+   "besitzer": [
+    "Team Valor",
+    "TeamValor"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a614087603.svg",
+   "datei_galoppfacts": "/assets/trikots/a614087603.svg"
+  },
+  "4164a04a04a7df161e6e0ee4c769bdb6": {
+   "besitzer": [
+    "Stall Simply Red"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4164a04a04.svg",
+   "datei_galoppfacts": "/assets/trikots/4164a04a04.svg"
+  },
+  "f89fe3bbe2511c88248684c43f7ac8c4": {
+   "besitzer": [
+    "Al Asayl Bloodstock Ltd.",
+    "Al Asayl Bloodstock Ltd"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f89fe3bbe2.svg",
+   "datei_galoppfacts": "/assets/trikots/f89fe3bbe2.svg"
+  },
+  "d186929393bbca1d881e22f7b99d7845": {
+   "besitzer": [
+    "Stall Le Premier"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d186929393.svg",
+   "datei_galoppfacts": "/assets/trikots/d186929393.svg"
+  },
+  "79169a8fd0dbce016730cf10a63f981f": {
+   "besitzer": [
+    "Anton Kräuliger"
+   ],
+   "svg_override": "zeichnungen/vorlagen/79169a8fd0.svg",
+   "datei_galoppfacts": "/assets/trikots/79169a8fd0.svg"
+  },
+  "1a9b2cab9c454f74fb7ee7cd6332ed80": {
+   "besitzer": [
+    "Stall Salzburg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1a9b2cab9c.svg",
+   "datei_galoppfacts": "/assets/trikots/1a9b2cab9c.svg"
+  },
+  "61e0acf36a6dffccdc682585e4a3c84a": {
+   "besitzer": [
+    "Gestüt Paschberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/61e0acf36a.svg",
+   "datei_galoppfacts": "/assets/trikots/61e0acf36a.svg"
+  },
+  "068b74108aa74b5b46dbff81b97543b7": {
+   "besitzer": [
+    "Stall Alemannia"
+   ],
+   "svg_override": "zeichnungen/vorlagen/068b74108a.svg",
+   "datei_galoppfacts": "/assets/trikots/068b74108a.svg"
+  },
+  "b02339b15e12f04d757240dbfa8297f6": {
+   "besitzer": [
+    "Stall Chronos"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b02339b15e.svg",
+   "datei_galoppfacts": "/assets/trikots/b02339b15e.svg"
+  },
+  "6d1e4c743a897b4723c52ea1948082b0": {
+   "besitzer": [
+    "Houlgate Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6d1e4c743a.svg",
+   "datei_galoppfacts": "/assets/trikots/6d1e4c743a.svg"
+  },
+  "a39d84346e62c09a0a13c9b35c89c8c1": {
+   "besitzer": [
+    "Newtown Anner Stud Farm",
+    "Newtown Anner Stud Farm Ltd"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a39d84346e.svg",
+   "datei_galoppfacts": "/assets/trikots/a39d84346e.svg"
+  },
+  "2aa920acb2b2ce531e5233debbfe0e71": {
+   "besitzer": [
+    "Günay Equestrian Invest GmbH",
+    "Gunay Equestrian Invest GmbH"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2aa920acb2.svg",
+   "datei_galoppfacts": "/assets/trikots/2aa920acb2.svg"
+  },
+  "74c37216990bf684dcac8eb1c1a157cb": {
+   "besitzer": [
+    "Friedrich Hodel"
+   ],
+   "svg_override": "zeichnungen/vorlagen/74c3721699.svg",
+   "datei_galoppfacts": "/assets/trikots/74c3721699.svg"
+  },
+  "6b85b129cf60b54153c939f3dcca9ef8": {
+   "besitzer": [
+    "Gestüt Ohlerweiherhof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6b85b129cf.svg",
+   "datei_galoppfacts": "/assets/trikots/6b85b129cf.svg"
+  },
+  "57f003d1727291bfa006d43208aab4f1": {
+   "besitzer": [
+    "Ingolf Heinecke"
+   ],
+   "svg_override": "zeichnungen/vorlagen/57f003d172.svg",
+   "datei_galoppfacts": "/assets/trikots/57f003d172.svg"
+  },
+  "37ceae99545bc41ed95d696c27560ffc": {
+   "besitzer": [
+    "Roswitha Grünewald"
+   ],
+   "svg_override": "zeichnungen/vorlagen/37ceae9954.svg",
+   "datei_galoppfacts": "/assets/trikots/37ceae9954.svg"
+  },
+  "5c273fa31445953744d10d2bb5bf1e03": {
+   "besitzer": [
+    "Dres J u J Kleeberg",
+    "Dres. J. u. J. Kleeberg",
+    "Dr J Kleeberg",
+    "Dres. J.u.J.Kleeberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5c273fa314.svg",
+   "datei_galoppfacts": "/assets/trikots/5c273fa314.svg"
+  },
+  "4e7e9d9f8ed031a5d336f1fcdf7454f7": {
+   "besitzer": [
+    "Haras de la Huderie"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4e7e9d9f8e.svg",
+   "datei_galoppfacts": "/assets/trikots/4e7e9d9f8e.svg"
+  },
+  "99cd1b0b7c4cff1bd64b5ebbbc1a4a30": {
+   "besitzer": [
+    "Sheikh Ahmed al Maktoum"
+   ],
+   "svg_override": "zeichnungen/vorlagen/99cd1b0b7c.svg",
+   "datei_galoppfacts": "/assets/trikots/99cd1b0b7c.svg"
+  },
+  "e5f63ee5994e6d8feb3a7846d86271ab": {
+   "besitzer": [
+    "Denis Cengiz"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e5f63ee599.svg",
+   "datei_galoppfacts": "/assets/trikots/e5f63ee599.svg"
+  },
+  "debeff6a3a5db5c6c1b97d26fafc3c31": {
+   "besitzer": [
+    "Angelika Muntwyler",
+    "Frau Angelika Muntwyler"
+   ],
+   "svg_override": "zeichnungen/vorlagen/debeff6a3a.svg",
+   "datei_galoppfacts": "/assets/trikots/debeff6a3a.svg"
+  },
+  "e14bb35e6280044652cc315ef35f7b75": {
+   "besitzer": [
+    "Gestüt Trona"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e14bb35e62.svg",
+   "datei_galoppfacts": "/assets/trikots/e14bb35e62.svg"
+  },
+  "9a99abb7be546a8edd3a7101a9b7fe5e": {
+   "besitzer": [
+    "Ingolf Heinecke"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9a99abb7be.svg",
+   "datei_galoppfacts": "/assets/trikots/9a99abb7be.svg"
+  },
+  "fdbdd37d6f760792b240e8588022124a": {
+   "besitzer": [
+    "Gestüt Aesculap"
+   ],
+   "svg_override": "zeichnungen/vorlagen/fdbdd37d6f.svg",
+   "datei_galoppfacts": "/assets/trikots/fdbdd37d6f.svg"
+  },
+  "4665608efbbb9ec2dd5cb088b54ab320": {
+   "besitzer": [
+    "Haras de la Perelle"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4665608efb.svg",
+   "datei_galoppfacts": "/assets/trikots/4665608efb.svg"
+  },
+  "16c8cbe0903ba270d9d82d9f8a4749a7": {
+   "besitzer": [
+    "Stall Lilofee"
+   ],
+   "svg_override": "zeichnungen/vorlagen/16c8cbe090.svg",
+   "datei_galoppfacts": "/assets/trikots/16c8cbe090.svg"
+  },
+  "2e1245c0bd2f150d3c8b8aed389f53bc": {
+   "besitzer": [
+    "Stall Rot-Weiß"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2e1245c0bd.svg",
+   "datei_galoppfacts": "/assets/trikots/2e1245c0bd.svg"
+  },
+  "ecd7794c4f8dfbd08a4384aff5e55890": {
+   "besitzer": [
+    "H H Sheikh A Bin Khalifa Al Thani, W Soren Oberhof",
+    "HH Sheikh A.B.K. Al Thani, W.Oberhof, S.Weiss"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ecd7794c4f.svg",
+   "datei_galoppfacts": "/assets/trikots/ecd7794c4f.svg"
+  },
+  "0185c8271483d693e37215827c12ca49": {
+   "besitzer": [
+    "Stall Weiss-Blau"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0185c82714.svg",
+   "datei_galoppfacts": "/assets/trikots/0185c82714.svg"
+  },
+  "5a786387a9af6b6eb2529fa3cd9e36b9": {
+   "besitzer": [
+    "Christian Henze"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5a786387a9.svg",
+   "datei_galoppfacts": "/assets/trikots/5a786387a9.svg"
+  },
+  "95bc1db0b4fdeeefbc6eb542d17afc2e": {
+   "besitzer": [
+    "Stall Dominique"
+   ],
+   "svg_override": "zeichnungen/vorlagen/95bc1db0b4.svg",
+   "datei_galoppfacts": "/assets/trikots/95bc1db0b4.svg"
+  },
+  "31e6f69d367ab1a455e09c20b46ceff7": {
+   "besitzer": [
+    "Stall Liegau"
+   ],
+   "svg_override": "zeichnungen/vorlagen/31e6f69d36.svg",
+   "datei_galoppfacts": "/assets/trikots/31e6f69d36.svg"
+  },
+  "00a2217b4187131f85793072a1b3431b": {
+   "besitzer": [
+    "Stall H3 Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/00a2217b41.svg",
+   "datei_galoppfacts": "/assets/trikots/00a2217b41.svg"
+  },
+  "a402137f1672f8bfe9724af11287e6ac": {
+   "besitzer": [
+    "TJE Racing",
+    "Tje Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a402137f16.svg",
+   "datei_galoppfacts": "/assets/trikots/a402137f16.svg"
+  },
+  "bc9851eb7e76da8d61d7091f07831070": {
+   "besitzer": [
+    "Haras Assiro"
+   ],
+   "svg_override": "zeichnungen/vorlagen/bc9851eb7e.svg",
+   "datei_galoppfacts": "/assets/trikots/bc9851eb7e.svg"
+  },
+  "f6f90b582ac6bedd2e435dfc720aaa8c": {
+   "besitzer": [
+    "Luke Comer"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f6f90b582a.svg",
+   "datei_galoppfacts": "/assets/trikots/f6f90b582a.svg"
+  },
+  "da6ea02d43af0cda11085444b99269cd": {
+   "besitzer": [
+    "Silverton Hill Partnership"
+   ],
+   "svg_override": "zeichnungen/vorlagen/da6ea02d43.svg",
+   "datei_galoppfacts": "/assets/trikots/da6ea02d43.svg"
+  },
+  "65e11effa0582f6c2feab1cab6bf1818": {
+   "besitzer": [
+    "Yeguada Centurion Slu"
+   ],
+   "svg_override": "zeichnungen/vorlagen/65e11effa0.svg",
+   "datei_galoppfacts": "/assets/trikots/65e11effa0.svg"
+  },
+  "9fe482610930e23004dc17a33418967a": {
+   "besitzer": [
+    "Stall Tricolor"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9fe4826109.svg",
+   "datei_galoppfacts": "/assets/trikots/9fe4826109.svg"
+  },
+  "0a25b53c4e949dd4b39d84c0f045b85c": {
+   "besitzer": [
+    "Green Team Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0a25b53c4e.svg",
+   "datei_galoppfacts": "/assets/trikots/0a25b53c4e.svg"
+  },
+  "0a472cf083c48a1de653294cbe83652d": {
+   "besitzer": [
+    "Stall Eos"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0a472cf083.svg",
+   "datei_galoppfacts": "/assets/trikots/0a472cf083.svg"
+  },
+  "afe2b2d19f9a66c4a0b3f503a17db53e": {
+   "besitzer": [
+    "Rae Guest",
+    "Rachel Flynn and Rae Guest"
+   ],
+   "svg_override": "zeichnungen/vorlagen/afe2b2d19f.svg",
+   "datei_galoppfacts": "/assets/trikots/afe2b2d19f.svg"
+  },
+  "869571276945920231008dfee869c6c1": {
+   "besitzer": [
+    "Derrick Smith",
+    "Derrick Smith & Mrs John Magnier & Michael Tabor"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8695712769.svg",
+   "datei_galoppfacts": "/assets/trikots/8695712769.svg"
+  },
+  "4496127a15cc7281c435def1845df5b4": {
+   "besitzer": [
+    "L T Racing",
+    "L. T. Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4496127a15.svg",
+   "datei_galoppfacts": "/assets/trikots/4496127a15.svg"
+  },
+  "8b209180535aad232b797d1ffe5af7cb": {
+   "besitzer": [
+    "Heinz Dieter Jarling"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8b20918053.svg",
+   "datei_galoppfacts": "/assets/trikots/8b20918053.svg"
+  },
+  "d1834d96e618a918ac2ace6f13f7975f": {
+   "besitzer": [
+    "Stall Route 66 u. Bernd Reese",
+    "Stall Route 66 u.Bernd Reese"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d1834d96e6.svg",
+   "datei_galoppfacts": "/assets/trikots/d1834d96e6.svg"
+  },
+  "5f7168a6ae75d395022237dc1ae16ee8": {
+   "besitzer": [
+    "Aga Khan Studs Sc",
+    "Son Altesse Aga Khan",
+    "S A Aga Khan IV"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5f7168a6ae.svg",
+   "datei_galoppfacts": "/assets/trikots/5f7168a6ae.svg"
+  },
+  "d82ceea04ec885cc1ba060ed1dfabf2f": {
+   "besitzer": [
+    "Ecurie Elag u.Alain Jathiere",
+    "Alain Jathiere, Louis Baudron et al"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d82ceea04e.svg",
+   "datei_galoppfacts": "/assets/trikots/d82ceea04e.svg"
+  },
+  "187f1d7e9a40ed48644963752e2712ff": {
+   "besitzer": [
+    "Stall Swiss Connection"
+   ],
+   "svg_override": "zeichnungen/vorlagen/187f1d7e9a.svg",
+   "datei_galoppfacts": "/assets/trikots/187f1d7e9a.svg"
+  },
+  "cecdb3a6fb18d2974d1c0a8d8496556c": {
+   "besitzer": [
+    "Siegfried Herzig"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cecdb3a6fb.svg",
+   "datei_galoppfacts": "/assets/trikots/cecdb3a6fb.svg"
+  },
+  "046c559089842aa290082161a304db01": {
+   "besitzer": [
+    "Stall Unikat"
+   ],
+   "svg_override": "zeichnungen/vorlagen/046c559089.svg",
+   "datei_galoppfacts": "/assets/trikots/046c559089.svg"
+  },
+  "2f17641df8d17e0c22ba13fb82ca43ea": {
+   "besitzer": [
+    "Stall Life Style"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2f17641df8.svg",
+   "datei_galoppfacts": "/assets/trikots/2f17641df8.svg"
+  },
+  "18cecd4604fcf4907b3e9e61035acf14": {
+   "besitzer": [
+    "Torsten Raber"
+   ],
+   "svg_override": "zeichnungen/vorlagen/18cecd4604.svg",
+   "datei_galoppfacts": "/assets/trikots/18cecd4604.svg"
+  },
+  "77744c464c6e0126c35855958b16d125": {
+   "besitzer": [
+    "Stall Yellow"
+   ],
+   "svg_override": "zeichnungen/vorlagen/77744c464c.svg",
+   "datei_galoppfacts": "/assets/trikots/77744c464c.svg"
+  },
+  "5707f555742b39fbd85734b326d5ea26": {
+   "besitzer": [
+    "Stall Salzburg-Erben"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5707f55574.svg",
+   "datei_galoppfacts": "/assets/trikots/5707f55574.svg"
+  },
+  "93a76812c2f10830944eff1785189e3a": {
+   "besitzer": [
+    "Stall Onzo",
+    "StallOnzo"
+   ],
+   "svg_override": "zeichnungen/vorlagen/93a76812c2.svg",
+   "datei_galoppfacts": "/assets/trikots/93a76812c2.svg"
+  },
+  "0a80dc84b77c48ec7127a39491845e62": {
+   "besitzer": [
+    "Kostyantyn Zgara",
+    "Millennium Stud",
+    "Millennium Stud Sp. z o.o."
+   ],
+   "svg_override": "zeichnungen/vorlagen/0a80dc84b7.svg",
+   "datei_galoppfacts": "/assets/trikots/0a80dc84b7.svg"
+  },
+  "68d459d1dfc3cbed0ed3a482485909a8": {
+   "besitzer": [
+    "Stall 100 Galoppsportfreunde"
+   ],
+   "svg_override": "zeichnungen/vorlagen/68d459d1df.svg",
+   "datei_galoppfacts": "/assets/trikots/68d459d1df.svg"
+  },
+  "a25fc6c7dac8c20022452a516bdc1b2a": {
+   "besitzer": [
+    "Stall Schmeer"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a25fc6c7da.svg",
+   "datei_galoppfacts": "/assets/trikots/a25fc6c7da.svg"
+  },
+  "f6e50fb23bf5a4dbf99a2efc1adf4359": {
+   "besitzer": [
+    "King Power Racing Co Ltd"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f6e50fb23b.svg",
+   "datei_galoppfacts": "/assets/trikots/f6e50fb23b.svg"
+  },
+  "6833fd9a7fc589fd41bb26e453292846": {
+   "besitzer": [
+    "Stall Ad Episas"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6833fd9a7f.svg",
+   "datei_galoppfacts": "/assets/trikots/6833fd9a7f.svg"
+  },
+  "702673d03325839b19f9f252f2e32da1": {
+   "besitzer": [
+    "Peach Mountain Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/702673d033.svg",
+   "datei_galoppfacts": "/assets/trikots/702673d033.svg"
+  },
+  "eb35edc6e511e91b3e560e9dddc02cb5": {
+   "besitzer": [
+    "Verdijk Logistiks Boxmeer",
+    "Verdijk Logistiks Boxmee"
+   ],
+   "svg_override": "zeichnungen/vorlagen/eb35edc6e5.svg",
+   "datei_galoppfacts": "/assets/trikots/eb35edc6e5.svg"
+  },
+  "6002fd3b904ea4b40334df4c7e5d19ec": {
+   "besitzer": [
+    "Markus Gräff"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6002fd3b90.svg",
+   "datei_galoppfacts": "/assets/trikots/6002fd3b90.svg"
+  },
+  "0df494ddabee810c12ef3c81a534ef36": {
+   "besitzer": [
+    "Mohamed Obaida",
+    "Exors of the late Mohamed Obaida"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0df494ddab.svg",
+   "datei_galoppfacts": "/assets/trikots/0df494ddab.svg"
+  },
+  "5be09b5011af3a7a74a592b08624e001": {
+   "besitzer": [
+    "Günter Kumpernas"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5be09b5011.svg",
+   "datei_galoppfacts": "/assets/trikots/5be09b5011.svg"
+  },
+  "9aee722f9095bac5589fda79398872b0": {
+   "besitzer": [
+    "Gonzalo Usandizaga Gaminde"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9aee722f90.svg",
+   "datei_galoppfacts": "/assets/trikots/9aee722f90.svg"
+  },
+  "e70e7cff232b16008b60002eb532894d": {
+   "besitzer": [
+    "Ms H N Pinniger and Partner"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e70e7cff23.svg",
+   "datei_galoppfacts": "/assets/trikots/e70e7cff23.svg"
+  },
+  "bea928b21aa9c4951b3aa8aef8912b2b": {
+   "besitzer": [
+    "Turf Club Baden"
+   ],
+   "svg_override": "zeichnungen/vorlagen/bea928b21a.svg",
+   "datei_galoppfacts": "/assets/trikots/bea928b21a.svg"
+  },
+  "ba6147d058a47feac059891f9774271b": {
+   "besitzer": [
+    "Steffen Molks, Danny Rosport et al"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ba6147d058.svg",
+   "datei_galoppfacts": "/assets/trikots/ba6147d058.svg"
+  },
+  "00ed34b0634990f2c8bf5003c32e4270": {
+   "besitzer": [
+    "Resolute Bloodstock & Philip Baron von Ullmann",
+    "Philip Baron v. Ullmann"
+   ],
+   "svg_override": "zeichnungen/vorlagen/00ed34b063.svg",
+   "datei_galoppfacts": "/assets/trikots/00ed34b063.svg"
+  },
+  "badaa6c3d972a0f609bd865946b53750": {
+   "besitzer": [
+    "Sheikh Hamed Dalmook Al Maktoum"
+   ],
+   "svg_override": "zeichnungen/vorlagen/badaa6c3d9.svg",
+   "datei_galoppfacts": "/assets/trikots/badaa6c3d9.svg"
+  },
+  "1cd845a53cbbcadd5e63d000ef99ff71": {
+   "besitzer": [
+    "Munich Syndicate"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1cd845a53c.svg",
+   "datei_galoppfacts": "/assets/trikots/1cd845a53c.svg"
+  },
+  "7df178815be6e36841f9408022340cdb": {
+   "besitzer": [
+    "Patryk Gorczyca"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7df178815b.svg",
+   "datei_galoppfacts": "/assets/trikots/7df178815b.svg"
+  },
+  "29035f97551979b057ec751b7ad0f1f1": {
+   "besitzer": [
+    "Eclipse Thoroughbred Partners"
+   ],
+   "svg_override": "zeichnungen/vorlagen/29035f9755.svg",
+   "datei_galoppfacts": "/assets/trikots/29035f9755.svg"
+  },
+  "ec2ff6d48d3f93a7165bcad8a497beea": {
+   "besitzer": [
+    "Stall Hexenberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ec2ff6d48d.svg",
+   "datei_galoppfacts": "/assets/trikots/ec2ff6d48d.svg"
+  },
+  "f2b6111eb3a68ba9ced4a0f3775e3e77": {
+   "besitzer": [
+    "Stall Subi & Friends"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f2b6111eb3.svg",
+   "datei_galoppfacts": "/assets/trikots/f2b6111eb3.svg"
+  },
+  "bc9807ab54053567ac2f0dedb9ac9231": {
+   "besitzer": [
+    "Aleksej Luft"
+   ],
+   "svg_override": "zeichnungen/vorlagen/bc9807ab54.svg",
+   "datei_galoppfacts": "/assets/trikots/bc9807ab54.svg"
+  },
+  "8427daff303b4766925661cffbecaf63": {
+   "besitzer": [
+    "Wertheimer & Frere"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8427daff30.svg",
+   "datei_galoppfacts": "/assets/trikots/8427daff30.svg"
+  },
+  "ce334f61bd557a79ce1be98b4904a396": {
+   "besitzer": [
+    "Hajro Jusufovic"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ce334f61bd.svg",
+   "datei_galoppfacts": "/assets/trikots/ce334f61bd.svg"
+  },
+  "e57aa7c92091bc36927e20b0387ad62d": {
+   "besitzer": [
+    "Bernd-R Gossens & Mme Sandra Hemmers"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e57aa7c920.svg",
+   "datei_galoppfacts": "/assets/trikots/e57aa7c920.svg"
+  },
+  "dab8be0246c4a57fb82768486e22e418": {
+   "besitzer": [
+    "Liberty Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/dab8be0246.svg",
+   "datei_galoppfacts": "/assets/trikots/dab8be0246.svg"
+  },
+  "02678ebc51390637cb0691dc5fea0e83": {
+   "besitzer": [
+    "Lone Star Investments"
+   ],
+   "svg_override": "zeichnungen/vorlagen/02678ebc51.svg",
+   "datei_galoppfacts": "/assets/trikots/02678ebc51.svg"
+  },
+  "d7d4062115b76b9c6d5d51aeb2ce60e0": {
+   "besitzer": [
+    "F Esser",
+    "Fabian Esser"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d7d4062115.svg",
+   "datei_galoppfacts": "/assets/trikots/d7d4062115.svg"
+  },
+  "1707c469baa19b612334328b80dc5be5": {
+   "besitzer": [
+    "Yeah! Yeah! Yeah! Stables"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1707c469ba.svg",
+   "datei_galoppfacts": "/assets/trikots/1707c469ba.svg"
+  },
+  "c9bbe940b26e82d218aa9f46d0ba30b5": {
+   "besitzer": [
+    "Stall Schalkmädchen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c9bbe940b2.svg",
+   "datei_galoppfacts": "/assets/trikots/c9bbe940b2.svg"
+  },
+  "336d9fa757144d2984e6d3e4e3ba2ed5": {
+   "besitzer": [
+    "Syndikat Rapido"
+   ],
+   "svg_override": "zeichnungen/vorlagen/336d9fa757.svg",
+   "datei_galoppfacts": "/assets/trikots/336d9fa757.svg"
+  },
+  "a6a4bb95fcd01e42d412e40f350de8b0": {
+   "besitzer": [
+    "RHBS Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a6a4bb95fc.svg",
+   "datei_galoppfacts": "/assets/trikots/a6a4bb95fc.svg"
+  },
+  "998a946c67bf60b8fc9d110d5a20d520": {
+   "besitzer": [
+    "Denis Cengiz"
+   ],
+   "svg_override": "zeichnungen/vorlagen/998a946c67.svg",
+   "datei_galoppfacts": "/assets/trikots/998a946c67.svg"
+  },
+  "5635dae4c396999420d2863438c2d21a": {
+   "besitzer": [
+    "Stall Chevalex"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5635dae4c3.svg",
+   "datei_galoppfacts": "/assets/trikots/5635dae4c3.svg"
+  },
+  "214125d1c8bf2069391663af7ee3f1e2": {
+   "besitzer": [
+    "Bastian Dietze"
+   ],
+   "svg_override": "zeichnungen/vorlagen/214125d1c8.svg",
+   "datei_galoppfacts": "/assets/trikots/214125d1c8.svg"
+  },
+  "c60e5d15b68375170e87321a299e504e": {
+   "besitzer": [
+    "Stall Melfi"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c60e5d15b6.svg",
+   "datei_galoppfacts": "/assets/trikots/c60e5d15b6.svg"
+  },
+  "1b89ffe90a3f2f3c8ae5f0cfa3d4b9ba": {
+   "besitzer": [
+    "Ballylinch Stud"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1b89ffe90a.svg",
+   "datei_galoppfacts": "/assets/trikots/1b89ffe90a.svg"
+  },
+  "78902ff7de22fba921e04aae70cf6ff4": {
+   "besitzer": [
+    "DS Pegas"
+   ],
+   "svg_override": "zeichnungen/vorlagen/78902ff7de.svg",
+   "datei_galoppfacts": "/assets/trikots/78902ff7de.svg"
+  },
+  "de96543ce90c0e0bed9765706da22b62": {
+   "besitzer": [
+    "Gary Barber & Team Valor International LLC"
+   ],
+   "svg_override": "zeichnungen/vorlagen/de96543ce9.svg",
+   "datei_galoppfacts": "/assets/trikots/de96543ce9.svg"
+  },
+  "afd5841db673534d5e6658cc68924364": {
+   "besitzer": [
+    "Valentin Burgard"
+   ],
+   "svg_override": "zeichnungen/vorlagen/afd5841db6.svg",
+   "datei_galoppfacts": "/assets/trikots/afd5841db6.svg"
+  },
+  "e95ae8ff5ae9d6be1b183e6b37254e77": {
+   "besitzer": [
+    "Plersch Breeding Sarl"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e95ae8ff5a.svg",
+   "datei_galoppfacts": "/assets/trikots/e95ae8ff5a.svg"
+  },
+  "c28d0facecaf941e0095832d021a9144": {
+   "besitzer": [
+    "Stall Frankie & Friends"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c28d0facec.svg",
+   "datei_galoppfacts": "/assets/trikots/c28d0facec.svg"
+  },
+  "d21b0364a14e2bca55f673c58d693377": {
+   "besitzer": [
+    "Stall Petit Philippe"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d21b0364a1.svg",
+   "datei_galoppfacts": "/assets/trikots/d21b0364a1.svg"
+  },
+  "2b32c79e4866cae2338913bdd6a48cf6": {
+   "besitzer": [
+    "Stall Baden"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2b32c79e48.svg",
+   "datei_galoppfacts": "/assets/trikots/2b32c79e48.svg"
+  },
+  "72372a1debafb082b9ecfcfd34e5f693": {
+   "besitzer": [
+    "M.E. Slade",
+    "Whitsbury Manor Stud and Mrs M E Slade"
+   ],
+   "svg_override": "zeichnungen/vorlagen/72372a1deb.svg",
+   "datei_galoppfacts": "/assets/trikots/72372a1deb.svg"
+  },
+  "dac4d222bf1b8363958c111cf95aba95": {
+   "besitzer": [
+    "Bayern Preussen Connection"
+   ],
+   "svg_override": "zeichnungen/vorlagen/dac4d222bf.svg",
+   "datei_galoppfacts": "/assets/trikots/dac4d222bf.svg"
+  },
+  "9e6fe090de165b026e0d7e18f61ee8c2": {
+   "besitzer": [
+    "Blue Starr Racing & Keith Breen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9e6fe090de.svg",
+   "datei_galoppfacts": "/assets/trikots/9e6fe090de.svg"
+  },
+  "febb7ca57f173e3743aaf4e9d27c8bfc": {
+   "besitzer": [
+    "Al Riffa Syndicate"
+   ],
+   "svg_override": "zeichnungen/vorlagen/febb7ca57f.svg",
+   "datei_galoppfacts": "/assets/trikots/febb7ca57f.svg"
+  },
+  "db9d1fb62542e0944bcd78ce37cfeba5": {
+   "besitzer": [
+    "Clive Washbourn"
+   ],
+   "svg_override": "zeichnungen/vorlagen/db9d1fb625.svg",
+   "datei_galoppfacts": "/assets/trikots/db9d1fb625.svg"
+  },
+  "0b58de99dfd54d7030064c7da591a0f3": {
+   "besitzer": [
+    "Stall Pepper"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0b58de99df.svg",
+   "datei_galoppfacts": "/assets/trikots/0b58de99df.svg"
+  },
+  "c140e3be71138f3fb6e7842d2584e75f": {
+   "besitzer": [
+    "Martin Kronimus"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c140e3be71.svg",
+   "datei_galoppfacts": "/assets/trikots/c140e3be71.svg"
+  },
+  "1d3dfa3c850e8ac1cb3c886097baa812": {
+   "besitzer": [
+    "Solo se vive una vez Stables",
+    "Solo Se Vive Una Vez Stables"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1d3dfa3c85.svg",
+   "datei_galoppfacts": "/assets/trikots/1d3dfa3c85.svg"
+  },
+  "a65e10e8f035c29aa471b68702b6efdb": {
+   "besitzer": [
+    "Ulrich Langenbach"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a65e10e8f0.svg",
+   "datei_galoppfacts": "/assets/trikots/a65e10e8f0.svg"
+  },
+  "790c9019bb500479f29619b7fac04b09": {
+   "besitzer": [
+    "Stall Calima",
+    "Stall CALIMA"
+   ],
+   "svg_override": "zeichnungen/vorlagen/790c9019bb.svg",
+   "datei_galoppfacts": "/assets/trikots/790c9019bb.svg"
+  },
+  "c19db221a3ec0f3c75e67d4acdebb297": {
+   "besitzer": [
+    "Ahmad Al Shaikh"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c19db221a3.svg",
+   "datei_galoppfacts": "/assets/trikots/c19db221a3.svg"
+  },
+  "e3e542eac2f7bf7fec179ecdb8fc0c6a": {
+   "besitzer": [
+    "Denis Cengiz"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e3e542eac2.svg",
+   "datei_galoppfacts": "/assets/trikots/e3e542eac2.svg"
+  },
+  "63381fb77a1eda0260ab5d981d0974a8": {
+   "besitzer": [
+    "A M Balding"
+   ],
+   "svg_override": "zeichnungen/vorlagen/63381fb77a.svg",
+   "datei_galoppfacts": "/assets/trikots/63381fb77a.svg"
+  },
+  "abebf0c3da81a7e06d7f5214b1bfa6f9": {
+   "besitzer": [
+    "Miss K Rausing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/abebf0c3da.svg",
+   "datei_galoppfacts": "/assets/trikots/abebf0c3da.svg"
+  },
+  "48649fbf206f457339a790cd8501ea11": {
+   "besitzer": [
+    "Murezzan Racing Stable"
+   ],
+   "svg_override": "zeichnungen/vorlagen/48649fbf20.svg",
+   "datei_galoppfacts": "/assets/trikots/48649fbf20.svg"
+  },
+  "7750afc3d510707d068bcb0346144396": {
+   "besitzer": [
+    "BEK Horse Racing",
+    "Bek Horse Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7750afc3d5.svg",
+   "datei_galoppfacts": "/assets/trikots/7750afc3d5.svg"
+  },
+  "88b8d68a563debe68a5233a89f2cc900": {
+   "besitzer": [
+    "Healthy Wood Co",
+    "Healthy Wood Co Limited"
+   ],
+   "svg_override": "zeichnungen/vorlagen/88b8d68a56.svg",
+   "datei_galoppfacts": "/assets/trikots/88b8d68a56.svg"
+  },
+  "77b92bf5128785041eaa02521c4e3efb": {
+   "besitzer": [
+    "Kurt Fekonja"
+   ],
+   "svg_override": "zeichnungen/vorlagen/77b92bf512.svg",
+   "datei_galoppfacts": "/assets/trikots/77b92bf512.svg"
+  },
+  "eb5cb6f6403154e6031135a6b41b7faf": {
+   "besitzer": [
+    "Juddmonte"
+   ],
+   "svg_override": "zeichnungen/vorlagen/eb5cb6f640.svg",
+   "datei_galoppfacts": "/assets/trikots/eb5cb6f640.svg"
+  },
+  "a7ea2bf238918fc70e432d2399feeee1": {
+   "besitzer": [
+    "Klaus Allofs u Stiftung Gestüt Fährhof",
+    "K Allofs u Stiftung Gestüt Fährhof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a7ea2bf238.svg",
+   "datei_galoppfacts": "/assets/trikots/a7ea2bf238.svg"
+  },
+  "eebeebc2dd055936686c4472a1e3d9a3": {
+   "besitzer": [
+    "Eugen-Andreas Wahler",
+    "Eugen Andreas Wahler"
+   ],
+   "svg_override": "zeichnungen/vorlagen/eebeebc2dd.svg",
+   "datei_galoppfacts": "/assets/trikots/eebeebc2dd.svg"
+  },
+  "0619cfc1f1a82a15093353f8f296bdda": {
+   "besitzer": [
+    "Stall Tommy"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0619cfc1f1.svg",
+   "datei_galoppfacts": "/assets/trikots/0619cfc1f1.svg"
+  },
+  "6e8293724d6da967e3c47b65db486f46": {
+   "besitzer": [
+    "Gestüt Karlshof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6e8293724d.svg",
+   "datei_galoppfacts": "/assets/trikots/6e8293724d.svg"
+  },
+  "63bcd95d3cad4eab119bc94bad57193b": {
+   "besitzer": [
+    "Norman Court Stud & Susan Bunney"
+   ],
+   "svg_override": "zeichnungen/vorlagen/63bcd95d3c.svg",
+   "datei_galoppfacts": "/assets/trikots/63bcd95d3c.svg"
+  },
+  "cbaa4856e15b9bda16a31ebe40549e72": {
+   "besitzer": [
+    "Plavac Sp Z O O"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cbaa4856e1.svg",
+   "datei_galoppfacts": "/assets/trikots/cbaa4856e1.svg"
+  },
+  "da21c36dd4a88e69123855e75c974e48": {
+   "besitzer": [
+    "Victorious Forever"
+   ],
+   "svg_override": "zeichnungen/vorlagen/da21c36dd4.svg",
+   "datei_galoppfacts": "/assets/trikots/da21c36dd4.svg"
+  },
+  "815b6036a07d76eca5ec63eb17cbde59": {
+   "besitzer": [
+    "Wathnan Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/815b6036a0.svg",
+   "datei_galoppfacts": "/assets/trikots/815b6036a0.svg"
+  },
+  "c2184e2aade190987f31b369e837ce18": {
+   "besitzer": [
+    "Mme Sylvie Allouche & S Kobayashi"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c2184e2aad.svg",
+   "datei_galoppfacts": "/assets/trikots/c2184e2aad.svg"
+  },
+  "c8f9fbe1390b7171cfb262edf8b2015d": {
+   "besitzer": [
+    "LA Bloodstock"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c8f9fbe139.svg",
+   "datei_galoppfacts": "/assets/trikots/c8f9fbe139.svg"
+  },
+  "f3bf5e78d0e113e96a113cdbb843dd7b": {
+   "besitzer": [
+    "Stall Emoji"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f3bf5e78d0.svg",
+   "datei_galoppfacts": "/assets/trikots/f3bf5e78d0.svg"
+  },
+  "34a4b9045e35f5ca075e4b9bc6000245": {
+   "besitzer": [
+    "Stall Fortuna 95"
+   ],
+   "svg_override": "zeichnungen/vorlagen/34a4b9045e.svg",
+   "datei_galoppfacts": "/assets/trikots/34a4b9045e.svg"
+  },
+  "f1aa74070603e418b7f750d3a857ab3b": {
+   "besitzer": [
+    "Stall Parodie",
+    "Stall Parodi"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f1aa740706.svg",
+   "datei_galoppfacts": "/assets/trikots/f1aa740706.svg"
+  },
+  "7789868e28c3a888258d73ecb1ee909b": {
+   "besitzer": [
+    "Rennstall Recke GmbH"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7789868e28.svg",
+   "datei_galoppfacts": "/assets/trikots/7789868e28.svg"
+  },
+  "92c4e5bd500cd5906559835c982b3b08": {
+   "besitzer": [
+    "Stall Plavac Sp.z.o.o."
+   ],
+   "svg_override": "zeichnungen/vorlagen/92c4e5bd50.svg",
+   "datei_galoppfacts": "/assets/trikots/92c4e5bd50.svg"
+  },
+  "1ed4977779e5b9eff77b0af27a7b8d46": {
+   "besitzer": [
+    "Stall Asterblüte GmbH"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1ed4977779.svg",
+   "datei_galoppfacts": "/assets/trikots/1ed4977779.svg"
+  },
+  "c83a1e3727c32237e7631c88604c7594": {
+   "besitzer": [
+    "Mark Hänni",
+    "Mark Haenni"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c83a1e3727.svg",
+   "datei_galoppfacts": "/assets/trikots/c83a1e3727.svg"
+  },
+  "acaeb466cbb53286fcec161bfc18f67b": {
+   "besitzer": [
+    "LT Racing",
+    "L T Racing",
+    "L. T. Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/acaeb466cb.svg",
+   "datei_galoppfacts": "/assets/trikots/acaeb466cb.svg"
+  },
+  "074816478cccb3ddd48d307f10cdd64d": {
+   "besitzer": [
+    "Stall Riesling Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/074816478c.svg",
+   "datei_galoppfacts": "/assets/trikots/074816478c.svg"
+  },
+  "73238d1711fc393bc69829c649a7d696": {
+   "besitzer": [
+    "Rosenstein Racing",
+    "RB- / Rosenstein Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/73238d1711.svg",
+   "datei_galoppfacts": "/assets/trikots/73238d1711.svg"
+  },
+  "c452d325d45d0cdee8e920e1cec926ea": {
+   "besitzer": [
+    "Paul H. Vandeberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c452d325d4.svg",
+   "datei_galoppfacts": "/assets/trikots/c452d325d4.svg"
+  },
+  "0c2395be748e8849fc948f47b32d0d6f": {
+   "besitzer": [
+    "Stall Phantom"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0c2395be74.svg",
+   "datei_galoppfacts": "/assets/trikots/0c2395be74.svg"
+  },
+  "4b0015ec80f30b150859f4c634afdc51": {
+   "besitzer": [
+    "Stall Advokat"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4b0015ec80.svg",
+   "datei_galoppfacts": "/assets/trikots/4b0015ec80.svg"
+  },
+  "44f6c418ed904a7fce553a71114f80e3": {
+   "besitzer": [
+    "Stall Blue Sky"
+   ],
+   "svg_override": "zeichnungen/vorlagen/44f6c418ed.svg",
+   "datei_galoppfacts": "/assets/trikots/44f6c418ed.svg"
+  },
+  "37aa35a01b9fea32bfb9ebe96722b6b7": {
+   "besitzer": [
+    "Erich Pils"
+   ],
+   "svg_override": "zeichnungen/vorlagen/37aa35a01b.svg",
+   "datei_galoppfacts": "/assets/trikots/37aa35a01b.svg"
+  },
+  "ff2ecdfab6461dd705a2d9ebc057acd8": {
+   "besitzer": [
+    "Ecurie Skymarc Farm"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ff2ecdfab6.svg",
+   "datei_galoppfacts": "/assets/trikots/ff2ecdfab6.svg"
+  },
+  "323086e5ef237581caf59dd06c0dc1da": {
+   "besitzer": [
+    "Robert Grimm",
+    "Robin Grimm"
+   ],
+   "svg_override": "zeichnungen/vorlagen/323086e5ef.svg",
+   "datei_galoppfacts": "/assets/trikots/323086e5ef.svg"
+  },
+  "ff9fb33a926a96113dd7a4480ae1c221": {
+   "besitzer": [
+    "MSN-Racing",
+    "msn-racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ff9fb33a92.svg",
+   "datei_galoppfacts": "/assets/trikots/ff9fb33a92.svg"
+  },
+  "12b6e319bd022a141b63b2e60840d95c": {
+   "besitzer": [
+    "Thomas Jander"
+   ],
+   "svg_override": "zeichnungen/vorlagen/12b6e319bd.svg",
+   "datei_galoppfacts": "/assets/trikots/12b6e319bd.svg"
+  },
+  "c1c5da1532a501419e1d3f95b10b3da8": {
+   "besitzer": [
+    "Markus Schiebinger"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c1c5da1532.svg",
+   "datei_galoppfacts": "/assets/trikots/c1c5da1532.svg"
+  },
+  "6f23e83851342caf3de856225a628758": {
+   "besitzer": [
+    "Frau Karin Schwerdtfeger"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6f23e83851.svg",
+   "datei_galoppfacts": "/assets/trikots/6f23e83851.svg"
+  },
+  "47488cec869bb65a4c925d5383d04fda": {
+   "besitzer": [
+    "Stall CBD"
+   ],
+   "svg_override": "zeichnungen/vorlagen/47488cec86.svg",
+   "datei_galoppfacts": "/assets/trikots/47488cec86.svg"
+  },
+  "adcad49d01ffd984241c1982501a5172": {
+   "besitzer": [
+    "Gestüt Schallern"
+   ],
+   "svg_override": "zeichnungen/vorlagen/adcad49d01.svg",
+   "datei_galoppfacts": "/assets/trikots/adcad49d01.svg"
+  },
+  "142abc9c09f03ebb78a44412af074900": {
+   "besitzer": [
+    "Gestüt Erftmühle"
+   ],
+   "svg_override": "zeichnungen/vorlagen/142abc9c09.svg",
+   "datei_galoppfacts": "/assets/trikots/142abc9c09.svg"
+  },
+  "00d3255f8dfd583d8cbd826455d8bf13": {
+   "besitzer": [
+    "Stall Royal"
+   ],
+   "svg_override": "zeichnungen/vorlagen/00d3255f8d.svg",
+   "datei_galoppfacts": "/assets/trikots/00d3255f8d.svg"
+  },
+  "6bb5f8417e6f7beedcee559580c45e36": {
+   "besitzer": [
+    "Crispin de Moubray"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6bb5f8417e.svg",
+   "datei_galoppfacts": "/assets/trikots/6bb5f8417e.svg"
+  },
+  "a50bb26e15cddea37297b853bbe592a8": {
+   "besitzer": [
+    "Stall Stars & Friends IV"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a50bb26e15.svg",
+   "datei_galoppfacts": "/assets/trikots/a50bb26e15.svg"
+  },
+  "af7063140d0ba10eedf7b5c9fd820d9f": {
+   "besitzer": [
+    "Paul-Dieter Dümpelmann",
+    "P-D Dümpelmann",
+    "Paul-D Dümpelmann"
+   ],
+   "svg_override": "zeichnungen/vorlagen/af7063140d.svg",
+   "datei_galoppfacts": "/assets/trikots/af7063140d.svg"
+  },
+  "7172874d39749b9ae27d2955cc23a7a4": {
+   "besitzer": [
+    "Squash Horse Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7172874d39.svg",
+   "datei_galoppfacts": "/assets/trikots/7172874d39.svg"
+  },
+  "9cab73d47fb5f9fdbd20a5bc020766fc": {
+   "besitzer": [
+    "Christine Hottewitzsch"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9cab73d47f.svg",
+   "datei_galoppfacts": "/assets/trikots/9cab73d47f.svg"
+  },
+  "240475d0e4255e44518d5f6765e208fd": {
+   "besitzer": [
+    "Kamila Harms"
+   ],
+   "svg_override": "zeichnungen/vorlagen/240475d0e4.svg",
+   "datei_galoppfacts": "/assets/trikots/240475d0e4.svg"
+  },
+  "26e5c7dac3f46a883167654023356eed": {
+   "besitzer": [
+    "Stall El Questro"
+   ],
+   "svg_override": "zeichnungen/vorlagen/26e5c7dac3.svg",
+   "datei_galoppfacts": "/assets/trikots/26e5c7dac3.svg"
+  },
+  "2a5ab3a1e5c2f7ce2a6e11af7868de1c": {
+   "besitzer": [
+    "GTM GmbH"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2a5ab3a1e5.svg",
+   "datei_galoppfacts": "/assets/trikots/2a5ab3a1e5.svg"
+  },
+  "dc371397f03b73286236fefc904f349b": {
+   "besitzer": [
+    "Stall Margaux"
+   ],
+   "svg_override": "zeichnungen/vorlagen/dc371397f0.svg",
+   "datei_galoppfacts": "/assets/trikots/dc371397f0.svg"
+  },
+  "c38ff3470d255423a2cc038903b32e51": {
+   "besitzer": [
+    "Stall Tralopp"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c38ff3470d.svg",
+   "datei_galoppfacts": "/assets/trikots/c38ff3470d.svg"
+  },
+  "0266eba6e79465cde55e452142f872e3": {
+   "besitzer": [
+    "Princesse Zahra Aga Khan"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0266eba6e7.svg",
+   "datei_galoppfacts": "/assets/trikots/0266eba6e7.svg"
+  },
+  "5535506017edf55af01d23beaf0f939f": {
+   "besitzer": [
+    "Liberty Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5535506017.svg",
+   "datei_galoppfacts": "/assets/trikots/5535506017.svg"
+  },
+  "cf8a35d118064b9533f8980280e144f5": {
+   "besitzer": [
+    "Stall Millerntor"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cf8a35d118.svg",
+   "datei_galoppfacts": "/assets/trikots/cf8a35d118.svg"
+  },
+  "3586f1597060328f0dea40cdd1c6c86f": {
+   "besitzer": [
+    "Hot To Trot Racing 1",
+    "Hot To Trot Racing Ltd."
+   ],
+   "svg_override": "zeichnungen/vorlagen/3586f15970.svg",
+   "datei_galoppfacts": "/assets/trikots/3586f15970.svg"
+  },
+  "a29c3d7de44acdfd9b03abc4b99a1691": {
+   "besitzer": [
+    "Denis Cengiz u.Frank Janorschke"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a29c3d7de4.svg",
+   "datei_galoppfacts": "/assets/trikots/a29c3d7de4.svg"
+  },
+  "dffa90cc35c0557fc7d97c69b8c09616": {
+   "besitzer": [
+    "Hästgruppen i.Lund AB"
+   ],
+   "svg_override": "zeichnungen/vorlagen/dffa90cc35.svg",
+   "datei_galoppfacts": "/assets/trikots/dffa90cc35.svg"
+  },
+  "51c28e9fc6d1e0c9a2aa308812a2d4f3": {
+   "besitzer": [
+    "Aoshiba Shoji Co Ltd"
+   ],
+   "svg_override": "zeichnungen/vorlagen/51c28e9fc6.svg",
+   "datei_galoppfacts": "/assets/trikots/51c28e9fc6.svg"
+  },
+  "3b12bbbec05e40c9cc273e14c9ee234d": {
+   "besitzer": [
+    "Almenräder Trainingsbetrieb Rennpferde GmbH"
+   ],
+   "svg_override": "zeichnungen/vorlagen/3b12bbbec0.svg",
+   "datei_galoppfacts": "/assets/trikots/3b12bbbec0.svg"
+  },
+  "3774a739376216804687b5f62ca81231": {
+   "besitzer": [
+    "Stall Busco"
+   ],
+   "svg_override": "zeichnungen/vorlagen/3774a73937.svg",
+   "datei_galoppfacts": "/assets/trikots/3774a73937.svg"
+  },
+  "6674e9a6cb3d8f17c32944638e948990": {
+   "besitzer": [
+    "Shigeo Nomura"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6674e9a6cb.svg",
+   "datei_galoppfacts": "/assets/trikots/6674e9a6cb.svg"
+  },
+  "80f7ed7e37771ec107ff8f180c1132ed": {
+   "besitzer": [
+    "David Ward"
+   ],
+   "svg_override": "zeichnungen/vorlagen/80f7ed7e37.svg",
+   "datei_galoppfacts": "/assets/trikots/80f7ed7e37.svg"
+  },
+  "16124e583ab8226692a43c92abd31feb": {
+   "besitzer": [
+    "DS Pegas"
+   ],
+   "svg_override": "zeichnungen/vorlagen/16124e583a.svg",
+   "datei_galoppfacts": "/assets/trikots/16124e583a.svg"
+  },
+  "f394258ee9ef74357005c228587046c3": {
+   "besitzer": [
+    "Elkar Stutteri"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f394258ee9.svg",
+   "datei_galoppfacts": "/assets/trikots/f394258ee9.svg"
+  },
+  "5e23faa8ed49f43182541a4377437c64": {
+   "besitzer": [
+    "Amo Racing Limited"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5e23faa8ed.svg",
+   "datei_galoppfacts": "/assets/trikots/5e23faa8ed.svg"
+  },
+  "184d938370c263237bf0d9a078857963": {
+   "besitzer": [
+    "Sky Watch Partnership"
+   ],
+   "svg_override": "zeichnungen/vorlagen/184d938370.svg",
+   "datei_galoppfacts": "/assets/trikots/184d938370.svg"
+  },
+  "da617eef7dfcb3d6f4b65a30a0da5313": {
+   "besitzer": [
+    "Abdulrazaq Mohamdi"
+   ],
+   "svg_override": "zeichnungen/vorlagen/da617eef7d.svg",
+   "datei_galoppfacts": "/assets/trikots/da617eef7d.svg"
+  },
+  "db98dee72b2d2c8b13d8f3f8cb1e0d0a": {
+   "besitzer": [
+    "SCEA Ecurie Bader"
+   ],
+   "svg_override": "zeichnungen/vorlagen/db98dee72b.svg",
+   "datei_galoppfacts": "/assets/trikots/db98dee72b.svg"
+  },
+  "ceca1aac25159b8415f61d4754b28fc5": {
+   "besitzer": [
+    "Gary Barber & Team Valor International LLC"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ceca1aac25.svg",
+   "datei_galoppfacts": "/assets/trikots/ceca1aac25.svg"
+  },
+  "8291e742110135957cfc6d5e32111a1f": {
+   "besitzer": [
+    "Adelresort"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8291e74211.svg",
+   "datei_galoppfacts": "/assets/trikots/8291e74211.svg"
+  },
+  "40d157eb649ecaaf3820498d3fcb3ef0": {
+   "besitzer": [
+    "Markus Gräff"
+   ],
+   "svg_override": "zeichnungen/vorlagen/40d157eb64.svg",
+   "datei_galoppfacts": "/assets/trikots/40d157eb64.svg"
+  },
+  "62ded74d23fd21e28bb80cd95d0413a4": {
+   "besitzer": [
+    "Michael Motschmann u.a.",
+    "Michael Motschmann u a"
+   ],
+   "svg_override": "zeichnungen/vorlagen/62ded74d23.svg",
+   "datei_galoppfacts": "/assets/trikots/62ded74d23.svg"
+  },
+  "5d9b0bb89466e82d8e6a4043188ee89f": {
+   "besitzer": [
+    "Gregor Baum, Ecurie Elag et al"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5d9b0bb894.svg",
+   "datei_galoppfacts": "/assets/trikots/5d9b0bb894.svg"
+  },
+  "2a4b5fbd46cb25ed02d40b8157e570f5": {
+   "besitzer": [
+    "Team RaceBets"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2a4b5fbd46.svg",
+   "datei_galoppfacts": "/assets/trikots/2a4b5fbd46.svg"
+  },
+  "30fa954af5a18fcfdac9ccabf3f8bc90": {
+   "besitzer": [
+    "Rennstall Tarantella"
+   ],
+   "svg_override": "zeichnungen/vorlagen/30fa954af5.svg",
+   "datei_galoppfacts": "/assets/trikots/30fa954af5.svg"
+  },
+  "969bdcafedc5a3fc70491486c6fe26c7": {
+   "besitzer": [
+    "Stall Hruby"
+   ],
+   "svg_override": "zeichnungen/vorlagen/969bdcafed.svg",
+   "datei_galoppfacts": "/assets/trikots/969bdcafed.svg"
+  },
+  "5112fdea6a7e9f0c450f1088ece3f331": {
+   "besitzer": [
+    "Ali Ozdemir"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5112fdea6a.svg",
+   "datei_galoppfacts": "/assets/trikots/5112fdea6a.svg"
+  },
+  "88c8ecb4b4a2226927d885a6cbdad9c3": {
+   "besitzer": [
+    "Stall Waldhaus"
+   ],
+   "svg_override": "zeichnungen/vorlagen/88c8ecb4b4.svg",
+   "datei_galoppfacts": "/assets/trikots/88c8ecb4b4.svg"
+  },
+  "6652063b427d909d6bc5180fff8ea7c3": {
+   "besitzer": [
+    "Stall Aventicum"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6652063b42.svg",
+   "datei_galoppfacts": "/assets/trikots/6652063b42.svg"
+  },
+  "8b927168b7b458ad68b02bfe1f02b69e": {
+   "besitzer": [
+    "Stall Wolfswinkel"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8b927168b7.svg",
+   "datei_galoppfacts": "/assets/trikots/8b927168b7.svg"
+  },
+  "3522d295f5951911cdb50d77e59d64bb": {
+   "besitzer": [
+    "M Hübner",
+    "Marc Hübner"
+   ],
+   "svg_override": "zeichnungen/vorlagen/3522d295f5.svg",
+   "datei_galoppfacts": "/assets/trikots/3522d295f5.svg"
+  },
+  "7216620d46d46f34581fdbeda7fc8703": {
+   "besitzer": [
+    "Stall Acidus"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7216620d46.svg",
+   "datei_galoppfacts": "/assets/trikots/7216620d46.svg"
+  },
+  "9e38b83f10b331eed961f944fcc5d1df": {
+   "besitzer": [
+    "Stall KSK"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9e38b83f10.svg",
+   "datei_galoppfacts": "/assets/trikots/9e38b83f10.svg"
+  },
+  "9cabda2590c6b0c6bca8614da12f019c": {
+   "besitzer": [
+    "Stall Königsdrachen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9cabda2590.svg",
+   "datei_galoppfacts": "/assets/trikots/9cabda2590.svg"
+  },
+  "f20c1a5665a052c013997bca5756e543": {
+   "besitzer": [
+    "Stall Weißer Stein"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f20c1a5665.svg",
+   "datei_galoppfacts": "/assets/trikots/f20c1a5665.svg"
+  },
+  "b1f3633f3142bfc206ce48ed91451c0b": {
+   "besitzer": [
+    "Stall LiKaRo"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b1f3633f31.svg",
+   "datei_galoppfacts": "/assets/trikots/b1f3633f31.svg"
+  },
+  "5a103d74fce7b4473f49934c400d8256": {
+   "besitzer": [
+    "Stall Junior Farm"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5a103d74fc.svg",
+   "datei_galoppfacts": "/assets/trikots/5a103d74fc.svg"
+  },
+  "2a8e783a2a3a027472e4cd0a5c0c03bc": {
+   "besitzer": [
+    "Sarl Darpat France"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2a8e783a2a.svg",
+   "datei_galoppfacts": "/assets/trikots/2a8e783a2a.svg"
+  },
+  "4221ed175dd908794fefa7697fe300de": {
+   "besitzer": [
+    "Stall Englischer Garten"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4221ed175d.svg",
+   "datei_galoppfacts": "/assets/trikots/4221ed175d.svg"
+  },
+  "4b06cda680f891b808fb65025a3d189b": {
+   "besitzer": [
+    "Vasury Kolesa"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4b06cda680.svg",
+   "datei_galoppfacts": "/assets/trikots/4b06cda680.svg"
+  },
+  "a1be74c9cbe70b0816b7658ce0f88009": {
+   "besitzer": [
+    "Stall Welzerberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a1be74c9cb.svg",
+   "datei_galoppfacts": "/assets/trikots/a1be74c9cb.svg"
+  },
+  "ba1b0addd1cb19440112d9bf4c2e9dd5": {
+   "besitzer": [
+    "Stall NIK"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ba1b0addd1.svg",
+   "datei_galoppfacts": "/assets/trikots/ba1b0addd1.svg"
+  },
+  "d935b87f9f116a7f559b4c0d74a0f154": {
+   "besitzer": [
+    "T Johnson & Newsells Park Stud Ltd"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d935b87f9f.svg",
+   "datei_galoppfacts": "/assets/trikots/d935b87f9f.svg"
+  },
+  "a4500212d85b2851bbb491165da7c20b": {
+   "besitzer": [
+    "Javier Maldonado Trinchant & Trinchant Races Sl"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a4500212d8.svg",
+   "datei_galoppfacts": "/assets/trikots/a4500212d8.svg"
+  },
+  "c8c0b3338451b4b83b0920fc92536b13": {
+   "besitzer": [
+    "Lady Bamford & Alice Bamford"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c8c0b33384.svg",
+   "datei_galoppfacts": "/assets/trikots/c8c0b33384.svg"
+  },
+  "45d37fd2ed8f5a37114151e80c4bad54": {
+   "besitzer": [
+    "Fazenda Mondesir"
+   ],
+   "svg_override": "zeichnungen/vorlagen/45d37fd2ed.svg",
+   "datei_galoppfacts": "/assets/trikots/45d37fd2ed.svg"
+  },
+  "e4ac1f8a97112bac490a81f27f674ded": {
+   "besitzer": [
+    "Middleham Park Racing CXIII"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e4ac1f8a97.svg",
+   "datei_galoppfacts": "/assets/trikots/e4ac1f8a97.svg"
+  },
+  "4eef649f2a626757cabe0fc923470675": {
+   "besitzer": [
+    "GaloppClub Hoppegarten eV",
+    "GaloppClub Hoppegarten e.V."
+   ],
+   "svg_override": "zeichnungen/vorlagen/4eef649f2a.svg",
+   "datei_galoppfacts": "/assets/trikots/4eef649f2a.svg"
+  },
+  "43100f098cf0648607df4045227db150": {
+   "besitzer": [
+    "Salem Rashid Bin Ghadayer"
+   ],
+   "svg_override": "zeichnungen/vorlagen/43100f098c.svg",
+   "datei_galoppfacts": "/assets/trikots/43100f098c.svg"
+  },
+  "abb8ca645571ee0342e6416e55d72a00": {
+   "besitzer": [
+    "Edmund Eitel"
+   ],
+   "svg_override": "zeichnungen/vorlagen/abb8ca6455.svg",
+   "datei_galoppfacts": "/assets/trikots/abb8ca6455.svg"
+  },
+  "32b774f6704a98d66c977ee493ce555a": {
+   "besitzer": [
+    "Dr Andreas Bolte"
+   ],
+   "svg_override": "zeichnungen/vorlagen/32b774f670.svg",
+   "datei_galoppfacts": "/assets/trikots/32b774f670.svg"
+  },
+  "a3eb82a17768466821e759897c501e0a": {
+   "besitzer": [
+    "Frank de Zwart & Mario de Zwart"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a3eb82a177.svg",
+   "datei_galoppfacts": "/assets/trikots/a3eb82a177.svg"
+  },
+  "e0aac9ccc1fd448130163ed6c9493fb0": {
+   "besitzer": [
+    "Fal Stud Sas"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e0aac9ccc1.svg",
+   "datei_galoppfacts": "/assets/trikots/e0aac9ccc1.svg"
+  },
+  "c59308b616e4c299c723170efea6eff7": {
+   "besitzer": [
+    "Tars Farm Equestrian Stud"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c59308b616.svg",
+   "datei_galoppfacts": "/assets/trikots/c59308b616.svg"
+  },
+  "fbf10642a08632f666fed4e473069300": {
+   "besitzer": [
+    "Sheikh Juma Dalmook Al Maktoum"
+   ],
+   "svg_override": "zeichnungen/vorlagen/fbf10642a0.svg",
+   "datei_galoppfacts": "/assets/trikots/fbf10642a0.svg"
+  },
+  "65834142017362dda16822c14f69ed91": {
+   "besitzer": [
+    "Zak Bloodstock"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6583414201.svg",
+   "datei_galoppfacts": "/assets/trikots/6583414201.svg"
+  },
+  "994fe21d76ba104fd70e6a4053ffe4b2": {
+   "besitzer": [
+    "Rennstall Neuenhagen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/994fe21d76.svg",
+   "datei_galoppfacts": "/assets/trikots/994fe21d76.svg"
+  },
+  "809c7efa7d4259008503ce27bcffc206": {
+   "besitzer": [
+    "Oliver Karl Rudolph"
+   ],
+   "svg_override": "zeichnungen/vorlagen/809c7efa7d.svg",
+   "datei_galoppfacts": "/assets/trikots/809c7efa7d.svg"
+  },
+  "70cba4b36e379cc3a6f1f19b838f2254": {
+   "besitzer": [
+    "Stall Primos"
+   ],
+   "svg_override": "zeichnungen/vorlagen/70cba4b36e.svg",
+   "datei_galoppfacts": "/assets/trikots/70cba4b36e.svg"
+  },
+  "3372f48fe0ee20d54a891523295c9adb": {
+   "besitzer": [
+    "John Pearce Racing Ltd"
+   ],
+   "svg_override": "zeichnungen/vorlagen/3372f48fe0.svg",
+   "datei_galoppfacts": "/assets/trikots/3372f48fe0.svg"
+  },
+  "7d34d8a2f207dcc7bbfcac7d6773cc70": {
+   "besitzer": [
+    "Frau Annette Christina Bolte"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7d34d8a2f2.svg",
+   "datei_galoppfacts": "/assets/trikots/7d34d8a2f2.svg"
+  },
+  "bbbcbd9bac7da43cf357607987d7e096": {
+   "besitzer": [
+    "Mrs A F Mee"
+   ],
+   "svg_override": "zeichnungen/vorlagen/bbbcbd9bac.svg",
+   "datei_galoppfacts": "/assets/trikots/bbbcbd9bac.svg"
+  },
+  "a92502e685dcaac60478c49e18ed2a9e": {
+   "besitzer": [
+    "Gestüt Keilhof"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a92502e685.svg",
+   "datei_galoppfacts": "/assets/trikots/a92502e685.svg"
+  },
+  "ba9f1fc71fc0e9ec72e72925fc658ecd": {
+   "besitzer": [
+    "Stall TS"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ba9f1fc71f.svg",
+   "datei_galoppfacts": "/assets/trikots/ba9f1fc71f.svg"
+  },
+  "b302dc4bf49a4b36fb1d960b8390bd00": {
+   "besitzer": [
+    "Stall Königsesch"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b302dc4bf4.svg",
+   "datei_galoppfacts": "/assets/trikots/b302dc4bf4.svg"
+  },
+  "9ad8f5ad8981a8a5240bbe2fe5b5b5a2": {
+   "besitzer": [
+    "Hugo Peeters Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9ad8f5ad89.svg",
+   "datei_galoppfacts": "/assets/trikots/9ad8f5ad89.svg"
+  },
+  "958e56c09a7851c23287a0d48cbc5aff": {
+   "besitzer": [
+    "Daniel John Deer"
+   ],
+   "svg_override": "zeichnungen/vorlagen/958e56c09a.svg",
+   "datei_galoppfacts": "/assets/trikots/958e56c09a.svg"
+  },
+  "08ce5728c6f75da201bf18de0eb815fd": {
+   "besitzer": [
+    "Alain Jathiere"
+   ],
+   "svg_override": "zeichnungen/vorlagen/08ce5728c6.svg",
+   "datei_galoppfacts": "/assets/trikots/08ce5728c6.svg"
+  },
+  "b5590b5991e5d555205f1dd9990b25fc": {
+   "besitzer": [
+    "Susanne Ottofülling"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b5590b5991.svg",
+   "datei_galoppfacts": "/assets/trikots/b5590b5991.svg"
+  },
+  "89982a4db971e278c793aadac41f68df": {
+   "besitzer": [
+    "Stall Burg Nanstein",
+    "Stall Burg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/89982a4db9.svg",
+   "datei_galoppfacts": "/assets/trikots/89982a4db9.svg"
+  },
+  "bc69e78c32e14055abd3df449e83c80a": {
+   "besitzer": [
+    "Stall Heinrich u. Heinrich",
+    "Stall Heinrich u.Heinrich"
+   ],
+   "svg_override": "zeichnungen/vorlagen/bc69e78c32.svg",
+   "datei_galoppfacts": "/assets/trikots/bc69e78c32.svg"
+  },
+  "6afcb831dd9d12036077be3d9be82ac7": {
+   "besitzer": [
+    "P Decouz & Ecurie de Maleissye"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6afcb831dd.svg",
+   "datei_galoppfacts": "/assets/trikots/6afcb831dd.svg"
+  },
+  "42b9fbc7315959944d898ed26ac1db45": {
+   "besitzer": [
+    "Stall Rose"
+   ],
+   "svg_override": "zeichnungen/vorlagen/42b9fbc731.svg",
+   "datei_galoppfacts": "/assets/trikots/42b9fbc731.svg"
+  },
+  "6e87c79671c3c56b3e22ce8ad8097af9": {
+   "besitzer": [
+    "Paolo Donzelli & Maurizio Guarnieri"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6e87c79671.svg",
+   "datei_galoppfacts": "/assets/trikots/6e87c79671.svg"
+  },
+  "fe3c5e79a833686943c195b0c4f35632": {
+   "besitzer": [
+    "Frank Schmickler"
+   ],
+   "svg_override": "zeichnungen/vorlagen/fe3c5e79a8.svg",
+   "datei_galoppfacts": "/assets/trikots/fe3c5e79a8.svg"
+  },
+  "7512687897443d520094acebe742a467": {
+   "besitzer": [
+    "Perspicacious Punters Racing Club"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7512687897.svg",
+   "datei_galoppfacts": "/assets/trikots/7512687897.svg"
+  },
+  "cb2bd8b8ae36496318ee31f0991dd025": {
+   "besitzer": [
+    "Gerard Augustin-Normand & Stephen Lahmi"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cb2bd8b8ae.svg",
+   "datei_galoppfacts": "/assets/trikots/cb2bd8b8ae.svg"
+  },
+  "7f3611a9a206bb67ba7fa202988b0064": {
+   "besitzer": [
+    "Team Valor"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7f3611a9a2.svg",
+   "datei_galoppfacts": "/assets/trikots/7f3611a9a2.svg"
+  },
+  "922da1171188ed2d0d4381ea79bbe2a5": {
+   "besitzer": [
+    "Kismet Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/922da11711.svg",
+   "datei_galoppfacts": "/assets/trikots/922da11711.svg"
+  },
+  "091506819361b1a3e1eddb086d5a1968": {
+   "besitzer": [
+    "Ecurie Griezmann, Ecurie Seyssel & Haras De Saint-"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0915068193.svg",
+   "datei_galoppfacts": "/assets/trikots/0915068193.svg"
+  },
+  "fd6eb69b2225a2d561948a8ffe6434b9": {
+   "besitzer": [
+    "Godolphin SNC"
+   ],
+   "svg_override": "zeichnungen/vorlagen/fd6eb69b22.svg",
+   "datei_galoppfacts": "/assets/trikots/fd6eb69b22.svg"
+  },
+  "8afcc3a4698333392eeafb65ae30b036": {
+   "besitzer": [
+    "Infinity Nine Horses, Gl Racing & Nicolas Saltiel"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8afcc3a469.svg",
+   "datei_galoppfacts": "/assets/trikots/8afcc3a469.svg"
+  },
+  "5b8d3931157f5042b09c576e35e310a7": {
+   "besitzer": [
+    "Mrs R G Hillen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5b8d393115.svg",
+   "datei_galoppfacts": "/assets/trikots/5b8d393115.svg"
+  },
+  "673b688b556d67aa16232ced644ff822": {
+   "besitzer": [
+    "Stall Alexa"
+   ],
+   "svg_override": "zeichnungen/vorlagen/673b688b55.svg",
+   "datei_galoppfacts": "/assets/trikots/673b688b55.svg"
+  },
+  "871564173d92282a1b69144df5a17f3a": {
+   "besitzer": [
+    "Stall WK"
+   ],
+   "svg_override": "zeichnungen/vorlagen/871564173d.svg",
+   "datei_galoppfacts": "/assets/trikots/871564173d.svg"
+  },
+  "f52b11e6abdb3442e0eb7305f48ab3a7": {
+   "besitzer": [
+    "Auteuil Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f52b11e6ab.svg",
+   "datei_galoppfacts": "/assets/trikots/f52b11e6ab.svg"
+  },
+  "730d27e804a2b943a5470fa3092f493f": {
+   "besitzer": [
+    "Friedhelm Raab"
+   ],
+   "svg_override": "zeichnungen/vorlagen/730d27e804.svg",
+   "datei_galoppfacts": "/assets/trikots/730d27e804.svg"
+  },
+  "faebcd04da04f3088e27279634a7db53": {
+   "besitzer": [
+    "Bringo Stables"
+   ],
+   "svg_override": "zeichnungen/vorlagen/faebcd04da.svg",
+   "datei_galoppfacts": "/assets/trikots/faebcd04da.svg"
+  },
+  "eb7f8a8401d782f702feb178dbc66e51": {
+   "besitzer": [
+    "Stall Corleone"
+   ],
+   "svg_override": "zeichnungen/vorlagen/eb7f8a8401.svg",
+   "datei_galoppfacts": "/assets/trikots/eb7f8a8401.svg"
+  },
+  "9c5e3cbd5560c5765d728954b62f594b": {
+   "besitzer": [
+    "Andreas Maspohl"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9c5e3cbd55.svg",
+   "datei_galoppfacts": "/assets/trikots/9c5e3cbd55.svg"
+  },
+  "4d78cf8b4e13bc6109144ce78b2d31eb": {
+   "besitzer": [
+    "ACE Racing",
+    "ACE-Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4d78cf8b4e.svg",
+   "datei_galoppfacts": "/assets/trikots/4d78cf8b4e.svg"
+  },
+  "6566ce55a0d0bab6e0ebc616ee93589b": {
+   "besitzer": [
+    "Sarah Steinberg",
+    "Frau Sarah Steinberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6566ce55a0.svg",
+   "datei_galoppfacts": "/assets/trikots/6566ce55a0.svg"
+  },
+  "762b548117f6affe6f89428719464aa2": {
+   "besitzer": [
+    "Stall Abrakadabra"
+   ],
+   "svg_override": "zeichnungen/vorlagen/762b548117.svg",
+   "datei_galoppfacts": "/assets/trikots/762b548117.svg"
+  },
+  "cce25396341394b5fc8ab363fbec6c93": {
+   "besitzer": [
+    "Stall Ratisbona"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cce2539634.svg",
+   "datei_galoppfacts": "/assets/trikots/cce2539634.svg"
+  },
+  "d4d8e910f53e10593234723b28f717dc": {
+   "besitzer": [
+    "Around The World Partnership"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d4d8e910f5.svg",
+   "datei_galoppfacts": "/assets/trikots/d4d8e910f5.svg"
+  },
+  "e9b2c7daf1ed96b430b9fdc6cc3c3843": {
+   "besitzer": [
+    "Gestüt Fährhof u.Flaxman Stables"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e9b2c7daf1.svg",
+   "datei_galoppfacts": "/assets/trikots/e9b2c7daf1.svg"
+  },
+  "8aeec0f898e2b7061d524ef19d25e0b5": {
+   "besitzer": [
+    "Joachim Müller"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8aeec0f898.svg",
+   "datei_galoppfacts": "/assets/trikots/8aeec0f898.svg"
+  },
+  "d1d94b733a07af488bb2bc41f94c234e": {
+   "besitzer": [
+    "Aventurin Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d1d94b733a.svg",
+   "datei_galoppfacts": "/assets/trikots/d1d94b733a.svg"
+  },
+  "bfc1c889414f3fef7407b56596c1f47a": {
+   "besitzer": [
+    "Andreas Hacker"
+   ],
+   "svg_override": "zeichnungen/vorlagen/bfc1c88941.svg",
+   "datei_galoppfacts": "/assets/trikots/bfc1c88941.svg"
+  },
+  "a12aa64ee0f583ab0aa175193adc45a3": {
+   "besitzer": [
+    "Gabriele Gaul",
+    "Frau Gabriele Inge Gaul"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a12aa64ee0.svg",
+   "datei_galoppfacts": "/assets/trikots/a12aa64ee0.svg"
+  },
+  "855364519782bbdb98f4f779b5b9212f": {
+   "besitzer": [
+    "Stall Reesawed",
+    "Stalle Reesawed"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8553645197.svg",
+   "datei_galoppfacts": "/assets/trikots/8553645197.svg"
+  },
+  "b778fd3e450c60f1a9ff14e7cb0a41d9": {
+   "besitzer": [
+    "St Ahrens u.a."
+   ],
+   "svg_override": "zeichnungen/vorlagen/b778fd3e45.svg",
+   "datei_galoppfacts": "/assets/trikots/b778fd3e45.svg"
+  },
+  "ab46b69c34ade8574e29355baa0a85c2": {
+   "besitzer": [
+    "Timo Degel"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ab46b69c34.svg",
+   "datei_galoppfacts": "/assets/trikots/ab46b69c34.svg"
+  },
+  "cc5fc446a9b70676901a0b2db5125c7d": {
+   "besitzer": [
+    "Stall India"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cc5fc446a9.svg",
+   "datei_galoppfacts": "/assets/trikots/cc5fc446a9.svg"
+  },
+  "37aad1f6bf7428a2200a98b65b7593af": {
+   "besitzer": [
+    "V u. A Kräulinger"
+   ],
+   "svg_override": "zeichnungen/vorlagen/37aad1f6bf.svg",
+   "datei_galoppfacts": "/assets/trikots/37aad1f6bf.svg"
+  },
+  "af7125e8b5289c0101ff816339fefb9f": {
+   "besitzer": [
+    "Dr.Christine Paraknewitz-Kalla"
+   ],
+   "svg_override": "zeichnungen/vorlagen/af7125e8b5.svg",
+   "datei_galoppfacts": "/assets/trikots/af7125e8b5.svg"
+  },
+  "c56a31efa6cf6b435aa888efc1f70fda": {
+   "besitzer": [
+    "Stall Nizza"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c56a31efa6.svg",
+   "datei_galoppfacts": "/assets/trikots/c56a31efa6.svg"
+  },
+  "e6563dd572c337f3cb9ca28e7f950e9f": {
+   "besitzer": [
+    "Stall Sonne"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e6563dd572.svg",
+   "datei_galoppfacts": "/assets/trikots/e6563dd572.svg"
+  },
+  "3a7626c66041df397f12c089f79aed89": {
+   "besitzer": [
+    "Serdal Dagci"
+   ],
+   "svg_override": "zeichnungen/vorlagen/3a7626c660.svg",
+   "datei_galoppfacts": "/assets/trikots/3a7626c660.svg"
+  },
+  "f346cbd1558da0d2749349c004097311": {
+   "besitzer": [
+    "L Meyer zu Reckendorf"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f346cbd155.svg",
+   "datei_galoppfacts": "/assets/trikots/f346cbd155.svg"
+  },
+  "c42b765e55776c43ce18619546bca11c": {
+   "besitzer": [
+    "Jastar Capital Limited"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c42b765e55.svg",
+   "datei_galoppfacts": "/assets/trikots/c42b765e55.svg"
+  },
+  "97e813b4513fbd066c240e428b593268": {
+   "besitzer": [
+    "Stall Holsboer"
+   ],
+   "svg_override": "zeichnungen/vorlagen/97e813b451.svg",
+   "datei_galoppfacts": "/assets/trikots/97e813b451.svg"
+  },
+  "d1432a1a8310a3f7623f992d1e2daae3": {
+   "besitzer": [
+    "Stall Raffelberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d1432a1a83.svg",
+   "datei_galoppfacts": "/assets/trikots/d1432a1a83.svg"
+  },
+  "d0023b10f08f4e79037fc2f4d184b663": {
+   "besitzer": [
+    "Trälogik i Berga AB"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d0023b10f0.svg",
+   "datei_galoppfacts": "/assets/trikots/d0023b10f0.svg"
+  },
+  "e87c7d829397a08f7b19d9c0a32e12f7": {
+   "besitzer": [
+    "Klaus u Marc Bert"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e87c7d8293.svg",
+   "datei_galoppfacts": "/assets/trikots/e87c7d8293.svg"
+  },
+  "ccecdf8fbcd2585cc376bdaac6501f9d": {
+   "besitzer": [
+    "Klaus-H Schmoock",
+    "Klaus H.Schmoock"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ccecdf8fbc.svg",
+   "datei_galoppfacts": "/assets/trikots/ccecdf8fbc.svg"
+  },
+  "b657469bc80cfddd0bff4121a27f1ace": {
+   "besitzer": [
+    "Stall Flying Dreams"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b657469bc8.svg",
+   "datei_galoppfacts": "/assets/trikots/b657469bc8.svg"
+  },
+  "774fa0585782b69290e691f4b5636156": {
+   "besitzer": [
+    "Dres. J.u.J.Kleeberg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/774fa05857.svg",
+   "datei_galoppfacts": "/assets/trikots/774fa05857.svg"
+  },
+  "7380c0f5f327094669250e52cab9ef67": {
+   "besitzer": [
+    "Jeanette Spratter u. a."
+   ],
+   "svg_override": "zeichnungen/vorlagen/7380c0f5f3.svg",
+   "datei_galoppfacts": "/assets/trikots/7380c0f5f3.svg"
+  },
+  "11921e9d32c777b0177dd979889a0a83": {
+   "besitzer": [
+    "Stall GHB"
+   ],
+   "svg_override": "zeichnungen/vorlagen/11921e9d32.svg",
+   "datei_galoppfacts": "/assets/trikots/11921e9d32.svg"
+  },
+  "3b37adf2e3e457ded4dffc298acbf763": {
+   "besitzer": [
+    "Templing Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/3b37adf2e3.svg",
+   "datei_galoppfacts": "/assets/trikots/3b37adf2e3.svg"
+  },
+  "aa03eb9e1aeab2d1241477e69df71c4c": {
+   "besitzer": [
+    "Kevin u.Theo Friderich"
+   ],
+   "svg_override": "zeichnungen/vorlagen/aa03eb9e1a.svg",
+   "datei_galoppfacts": "/assets/trikots/aa03eb9e1a.svg"
+  },
+  "932c14a289a7a2c97f99d4cade534806": {
+   "besitzer": [
+    "Jeanine u.Marcell Müller"
+   ],
+   "svg_override": "zeichnungen/vorlagen/932c14a289.svg",
+   "datei_galoppfacts": "/assets/trikots/932c14a289.svg"
+  },
+  "c9386271c18903d9890a3b0a756f76c5": {
+   "besitzer": [
+    "Stall Destiny"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c9386271c1.svg",
+   "datei_galoppfacts": "/assets/trikots/c9386271c1.svg"
+  },
+  "fb6bc4ab8ab11089d6757c34f14e9cfc": {
+   "besitzer": [
+    "Stall Deauville"
+   ],
+   "svg_override": "zeichnungen/vorlagen/fb6bc4ab8a.svg",
+   "datei_galoppfacts": "/assets/trikots/fb6bc4ab8a.svg"
+  },
+  "845ad4c3f556cb7ddeb44948ed9b6ad1": {
+   "besitzer": [
+    "Stall Seventyone"
+   ],
+   "svg_override": "zeichnungen/vorlagen/845ad4c3f5.svg",
+   "datei_galoppfacts": "/assets/trikots/845ad4c3f5.svg"
+  },
+  "c52056516120c2f4effd13a9e592d732": {
+   "besitzer": [
+    "Stall Rubin"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c520565161.svg",
+   "datei_galoppfacts": "/assets/trikots/c520565161.svg"
+  },
+  "4e8fffc2eb7ac65e46099de0b0da0f02": {
+   "besitzer": [
+    "DS The Sons of Sharpour"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4e8fffc2eb.svg",
+   "datei_galoppfacts": "/assets/trikots/4e8fffc2eb.svg"
+  },
+  "b16bedc11d20faad8c9dfe53d82afc23": {
+   "besitzer": [
+    "Sabine Schmitz"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b16bedc11d.svg",
+   "datei_galoppfacts": "/assets/trikots/b16bedc11d.svg"
+  },
+  "ffb0a2b0c610e61a102d5fd6aa2c612a": {
+   "besitzer": [
+    "Aanhangwagens Cabriolet Belgium Bvba"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ffb0a2b0c6.svg",
+   "datei_galoppfacts": "/assets/trikots/ffb0a2b0c6.svg"
+  },
+  "5770b09c85e2950e34e13e4aef3c51e0": {
+   "besitzer": [
+    "Stall Grischun"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5770b09c85.svg",
+   "datei_galoppfacts": "/assets/trikots/5770b09c85.svg"
+  },
+  "8f9e7864ee12fc287427e4b99844b488": {
+   "besitzer": [
+    "Nedko Dimov"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8f9e7864ee.svg",
+   "datei_galoppfacts": "/assets/trikots/8f9e7864ee.svg"
+  },
+  "25fdf2569830b88295c9382dcbd38011": {
+   "besitzer": [
+    "Stall Lahn-Sieg"
+   ],
+   "svg_override": "zeichnungen/vorlagen/25fdf25698.svg",
+   "datei_galoppfacts": "/assets/trikots/25fdf25698.svg"
+  },
+  "8b7b1b2763720fcb8ab01214e39e7cf5": {
+   "besitzer": [
+    "CST Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8b7b1b2763.svg",
+   "datei_galoppfacts": "/assets/trikots/8b7b1b2763.svg"
+  },
+  "a35facb08cb7da10d8f3db41873228b1": {
+   "besitzer": [
+    "Stall Aquamarin"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a35facb08c.svg",
+   "datei_galoppfacts": "/assets/trikots/a35facb08c.svg"
+  },
+  "b2a3b6b48692ebdbfc1384fbbdbbeb9a": {
+   "besitzer": [
+    "Eva Nieslanikova"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b2a3b6b486.svg",
+   "datei_galoppfacts": "/assets/trikots/b2a3b6b486.svg"
+  },
+  "1bca44279199905663bf1b55d73a576e": {
+   "besitzer": [
+    "Stall Felix"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1bca442791.svg",
+   "datei_galoppfacts": "/assets/trikots/1bca442791.svg"
+  },
+  "63dc69eb5c9dac9b62ba1e77b1282bbf": {
+   "besitzer": [
+    "Gestüt Rangau"
+   ],
+   "svg_override": "zeichnungen/vorlagen/63dc69eb5c.svg",
+   "datei_galoppfacts": "/assets/trikots/63dc69eb5c.svg"
+  },
+  "6e4261b9393feed180ffaf5d58ef64c2": {
+   "besitzer": [
+    "Ralf Kredel"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6e4261b939.svg",
+   "datei_galoppfacts": "/assets/trikots/6e4261b939.svg"
+  },
+  "c05a6939ffb651fb11cb5e8b0372def4": {
+   "besitzer": [
+    "Stall Bethke-Jaenicke"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c05a6939ff.svg",
+   "datei_galoppfacts": "/assets/trikots/c05a6939ff.svg"
+  },
+  "c454bbed678dd29eb7e376e0f8c623bd": {
+   "besitzer": [
+    "Stall Ganerb"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c454bbed67.svg",
+   "datei_galoppfacts": "/assets/trikots/c454bbed67.svg"
+  },
+  "bcfe0643c72b02871969f072a576e08e": {
+   "besitzer": [
+    "Stall Servus Habedehre"
+   ],
+   "svg_override": "zeichnungen/vorlagen/bcfe0643c7.svg",
+   "datei_galoppfacts": "/assets/trikots/bcfe0643c7.svg"
+  },
+  "a38abe4410c618e6805d0c9f92a8b5ff": {
+   "besitzer": [
+    "Stall Mountain River"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a38abe4410.svg",
+   "datei_galoppfacts": "/assets/trikots/a38abe4410.svg"
+  },
+  "66a555f953179151e1fe0561930d88f1": {
+   "besitzer": [
+    "Kuckuck Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/66a555f953.svg",
+   "datei_galoppfacts": "/assets/trikots/66a555f953.svg"
+  },
+  "199ba230215199011715a2b5b4e93d2a": {
+   "besitzer": [
+    "M-B-A Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/199ba23021.svg",
+   "datei_galoppfacts": "/assets/trikots/199ba23021.svg"
+  },
+  "c1d3718febd696f14070a7246c177ca7": {
+   "besitzer": [
+    "Paul Bowden"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c1d3718feb.svg",
+   "datei_galoppfacts": "/assets/trikots/c1d3718feb.svg"
+  },
+  "2523b98fd33ab1a5cec4556d4826f755": {
+   "besitzer": [
+    "Stall Kleppereck"
+   ],
+   "svg_override": "zeichnungen/vorlagen/2523b98fd3.svg",
+   "datei_galoppfacts": "/assets/trikots/2523b98fd3.svg"
+  },
+  "5cd7af9ce5a823544284922a1cd2e5f1": {
+   "besitzer": [
+    "Stall Concure"
+   ],
+   "svg_override": "zeichnungen/vorlagen/5cd7af9ce5.svg",
+   "datei_galoppfacts": "/assets/trikots/5cd7af9ce5.svg"
+  },
+  "cb1a727354041bbb1d54865f473a4d76": {
+   "besitzer": [
+    "Galoppklub Lips"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cb1a727354.svg",
+   "datei_galoppfacts": "/assets/trikots/cb1a727354.svg"
+  },
+  "c7352372cf35d80338548a594d709edc": {
+   "besitzer": [
+    "Armin Weidler"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c7352372cf.svg",
+   "datei_galoppfacts": "/assets/trikots/c7352372cf.svg"
+  },
+  "70094cec5704b1e89079f22f2dd21fa2": {
+   "besitzer": [
+    "Leo u. Peter Hamann"
+   ],
+   "svg_override": "zeichnungen/vorlagen/70094cec57.svg",
+   "datei_galoppfacts": "/assets/trikots/70094cec57.svg"
+  },
+  "4f0db30ec0716c13fbfd7f14047378e6": {
+   "besitzer": [
+    "Stall Hubertus"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4f0db30ec0.svg",
+   "datei_galoppfacts": "/assets/trikots/4f0db30ec0.svg"
+  },
+  "c85fe6190955a4b2e614d703d25bc48e": {
+   "besitzer": [
+    "Chess Racing AB"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c85fe61909.svg",
+   "datei_galoppfacts": "/assets/trikots/c85fe61909.svg"
+  },
+  "d1722b80f1427e500094e555f5ffa82b": {
+   "besitzer": [
+    "Nadine Weißmeier"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d1722b80f1.svg",
+   "datei_galoppfacts": "/assets/trikots/d1722b80f1.svg"
+  },
+  "0ef115e83f7248e74fd286043db9a456": {
+   "besitzer": [
+    "Stall Edoras"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0ef115e83f.svg",
+   "datei_galoppfacts": "/assets/trikots/0ef115e83f.svg"
+  },
+  "c717a72d9041ec1f2f2601ba84fbe962": {
+   "besitzer": [
+    "Stall Schloss Gartrop"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c717a72d90.svg",
+   "datei_galoppfacts": "/assets/trikots/c717a72d90.svg"
+  },
+  "daaa4c1be6dce0fd899ed778af4c8ea7": {
+   "besitzer": [
+    "Stall Phoenix"
+   ],
+   "svg_override": "zeichnungen/vorlagen/daaa4c1be6.svg",
+   "datei_galoppfacts": "/assets/trikots/daaa4c1be6.svg"
+  },
+  "82111b8ae99d0b1561b467f1cdbc1a36": {
+   "besitzer": [
+    "Angelika Seegers"
+   ],
+   "svg_override": "zeichnungen/vorlagen/82111b8ae9.svg",
+   "datei_galoppfacts": "/assets/trikots/82111b8ae9.svg"
+  },
+  "4cd020d605836741fad8e4ee0a3fd0be": {
+   "besitzer": [
+    "Laetitia Domenig",
+    "L Domenig"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4cd020d605.svg",
+   "datei_galoppfacts": "/assets/trikots/4cd020d605.svg"
+  },
+  "a9e67087c5eda6cd9f1040dc3a3e98b1": {
+   "besitzer": [
+    "Stall Aquamarin"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a9e67087c5.svg",
+   "datei_galoppfacts": "/assets/trikots/a9e67087c5.svg"
+  },
+  "1421c43d126e59d0454079870115457d": {
+   "besitzer": [
+    "Stall Onzo"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1421c43d12.svg",
+   "datei_galoppfacts": "/assets/trikots/1421c43d12.svg"
+  },
+  "d97e7ca04a4229b327ee1108b82e3986": {
+   "besitzer": [
+    "Stall Fellow"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d97e7ca04a.svg",
+   "datei_galoppfacts": "/assets/trikots/d97e7ca04a.svg"
+  },
+  "ab34398334de63c23b1e68993e19781c": {
+   "besitzer": [
+    "Müller and Friends"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ab34398334.svg",
+   "datei_galoppfacts": "/assets/trikots/ab34398334.svg"
+  },
+  "c4b7f7f17475b4c26317b7cba8d81171": {
+   "besitzer": [
+    "O Engel"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c4b7f7f174.svg",
+   "datei_galoppfacts": "/assets/trikots/c4b7f7f174.svg"
+  },
+  "4ff5742f5bc16d4963020784e5cda1f6": {
+   "besitzer": [
+    "R Hanning u R Rakic"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4ff5742f5b.svg",
+   "datei_galoppfacts": "/assets/trikots/4ff5742f5b.svg"
+  },
+  "8e178e8a7fddcb7b3c1adcca0902912d": {
+   "besitzer": [
+    "Marie Thier u A"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8e178e8a7f.svg",
+   "datei_galoppfacts": "/assets/trikots/8e178e8a7f.svg"
+  },
+  "1be215e8ab7407aefe0717bad309893a": {
+   "besitzer": [
+    "Stall Moriki's Friends"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1be215e8ab.svg",
+   "datei_galoppfacts": "/assets/trikots/1be215e8ab.svg"
+  },
+  "8ad90da07ffe19bc8bf888a94c970482": {
+   "besitzer": [
+    "M Motschmann"
+   ],
+   "svg_override": "zeichnungen/vorlagen/8ad90da07f.svg",
+   "datei_galoppfacts": "/assets/trikots/8ad90da07f.svg"
+  },
+  "246dd97bfc9e87deb4d7ec9fae989766": {
+   "besitzer": [
+    "Holger Renz"
+   ],
+   "svg_override": "zeichnungen/vorlagen/246dd97bfc.svg",
+   "datei_galoppfacts": "/assets/trikots/246dd97bfc.svg"
+  },
+  "0176670770203bd05df402cab61b5f07": {
+   "besitzer": [
+    "Club Neue Bult e. V."
+   ],
+   "svg_override": "zeichnungen/vorlagen/0176670770.svg",
+   "datei_galoppfacts": "/assets/trikots/0176670770.svg"
+  },
+  "01580df2e0e86dd572bebfa262a3824b": {
+   "besitzer": [
+    "Stall Challenger"
+   ],
+   "svg_override": "zeichnungen/vorlagen/01580df2e0.svg",
+   "datei_galoppfacts": "/assets/trikots/01580df2e0.svg"
+  },
+  "55fbb4dcadb890101c5ddf0d39ac0aee": {
+   "besitzer": [
+    "Aleksej Luft"
+   ],
+   "svg_override": "zeichnungen/vorlagen/55fbb4dcad.svg",
+   "datei_galoppfacts": "/assets/trikots/55fbb4dcad.svg"
+  },
+  "ae134c86a9c5dea6b1c39b2378bbd3b5": {
+   "besitzer": [
+    "Frau Elisabeth Sofie Kindrat"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ae134c86a9.svg",
+   "datei_galoppfacts": "/assets/trikots/ae134c86a9.svg"
+  },
+  "393c7d59ba2dff21c2ed7d635395d53d": {
+   "besitzer": [
+    "Jeanette Stadler"
+   ],
+   "svg_override": "zeichnungen/vorlagen/393c7d59ba.svg",
+   "datei_galoppfacts": "/assets/trikots/393c7d59ba.svg"
+  },
+  "546d1dee912a107d0014e5b187c288b1": {
+   "besitzer": [
+    "Stall Saalebogen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/546d1dee91.svg",
+   "datei_galoppfacts": "/assets/trikots/546d1dee91.svg"
+  },
+  "d22690b3865ee356521b8946fc79ce22": {
+   "besitzer": [
+    "Monika Just"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d22690b386.svg",
+   "datei_galoppfacts": "/assets/trikots/d22690b386.svg"
+  },
+  "ec8ef7344d5cdf9c93d62adfaee6b7e3": {
+   "besitzer": [
+    "Nick Bauer"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ec8ef7344d.svg",
+   "datei_galoppfacts": "/assets/trikots/ec8ef7344d.svg"
+  },
+  "ffc0a1ec4db4a4ec40f0aae9b27d2821": {
+   "besitzer": [
+    "Abdullatif Yousfi"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ffc0a1ec4d.svg",
+   "datei_galoppfacts": "/assets/trikots/ffc0a1ec4d.svg"
+  },
+  "3f44df0dc23e8a81732bb08b5eab9118": {
+   "besitzer": [
+    "Juddmonte Farms Inc./USA"
+   ],
+   "svg_override": "zeichnungen/vorlagen/3f44df0dc2.svg",
+   "datei_galoppfacts": "/assets/trikots/3f44df0dc2.svg"
+  },
+  "a78bf4f6da4a82745f8794248c46421c": {
+   "besitzer": [
+    "Frank Schmickler"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a78bf4f6da.svg",
+   "datei_galoppfacts": "/assets/trikots/a78bf4f6da.svg"
+  },
+  "0018c0cc5ae906ab4db0d525656e3a53": {
+   "besitzer": [
+    "Stall Elekrowelt.de"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0018c0cc5a.svg",
+   "datei_galoppfacts": "/assets/trikots/0018c0cc5a.svg"
+  },
+  "4580fc9cf2698e59b1380f6b86420862": {
+   "besitzer": [
+    "Frau Dr Ingrid Thau"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4580fc9cf2.svg",
+   "datei_galoppfacts": "/assets/trikots/4580fc9cf2.svg"
+  },
+  "7b776b678852c3abc18b33d224a6f6a7": {
+   "besitzer": [
+    "David u.Hans-P.Schön"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7b776b6788.svg",
+   "datei_galoppfacts": "/assets/trikots/7b776b6788.svg"
+  },
+  "d001a795ae9400f7bcda8a4b7923767f": {
+   "besitzer": [
+    "Knut Kaufmann"
+   ],
+   "svg_override": "zeichnungen/vorlagen/d001a795ae.svg",
+   "datei_galoppfacts": "/assets/trikots/d001a795ae.svg"
+  },
+  "611186565cc7b50b7b82a3d6d90c7448": {
+   "besitzer": [
+    "Plavac Sp Z O O"
+   ],
+   "svg_override": "zeichnungen/vorlagen/cbaa4856e1.svg",
+   "datei_galoppfacts": "/assets/trikots/cbaa4856e1.svg"
+  },
+  "981a0a018d2136280dc0286b695cc66a": {
+   "besitzer": [
+    "Millennium Stud Sp. z o.o."
+   ],
+   "svg_override": "zeichnungen/vorlagen/981a0a018d.svg",
+   "datei_galoppfacts": "/assets/trikots/981a0a018d.svg"
+  },
+  "c7a174334dbd8b6767aad671126dd88f": {
+   "besitzer": [
+    "Sky Watch Partnership"
+   ],
+   "svg_override": "zeichnungen/vorlagen/c7a174334d.svg",
+   "datei_galoppfacts": "/assets/trikots/c7a174334d.svg"
+  },
+  "2e787e23fd84f4126330ef26d6caada7": {
+   "besitzer": [],
+   "svg_override": "zeichnungen/vorlagen/2e787e23fd.svg",
+   "datei_galoppfacts": "/assets/trikots/2e787e23fd.svg"
+  },
+  "a015320e0d53ad06ec4f7c37c6cf50d3": {
+   "besitzer": [
+    "Gestüt Jettenhausen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/a015320e0d.svg",
+   "datei_galoppfacts": "/assets/trikots/a015320e0d.svg"
+  },
+  "33eec15ad6d465f0cae751279abbff80": {
+   "besitzer": [
+    "Robert Aschenbrenner"
+   ],
+   "svg_override": "zeichnungen/vorlagen/33eec15ad6.svg",
+   "datei_galoppfacts": "/assets/trikots/33eec15ad6.svg"
+  },
+  "037117904999b5389305a0ecbccf0aa3": {
+   "besitzer": [
+    "Ute u. Thomas Schlueter"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0371179049.svg",
+   "datei_galoppfacts": "/assets/trikots/0371179049.svg"
+  },
+  "7c93a06a856965fbdecffaa95880ca51": {
+   "besitzer": [
+    "Werner Neu"
+   ],
+   "svg_override": "zeichnungen/vorlagen/7c93a06a85.svg",
+   "datei_galoppfacts": "/assets/trikots/7c93a06a85.svg"
+  },
+  "e5803c75fb702bd7ced4f14cace3818e": {
+   "besitzer": [
+    "Bn Bygg Malmö Ab / Schweden"
+   ],
+   "svg_override": "zeichnungen/vorlagen/e5803c75fb.svg",
+   "datei_galoppfacts": "/assets/trikots/e5803c75fb.svg"
+  },
+  "6c2bbf3fc4c67791331b26ace2b953fa": {
+   "besitzer": [
+    "Stall Golden Horse Racing"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6c2bbf3fc4.svg",
+   "datei_galoppfacts": "/assets/trikots/6c2bbf3fc4.svg"
+  },
+  "4710b02a40426731229d0e1db69844ca": {
+   "besitzer": [
+    "Andrea Lippert"
+   ],
+   "svg_override": "zeichnungen/vorlagen/4710b02a40.svg",
+   "datei_galoppfacts": "/assets/trikots/4710b02a40.svg"
+  },
+  "0957be2608bbb36518e1a95262e73066": {
+   "besitzer": [
+    "Lars-W. Baumgarten u. Nadine Siepmann"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0957be2608.svg",
+   "datei_galoppfacts": "/assets/trikots/0957be2608.svg"
+  },
+  "ebd591757fb181754c6d92d79731eb74": {
+   "besitzer": [
+    "Heidi Monetha"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ebd591757f.svg",
+   "datei_galoppfacts": "/assets/trikots/ebd591757f.svg"
+  },
+  "0522e1bac3d658ea9ac5ced0c43de732": {
+   "besitzer": [
+    "Gestüt Lünzen"
+   ],
+   "svg_override": "zeichnungen/vorlagen/0522e1bac3.svg",
+   "datei_galoppfacts": "/assets/trikots/0522e1bac3.svg"
+  },
+  "ccf619930b6a0a1c9a6ac72a3301531d": {
+   "besitzer": [
+    "Stall Fellow"
+   ],
+   "svg_override": "zeichnungen/vorlagen/ccf619930b.svg",
+   "datei_galoppfacts": "/assets/trikots/ccf619930b.svg"
+  },
+  "fb1c96ac924ba1f80628f4e98909adb3": {
+   "besitzer": [
+    "Anja Samuel-Kaupa"
+   ],
+   "svg_override": "zeichnungen/vorlagen/fb1c96ac92.svg",
+   "datei_galoppfacts": "/assets/trikots/fb1c96ac92.svg"
+  },
+  "6577fe97799dd4c0fc1f5f3812a075ea": {
+   "besitzer": [
+    "Hans-Helmut Rodenburg / Frankreich"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6577fe9779.svg",
+   "datei_galoppfacts": "/assets/trikots/6577fe9779.svg"
+  },
+  "1910d697617622ae3dec173613c48032": {
+   "besitzer": [
+    "Ulrike Timmermann"
+   ],
+   "svg_override": "zeichnungen/vorlagen/1910d69761.svg",
+   "datei_galoppfacts": "/assets/trikots/1910d69761.svg"
+  },
+  "089c5dbb50fc304eca0d6259c5f1569e": {
+   "besitzer": [
+    "Stall Logo"
+   ],
+   "svg_override": "zeichnungen/vorlagen/089c5dbb50.svg",
+   "datei_galoppfacts": "/assets/trikots/089c5dbb50.svg"
+  },
+  "6bf64afa0f5c246dfbe9121c8192c036": {
+   "besitzer": [
+    "Frau Maren Hennig"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6bf64afa0f.svg",
+   "datei_galoppfacts": "/assets/trikots/6bf64afa0f.svg"
+  },
+  "6b11666d8c8ecfa2b496b94c5e20d2ad": {
+   "besitzer": [
+    "Andreas Zschache"
+   ],
+   "svg_override": "zeichnungen/vorlagen/6b11666d8c.svg",
+   "datei_galoppfacts": "/assets/trikots/6b11666d8c.svg"
+  },
+  "f8085395b8a458a0c61f60564ef6a74d": {
+   "besitzer": [
+    "Denford Stud"
+   ],
+   "svg_override": "zeichnungen/vorlagen/f8085395b8.svg",
+   "datei_galoppfacts": "/assets/trikots/f8085395b8.svg"
+  },
+  "24d46c9de5e8d3ba254783fa47a23ece": {
+   "besitzer": [
+    "Gerard Augustin-Normand"
+   ],
+   "svg_override": "zeichnungen/vorlagen/24d46c9de5.svg",
+   "datei_galoppfacts": "/assets/trikots/24d46c9de5.svg"
+  },
+  "9f96c2802921e81bed88326d242434a9": {
+   "besitzer": [
+    "Martin Mayer"
+   ],
+   "svg_override": "zeichnungen/vorlagen/9f96c28029.svg",
+   "datei_galoppfacts": "/assets/trikots/9f96c28029.svg"
+  },
+  "b098f070d6442e480d4a1a2f3b2bc084": {
+   "besitzer": [
+    "Tanja U. Pavel Sramek"
+   ],
+   "svg_override": "zeichnungen/vorlagen/b098f070d6.svg",
+   "datei_galoppfacts": "/assets/trikots/b098f070d6.svg"
+  },
+  "13764bbf8377b19cbcd5840275177b10": {
+   "besitzer": [
+    "Dr. Stephanie Hehlgans U. Jochen Naß"
+   ],
+   "svg_override": "zeichnungen/vorlagen/13764bbf83.svg",
+   "datei_galoppfacts": "/assets/trikots/13764bbf83.svg"
+  },
+  "92d8472b33ee953886c2e4f237883cea": {
+   "besitzer": [
+    "Dr. Hubertus Diers u. a."
+   ],
+   "svg_override": "zeichnungen/vorlagen/92d8472b33.svg",
+   "datei_galoppfacts": "/assets/trikots/92d8472b33.svg"
+  },
+  "14953b34050b88099df834844271648d": {
+   "besitzer": [
+    "Josef U. Dr. Reinhard A. Beine"
+   ],
+   "svg_override": "zeichnungen/vorlagen/14953b3405.svg",
+   "datei_galoppfacts": "/assets/trikots/14953b3405.svg"
+  },
+  "63049968c25a700e054ab181662d1af2": {
+   "besitzer": [
+    "Winfried Pütz"
+   ],
+   "svg_override": "zeichnungen/vorlagen/63049968c2.svg",
+   "datei_galoppfacts": "/assets/trikots/63049968c2.svg"
+  },
+  "23ecbf2ee645528b55c2f1e036262461": {
+   "besitzer": [
+    "Dr. Karl Gräf"
+   ],
+   "svg_override": "zeichnungen/vorlagen/23ecbf2ee6.svg",
+   "datei_galoppfacts": "/assets/trikots/23ecbf2ee6.svg"
+  },
+  "526968f409903970014dbe4831f10b68": {
+   "besitzer": [
+    "Lutz Mäder"
+   ],
+   "svg_override": "zeichnungen/vorlagen/526968f409.svg",
+   "datei_galoppfacts": "/assets/trikots/526968f409.svg"
+  },
+  "62f72c92cb51d456770e38effe0f3940": {
+   "besitzer": [
+    "Thomas Köhler"
+   ],
+   "svg_override": "zeichnungen/vorlagen/62f72c92cb.svg",
+   "datei_galoppfacts": "/assets/trikots/62f72c92cb.svg"
+  },
+  "dc573be320537dc90b3b8f0aa52e7d49": {
+   "besitzer": [
+    "Amo Racing Limited"
+   ],
+   "svg_override": "zeichnungen/vorlagen/dc573be320.svg",
+   "datei_galoppfacts": "/assets/trikots/dc573be320.svg"
+  },
+  "efd4beec511cea4d25a043baaa84146f": {
+   "besitzer": [
+    "Stall Millerntor"
+   ],
+   "svg_override": "zeichnungen/vorlagen/efd4beec51.svg",
+   "datei_galoppfacts": "/assets/trikots/efd4beec51.svg"
+  }
+ }
+}

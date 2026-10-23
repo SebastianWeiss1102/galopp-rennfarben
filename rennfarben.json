@@ -9888,7 +9888,8 @@
    "aliase": [
     "Castle Racing Co.Ltd.u.Mps Racing Ltd./England"
    ],
-   "herkunft": "aus DG-Wortlaut gezeichnet 23.10.2026"
+   "herkunft": "aus DG-Wortlaut gezeichnet 23.10.2026",
+   "svg_override": "zeichnungen/dg/38726896.svg"
   },
   "Castleton Lyons": {
    "koerper_grund": "#004529",
@@ -11264,7 +11265,8 @@
    "dg_ids": [
     "27583450"
    ],
-   "geprueft_am": "2026-10-23"
+   "geprueft_am": "2026-10-23",
+   "svg_override": "zeichnungen/dg/27583450.svg"
   },
   "Comhra Partnership": {
    "koerper_grund": "#032642",
@@ -13500,7 +13502,8 @@
    ],
    "dg_ids": [
     "38800068"
-   ]
+   ],
+   "svg_override": "zeichnungen/dg/38800068.svg"
   },
   "David Lowe": {
    "koerper_grund": "#008D53",
@@ -15384,7 +15387,8 @@
    "dg_ids": [
     "5716172"
    ],
-   "geprueft_am": "2026-10-23"
+   "geprueft_am": "2026-10-23",
+   "svg_override": "zeichnungen/dg/5716172.svg"
   },
   "Eclipse Partners, Madaket Stables & Heider Family Stables": {
    "koerper_grund": "#F4F4D0",
@@ -16837,7 +16841,8 @@
    "aliase": [
     "Emma Downer/Frankreich"
    ],
-   "herkunft": "aus DG-Wortlaut gezeichnet 23.10.2026"
+   "herkunft": "aus DG-Wortlaut gezeichnet 23.10.2026",
+   "svg_override": "zeichnungen/dg/38798328.svg"
   },
   "Emmet Mullins": {
    "koerper_grund": "#111111",
@@ -20884,7 +20889,8 @@
    "dg_ids": [
     "1594755"
    ],
-   "geprueft_am": "2026-10-23"
+   "geprueft_am": "2026-10-23",
+   "svg_override": "zeichnungen/dg/1594755.svg"
   },
   "Gestüt Aesculap": {
    "beschreibung": "Black, gold shield, black sleeves, gold armlets",
@@ -20964,7 +20970,8 @@
    "dg_ids": [
     "1594762"
    ],
-   "geprueft_am": "2026-10-23"
+   "geprueft_am": "2026-10-23",
+   "svg_override": "zeichnungen/dg/1594762.svg"
   },
   "Gestüt Burg Eberstein": {
    "beschreibung": "Orange, royal blue chevron",
@@ -21312,7 +21319,8 @@
    "dg_ids": [
     "1593103"
    ],
-   "geprueft_am": "2026-10-23"
+   "geprueft_am": "2026-10-23",
+   "svg_override": "zeichnungen/dg/1593103.svg"
   },
   "Gestüt Sommerberg": {
    "beschreibung": "White, black hoops",
@@ -30853,7 +30861,8 @@
    "aliase": [
     "Kim-L.Nakelski"
    ],
-   "herkunft": "aus DG-Wortlaut gezeichnet 23.10.2026"
+   "herkunft": "aus DG-Wortlaut gezeichnet 23.10.2026",
+   "svg_override": "zeichnungen/dg/37266402.svg"
   },
   "Kimdon Racing, Llc": {
    "koerper_grund": "#3032C5",
@@ -38911,7 +38920,8 @@
    "aliase": [
     "MJ Racing u.Soc.d'Entre.Ph.Decouz/Frankreich"
    ],
-   "herkunft": "aus DG-Wortlaut gezeichnet 23.10.2026"
+   "herkunft": "aus DG-Wortlaut gezeichnet 23.10.2026",
+   "svg_override": "zeichnungen/dg/38618294.svg"
   },
   "Mjm Racing And Magdalena Racing (sherri McPeek)": {
    "koerper_grund": "#000001",
@@ -56386,7 +56396,8 @@
    "dg_ids": [
     "2459125"
    ],
-   "geprueft_am": "2026-10-23"
+   "geprueft_am": "2026-10-23",
+   "svg_override": "zeichnungen/dg/2459125.svg"
   },
   "Stall MarcRuehl.com": {
    "beschreibung": "Black, white sash, light blue sleeves",
@@ -56940,7 +56951,8 @@
    "dg_ids": [
     "34387102"
    ],
-   "geprueft_am": "2026-10-23"
+   "geprueft_am": "2026-10-23",
+   "svg_override": "zeichnungen/dg/34387102.svg"
   },
   "Stall Royal": {
    "beschreibung": "Turquoise, white stars, yellow sleeves",
@@ -59687,7 +59699,8 @@
    ],
    "dg_ids": [
     "23096897"
-   ]
+   ],
+   "svg_override": "zeichnungen/dg/23096897.svg"
   },
   "Team Valor 1": {
    "koerper_grund": "#008D53",

@@ -32,6 +32,17 @@ def main():
                     fehler.append(f"{quelle} {k}: interne Angabe '{verboten}' gehoert nicht ins oeffentliche Repo")
             if v.get("svg_override") and not os.path.exists(os.path.join(WURZEL, v["svg_override"])):
                 fehler.append(f"{k}: Sonderzeichnung fehlt {v['svg_override']}")
+    for k, v in roh.items():
+        for i in v.get("dg_ids") or []:
+            if i in dg and dg[i].get("svg_override") and v.get("svg_override") != dg[i]["svg_override"]:
+                fehler.append(f"{k}: bestätigt für DG {i}, zeigt aber eine andere Zeichnung (ein Trikot je Farbnummer)")
+    vor = json.load(open(os.path.join(WURZEL, "rennfarben-vorlagen.json"), encoding="utf-8"))["vorlagen"]
+    for md5, v in vor.items():
+        if not os.path.exists(os.path.join(WURZEL, v["svg_override"])):
+            fehler.append(f"Vorlage {md5}: Zeichnung fehlt")
+    for i, v in dg.items():
+        if v.get("svg_override") and not os.path.exists(os.path.join(WURZEL, v["svg_override"])):
+            fehler.append(f"DG {i}: Zeichnung fehlt")
     dg_bei = {}
     for k, v in roh.items():
         for i in v.get("dg_ids") or []:

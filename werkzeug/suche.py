@@ -47,16 +47,33 @@ def besitzer(name):
     f = trikot._finden(ohne_land(name))
     return (ohne_land(name), f) if f else None
 
+def _absolut(e):
+    if e and e.get("svg_override") and not os.path.isabs(e["svg_override"]):
+        e = dict(e, svg_override=os.path.join(WURZEL, e["svg_override"]))
+    return e
+
 def dg_zeichnung(dg_id):
-    return db()[1].get(str(dg_id))
+    return _absolut(db()[1].get(str(dg_id)))
+
+_VOR = None
+def vorlage(pruefsumme):
+    """Zeichnung zu einer Bildvorlage (z. B. frühere Renntage), unverändert so, wie sie geprüft wurde."""
+    global _VOR
+    if _VOR is None:
+        _VOR = json.load(open(os.path.join(WURZEL, "rennfarben-vorlagen.json"), encoding="utf-8"))["vorlagen"]
+    return _absolut(_VOR.get(pruefsumme))
 
 def trikot_fuer(name, dg_id=None):
-    """Was ein Projekt fuer einen Starter verwenden soll: zuerst der Besitzer, dann die DG-Farbnummer."""
+    """Was ein Projekt fuer einen Starter verwenden soll.
+    Mit amtlicher Farbnummer (deutsche Rennen): zuerst die Zeichnung dieser Farbnummer, denn Besitzernamen sind
+    weltweit nicht eindeutig (es gibt z. B. eine andere „ACE Racing“ im Ausland). Sonst der Besitzer.
+    "bestaetigt": Besitzer und Farbnummer sind gegeneinander geprüft (dg_ids) bzw. es ist die amtliche Farbnummer."""
+    if dg_id and dg_zeichnung(dg_id):
+        return {"quelle": "dg", "name": str(dg_id), "eintrag": dg_zeichnung(dg_id), "bestaetigt": True}
     t = besitzer(name)
     if t:
-        return {"quelle": "besitzer", "name": t[0], "eintrag": t[1]}
-    if dg_id and dg_zeichnung(dg_id):
-        return {"quelle": "dg", "name": str(dg_id), "eintrag": dg_zeichnung(dg_id)}
+        ok = bool(dg_id) and str(dg_id) in (t[1].get("dg_ids") or [])
+        return {"quelle": "besitzer", "name": t[0], "eintrag": t[1], "bestaetigt": ok or not dg_id}
     return None
 
 if __name__ == "__main__":

@@ -13,7 +13,8 @@ Interne Angaben (woher eine Vorlage stammt) stehen nicht hier, sondern privat im
 | Datei | Was |
 |---|---|
 | `rennfarben.json` | je Besitzer die Zeichenangaben (Grundfarbe, Muster, Zweit-/Drittfarbe für Körper und Ärmel, ggf. Schriftzug), Schreibweisen (`aliase`), amtliche Beschreibung (`farben_offiziell`), amtliche Farbnummern (`dg_ids`) |
-| `rennfarben-dg.json` | Zeichnungen je amtlicher Rennfarben-ID von Deutscher Galopp (`dg_silk`), für Starter, deren Besitzer noch nicht unter `besitzer` steht |
+| `rennfarben-dg.json` | Zeichnungen je amtlicher Rennfarben-ID von Deutscher Galopp (`dg_silk`). `svg_override` zeigt auf die geprüfte, fertige Zeichnung in `zeichnungen/dg/` (gilt vor den Farbangaben) |
+| `rennfarben-vorlagen.json` | Zeichnungen je Bildvorlage (Prüfsumme), u. a. für frühere Renntage; historische Farben bleiben, wie sie am Renntag waren (`zeichnungen/vorlagen/`) |
 | `trikot.py` | **das eine Zeichenprogramm**: `trikot.laden()`, `trikot.trikot(besitzer)`, `trikot.zeichnen(eintrag, kennung)` |
 | `zeichnungen/` | handgezeichnete Sondertrikots (`svg_override`) |
 | `werkzeug/suche.py` | Besitzer/DG-Nummer finden: `python3 werkzeug/suche.py "Team Valor/England" 23096897` |
@@ -47,6 +48,9 @@ Nur Bilder: `index.json` zeigt je Besitzer und DG-Nummer auf die Datei in `svg/`
 
 ## Regeln (verbindlich für alle Projekte)
 
+0. **Deutsche Rennen: zuerst die amtliche Farbnummer** (`dg_silk`), dann der Besitzername. Besitzernamen sind
+   weltweit nicht eindeutig (es gibt z. B. eine andere „ACE Racing“ im Ausland). `suche.trikot_fuer(name, dg_id)`
+   hält diese Reihenfolge ein. Ein Besitzer mit bestätigter Farbnummer (`dg_ids`) zeigt genau deren Zeichnung.
 1. **Erst suchen, nie zuerst zeichnen.** `werkzeug/suche.py` findet Besitzer auch mit Länderzusatz von Deutscher
    Galopp („/England“), anderer Schreibweise, Titeln und Firmenendungen. Steht der Besitzer hier, wird **dieses**
    Trikot verwendet.
@@ -73,4 +77,6 @@ eigene Sammlungen und ein abweichendes Zeichenprogramm. Folge: derselbe Besitzer
 (Gestüt Brümmerhof mit Punkten statt Schnüren), und vorhandene Besitzer wurden neu gezeichnet (Team Valor). Beim
 Zusammenführen wurden beide Zeichenprogramme vereint (alle Muster beider Projekte; gleichnamige, aber verschieden
 gezeichnete GaloppFacts-Muster tragen die Endung `_gf`), 431 GaloppFacts-Besitzer und 3.782 DG-Farbnummern
-übernommen und die am 23.10. gegen die DG-Vorlagen geprüften Korrekturen eingetragen.
+übernommen und die am 23.10. gegen die DG-Vorlagen geprüften Korrekturen eingetragen. Die fertigen, teils von Hand
+verbesserten Zeichnungen von GaloppFacts (3.786 DG-Farbnummern, 557 Bildvorlagen) wurden unverändert übernommen: neu aus
+den Farbangaben gezeichnet hätten sie Embleme, Buchstaben und Sterne verloren (Sichtvergleich von 110 Fällen, 23.10.2026).
