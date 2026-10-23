@@ -18,4 +18,15 @@ class Sonderdetails(unittest.TestCase):
     polys=[x for x in root.iter() if x.tag.endswith('polygon')]
     self.assertGreaterEqual(len(polys),count)
     self.assertNotIn('weggelassen',dg[i])
+    if i=='1594742':
+     # Farben an derselben Bildhöhe: grün – weiß – schwarz wie DG.
+     samples=[]
+     for poly in polys:
+      points=[tuple(map(float,p.split(','))) for p in poly.get('points').split()]
+      crossings=[]
+      for a,b in zip(points,points[1:]+points[:1]):
+       if min(a[1],b[1]) < 50 < max(a[1],b[1]):
+        crossings.append(a[0]+(50-a[1])*(b[0]-a[0])/(b[1]-a[1]))
+      if crossings: samples.append((sum(crossings)/len(crossings),poly.get('fill')))
+     self.assertEqual([c for _,c in sorted(samples)],['#178A38','#FFFFFF','#111111'])
 if __name__=='__main__':unittest.main()
