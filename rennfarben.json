@@ -7179,7 +7179,12 @@
    "aermel_grund": "#FBEBC8",
    "aermel_muster": "einfarbig",
    "sicher": true,
-   "herkunft": "GaloppFacts (RaceBets-Vorlage), uebernommen 23.10.2026"
+   "herkunft": "GaloppFacts (RaceBets-Vorlage), uebernommen 23.10.2026",
+   "svg_override": "zeichnungen/dg/38618313.svg",
+   "dg_ids": [
+    "38618313"
+   ],
+   "farben_offiziell": "beige-weiß gevierteilt, blaue Schultern, beige Ärmel, beige K., blaue Raute"
   },
   "Bo Hirsch": {
    "koerper_grund": "#111111",
@@ -20996,7 +21001,12 @@
    "aermel_zweit": "#9B9B9B",
    "beschreibung": "grey, black kreuzband r, grey sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [],
+   "svg_override": "zeichnungen/dg/1594742.svg",
+   "dg_ids": [
+    "1594742"
+   ],
+   "farben_offiziell": "silbergrau, schwarz-weiß-grüne Schärpe, schwarze Kappe"
   },
   "Gestüt Erftmühle": {
    "beschreibung": "White, red stripe",
@@ -56512,7 +56522,12 @@
    "aermel_grund": "#FFFF00",
    "aermel_muster": "einfarbig",
    "sicher": true,
-   "herkunft": "GaloppFacts (RaceBets-Vorlage), uebernommen 23.10.2026"
+   "herkunft": "GaloppFacts (RaceBets-Vorlage), uebernommen 23.10.2026",
+   "svg_override": "zeichnungen/dg/1593424.svg",
+   "dg_ids": [
+    "1593424"
+   ],
+   "farben_offiziell": "weiß, blaue und rote Sterne, gelbe Ärmel und Kappe"
   },
   "Stall NIK": {
    "beschreibung": "Turquoise, white stars, light blue sleeves",

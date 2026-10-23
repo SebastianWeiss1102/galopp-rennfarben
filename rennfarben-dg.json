@@ -9459,11 +9459,14 @@
   "1593424": {
    "koerper_grund": "#FFFFFF",
    "aermel_grund": "#FAEC1A",
-   "koerper_muster": "einfarbig",
+   "koerper_muster": "sterne",
    "aermel_muster": "einfarbig",
    "status": "DRAWN_FROM_OFFICIAL_WORDING",
    "beschreibung_de": "weiß, blaue und rote Sterne, gelbe Ärmel und Kappe",
-   "svg_override": "zeichnungen/dg/1593424.svg"
+   "svg_override": "zeichnungen/dg/1593424.svg",
+   "koerper_zweit": "#2A86E8",
+   "koerper_dritt": "#E3202A",
+   "pruefung": "23.10.2026: Sichtvergleich mit amtlicher DG-Bildvorlage; fehlende Musterelemente ergänzt."
   },
   "1593426": {
    "koerper_grund": "#B4B4B4",
@@ -12514,12 +12517,13 @@
    "koerper_grund": "#B4B4B4",
    "koerper_muster": "kreuzband_r2",
    "koerper_zweit": "#111111",
-   "koerper_dritt": "#FFFFFF",
+   "koerper_dritt": "#178A38",
    "aermel_grund": "#B4B4B4",
    "aermel_muster": "einfarbig",
    "status": "DRAWN_FROM_OFFICIAL_WORDING",
    "beschreibung_de": "silbergrau, schwarz-weiß-grüne Schärpe, schwarze Kappe",
-   "svg_override": "zeichnungen/dg/1594742.svg"
+   "svg_override": "zeichnungen/dg/1594742.svg",
+   "pruefung": "23.10.2026: Sichtvergleich mit amtlicher DG-Bildvorlage; fehlende Musterelemente ergänzt."
   },
   "1594743": {
    "koerper_grund": "#A8DAF8",
@@ -34407,11 +34411,12 @@
   "38618313": {
    "koerper_grund": "#E8D8B8",
    "koerper_muster": "quartiert",
-   "koerper_zweit": "#C8C8C8",
+   "koerper_zweit": "#FFFFFF",
    "aermel_grund": "#E8D8B8",
-   "weggelassen": "hellblaue Schulterstücke",
    "status": "DRAWN_FROM_IMAGE",
-   "svg_override": "zeichnungen/dg/38618313.svg"
+   "svg_override": "zeichnungen/dg/38618313.svg",
+   "beschreibung_de": "beige-weiß gevierteilt, blaue Schultern, beige Ärmel, beige K., blaue Raute",
+   "pruefung": "23.10.2026: Sichtvergleich mit amtlicher DG-Bildvorlage; fehlende Musterelemente ergänzt."
   },
   "38654173": {
    "koerper_grund": "#36B94A",

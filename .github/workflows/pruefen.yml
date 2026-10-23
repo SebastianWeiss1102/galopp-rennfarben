@@ -20,7 +20,9 @@ jobs:
         with:
           python-version: '3.12'
       - name: Datenbank pruefen
-        run: python3 werkzeug/pruefen.py
+        run: |
+          python3 werkzeug/pruefen.py
+          python3 werkzeug/test_korrekturen_20261023.py
       - name: Bilder und Katalog neu erzeugen
         if: github.event_name != 'pull_request'
         run: |
