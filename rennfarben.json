@@ -100031,6 +100031,579 @@
    "koerper_zweit": "#ADD7E6",
    "beschreibung": "lightblue, white and cream aermelstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE"
+  },
+  "SVG, Exact Lifestyle Ltd & Owen": {
+   "beschreibung": "light blue, dark blue star, light blue sleeves, dark blue stars",
+   "koerper_grund": "#A8DDF5",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#12305E",
+   "aermel_grund": "#A8DDF5",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#12305E",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Doug Graham And Carole Dods": {
+   "beschreibung": "yellow, black chevrons, white sleeves, black stars",
+   "koerper_grund": "#FFE81A",
+   "koerper_muster": "chevrons",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#111111",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "McGoff, Fowles, Meehan, Herity": {
+   "beschreibung": "emerald green, white cross belts, orange sleeves, green stars",
+   "koerper_grund": "#0E9A5C",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#F5A623",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#0B5D3B",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Kennet Valley Syndicates Vi": {
+   "beschreibung": "dark blue, red and light blue hoops, dark blue sleeves, red armlet",
+   "koerper_grund": "#14345E",
+   "koerper_muster": "band_zwei",
+   "koerper_zweit": "#E8323C",
+   "koerper_dritt": "#8FD3F4",
+   "aermel_grund": "#14345E",
+   "aermel_muster": "armband",
+   "aermel_zweit": "#E8323C",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Middleham Park Racing Xvii & M Parker": {
+   "beschreibung": "light blue, orange epaulets, light blue sleeves",
+   "koerper_grund": "#3BB8EE",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#F5A623",
+   "aermel_grund": "#3BB8EE",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Felstead Partnership": {
+   "beschreibung": "grey, black cross belts, grey sleeves",
+   "koerper_grund": "#A3A3A3",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#A3A3A3",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "The Room Service Girls": {
+   "beschreibung": "yellow, black hash emblem, yellow sleeves",
+   "koerper_grund": "#F9C531",
+   "aermel_grund": "#F9C531",
+   "text": "#",
+   "text_farbe": "#111111",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Shamrock Thoroughbreds": {
+   "beschreibung": "white and orange halved, green sleeves, white stars",
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "gespalten",
+   "koerper_zweit": "#F5A623",
+   "aermel_grund": "#0F8A4F",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFFFFF",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "VARIAN RACING IX": {
+   "beschreibung": "grey, pink epaulets, pink sleeves",
+   "koerper_grund": "#A9A9A9",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#F4A6B5",
+   "aermel_grund": "#F4A6B5",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Mr Jayant Pindolia": {
+   "beschreibung": "royal blue, red braces, royal blue sleeves, red chevrons",
+   "koerper_grund": "#1F6FD1",
+   "koerper_muster": "zwei_streifen",
+   "koerper_zweit": "#E32636",
+   "aermel_grund": "#1F6FD1",
+   "aermel_muster": "chevrons",
+   "aermel_zweit": "#E32636",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "C J Murtagh/b Hourihane": {
+   "beschreibung": "red, white stripe, red sleeves, white cuffs",
+   "koerper_grund": "#E0202F",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#E0202F",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#FFFFFF",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "The Marathon Partnership": {
+   "beschreibung": "pink, pink and white striped sleeves",
+   "koerper_grund": "#F6A7B6",
+   "aermel_grund": "#F6A7B6",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#FFFFFF",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Scuderia Archi Romani": {
+   "beschreibung": "blue, light grey yoke, blue sleeves, light grey cuffs",
+   "koerper_grund": "#4A8FD9",
+   "koerper_muster": "joch",
+   "koerper_zweit": "#C5D6D0",
+   "aermel_grund": "#4A8FD9",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#C5D6D0",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Sir M Arbib,b Arbib,c Budgett & A Khei": {
+   "beschreibung": "yellow, royal blue cross of lorraine, yellow sleeves, royal blue armlet",
+   "koerper_grund": "#FFE81A",
+   "koerper_muster": "kreuz",
+   "koerper_zweit": "#1F6FD1",
+   "aermel_grund": "#FFE81A",
+   "aermel_muster": "armband",
+   "aermel_zweit": "#1F6FD1",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Martyn And Elaine Booth": {
+   "beschreibung": "purple, white braces, purple sleeves, white armlet",
+   "koerper_grund": "#5B2C9F",
+   "koerper_muster": "zwei_streifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#5B2C9F",
+   "aermel_muster": "armband",
+   "aermel_zweit": "#FFFFFF",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "N Pickett & Partners": {
+   "beschreibung": "white, red cross belts, white sleeves",
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#E0202F",
+   "aermel_grund": "#FFFFFF",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "All For One Racing (ii)": {
+   "beschreibung": "royal blue, beige cross of lorraine, royal blue and gold striped sleeves",
+   "koerper_grund": "#1F6FD1",
+   "koerper_muster": "kreuz",
+   "koerper_zweit": "#F5D3A0",
+   "aermel_grund": "#1F6FD1",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#F5B342",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Mrs John Magnier, Michael Tabor & Derrick Smith (pink)": {
+   "beschreibung": "pink, pink sleeves",
+   "koerper_grund": "#F6A7B6",
+   "aermel_grund": "#F6A7B6",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Moonlight Mile Racing": {
+   "koerper_grund": "#36B94A",
+   "text": "MM",
+   "text_farbe": "#EE1C25",
+   "aermel_grund": "#EE1C25",
+   "koerper_muster": "einfarbig",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "grün, MM in Rot, rote Ärmel, grüne Kappe, roter Streifen",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Andrea Schröder": {
+   "koerper_grund": "#0F4A23",
+   "aermel_muster": "band_gesaeumt",
+   "aermel_zweit": "#FFFFFF",
+   "aermel_dritt": "#0E7A2C",
+   "aermel_grund": "#0E7A2C",
+   "koerper_muster": "spitzen",
+   "koerper_zweit": "#FFFFFF",
+   "beschreibung": "dunkelgrün, zwei weiße Winkel, weiß-dgr.-weiße Armb., dgr. K., w. Streifen",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Godfather Racing": {
+   "koerper_grund": "#111111",
+   "aermel_grund": "#F0C818",
+   "koerper_muster": "einfarbig",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "schwarz, Marionette in Gold, goldene Ärmel u. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Axel Meier": {
+   "koerper_grund": "#A87DF0",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#A87DF0",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "lila weißes K, lila Ärmel u. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall de Luxe": {
+   "koerper_grund": "#F78CD8",
+   "aermel_grund": "#1A2FB8",
+   "aermel_zweit": "#F78CD8",
+   "aermel_muster": "laengsstreifen",
+   "koerper_muster": "einfarbig",
+   "beschreibung": "rosa, dunkelblau-rosa gestreifte Ärmel, dunkelblaue Kappe, rosa Quaste",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Karoly Kerekes": {
+   "koerper_grund": "#FAEC1A",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#EE1C25",
+   "aermel_grund": "#36B94A",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "gelb-rot gevierteilt, grüne Ärmel, gelb-grün gevierteilte Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Christian Keller": {
+   "koerper_grund": "#1A2FB8",
+   "aermel_muster": "band_gesaeumt",
+   "aermel_zweit": "#33D8B4",
+   "aermel_dritt": "#1A2FB8",
+   "aermel_grund": "#1A2FB8",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#2ED3C4",
+   "koerper_dritt": "#1A2FB8",
+   "beschreibung": "dunkelblau, türkis-dbl.-türkis Schärpe u. Armbinden, dbl. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Grey Goose": {
+   "koerper_grund": "#F0C818",
+   "aermel_grund": "#111111",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#111111",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "gold, schwarzer Stern u. Ärmel, schwarze Kappe, goldener Stern",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Marissa Potters": {
+   "koerper_grund": "#2A86E8",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#EE1C25",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "blau-schwarz gevierteilt, rote Ärmel und Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Rakovic": {
+   "koerper_grund": "#F0C818",
+   "aermel_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "gold, weiße Ärmel, goldene Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Night Flowers": {
+   "koerper_grund": "#FAEC1A",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#F78CD8",
+   "aermel_grund": "#FAEC1A",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "gelb, rosa Sterne u. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Ecurie des amis du cheval": {
+   "koerper_grund": "#33D8B4",
+   "aermel_grund": "#A87DF0",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#33D8B4",
+   "koerper_muster": "einfarbig",
+   "beschreibung": "türkis, schwarzes Emblem, lila Ärmel, türkis Armb., schwarze Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Zieses Entourage": {
+   "koerper_grund": "#F78CD8",
+   "text": "Z",
+   "text_farbe": "#111111",
+   "aermel_grund": "#F78CD8",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#B4B4B4",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#B4B4B4",
+   "beschreibung": "rosa, silbergraue Raute, schwarzes Z, rosa Ärmel, sgr. Armbinden, rosa K.",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Birgit Roesch": {
+   "koerper_grund": "#36B94A",
+   "aermel_grund": "#A87DF0",
+   "koerper_muster": "einfarbig",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "grün, gelbe und lila Querstreifen, lila Ärmel und Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Rosalinde Rattenhuber": {
+   "koerper_grund": "#B4F07A",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#B4F07A",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "hellgrün, blaue Ratte u. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Ulrike Rominger": {
+   "koerper_grund": "#F0C818",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#F0C818",
+   "koerper_muster": "einfarbig",
+   "beschreibung": "gold, weiße Ärmel, goldene Sterne u. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "R.Schulze u.T.Tönnies": {
+   "koerper_grund": "#FFFFFF",
+   "aermel_grund": "#F0C818",
+   "koerper_muster": "einfarbig",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "weiß, Trillerpfeife, goldene Ärmel u. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Online": {
+   "koerper_grund": "#2A86E8",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#2A86E8",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "blau, weißer Sternenkreis, blau-weiß gevierteilte Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "D.Janssen/Niederlande": {
+   "koerper_grund": "#111111",
+   "aermel_muster": "band_gesaeumt",
+   "aermel_zweit": "#36B94A",
+   "aermel_dritt": "#F0C818",
+   "aermel_grund": "#111111",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#F0C818",
+   "beschreibung": "schwarz, goldener Stern, grün-gold-grüne Armb., schw. K., gold. Stern",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Plume Noire": {
+   "koerper_grund": "#B4B4B4",
+   "aermel_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#B5B5B5",
+   "beschreibung": "silbergrau, schwarze Feder, Ärmel und Kappe, silbergraue Aufschläge",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall FunTime": {
+   "koerper_grund": "#111111",
+   "aermel_grund": "#FAEC1A",
+   "koerper_muster": "einfarbig",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "schwarz, gelbes Templerkreuz, gelbe Ärmel u. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Claus-D.Schäfer": {
+   "koerper_grund": "#FF7A1E",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#F0C818",
+   "aermel_grund": "#FF7A1E",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "orange, goldene Sterne, orange Kappe, goldener Stern",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Hibiskus": {
+   "koerper_grund": "#C8C8C8",
+   "aermel_grund": "#F78CD8",
+   "koerper_muster": "einfarbig",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "hellgrau, grau-rosa Emblem, rosa Ärmel u. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Rennstall Adventskonzert.de": {
+   "koerper_grund": "#14206E",
+   "text": "Name",
+   "text_farbe": "#FAEC1A",
+   "aermel_grund": "#FAEC1A",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#1A2FB8",
+   "koerper_muster": "einfarbig",
+   "beschreibung": "dunkelblau, Name in Gelb, gelbe Ärmel, dunkelblaue Sterne u. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall MaMö": {
+   "koerper_grund": "#F78CD8",
+   "koerper_muster": "streifen_breit",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#F78CD8",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "rosa, weißer Streifen, weiße Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Brückwiese": {
+   "koerper_grund": "#888888",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#36B94A",
+   "aermel_grund": "#888888",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#5BC236",
+   "beschreibung": "grau-grün gestreift, graue Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Goldesel": {
+   "koerper_grund": "#111111",
+   "aermel_grund": "#FAEC1A",
+   "aermel_zweit": "#111111",
+   "aermel_muster": "harlekin",
+   "koerper_muster": "einfarbig",
+   "beschreibung": "schwarz, gelb-schwarz gerautete Ärmel, gelbe Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Rennstall Blue Magic": {
+   "koerper_grund": "#FFFFFF",
+   "aermel_grund": "#2A86E8",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFFFFF",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#2A86E8",
+   "beschreibung": "weiß, blaue Schultern, blaue Ärmel, weiße Sterne, blaue Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Ulrike Höhndorf": {
+   "koerper_grund": "#FF7A1E",
+   "aermel_grund": "#111111",
+   "aermel_muster": "naht",
+   "aermel_zweit": "#FF7A1E",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#111111",
+   "beschreibung": "orange, schwarze Nähte, schw. Ärmel, orange Nähte, gevierteilte K.",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Jitka Fialkova/Tschechien": {
+   "koerper_grund": "#FFFFFF",
+   "aermel_grund": "#A87DF0",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#FFFFFF",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#A87DF0",
+   "beschreibung": "weiß, lila Schultern, lila-weiß quergeteilte Ärmel, weiße Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Hendrik Gaitzsch": {
+   "koerper_grund": "#2A86E8",
+   "text": "HVG",
+   "text_farbe": "#FFFFFF",
+   "aermel_grund": "#2A86E8",
+   "aermel_zweit": "#EE1C25",
+   "aermel_muster": "querstreifen",
+   "koerper_muster": "einfarbig",
+   "beschreibung": "blau, HVG in Weiß, blau-rot geringelte Ärmel und Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Carlsberg/Tschechien": {
+   "koerper_grund": "#FAEC1A",
+   "koerper_muster": "gespalten",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "gelb-schwarz längs geteilt, schwarze Ärmel u. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Swen Straßmeier": {
+   "koerper_grund": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#F0C818",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#F0C818",
+   "beschreibung": "schwarz, goldene Nähte, schw. Ärmel, goldene Aufschläge, schwarze K.",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Viktoria": {
+   "koerper_grund": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "schwarz, weiße Ärmel, schwarze Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Am Wildpark": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FAEC1A",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "schwarz, drei gelbe Querstreifen, gelbe Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "TS-Racing": {
+   "koerper_grund": "#111111",
+   "text": "TS",
+   "text_farbe": "#A01040",
+   "aermel_grund": "#A01040",
+   "koerper_muster": "einfarbig",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "schwarz, TS in Weinrote, weinrote Ärmel u. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  },
+  "Stall Surfin Bird": {
+   "koerper_grund": "#2EC4EE",
+   "aermel_grund": "#EE1C25",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#36B94A",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "blau, grün-roter Vogel, rote Ärmel u. Kappe",
+   "status": "DRAWN_FROM_DESCRIPTION",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+  }
+ },
+ "pferde": {
+  "Amelia Earhart": {
+   "beschreibung": "pink, pink sleeves",
+   "koerper_grund": "#F6A7B6",
+   "aermel_grund": "#F6A7B6",
+   "herkunft": "Fantasy Galopp, Ascot 17.10.2026: Partnerschaft führt mehrere Farben"
   }
  }
 }

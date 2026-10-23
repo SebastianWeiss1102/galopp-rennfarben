@@ -63,11 +63,21 @@ def vorlage(pruefsumme):
         _VOR = json.load(open(os.path.join(WURZEL, "rennfarben-vorlagen.json"), encoding="utf-8"))["vorlagen"]
     return _absolut(_VOR.get(pruefsumme))
 
-def trikot_fuer(name, dg_id=None):
+_PF = None
+def pferd(name):
+    """Ausnahme je Pferd (wenn ein Besitzername mehrere Farben führt), Bereich "pferde" in rennfarben.json."""
+    global _PF
+    if _PF is None:
+        _PF = json.load(open(os.path.join(WURZEL, "rennfarben.json"), encoding="utf-8")).get("pferde", {})
+    return _absolut(_PF.get(name or ""))
+
+def trikot_fuer(name, dg_id=None, pferd_name=None):
     """Was ein Projekt fuer einen Starter verwenden soll.
     Mit amtlicher Farbnummer (deutsche Rennen): zuerst die Zeichnung dieser Farbnummer, denn Besitzernamen sind
     weltweit nicht eindeutig (es gibt z. B. eine andere „ACE Racing“ im Ausland). Sonst der Besitzer.
     "bestaetigt": Besitzer und Farbnummer sind gegeneinander geprüft (dg_ids) bzw. es ist die amtliche Farbnummer."""
+    if pferd_name and pferd(pferd_name):
+        return {"quelle": "pferd", "name": pferd_name, "eintrag": pferd(pferd_name), "bestaetigt": True}
     if dg_id and dg_zeichnung(dg_id):
         return {"quelle": "dg", "name": str(dg_id), "eintrag": dg_zeichnung(dg_id), "bestaetigt": True}
     t = besitzer(name)
