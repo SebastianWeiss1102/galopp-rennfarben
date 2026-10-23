@@ -54,6 +54,12 @@ def main():
     for s, liste in gruppen.items():
         if len({z for _, z in liste}) > 1:
             print("Hinweis, gleiche Schreibweise mit verschiedenen Zeichnungen:", [n for n, _ in liste])
+    import unicodedata, collections
+    for ordner in ("svg", "svg-dg", "zeichnungen", "zeichnungen/dg", "zeichnungen/vorlagen"):
+        pfad = os.path.join(WURZEL, ordner)
+        if os.path.isdir(pfad):
+            z = collections.Counter(unicodedata.normalize("NFC", f).casefold() for f in os.listdir(pfad))
+            fehler += [f"{ordner}: Dateiname kollidiert auf dem Mac (Groß/klein oder Umlaut-Schreibweise): {n}" for n, c in z.items() if c > 1]
     for f in fehler:
         print("FEHLER", f)
     print(len(roh), "Besitzer,", len(dg), "DG-Farbnummern,", len(fehler), "Fehler")

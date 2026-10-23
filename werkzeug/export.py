@@ -8,13 +8,15 @@
 
 Von Hand nichts in svg/, svg-dg/, index.json oder katalog.html aendern: wird neu erzeugt.
 """
-import html, json, os, re, shutil, sys
+import html, json, os, re, shutil, sys, unicodedata
 WURZEL = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, WURZEL)
 import trikot
 
 def dateiname(name):
-    return (re.sub(r'[\\/:*?"<>|]+', "-", name).strip(" .")[:120] or "ohne-name") + ".svg"
+    # NFC: macOS behandelt NFC/NFD-Schreibweisen von Umlauten als denselben Dateinamen
+    n = unicodedata.normalize("NFC", name)
+    return (re.sub(r'[\\/:*?"<>|]+', "-", n).strip(" .")[:120] or "ohne-name") + ".svg"
 
 def svg_von(v, kennung):
     if v.get("svg_override"):
@@ -31,9 +33,9 @@ def main():
         if not v.get("koerper_grund") and not v.get("svg_override"):
             continue
         datei = dateiname(name); z = 2
-        while datei.lower() in vergeben:
+        while unicodedata.normalize("NFC", datei).casefold() in vergeben:
             datei = dateiname(name)[:-4] + " (%d).svg" % z; z += 1
-        vergeben.add(datei.lower())
+        vergeben.add(unicodedata.normalize("NFC", datei).casefold())
         svg = svg_von(v, "b%d" % n)
         open(os.path.join(WURZEL, "svg", datei), "w", encoding="utf-8").write(svg)
         index["besitzer"][name] = "svg/" + datei
