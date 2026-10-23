@@ -20,7 +20,9 @@ def ohne_land(name):
     return LAND.sub("", (name or "").strip())
 
 def schreibweise(name):
-    v = unicodedata.normalize("NFKD", ohne_land(name)).encode("ascii", "ignore").decode().lower()
+    """Vergleichsform: ohne Länderzusatz, Akzente, Satzzeichen und den France-Galop-Zusatz „(S)“."""
+    v = re.sub(r"\(\s*s\s*\)", "", ohne_land(name), flags=re.I)
+    v = unicodedata.normalize("NFKD", v).encode("ascii", "ignore").decode().lower()
     return re.sub(r"[^a-z0-9]", "", v)
 
 _DB = None
