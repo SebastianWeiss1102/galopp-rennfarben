@@ -504,6 +504,14 @@ def muster(art, teil, grund, zweit, dritt=None):
             for dx, dy in ((0, -1), (0, 1), (-1, 0), (1, 0)):
                 ex, ey = cx + dx * r, cy + dy * r
                 aus.append(_poly([(cx, cy), (ex + dy * w, ey + dx * w), (ex - dy * w, ey - dx * w)], z))
+    elif art == "rauten_saum":                     # Reihe von Rauten am Saum (24.10.2026)
+        if teil == "koerper":
+            for i in range(4):
+                px, py = x + b * (0.2 + 0.2 * i), y + h * 0.86
+                aus.append(_poly([(px, py - 9), (px + 5, py), (px, py + 9), (px - 5, py)], z))
+    elif art == "dreieck_gross":                   # grosses Dreieck vom Kragen bis zum Saum (24.10.2026)
+        if teil == "koerper":
+            aus.append(_poly([(x + b / 2.0, y + 4), (x + b * 0.88, y + h + 2), (x + b * 0.12, y + h + 2)], z))
     elif art == "sechs_punkte":                    # sechs grosse Punkte in zwei Reihen
         if teil == "koerper":
             for cx in (0.33, 0.67):
