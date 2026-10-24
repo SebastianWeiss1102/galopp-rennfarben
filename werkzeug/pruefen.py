@@ -25,7 +25,8 @@ def main():
     for quelle, daten in (("Besitzer", roh), ("DG", dg)):
         for k, v in daten.items():
             for t in ("koerper_muster", "aermel_muster"):
-                if v.get(t) not in m and not str(v.get(t)).startswith("buchstabe_"):
+                teile = str(v.get(t)).split("+") if "+" in str(v.get(t)) else [v.get(t)]   # "a+b": zwei Muster uebereinander
+                if any(u not in m and not str(u).startswith("buchstabe_") for u in teile):
                     fehler.append(f"{quelle} {k}: unbekanntes Muster {v.get(t)}")
             for verboten in ("quelle", "quellen", "lokale_vorlage", "vorlage"):
                 if verboten in v:

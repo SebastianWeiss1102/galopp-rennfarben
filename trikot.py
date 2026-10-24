@@ -61,6 +61,13 @@ def muster(art, teil, grund, zweit, dritt=None):
     # 23.10.2026: Musternamen aus den Daten, die bisher kein Zeichenprogramm kannte (wurden still einfarbig)
     art = {"kreuzband_r2": "kreuzband_r", "drei_scheiben": "drei_punkte", "drei_schraeg_r": "drei_schraeg",
            "fenster": "quadrat"}.get(art, art)
+    if art and "+" in art:                         # zwei Muster uebereinander: erstes in Zweit-, zweites in Drittfarbe
+        erst, dann = art.split("+", 1)
+        grundflaeche = _rect(x, y, b, h, grund)
+        oben = muster(dann, teil, grund, dritt or zweit)
+        if oben.startswith(grundflaeche):
+            oben = oben[len(grundflaeche):]
+        return muster(erst, teil, grund, zweit) + oben
     if art == "everest_208893":
         return _rect(x,y,b,h,grund)+_poly([(25,40),(38,30),(51,40),(64,30),(77,40),(77,54),(64,44),(51,54),(38,44),(25,54)],z)
     if art == "everest_211246":
@@ -439,6 +446,83 @@ def muster(art, teil, grund, zweit, dritt=None):
             aus.append(_poly(pkt, z))
         else:
             aus.append(_rect(x, y, b, 18, z))
+    # 23.10.2026: weitere Muster aus dem woechentlichen Nachzeichnen (G1Stars-Trikotlauf)
+    elif art in ("drei_scheiben_ro", "drei_scheiben_lo"):   # drei grosse Punkte schraeg
+        if teil == "koerper":
+            lage = ((0.7, 0.3), (0.48, 0.52), (0.26, 0.74)) if art.endswith("ro") else ((0.3, 0.3), (0.5, 0.52), (0.7, 0.74))
+            r = b * (0.13 if art.endswith("ro") else 0.11)
+            for cx, cy in lage:
+                aus.append("<circle cx='%.1f' cy='%.1f' r='%.1f' fill='%s'/>" % (x + b * cx, y + h * cy, r, z))
+    elif art == "diabolo":                         # Sanduhr: Dreiecke oben und unten
+        cx = 14.5 if teil == "arm_l" else 86.5 if teil == "arm_r" else x + b / 2.0
+        ym = y + h * 0.5
+        aus.append(_poly([(x - 2, y - 2), (x + b + 2, y - 2), (cx, ym)], z))
+        aus.append(_poly([(x - 2, y + h + 2), (x + b + 2, y + h + 2), (cx, ym)], z))
+    elif art == "pferd":                           # galoppierendes Pferd (eigene Zeichnung)
+        if teil == "koerper":
+            aus.append("<path d='M36,80 L40,64 L38,53 Q40,45 48,45 L59,45 L65,35 L63,28 L69,27 L74,34 L70,38 L67,48 L67,57 L73,67 L70,69 L63,59 L57,61 L59,73 L56,75 L52,62 L46,62 L42,71 L39,81 Z' fill='%s'/>" % z)
+    elif art == "davidstern":                      # Hexagramm als Umriss
+        if teil == "koerper":
+            cx, cy, r = x + b / 2.0, y + h * 0.45, 15.0
+            for w0 in (-90, 90):
+                pk = " ".join("%.1f,%.1f" % (cx + r * math.cos(math.radians(w0 + 120 * i)), cy + r * math.sin(math.radians(w0 + 120 * i))) for i in range(3))
+                aus.append("<polygon points='%s' fill='none' stroke='%s' stroke-width='2.6'/>" % (pk, z))
+    elif art == "farn":                            # Farnblatt schraeg
+        if teil == "koerper":
+            aus.append("<path d='M40,77 Q42,53 65,32 Q63,57 40,77 Z' fill='%s'/>" % z)
+            aus.append("<path d='M38,80 L64,34' stroke='%s' stroke-width='0.9'/>" % grund)
+    elif art == "querstreifen3":                   # Ringe abwechselnd in Zweit- und Drittfarbe
+        n = 6 if teil == "koerper" else 7
+        s = h / (n * 2.0)
+        for i in range(n):
+            aus.append(_rect(x, y + (2 * i + 1) * s, b, s, z if i % 2 == 0 else d3))
+    elif art == "lothringerkreuz":                 # Kreuz mit zwei Querbalken
+        if teil == "koerper":
+            cx, cy = x + b / 2.0, y + h * 0.45
+            aus.append(_rect(cx - 3.5, cy - 20, 7, 40, z))
+            aus.append(_rect(cx - 10, cy - 12, 20, 6, z))
+            aus.append(_rect(cx - 14, cy - 1, 28, 6, z))
+    elif art == "grosse_zacken_unten":             # grosse Zacken vom Saum aufwaerts
+        if teil == "koerper":
+            aus.append(_poly([(x - 2, y + h + 2), (x - 2, y + h * 0.78), (x + b / 6.0, y + h * 0.5), (x + b / 3.0, y + h * 0.8),
+                              (x + b / 2.0, y + h * 0.5), (x + b * 2 / 3.0, y + h * 0.8), (x + b * 5 / 6.0, y + h * 0.5),
+                              (x + b + 2, y + h * 0.78), (x + b + 2, y + h + 2)], z))
+    elif art == "saum":                            # breiter Saum unten
+        aus.append(_rect(x, y + h * 0.82, b, h * 0.2, z))
+    elif art == "band_zweifarbig":                 # Querband aus zwei Farben uebereinander
+        aus.append(_rect(x, y + h * 0.4, b, h * 0.08, z))
+        aus.append(_rect(x, y + h * 0.48, b, h * 0.08, d3))
+    elif art == "chevrons_oben":                   # Winkel mit der Spitze nach oben
+        n = 3 if teil == "koerper" else 4
+        for i in range(n):
+            y0 = y + 12 + i * (h - 14) / n
+            d = 8.0 if teil == "koerper" else 5.0
+            aus.append(_poly([(x, y0 + d * 1.6), (x + b / 2.0, y0), (x + b, y0 + d * 1.6), (x + b, y0 + d * 2.6), (x + b / 2.0, y0 + d), (x, y0 + d * 2.6)], z))
+    elif art == "malteserkreuz":                   # Malteserkreuz: vier spitze Arme zur Mitte
+        if teil == "koerper":
+            cx, cy, r, w = x + b / 2.0, y + h * 0.45, 19.0, 10.0
+            for dx, dy in ((0, -1), (0, 1), (-1, 0), (1, 0)):
+                ex, ey = cx + dx * r, cy + dy * r
+                aus.append(_poly([(cx, cy), (ex + dy * w, ey + dx * w), (ex - dy * w, ey - dx * w)], z))
+    elif art == "sechs_punkte":                    # sechs grosse Punkte in zwei Reihen
+        if teil == "koerper":
+            for cx in (0.33, 0.67):
+                for cy in (0.25, 0.47, 0.69):
+                    aus.append("<circle cx='%.1f' cy='%.1f' r='%.1f' fill='%s'/>" % (x + b * cx, y + h * cy, b * 0.085, z))
+    elif art == "punkte_schraeg":                  # Punkte als Schaerpe, rechte Schulter zur linken Huefte
+        if teil == "koerper":
+            for i in range(5):
+                t = i / 4.0
+                aus.append("<circle cx='%.1f' cy='%.1f' r='4.3' fill='%s'/>" % (x + b * (0.8 - 0.6 * t), y + h * (0.2 + 0.66 * t), z))
+    elif art in ("fuenf_punkte", "hufeisen_klein"):   # fuenf grosse Punkte bzw. kleine Hufeisen wie eine Fuenf beim Wuerfel
+        if teil == "koerper":
+            for cx, cy in ((0.3, 0.27), (0.7, 0.27), (0.5, 0.48), (0.3, 0.7), (0.7, 0.7)):
+                px, py = x + b * cx, y + h * cy
+                if art == "fuenf_punkte":
+                    aus.append("<circle cx='%.1f' cy='%.1f' r='%.1f' fill='%s'/>" % (px, py, b * 0.09, z))
+                else:
+                    aus.append("<path d='M%.1f,%.1f L%.1f,%.1f Q%.1f,%.1f %.1f,%.1f Q%.1f,%.1f %.1f,%.1f L%.1f,%.1f' fill='none' stroke='%s' stroke-width='1.9'/>" % (
+                        px - 4, py - 5, px - 4, py + 1, px - 4, py + 5, px, py + 5, px + 4, py + 5, px + 4, py + 1, px + 4, py - 5, z))
     # --- aus GaloppFacts uebernommen (23.10.2026: ein Zeichenprogramm fuer alle Galopp-Projekte).
     # Varianten mit Endung _gf: gleicher Name wie bei G1Stars, aber anders gezeichnet; bleiben getrennt.
     if art == "kreuzband_dreifarbig":            # three parallel bands, white in the middle
