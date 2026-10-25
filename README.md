@@ -81,3 +81,7 @@ gezeichnete GaloppFacts-Muster tragen die Endung `_gf`), 431 GaloppFacts-Besitze
 übernommen und die am 23.10. gegen die DG-Vorlagen geprüften Korrekturen eingetragen. Die fertigen, teils von Hand
 verbesserten Zeichnungen von GaloppFacts (3.786 DG-Farbnummern, 557 Bildvorlagen) wurden unverändert übernommen: neu aus
 den Farbangaben gezeichnet hätten sie Embleme, Buchstaben und Sterne verloren (Sichtvergleich von 110 Fällen, 23.10.2026).
+
+## Gemeinsame Bearbeitung (Freigabe 25.10.2026)
+
+Geprüfte neue Trikots und belegte Alias-Korrekturen aus ClassicWinners dürfen direkt in diesen gemeinsamen Master übernommen und veröffentlicht werden. Vor jeder Änderung den aktuellen Stand laden, nur die betroffenen Einträge ändern, werkzeug/pruefen.py ausführen und vor dem Push erneut mit dem aktuellen Main-Branch abgleichen. Kein Force-Push und keine vollständige Ersetzung durch einen älteren Projektbestand. Bei Überschneidungen Identität und Farbangaben einzeln prüfen. Et-al-Kurzformen nur als belegte Aliasse aufnehmen, niemals beliebige Partnerschaften nach Namenspräfix zusammenführen. Fehlende Trikots zunächst in eine Prüfliste aufnehmen; Zeichnung erst nach Quellenprüfung nach den obigen Regeln.
