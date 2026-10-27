@@ -104056,6 +104056,64 @@
    "aermel_zweit": "#183868",
    "sicher": true,
    "aliase": []
+  },
+  "Nancy Hossack": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "punkte",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "White, black spots and sleeves, white cap",
+   "aliase": []
+  },
+  "R P Macnab": {
+   "koerper_grund": "#1646C8",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#D71920",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "Blue, white crossed sashes, red sleeves and cap",
+   "aliase": []
+  },
+  "Mrs H Kuhn": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "kreuz_durchgehend",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "Black, white cross, black sleeves, red cap",
+   "aliase": []
+  },
+  "P M Murugasa": {
+   "koerper_grund": "#008849",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#1646C8",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "Green, black epaulettes, blue sleeves and collar, green cap",
+   "aliase": [],
+   "kragen_grund": "#1646C8"
+  },
+  "Mr K P & Mrs N M Backos": {
+   "koerper_grund": "#40E0D0",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#E6007E",
+   "aermel_grund": "#E6007E",
+   "aermel_muster": "armband",
+   "aermel_zweit": "#40E0D0",
+   "beschreibung": "Turquoise blue, cerise epaulettes and sleeves, turquoise blue armband, cerise cap",
+   "aliase": []
+  },
+  "Neville Isdell": {
+   "koerper_grund": "#800080",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#800080",
+   "aermel_muster": "laengsstreifen+manschetten",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "Purple, white stripe, striped sleeves, purple cuffs and cap",
+   "aliase": [],
+   "aermel_dritt": "#800080"
   }
  },
  "pferde": {
