@@ -233,7 +233,8 @@
     "A Bosma, JWB Thoroughbreds Et Al",
     "A Bosma, JWB Thoroughbreds, J D'arcy, J Hepburn, K Samson, K Whitecliffe, G Clarke, G Jurie, D Stewart, D Arthur, T Cunneen, R Lloyd, N Smith, J Widdows, A Focas, A Jones",
     "A Bosma, N Smith Et Al",
-    "A J A Bosma, Sir P J Vela, J F Hepburn, G Sheppard, D V Gilliard, D B McGuinness, M Cole, M L Solomon & Clearwater"
+    "A J A Bosma, Sir P J Vela, J F Hepburn, G Sheppard, D V Gilliard, D B McGuinness, M Cole, M L Solomon & Clearwater",
+    "A Bosma, G Wade Et Al"
    ]
   },
   "A Braun": {
@@ -752,7 +753,8 @@
     "O Kheir, B O'Brien Et Al",
     "O Kheir, R Mesiano Et Al",
     "O Kheir, N Greenhalgh Et Al",
-    "O Kheir, M Arbib Et Al"
+    "O Kheir, M Arbib Et Al",
+    "O Kheir, C Algie Et Al"
    ]
   },
   "A Kheir, J O'Neill, AK Racing, Mrs C Algie, Ciaron Maher Racing et al.": {
@@ -9222,7 +9224,8 @@
    "aliase": [
     "C Waller, World Series Group, P Ng, R Mclaren, R Shrimpton, N Lillie, I Bruce, F Cook, J Lillie, C Cook",
     "Two Bays Farm, E Treweeke, R Treweeke",
-    "Widden Bloodstock Pty Ltd"
+    "Widden Bloodstock Pty Ltd",
+    "C Waller, G Brown Et Al"
    ]
   },
   "C Ward, W Beale": {
@@ -10862,7 +10865,10 @@
    "beschreibung": "Dunkelblau mit breitem grünem Band, weiße Ärmel mit rosa Band, grüne Kappe",
    "status": "DRAWN_FROM_IMAGE",
    "vorlage_sha256": "3490e11721959350f96055297fc7c95d255657e759d2715fee8995af5dde891e",
-   "sicher": true
+   "sicher": true,
+   "aliase": [
+    "C M R Amazing Journey, Unbridled Horse Racing 1 Et Al"
+   ]
   },
   "Ciaron Maher Racing, Red Baron, C M R Diminish, H & M Racing, G Fox, E Whitehead, E Wicks, S Jackson, C Zun, O D'alessio, J Henderson, W Mcguire, L Caminiti, M Mckelvie, M Wood, M Carmont, M Holmberg, M Jackson": {
    "koerper_grund": "#16314D",
@@ -12189,7 +12195,9 @@
    "aermel_zweit": "#004F98",
    "beschreibung": "royal, pink epauletten, royal sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Archibald Racing, Kia Ora 2009 Et Al"
+   ]
   },
   "D Degenhardt, Walker Racing & Bloodstock, Werrett Bloodstock Pty Ltd, Hirecha Racing, D Sinn, J Whitford, S Greene, S O'connor, T Eddy, W Keighran, A Willoughby, G Carmody, G Maris, N Wilson, M Saadie, C Elkington, C Judd, P Prendergast, P Sidwell": {
    "koerper_grund": "#0B3B69",
@@ -12506,7 +12514,8 @@
    "aermel_zweit": null,
    "sicher": true,
    "aliase": [
-    "D Archer, S Archer, D Wright, N Micarone"
+    "D Archer, S Archer, D Wright, N Micarone",
+    "D Archer, D Wright Et Al"
    ]
   },
   "D L Pagan & Mrs C N Pagan": {
@@ -15190,7 +15199,11 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#E31E24",
    "beschreibung": "green, red querstreifen, red sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "E Throsby, P O'Brien Et Al",
+    "E Throsby, Vinery Stud Et Al"
+   ]
   },
   "E Throsby, Werrett Bloodstock Pty Ltd, Vinery Stud, C Madden": {
    "koerper_grund": "#4DB25E",
@@ -19632,7 +19645,9 @@
     "A Muollo",
     "G Muollo, A Muollo, A Muollo, N Muollo, T Roberts, S Muollo",
     "J Heaney, Amorini Racing, J Yeates, K Clothier, D Ward, R Holton, C Holton, G Sterrey, G Winter, J Ashforth, S Charlton, S Hawxwell, S Yeates, G Clothier",
-    "S Waller, A Muollo, A Muollo, S Muollo, N Muollo, G Muollo"
+    "S Waller, A Muollo, A Muollo, S Muollo, N Muollo, G Muollo",
+    "T Muollo, S Waller",
+    "S Waller, G Muollo Et Al"
    ]
   },
   "G Pariente": {
@@ -19699,7 +19714,8 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "Trilogy, Livnthedream, Farah Racing, B Tonkin, P Ward, D Iervese, D Ricketts, J Roughley, G Snow, G Fielding, M Wood",
-    "Trilogy, M H Wood, D J Ricketts, P L Ward, G W Fielding, Farah Racing, G A Snow, Mrs D Iervese, J J Roughley, Livnthedream & B A Tonkin"
+    "Trilogy, M H Wood, D J Ricketts, P L Ward, G W Fielding, Farah Racing, G A Snow, Mrs D Iervese, J J Roughley, Livnthedream & B A Tonkin",
+    "G Portelli, Trilogy Et Al"
    ]
   },
   "G Portelli, World Series Group 2, G1G Colts & Breeding Pty Ltd, S R P M Racing, Bamboo Bloodstock, Tudey Racing, Valeri Racing, Kiamala Racing, MGSE, C Cox, C Winfield, D Carter, J Forrest, M Cox, P Blair, N Cusick, R Dick, D Wilson, A Staudacher, W Vasili": {
@@ -19710,7 +19726,10 @@
    "aermel_zweit": "#E01920",
    "koerper_zweit": "#03579C",
    "beschreibung": "royal, white and red querstreifen sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "G Portelli, M Wood Et Al"
+   ]
   },
   "G Reid": {
    "koerper_grund": "#0359A0",
@@ -27456,7 +27475,11 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "black, yellow streifen, white sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Lindsay Park Bloodstock, J O'Neill Et Al",
+    "W Ormond, J O'Neill Et Al"
+   ]
   },
   "J O'neill, Sandcastles, Deep Blue Racing, Win Towns Punters No 2, The Colours, C Saltmarsh, D Karpin, G Agnew, A Higgins, M Curtain, K Murtagh, L Jones, L Robins, J Smith, K Jones, D Minton, E Kondys, R Moore, J Bagnoux": {
    "koerper_grund": "#243C99",
@@ -27752,7 +27775,8 @@
    "beschreibung": "grey, yellow naht, grey sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "R Wanless, J Wanless"
+    "R Wanless, J Wanless",
+    "TFI, R Wanless"
    ]
   },
   "J Wheeler, R Mccann, J Hall, P Brooksbank, F Long": {
@@ -27765,7 +27789,8 @@
    "beschreibung": "orange, lightblue quer gespalten, lightblue sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "J Wheeler, P Brooksbank Et Al"
+    "J Wheeler, P Brooksbank Et Al",
+    "J Wheeler"
    ]
   },
   "J Wigan": {
@@ -32013,7 +32038,8 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "L Le Metayer, Blueblood Thoroughbreds Et Al",
-    "L Le Metayer, Q Group Et Al"
+    "L Le Metayer, Q Group Et Al",
+    "Blueblood Thoroughbreds, B B T Monogram Et Al"
    ]
   },
   "L Maxsted, G P I Racing, K Cooper, G Hayes, S Tuxen, N Maxsted, P Allen, C Allen, H Hayes": {
@@ -32038,7 +32064,9 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "M Johnston, Madica, The Kov, B Porter, J Porter, D Canny, A Ingersole, A Johnston, A Ronalds, J Mcinnes, M Porter, D O'connor, N Matthews, T Ginnane",
-    "M Johnston, Mrs A J Johnston, T A Ginnane, Madica, Mrs B E Porter, Miss J L Porter, Miss M Porter, D J O'Connor, N Matthews, D J Canny, A E Ronalds, J H Mcinnes, The Kov & A S Ingersole"
+    "M Johnston, Mrs A J Johnston, T A Ginnane, Madica, Mrs B E Porter, Miss J L Porter, Miss M Porter, D J O'Connor, N Matthews, D J Canny, A E Ronalds, J H Mcinnes, The Kov & A S Ingersole",
+    "M Kennewell, D Rogers Et Al",
+    "CMR Ladies, A Johnston Et Al"
    ]
   },
   "L Meyer zu Reckendorf": {
@@ -33151,7 +33179,8 @@
    "beschreibung": "red, yellow raute, red and black aermelstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Lindsay Park Bloodstock, L Frew, R Smith, C Bamford, J Jacobson, R Frew, A Henwood, K Bamford"
+    "Lindsay Park Bloodstock, L Frew, R Smith, C Bamford, J Jacobson, R Frew, A Henwood, K Bamford",
+    "Lindsay Park Bloodstock, K Bamford Et Al"
    ]
   },
   "Lindsay Park Bloodstock, C Gordon, R Gordon, D Gordon, P Devitt": {
@@ -33193,7 +33222,8 @@
     "Lindsay Park Bloodstock, The Fighting Cowboys, Green Shorts Racing, Hunter Graeber Racing, D Cavallo, D Lee, G Kerr, G Molinaro, R White, P Presti, R Jarvis, K Paisley, L Presti, J Evans, M Andreadis, S Horn, A Molinaro, B Carson, C Paisley",
     "Lindsay Park Bloodstock, The Fighting Cowboys, Hunter Graeber Racing, Green Shorts Racing, R White, M Andreadis, B Carson, K Paisley, L Presti, S Horn, C Paisley, J Evans, P Presti, R Jarvis, D Cavallo, D Lee, A Molinaro, G Kerr, G Molinaro",
     "Peter Young Wai Po & David Young Yuk Chuen",
-    "W Young"
+    "W Young",
+    "Mahoenui Partnership"
    ]
   },
   "Lindsay Park Bloodstock, Peak To Creek Racing, The R B O, S Anthony, A Mastapha, M Heinz, J Bradby, K Greer, S Sharp, M Powell, N Donnelly, N Gray, T Pender, D Nakhle, R Jarvis": {
@@ -34928,7 +34958,8 @@
    "beschreibung": "white, black diagonalstreifen, cerise sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "M Price, Aston Bloodstock, That's Gold, Peake Racing, Paddy's Pals, B Hateley, C Newnham, J Hoban, P Sweeney, D Bonnin, D Gwynne, D O'dwyer, P Farrugia, M Moncrieff, T Tonkin, A Clarke, R Mula"
+    "M Price, Aston Bloodstock, That's Gold, Peake Racing, Paddy's Pals, B Hateley, C Newnham, J Hoban, P Sweeney, D Bonnin, D Gwynne, D O'dwyer, P Farrugia, M Moncrieff, T Tonkin, A Clarke, R Mula",
+    "M Price, P Farrugia Et Al"
    ]
   },
   "M Ranger, S Disch, M Clemow, R Hockney, S Moore, B Green, B Johnson, G Smith, B Weston-arnold, K Raffen, L Bignell": {
@@ -35156,7 +35187,8 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "O Tait",
-    "O Tait, J Nivison"
+    "O Tait, J Nivison",
+    "O Tait, K Tait"
    ]
   },
   "M Vallender": {
@@ -42967,7 +42999,11 @@
     "MyRacehorse No. 1, Etak Thoroughbreds, Peake Racing, J Sinclair, J Steendyk, T Wilkinson, M Fleming, W Loughnan",
     "MyRacehorse No. 1, Etak Thoroughbreds, W K Loughnan, Peake Racing, Mrs M C Fleming, Mrs J H Sinclair, T R Wilkinson & Mrs J L Steendyk",
     "MyRacehorse No. 1, N Greenhalgh Et Al",
-    "MyRacehorse No. 1, Fairway Thoroughbreds Et Al"
+    "MyRacehorse No. 1, Fairway Thoroughbreds Et Al",
+    "TFI, MyRacehorse No. 1 Et Al",
+    "MyRacehorse No. 1, Etak Thoroughbreds Et Al",
+    "MyRacehorse No. 1, D Alford Et Al",
+    "MyRacehorse No. 1, V Payne Et Al"
    ]
   },
   "MyRacehorse No 1, Murumba Racing, Newfan Pty Ltd, Australian Chinese Jockey Club Racing 7, D Fleming, F Hume, P Ward, R Goldbloom, P Hall, B Danaher, T Danaher": {
@@ -43101,7 +43137,8 @@
     "N Greenhalgh, Grand Parkview Stud, Magic Bloodstock Racing, G Aldridge, R Shrimpton, R Craigie, P Barnett, K Warriner, M Waller, J Lake, M Greenhalgh, S Fitzgerald, J Simmons, A Lockhart, I Bruce",
     "N Greenhalgh, M Greenhalgh Et Al",
     "N Greenhalgh, Magic Bloodstock Racing, A Leslie, D Devine, N Morgan, R Craigie, M Greenhalgh",
-    "Widden Stud Pty Ltd, Halatex Pty Ltd, A Mcdonnell, M Murdoch, N Greenhalgh, K Warriner, J Mcdonnell"
+    "Widden Stud Pty Ltd, Halatex Pty Ltd, A Mcdonnell, M Murdoch, N Greenhalgh, K Warriner, J Mcdonnell",
+    "C Waller, N Greenhalgh Et Al"
    ]
   },
   "N Allali": {
@@ -44727,7 +44764,9 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "Werrett Bloodstock Pty Ltd, Aston Bloodstock, G Foundation, Segenhoe Thoroughbreds Australia, Mystery Downs, Bangaloe Stud, C Cook, P Smith, R El Daghl, M Sullivan, N Baratta",
-    "Werrett Bloodstock, Dr A L Attebo, C H Madden, Mrs J G Madden, Gilgai Farm, Mrs J V Allan, A D Allan, Arlington Park Racing, Mrs A L Bradley, Vinery Stud, K H To, T R Ryan, Torryburn Stud, Glentree Racing, B J Van Dalfsen & A List Stud Pty Ltd"
+    "Werrett Bloodstock, Dr A L Attebo, C H Madden, Mrs J G Madden, Gilgai Farm, Mrs J V Allan, A D Allan, Arlington Park Racing, Mrs A L Bradley, Vinery Stud, K H To, T R Ryan, Torryburn Stud, Glentree Racing, B J Van Dalfsen & A List Stud Pty Ltd",
+    "Werrett Bloodstock Pty Ltd, Encompass Bloodstock Et Al",
+    "Werrett Bloodstock Pty Ltd, A Attebo Et Al"
    ]
   },
   "Norio Sato": {
@@ -45414,7 +45453,9 @@
     "OTI Sea King, Nose Hair, Marshall Racing, Webbmck Racing, Beartown 39, Goldmount Lodge Pty Ltd, King Of The Sea, P Goodfellow, A Goodfellow, G Solomon-innes, I Cornell, J Benz, M Anderson, M Evans, J Spence, S Anderson, M Stone, L Freeman, L Freeman, W Watts",
     "OTI Wigmore, First Tuesday Racing, Chips In Racing, Webbmck Racing, Beartown 40, G Force Racing, J Sarah, J Spence, R Chapman, R Koch, M Mckelvie, A Underwood, D Neindorf, A Goodfellow, S Young, P Bruce, P Farrugia, D Kelly, J Higgins, J Murphy",
     "Oti Racing (Mgrs: T Henderson & S Driscoll), S Bira'm, M Neale, B & Mrs J Hill, C Fraraccio, R Menchise, A & Mrs P Goodfellow, J & Mrs J Spence, L Webb, Ms D McKeown, T & Mrs B Porter, J Gurrieri, Mangan Racing & 2w Syndications",
-    "OTI & Nellies, M Hay Et Al"
+    "OTI & Nellies, M Hay Et Al",
+    "O T I Hillier, A Collins Et Al",
+    "O T I Racing, A Berry Et Al"
    ]
   },
   "Otter Bend Stables": {
@@ -45850,7 +45891,8 @@
     "D O'brien, C Kopacz, J Hardwick, J O'brien, A Lennen, T Rourke, R Salter, S Bruhn, B Ainsworth",
     "D O'brien, J Hardwick, J O'brien, A Lennen, T Rourke, C Kopacz, B Ainsworth, R Salter, S Bruhn",
     "P Ganci, Bearman Racing, Killarney, Sunny Coast Mates, Three Three Five Six Racing, Dunpunting, P2 Racing, Fat's Back Racing, Team Hit Racing, Turker's Lurkers, A Bright Idea, No More Ponies, D Mullen, B Shipton, J Huggett, D Cremasco, B Fowler, S Ganci, S Kyriazis, S Payne",
-    "P Ganci, Bearman Racing, Team Hit Racing, Turker's Lurkers, A Bright Idea, No More Ponies, P2 Racing, Fat's Back Racing, Killarney, Sunny Coast Mates, Dunpunting, Three Three Five Six Racing, B Shipton, B Fowler, S Ganci, S Kyriazis, S Payne, D Mullen, J Huggett, D Cremasco"
+    "P Ganci, Bearman Racing, Team Hit Racing, Turker's Lurkers, A Bright Idea, No More Ponies, P2 Racing, Fat's Back Racing, Killarney, Sunny Coast Mates, Dunpunting, Three Three Five Six Racing, B Shipton, B Fowler, S Ganci, S Kyriazis, S Payne, D Mullen, J Huggett, D Cremasco",
+    "D O B Racing Cristal Eyes, T Rourke Et Al"
    ]
   },
   "P Lau": {
@@ -45940,7 +45982,10 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#E58C1D",
    "beschreibung": "orange, green harlekin, orange sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "P Moody, Pope Racing No. 2 Et Al"
+   ]
   },
   "P Moran": {
    "koerper_grund": "#35653D",
@@ -47643,7 +47688,10 @@
    "aermel_muster": "armringe",
    "aermel_zweit": "#BFD730",
    "beschreibung": "black, lime scheibe, black and lime armringe sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Proven Thoroughbreds, T Knowler Et Al"
+   ]
   },
   "Proven Thoroughbreds, MC Racing No. 9, Brave Luigi, Barraband Racing & Breeding, A Vercoe, B Playford, B Walker, M Bartley, M Clucas, S Vella, K Walsh, L Karlsson, L Karlsson, D Wilson, D Clucas, P Newsom, G Green, R List, P Karlsson, P King": {
    "koerper_grund": "#111111",
@@ -48220,7 +48268,11 @@
     "R & C Legh Racing Pty Ltd, Bricknell Family, Wright Racing, Arro R B, B & C Thoroughbreds Pty Ltd, D Iles, J Shaw, D Russo, C Hawkes, G Taylor, K Taylor, W Forrest, R Mitchell, R Smith, M Shaw, N Giorgetta, G Evans",
     "R & C Legh Racing Pty Ltd, Glentree Racing, G M C Livestock, Exset Racing, Seymour Bloodstock, T G M Racing, C Barham, B Macdonald",
     "R & C Legh Racing Pty Ltd, Glentree Racing, Seymour Bloodstock, T G M Racing, Exset Racing, G M C Livestock, C Barham, B Macdonald",
-    "R & C Legh Racing Pty Ltd, T G M Racing, Exset Racing, Seymour Bloodstock, G M C Livestock, Glentree Racing, B Macdonald, C Barham"
+    "R & C Legh Racing Pty Ltd, T G M Racing, Exset Racing, Seymour Bloodstock, G M C Livestock, Glentree Racing, B Macdonald, C Barham",
+    "R & C Legh Racing Pty Ltd, A R E Investments Et Al",
+    "R & C Legh Racing Pty Ltd, Exset Racing Et Al",
+    "R & C Legh Racing Pty Ltd, B & C Thoroughbreds Pty Ltd Et Al",
+    "R & C Legh Racing Pty Ltd, C Sita Et Al"
    ]
   },
   "R A E Lyons, P D Harrison Et Al": {
@@ -48686,7 +48738,10 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#D78B1C",
    "beschreibung": "orange, royal streifen, orange sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "P Lanigan, D Lanigan Et Al"
+   ]
   },
   "R Mcclure, Banjo Racing, Neil Douglas Racing, J Bester, M Kirwan, B Bester, B Mcclure, P Mcclure, P Power, J Wilson": {
    "koerper_grund": "#111111",
@@ -50480,7 +50535,10 @@
     "Ridgmont, K Salagic, Currie & Young Family Racing & J Vitek",
     "Ridgmont, Kia Ora 2009, GS Racing, A Clarke, S Gosling, J Gosling, K Salagic, J Stevens, K Ferrel",
     "Ridgmont, Kia Ora 2009, S Gosling, Mrs J Gosling, GS Racing, J and A Sydney Racing, K R Ferrel, K Salagic & Mrs A K Clarke",
-    "Yu Long Investments, Ridgmont"
+    "Yu Long Investments, Ridgmont",
+    "Ridgmont, M Healy Et Al",
+    "Ridgmont",
+    "Ridgmont, R Hitchcock Et Al"
    ]
   },
   "Rigney Racing": {
@@ -51036,7 +51094,8 @@
    "beschreibung": "white, lilac grosskaro, green sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Ronball Syndicate, Z Mcgregor, C Mcgregor"
+    "Ronball Syndicate, Z Mcgregor, C Mcgregor",
+    "Ronball Syndicate, Ciaron Maher Racing Et Al"
    ]
   },
   "Ronball, C McGregor & Miss Z J McGregor": {
@@ -51584,7 +51643,8 @@
     "S Darby, KB JR Racing, Hekou Racing, Darby Racing Caballus, S Ducat, J Neilsen, C Houghton, G Pratley, M Neven, M Sultana, M Holland, R Commisso, N Laygan, D Constantin",
     "S G Darby, P Halfhyde, T Kingston, W E Payne, Ms S G Wilson, B E Wright, Jimlee Racing, Knuckleheads Racing, Darby Racing Walkway, Cantbreakmystride, Jacknife Racing, Blue Arrow Equine, Mrs A E Baker & K R Ferrel",
     "S Darby, R Commisso Et Al",
-    "S Darby, P Halfhyde Et Al"
+    "S Darby, P Halfhyde Et Al",
+    "Darby Racing, A Barsby Et Al"
    ],
    "koerper_dritt": "#C9A94B"
   },
@@ -57696,7 +57756,8 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "Ryan & Alexiou Racing, Stallion Match, The Big 4 Racing, South Arm, Tripp Racing, Legacy Thoroughbreds, L Coghlan, M Stevens, M Tripp, N Lovett, J Plozza, J Townley, T Carroll, M Burford, I Burford",
-    "Stallion Match, Tussocks Racing, Dean Racing, J Rawlinson, C Christopoulos, J Hetrel, J Jacobs, R Cocks, N Kutcher, N Lovett, N Oates, J Bongiorno"
+    "Stallion Match, Tussocks Racing, Dean Racing, J Rawlinson, C Christopoulos, J Hetrel, J Jacobs, R Cocks, N Kutcher, N Lovett, N Oates, J Bongiorno",
+    "Ryan & Alexiou Racing, Stallion Match Et Al"
    ]
   },
   "Stamford Bloodstock": {
@@ -64750,7 +64811,9 @@
    "aermel_zweit": "#A7CDEB",
    "beschreibung": "blue, yellow zwei streifen, blue and lightblue armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "J Nevell, S Deo Et Al"
+   ]
   },
   "Vorlage 17782.png randwick-20250405": {
    "koerper_grund": "#1D82C2",
@@ -99012,7 +99075,8 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "Werrett Bloodstock Pty Ltd, Whitby Bloodstock Pty Ltd & Madden Bloodstock",
-    "Werrett Bloodstock Pty Ltd, Whitby Bloodstock Pty Ltd, Madden Bloodstock"
+    "Werrett Bloodstock Pty Ltd, Whitby Bloodstock Pty Ltd, Madden Bloodstock",
+    "Werrett Bloodstock Pty Ltd, Whitby Bloodstock Pty Ltd Et Al"
    ]
   },
   "Woppitt Bloodstock [racing.com 116617]": {
