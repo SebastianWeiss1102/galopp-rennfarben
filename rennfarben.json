@@ -33076,7 +33076,9 @@
    "aermel_zweit": "#194FCC",
    "beschreibung": "royal, gold punkte, royal sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Liberty Racing2021"
+   ]
   },
   "Liberty Racing 2022": {
    "koerper_grund": "#194FCC",
@@ -105375,7 +105377,9 @@
    "aermel_zweit": "#E27AB4",
    "beschreibung": "pink, white saltire, pink sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Arrowfield Pastoral Pty Ltd, East Coast Agricultural Investments Et Al"
+   ]
   },
   "Vorlage racingcom:36237": {
    "koerper_grund": "#04599F",
@@ -105757,6 +105761,94 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#52653A",
    "beschreibung": "black, grey grosskaro, olive sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "F Hodel": {
+   "koerper_grund": "#FEFE00",
+   "koerper_muster": "band",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FEFE00",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FEFE00",
+   "beschreibung": "yellow, black band, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "The Thoroughbred Racing Corporation, Ltd": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#00E000",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#00E000",
+   "beschreibung": "white, emerald laengsstreifen, white and emerald aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Janine Byrne": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "lothringerkreuz",
+   "koerper_zweit": "#084E86",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, royal lothringerkreuz, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Holy Cow Stable Llc": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "white, black punkte gross, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Ahmad Alkhallafi": {
+   "koerper_grund": "#7FFFD4",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#7FFFD4",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#7FFFD4",
+   "aermel_zweit": "#7FFFD4",
+   "beschreibung": "aqua, aqua sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Yoshizawa Holdings Co , Ltd": {
+   "koerper_grund": "#F1CACC",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#DA4641",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#DA4641",
+   "beschreibung": "cream, scarlet saltire, white and scarlet aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Muhaideb A Al Muhaideb": {
+   "koerper_grund": "#856EA1",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#3E3871",
+   "aermel_grund": "#856EA1",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#3E3871",
+   "beschreibung": "violet, purple epauletten, violet and purple armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Rp Racing, Ltd": {
+   "koerper_grund": "#EB3538",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#2D598C",
+   "aermel_grund": "#EB3538",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#2D598C",
+   "beschreibung": "scarlet, royal quartiert, scarlet and royal karo sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
   }
