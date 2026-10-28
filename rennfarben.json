@@ -1786,7 +1786,10 @@
    "beschreibung": "olive, maroon epauletten, olive sleeves",
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "svg_override": "zeichnungen/20261025/korr-owner-b994b3e8c06a.svg",
-   "farben_offiziell": "Verte epaulettes rouges t verte"
+   "farben_offiziell": "Verte epaulettes rouges t verte",
+   "aliase": [
+    "Aga Khan Studs"
+   ]
   },
   "Against All Odds Partnership": {
    "koerper_grund": "#FA0017",
@@ -105448,6 +105451,98 @@
    "aermel_muster": "karo",
    "aermel_zweit": "#111111",
    "beschreibung": "royal, white hufeisen, white and black karo sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Bbn Racing, Llc And Bowen Thoroughbred Racing, Llc": {
+   "koerper_grund": "#3032C5",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#3032C5",
+   "aermel_muster": "oberarmband",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "royal, white grosskaro, royal and white oberarmband sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "James Daniell": {
+   "koerper_grund": "#ED3438",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "scarlet, black v gross, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Allen E. Paulson": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "joch",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#1F55A8",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "White, red yoke, AP monogram, royal blue sleeves, white stars",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "text": "AP",
+   "text_farbe": "#1F55A8"
+  },
+  "Flaxman Holdings": {
+   "koerper_grund": "#1B2A5E",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#8EC5EA",
+   "aermel_grund": "#1B2A5E",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#8EC5EA",
+   "beschreibung": "Dark blue, light blue cross-belts, dark blue and light blue halved sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Ogden Mills Phipps": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "Black, cherry cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Frank & Janis Whitham": {
+   "koerper_grund": "#D7262E",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "Red, white sash, red sleeves, white armlets",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Ballymacoll Farm": {
+   "koerper_grund": "#A7CDEB",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#A7CDEB",
+   "aermel_grund": "#A7CDEB",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#A7CDEB",
+   "beschreibung": "Light blue, yellow and white check cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Ballymacoll Stud"
+   ]
+  },
+  "Prestonwood Farm & Wallstreet Stables": {
+   "koerper_grund": "#D7262E",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#1E8A45",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "harlekin",
+   "aermel_zweit": "#1E8A45",
+   "beschreibung": "Red, green sash, red and green diamond sleeves (Prestonwood Farm)",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
   }
