@@ -105691,6 +105691,74 @@
    "beschreibung": "royal, red punkte gross, purple sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
+  },
+  "Vorlage racingcom:30380": {
+   "koerper_grund": "#E8D702",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#005EB1",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "yellow, royal querstreifen, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:68771": {
+   "koerper_grund": "#DB8D1B",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#DB8D1B",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#DB8D1B",
+   "aermel_zweit": "#DB8D1B",
+   "beschreibung": "orange, orange sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "text": "H",
+   "text_farbe": "#FFE500"
+  },
+  "Vorlage racingcom:77223": {
+   "koerper_grund": "#80B1DC",
+   "koerper_muster": "malteserkreuz",
+   "koerper_zweit": "#D17DB6",
+   "aermel_grund": "#80B1DC",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#D17DB6",
+   "beschreibung": "aqua, mauve malteserkreuz, aqua and mauve aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:168746": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#74C7F1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#74C7F1",
+   "beschreibung": "white, black grosskaro, aqua sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:158265": {
+   "koerper_grund": "#D51C23",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "red, white scheibe, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:181870": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#A9AEC4",
+   "aermel_grund": "#52653A",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#52653A",
+   "beschreibung": "black, grey grosskaro, olive sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
   }
  },
  "pferde": {
