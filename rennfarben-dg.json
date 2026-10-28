@@ -4697,12 +4697,12 @@
   "1591713": {
    "koerper_grund": "#33D8B4",
    "koerper_muster": "epauletten",
-   "koerper_zweit": "#1A2FB8",
+   "koerper_zweit": "#061660",
    "aermel_grund": "#33D8B4",
    "aermel_muster": "einfarbig",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "türkis, dunkelblaue Schultern, türkis-dunkelblau geringelte Kappe",
-   "svg_override": "zeichnungen/dg/1591713.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-1591713.svg"
   },
   "1591714": {
    "koerper_grund": "#EE1C25",
@@ -8013,11 +8013,11 @@
    "aermel_zweit": "#F0C818",
    "aermel_dritt": "#111111",
    "aermel_grund": "#111111",
-   "koerper_muster": "wappen",
+   "koerper_muster": "einfarbig",
    "koerper_zweit": "#F0C818",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "schwarz, goldenes Wappen, gold-schw.-goldene Armb., schw. Kappe",
-   "svg_override": "zeichnungen/dg/1592753.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-1592753.svg"
   },
   "1592756": {
    "koerper_grund": "#36B94A",
@@ -12498,9 +12498,10 @@
    "koerper_muster": "einfarbig",
    "aermel_grund": "#36B94A",
    "aermel_muster": "einfarbig",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "grün, gelbe Schnüre u. Kappe",
-   "svg_override": "zeichnungen/dg/1594739.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-1594739.svg",
+   "koerper_zweit": "#FAEC1A"
   },
   "1594741": {
    "koerper_grund": "#111111",
@@ -15283,12 +15284,12 @@
   "1786705": {
    "koerper_grund": "#FAEC1A",
    "aermel_grund": "#2A86E8",
-   "koerper_muster": "rauten",
+   "koerper_muster": "raute_rahmen",
    "koerper_zweit": "#2A86E8",
    "aermel_muster": "einfarbig",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "gelb, blauer Rautenrahmen, blaue Ärmel, blau-gelb gestreifte Kappe",
-   "svg_override": "zeichnungen/dg/1786705.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-1786705.svg"
   },
   "1786724": {
    "koerper_grund": "#A0103E",
@@ -16415,9 +16416,9 @@
    "koerper_muster": "epauletten",
    "koerper_zweit": "#111111",
    "aermel_muster": "einfarbig",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "orange, schwarze Schultern, Ärmel u. Kappe",
-   "svg_override": "zeichnungen/dg/18703988.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-18703988.svg"
   },
   "1871509": {
    "koerper_grund": "#36B94A",
@@ -18428,14 +18429,14 @@
   },
   "1909773": {
    "koerper_grund": "#F0C818",
-   "aermel_grund": "#F0C818",
-   "aermel_zweit": "#2A86E8",
-   "aermel_muster": "manschetten",
-   "koerper_muster": "raute",
+   "aermel_grund": "#1737D6",
+   "aermel_zweit": "#FAEC1A",
+   "aermel_muster": "quer_gespalten",
+   "koerper_muster": "einfarbig",
    "koerper_zweit": "#2A86E8",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "gold, blauer Diamant, quer geteilte Ärmel, goldene Kappe, blaue Raute",
-   "svg_override": "zeichnungen/dg/1909773.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-1909773.svg"
   },
   "1909888": {
    "koerper_grund": "#36B94A",
@@ -20533,14 +20534,15 @@
    "svg_override": "zeichnungen/dg/23096885.svg"
   },
   "23096897": {
-   "koerper_grund": "#0E6A2A",
-   "koerper_muster": "v",
-   "koerper_zweit": "#A01E2D",
-   "aermel_grund": "#0E6A2A",
-   "aermel_muster": "einfarbig",
-   "status": "SYNCED_FROM_SITE_COLLECTION",
+   "koerper_grund": "#36B94A",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#EE1C25",
+   "aermel_grund": "#36B94A",
+   "aermel_muster": "naht",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "grün, rotes V, grüne Ärmel, rote Nähte u. Kappe",
-   "svg_override": "zeichnungen/dg/23096897.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-23096897.svg",
+   "aermel_zweit": "#EE1C25"
   },
   "23097085": {
    "koerper_grund": "#33D8B4",
@@ -25506,9 +25508,9 @@
    "aermel_grund": "#FFFFFF",
    "koerper_muster": "einfarbig",
    "aermel_muster": "einfarbig",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "grau, Pegasus u. ADEL RESORT in Weiß, weiße Ärmel, grau K., weiße Quaste",
-   "svg_override": "zeichnungen/dg/26398841.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-26398841.svg"
   },
   "26466168": {
    "koerper_grund": "#36B94A",
@@ -27560,9 +27562,9 @@
    "aermel_muster": "manschetten",
    "aermel_zweit": "#A8DAF8",
    "koerper_muster": "einfarbig",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "dunkelblau, hellblau-weißes Emblem, weiße Ärmel, hbl. Aufschl., dbl. K., w. Streifen",
-   "svg_override": "zeichnungen/dg/27439801.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-27439801.svg"
   },
   "27439805": {
    "koerper_grund": "#2A86E8",
@@ -27873,15 +27875,15 @@
    "svg_override": "zeichnungen/dg/27572624.svg"
   },
   "27583450": {
-   "koerper_grund": "#FDD434",
+   "koerper_grund": "#F0C818",
    "koerper_muster": "stern",
-   "koerper_zweit": "#B01E6E",
-   "aermel_grund": "#FDD434",
+   "koerper_zweit": "#9B1B9E",
+   "aermel_grund": "#F0C818",
    "aermel_muster": "manschetten",
-   "aermel_zweit": "#B01E6E",
-   "status": "SYNCED_FROM_SITE_COLLECTION",
+   "aermel_zweit": "#A87DF0",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "gold, lila Stern, Stallname, lila Aufschläge, goldene Kappe, lila Stern",
-   "svg_override": "zeichnungen/dg/27583450.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-27583450.svg"
   },
   "27593828": {
    "koerper_grund": "#2A86E8",
@@ -29761,13 +29763,13 @@
    "koerper_grund": "#36B94A",
    "aermel_grund": "#EE1C25",
    "aermel_zweit": "#36B94A",
-   "aermel_muster": "manschetten",
+   "aermel_muster": "quer_gespalten",
    "koerper_muster": "band_zwei",
    "koerper_zweit": "#FFFFFF",
    "koerper_dritt": "#EE1C25",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "grün, weiß-roter Gürtel, rot-grün quer geteilte Ärmel, grüne K., rote Ring",
-   "svg_override": "zeichnungen/dg/31000773.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-31000773.svg"
   },
   "31000838": {
    "koerper_grund": "#888888",
@@ -30017,14 +30019,14 @@
   },
   "3124141": {
    "koerper_grund": "#B4B4B4",
-   "koerper_muster": "diagonalstreifen",
+   "koerper_muster": "einfarbig",
    "koerper_zweit": "#F78CD8",
    "aermel_grund": "#B4B4B4",
-   "aermel_zweit": "#F78CD8",
-   "aermel_muster": "laengsstreifen",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "aermel_zweit": "#E990DA",
+   "aermel_muster": "quer_gespalten",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "silbergrau-rosa schräg gestreift, geteilte Ärmel, rosa K., sgr. Schirm u. Quaste",
-   "svg_override": "zeichnungen/dg/3124141.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-3124141.svg"
   },
   "31260468": {
    "koerper_grund": "#33D8B4",
@@ -31847,9 +31849,9 @@
    "aermel_grund": "#1A2FB8",
    "koerper_muster": "einfarbig",
    "aermel_muster": "einfarbig",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "weiß, dunkelblaues Logo u. Ärmel, weiße Kappe, dunkelblauer Schirm",
-   "svg_override": "zeichnungen/dg/34505727.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-34505727.svg"
   },
   "34533818": {
    "koerper_grund": "#FAEC1A",
@@ -32529,9 +32531,9 @@
    "aermel_muster": "manschetten",
    "aermel_zweit": "#1A2FB8",
    "koerper_muster": "einfarbig",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "orange, dunkelblaues Emblem u. Aufschläge, orange Kappe",
-   "svg_override": "zeichnungen/dg/35699321.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-35699321.svg"
   },
   "35714011": {
    "koerper_grund": "#2A86E8",
@@ -33411,9 +33413,9 @@
    "aermel_grund": "#FAEC1A",
    "koerper_muster": "einfarbig",
    "aermel_muster": "einfarbig",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "gelb, dunkelblaues Emblem, gelbe Ärmel u. Kappe",
-   "svg_override": "zeichnungen/dg/37024252.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-37024252.svg"
   },
   "37045570": {
    "koerper_grund": "#A87DF0",
@@ -33811,14 +33813,15 @@
    "svg_override": "zeichnungen/dg/37419485.svg"
   },
   "37452323": {
-   "koerper_grund": "#0E3A2C",
-   "koerper_muster": "krone",
+   "koerper_grund": "#0E7A2C",
+   "koerper_muster": "einfarbig",
    "koerper_zweit": "#D8B800",
-   "aermel_grund": "#0E3A2C",
-   "aermel_muster": "aermelstreifen",
+   "aermel_grund": "#0E7A2C",
+   "aermel_muster": "einfarbig",
    "aermel_zweit": "#FAEC1A",
-   "status": "DRAWN_FROM_IMAGE",
-   "svg_override": "zeichnungen/dg/37452323.svg"
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/korr-dg-37452323.svg",
+   "beschreibung_de": "dunkelgrün, goldene Krone, dunkelgrüne Ärmel, ein goldener Streifen, dgr. K."
   },
   "37464339": {
    "koerper_grund": "#A0103E",
@@ -34469,14 +34472,14 @@
   },
   "3999127": {
    "koerper_grund": "#FFFFFF",
-   "aermel_grund": "#111111",
-   "aermel_muster": "manschetten",
-   "aermel_zweit": "#36B94A",
-   "koerper_muster": "dreieck",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#278B36",
+   "koerper_muster": "einfarbig",
    "koerper_zweit": "#111111",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "weiß, schwarz-grünes Dreieck, Ärmel m. grün-schw. Streifen, gev. Kappe",
-   "svg_override": "zeichnungen/dg/3999127.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-3999127.svg"
   },
   "3999545": {
    "koerper_grund": "#C8C8C8",
@@ -35677,9 +35680,9 @@
    "aermel_muster": "aermelstreifen",
    "aermel_zweit": "#0E7A2C",
    "koerper_muster": "einfarbig",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "weiß, grünes Emblem, grüne Ärmel, dgr.-weiße Streifen, geringelte Kappe",
-   "svg_override": "zeichnungen/dg/4835336.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-4835336.svg"
   },
   "4835913": {
    "koerper_grund": "#EE1C25",
@@ -36849,9 +36852,9 @@
    "koerper_zweit": "#36B94A",
    "aermel_grund": "#B4B4B4",
    "aermel_muster": "einfarbig",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "beschreibung_de": "silbergrau-grün gevierteilt, Emblem, sgr. Ärmel, karierte Kappe",
-   "svg_override": "zeichnungen/dg/6304498.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-6304498.svg"
   },
   "6304501": {
    "koerper_grund": "#FAEC1A",
@@ -39354,6 +39357,248 @@
   },
   "38798328": {
    "svg_override": "zeichnungen/dg/38798328.svg"
+  },
+  "38547759": {
+   "koerper_grund": "#33D8B4",
+   "aermel_grund": "#33D8B4",
+   "koerper_muster": "einfarbig",
+   "aermel_muster": "einfarbig",
+   "kragen_grund": "#F0C818",
+   "farben_offiziell": "türkis, kl. goldene Sterne, türkis Ärmel, türkis-gold gevierteilte Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/af47f7146660.svg",
+   "dg_ids": [
+    "38547759"
+   ],
+   "beschreibung_de": "türkis, kl. goldene Sterne, türkis Ärmel, türkis-gold gevierteilte Kappe"
+  },
+  "1859785": {
+   "koerper_grund": "#1A2FB8",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#A8DAF8",
+   "aermel_grund": "#1A2FB8",
+   "aermel_muster": "einfarbig",
+   "farben_offiziell": "dunkelblau, hellblauer Stern, dunkelblaue Kappe, hellblaue Sterne",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/52b1aaa57631.svg",
+   "dg_ids": [
+    "1859785"
+   ],
+   "beschreibung_de": "dunkelblau, hellblauer Stern, dunkelblaue Kappe, hellblaue Sterne"
+  },
+  "2656577": {
+   "koerper_grund": "#EE1C25",
+   "aermel_grund": "#B4B4B4",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#EE1C25",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#B4B4B4",
+   "farben_offiziell": "rot, silbergraue Sterne, sgr. Ärmel, rote Sterne, rote K., sgr. Stern",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/c95270f20149.svg",
+   "dg_ids": [
+    "2656577"
+   ],
+   "beschreibung_de": "rot, silbergraue Sterne, sgr. Ärmel, rote Sterne, rote K., sgr. Stern"
+  },
+  "36846759": {
+   "koerper_grund": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_zweit": "#B4B4B4",
+   "aermel_muster": "quer_gespalten",
+   "koerper_muster": "zwei_streifen",
+   "koerper_zweit": "#B4B4B4",
+   "farben_offiziell": "schwarz, zwei silbergraue Streifen, schw.-sgr. quer get. Ärmel, schw. K.",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/4aa504a71259.svg",
+   "dg_ids": [
+    "36846759"
+   ],
+   "beschreibung_de": "schwarz, zwei silbergraue Streifen, schw.-sgr. quer get. Ärmel, schw. K."
+  },
+  "17828462": {
+   "koerper_grund": "#FF7A1E",
+   "text_farbe": "#111111",
+   "aermel_grund": "#FF7A1E",
+   "aermel_zweit": "#36B94A",
+   "aermel_muster": "quer_gespalten",
+   "koerper_muster": "band",
+   "koerper_zweit": "#36B94A",
+   "farben_offiziell": "orange, grüner Gürtel, Name in Schwarz, quer get. Ärmel, geviert. Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/537623918687.svg",
+   "dg_ids": [
+    "17828462"
+   ],
+   "beschreibung_de": "orange, grüner Gürtel, Name in Schwarz, quer get. Ärmel, geviert. Kappe"
+  },
+  "32684244": {
+   "koerper_grund": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_zweit": "#A87DF0",
+   "aermel_muster": "quer_gespalten",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#A87DF0",
+   "farben_offiziell": "weiß, lila Nähte, weiß-lila quer geteilte Ärmel, weiß-lila gestreifte Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/1b352b00eafd.svg",
+   "dg_ids": [
+    "32684244"
+   ],
+   "beschreibung_de": "weiß, lila Nähte, weiß-lila quer geteilte Ärmel, weiß-lila gestreifte Kappe"
+  },
+  "37926114": {
+   "koerper_grund": "#F78CD8",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#888888",
+   "aermel_grund": "#F78CD8",
+   "aermel_muster": "einfarbig",
+   "farben_offiziell": "rosa, graue Schultern u. Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/236d8a1d3af8.svg",
+   "dg_ids": [
+    "37926114"
+   ],
+   "beschreibung_de": "rosa, graue Schultern u. Kappe"
+  },
+  "34964067": {
+   "koerper_grund": "#A8DAF8",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#A0103E",
+   "aermel_grund": "#A8DAF8",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#8B2158",
+   "farben_offiziell": "hellblau, bordeauxroter Schmetterling, bordeauxr.-hbl.-bord. Armbinden, hbl. K., bord. Sterne",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/68eeac3b815e.svg",
+   "dg_ids": [
+    "34964067"
+   ],
+   "beschreibung_de": "hellblau, bordeauxroter Schmetterling, bordeauxr.-hbl.-bord. Armbinden, hbl. K., bord. Sterne"
+  },
+  "4561726": {
+   "koerper_grund": "#B00010",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#B4B4B4",
+   "aermel_grund": "#B00010",
+   "aermel_muster": "einfarbig",
+   "farben_offiziell": "dunkelrot, silbergraue Nähte, Gauklersymbole, rote K., sgr. Stern",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/23b35d5aaa8c.svg",
+   "dg_ids": [
+    "4561726"
+   ],
+   "beschreibung_de": "dunkelrot, silbergraue Nähte, Gauklersymbole, rote K., sgr. Stern"
+  },
+  "37523590": {
+   "koerper_grund": "#EE1C25",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#EE1C25",
+   "aermel_muster": "einfarbig",
+   "farben_offiziell": "rot, weiß-rot-weiße Raute, weiße Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/2de27404b85c.svg",
+   "dg_ids": [
+    "37523590"
+   ],
+   "beschreibung_de": "rot, weiß-rot-weiße Raute, weiße Kappe"
+  },
+  "36594161": {
+   "koerper_grund": "#0E7A2C",
+   "aermel_grund": "#0E7A2C",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#36B94A",
+   "koerper_muster": "band",
+   "koerper_zweit": "#36B94A",
+   "farben_offiziell": "dunkelgrün, grüner Gürtel u. Armbinden, grüne Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/c3e3fd025b81.svg",
+   "dg_ids": [
+    "36594161"
+   ],
+   "beschreibung_de": "dunkelgrün, grüner Gürtel u. Armbinden, grüne Kappe"
+  },
+  "38726565": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "gespalten",
+   "koerper_zweit": "#EE1C25",
+   "aermel_grund": "#2A86E8",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFFFFF",
+   "farben_offiziell": "rot-weiß längs geteilt, blaue Ärmel, weiße Armbinden u. Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/6961b7f31b78.svg",
+   "dg_ids": [
+    "38726565"
+   ],
+   "beschreibung_de": "rot-weiß längs geteilt, blaue Ärmel, weiße Armbinden u. Kappe"
+  },
+  "37125806": {
+   "koerper_grund": "#111111",
+   "aermel_grund": "#F0C818",
+   "aermel_zweit": "#111111",
+   "aermel_muster": "karo",
+   "koerper_muster": "kreuzbaender_schmal",
+   "koerper_zweit": "#F0C818",
+   "farben_offiziell": "schwarz, goldene Schärpen über Kreuz, gold-schwarz karierte Ärmel u K.",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/b919c8cff6cc.svg",
+   "dg_ids": [
+    "37125806"
+   ],
+   "beschreibung_de": "schwarz, goldene Schärpen über Kreuz, gold-schwarz karierte Ärmel u K."
+  },
+  "38220697": {
+   "koerper_grund": "#008B8B",
+   "aermel_grund": "#008B8B",
+   "aermel_zweit": "#111111",
+   "aermel_muster": "quer_gespalten",
+   "koerper_muster": "einfarbig",
+   "farben_offiziell": "blau, schwarze Mühlenflügel, blau-schwarz quer get. Ärmel, schwarze K.",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/b0b726c8e6a3.svg",
+   "dg_ids": [
+    "38220697"
+   ],
+   "beschreibung_de": "blau, schwarze Mühlenflügel, blau-schwarz quer get. Ärmel, schwarze K."
+  },
+  "26793078": {
+   "koerper_grund": "#2A86E8",
+   "aermel_grund": "#2A86E8",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#FFFFFF",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FFFFFF",
+   "farben_offiziell": "blau, weiße Schultern u. Aufschläge, blaue Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/e053dde3adb3.svg",
+   "dg_ids": [
+    "26793078"
+   ],
+   "beschreibung_de": "blau, weiße Schultern u. Aufschläge, blaue Kappe"
+  },
+  "37498156": {
+   "koerper_grund": "#1A2FB8",
+   "text": "Name",
+   "text_farbe": "#FAEC1A",
+   "aermel_grund": "#FAEC1A",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#1A2FB8",
+   "koerper_muster": "einfarbig",
+   "svg_override": "zeichnungen/20261025/korr-dg-37498156.svg",
+   "beschreibung_de": "dunkelblau, Name in Gelb, gelbe Ärmel, dunkelblaue Sterne u. Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE"
+  },
+  "2571167": {
+   "koerper_grund": "#1A2FB8",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#111111",
+   "koerper_muster": "einfarbig",
+   "svg_override": "zeichnungen/20261025/korr-dg-2571167.svg",
+   "beschreibung_de": "dunkelblau, weiß-rot-schwarze Ärmel, schw. K., roter Punkt, weiße Quaste",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE"
   }
  }
 }

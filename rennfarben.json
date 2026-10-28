@@ -950,12 +950,14 @@
    "koerper_grund": "#111111",
    "koerper_muster": "gespalten",
    "koerper_zweit": "#FFFFFF",
-   "aermel_grund": "#FFFFFF",
+   "aermel_grund": "#111111",
    "aermel_muster": "einfarbig",
-   "aermel_zweit": "#FFFFFF",
+   "aermel_zweit": "#111111",
    "beschreibung": "black, white gespalten, white sleeves",
-   "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [],
+   "svg_override": "zeichnungen/20261025/korr-owner-2ba04398bbfa.svg",
+   "farben_offiziell": "Mi blanc mi noir m inversees blanc/noir t rouge"
   },
   "A Pazman, A Pazman": {
    "koerper_grund": "#175DAA",
@@ -1775,14 +1777,16 @@
    ]
   },
   "Aga Khan Studs Scea": {
-   "koerper_grund": "#587C41",
+   "koerper_grund": "#278B36",
    "koerper_muster": "epauletten",
-   "koerper_zweit": "#882E30",
-   "aermel_grund": "#587C41",
+   "koerper_zweit": "#EE1C25",
+   "aermel_grund": "#278B36",
    "aermel_muster": "einfarbig",
-   "aermel_zweit": "#587C41",
+   "aermel_zweit": "#278B36",
    "beschreibung": "olive, maroon epauletten, olive sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/korr-owner-b994b3e8c06a.svg",
+   "farben_offiziell": "Verte epaulettes rouges t verte"
   },
   "Against All Odds Partnership": {
    "koerper_grund": "#FA0017",
@@ -7694,17 +7698,19 @@
    "aliase": []
   },
   "Brant/magnier/tabor/smith": {
-   "koerper_grund": "#004529",
-   "koerper_muster": "joch",
-   "koerper_zweit": "#90EE90",
-   "aermel_grund": "#004529",
+   "koerper_grund": "#124B2A",
+   "koerper_muster": "dreieck_unten_gross",
+   "koerper_zweit": "#A7DF74",
+   "aermel_grund": "#124B2A",
    "aermel_muster": "armbinde",
-   "aermel_zweit": "#90EE90",
-   "status": "DRAWN_FROM_IMAGE",
+   "aermel_zweit": "#A7DF74",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "bild_sha256": "ed2d70e2d41a61a86058df95a109369d57371ba2ce192791927f74e2e5e368b9",
    "sicher": true,
    "aliase": [],
-   "geprueft": "2026-10-03: official declared Arc field; full source image inspected"
+   "geprueft": "2026-10-03: official declared Arc field; full source image inspected",
+   "svg_override": "zeichnungen/20261025/korr-owner-dfbcab21c597.svg",
+   "farben_offiziell": "Gros-.vert embleme et brassvert-clair t gros-vert"
   },
   "Brant/magnier/tabor/smith/westerberg": {
    "koerper_grund": "#28503A",
@@ -9288,16 +9294,16 @@
    "svg_override": "zeichnungen/lyon-20261011-c-c-boutin.svg"
   },
   "C. Conde Ferreira": {
-   "koerper_grund": "#171717",
+   "koerper_grund": "#111111",
    "koerper_muster": "naht",
    "koerper_zweit": "#1737D6",
-   "aermel_grund": "#171717",
+   "aermel_grund": "#111111",
    "aermel_muster": "naht",
    "aermel_zweit": "#1737D6",
    "beschreibung": "Schwarz, Nähte in Blau; Ärmel Schwarz, Nähte in Blau (nach offizieller Rennfarbenabbildung)",
-   "farben_offiziell": "Schwarz, Nähte in Blau; Ärmel Schwarz, Nähte in Blau (nach offizieller Rennfarbenabbildung)",
+   "farben_offiziell": "Noire coutures bleues t noire une etoile bleue",
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
-   "svg_override": "zeichnungen/lyon-20261011-c-conde-ferreira.svg"
+   "svg_override": "zeichnungen/20261025/korr-owner-ead718abfb11.svg"
   },
   "C. Delebarre": {
    "koerper_grund": "#F2EA15",
@@ -11287,20 +11293,20 @@
   },
   "Cometica AG": {
    "beschreibung": "yellow, magenta star, magenta cuffs",
-   "status": "geprueft",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "aliase": [],
-   "koerper_grund": "#FDD434",
+   "koerper_grund": "#F0C818",
    "koerper_muster": "stern",
-   "koerper_zweit": "#B01E6E",
-   "aermel_grund": "#FDD434",
+   "koerper_zweit": "#9B1B9E",
+   "aermel_grund": "#F0C818",
    "aermel_muster": "manschetten",
-   "aermel_zweit": "#B01E6E",
+   "aermel_zweit": "#A87DF0",
    "farben_offiziell": "gold, lila Stern, Stallname, lila Aufschläge, goldene Kappe, lila Stern",
    "dg_ids": [
     "27583450"
    ],
    "geprueft_am": "2026-10-23",
-   "svg_override": "zeichnungen/dg/27583450.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-27583450.svg"
   },
   "Comhra Partnership": {
    "koerper_grund": "#032642",
@@ -16291,15 +16297,15 @@
   },
   "Ecurie Nicolato": {
    "koerper_grund": "#E990DA",
-   "koerper_muster": "spitzen",
-   "koerper_zweit": "#6B1798",
-   "aermel_grund": "#858585",
+   "koerper_muster": "chevrons_oben",
+   "koerper_zweit": "#A87DF0",
+   "aermel_grund": "#B4B4B4",
    "aermel_muster": "einfarbig",
-   "aermel_zweit": "#858585",
+   "aermel_zweit": "#B4B4B4",
    "beschreibung": "Rosa, Winkel in Violett; Ärmel Grau (nach offizieller Rennfarbenabbildung)",
-   "farben_offiziell": "Rosa, Winkel in Violett; Ärmel Grau (nach offizieller Rennfarbenabbildung)",
+   "farben_offiziell": "Chevronnee rose & violet m grises t ecart rose & violet",
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
-   "svg_override": "zeichnungen/lyon-20261011-ecurie-nicolato.svg"
+   "svg_override": "zeichnungen/20261025/korr-owner-83fffa336e8e.svg"
   },
   "Ecurie Nicolato/A. Chopard": {
    "koerper_grund": "#ED8CC8",
@@ -17484,12 +17490,14 @@
   "F Blichfeldt": {
    "koerper_grund": "#FFFFFF",
    "koerper_muster": "querstreifen",
-   "koerper_zweit": "#B7D6E3",
-   "aermel_grund": "#B7D6E3",
+   "koerper_zweit": "#8BC4F1",
+   "aermel_grund": "#8BC4F1",
    "aermel_muster": "einfarbig",
-   "aermel_zweit": "#B7D6E3",
+   "aermel_zweit": "#8BC4F1",
    "beschreibung": "white, lightblue querstreifen, lightblue sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/korr-owner-e7f7996c35b0.svg",
+   "farben_offiziell": "Cerclee blanc et bleu-clair m bleu-clair t jaune"
   },
   "F C Noffke": {
    "beschreibung": "Green, yellow cross, green sleeves",
@@ -23054,15 +23062,17 @@
    "aliase": []
   },
   "H Boudouaia": {
-   "koerper_grund": "#FEC8CB",
-   "koerper_muster": "v_gross",
-   "koerper_zweit": "#90EE90",
-   "aermel_grund": "#FEC8CB",
+   "koerper_grund": "#E990DA",
+   "koerper_muster": "chevrons_oben",
+   "koerper_zweit": "#A7DF74",
+   "aermel_grund": "#E990DA",
    "aermel_muster": "sterne",
-   "aermel_zweit": "#90EE90",
+   "aermel_zweit": "#A7DF74",
    "beschreibung": "cream, lightgreen v gross, cream and lightgreen sterne sleeves",
-   "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [],
+   "svg_override": "zeichnungen/20261025/korr-owner-76391399efc3.svg",
+   "farben_offiziell": "Chevronnee rose et vert-cl m & t roses etoiles vert-cl"
   },
   "H Boutin": {
    "koerper_grund": "#FA0017",
@@ -25992,15 +26002,17 @@
    "herkunft": "GaloppFacts (RaceBets-Vorlage), uebernommen 23.10.2026"
   },
   "I Al Sagar": {
-   "koerper_grund": "#004529",
-   "koerper_muster": "einfarbig",
-   "aermel_grund": "#004529",
+   "koerper_grund": "#124B2A",
+   "koerper_muster": "naht",
+   "aermel_grund": "#124B2A",
    "aermel_muster": "sterne",
    "aermel_zweit": "#FFFFFF",
-   "koerper_zweit": "#004529",
+   "koerper_zweit": "#FFFFFF",
    "beschreibung": "darkgreen, darkgreen and white sterne sleeves",
-   "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [],
+   "svg_override": "zeichnungen/20261025/korr-owner-0b7c2f9c29bc.svg",
+   "farben_offiziell": "Gr-.vert cout blches m gr-vert etoiles blches t gr-vert"
   },
   "I Bruce": {
    "koerper_grund": "#742780",
@@ -26886,14 +26898,16 @@
    ]
   },
   "J Abdullah": {
-   "koerper_grund": "#385888",
-   "koerper_muster": "kreuzband_r",
-   "koerper_zweit": "#FFFFFF",
-   "aermel_grund": "#385888",
-   "aermel_muster": "aermelstreifen",
+   "koerper_grund": "#061660",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#061660",
+   "aermel_grund": "#061660",
+   "aermel_muster": "laengsstreifen",
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "teal, white kreuzband r, teal and white aermelstreifen sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/korr-owner-7b8ed5e84577.svg",
+   "farben_offiziell": "Gros-bleu m rayees blanc et gros-bleu t blanche"
   },
   "J Adam, Extential Racing, Ridgeport, Stevenson Family, P Hunt, P Marron, P Mclean, C Muirhead, I Russell, S Bandick, M Crowhurst, K Knight, K Setford, A Muller, V Corry, A Stewart": {
    "koerper_grund": "#085EA3",
@@ -39025,16 +39039,16 @@
    "aliase": []
   },
   "MJ Racing": {
-   "koerper_grund": "#AEB5BD",
-   "koerper_muster": "chevron",
-   "koerper_zweit": "#802CA9",
-   "aermel_grund": "#AEB5BD",
+   "koerper_grund": "#B4B4B4",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#A87DF0",
+   "aermel_grund": "#B4B4B4",
    "aermel_muster": "einfarbig",
-   "aermel_zweit": "#AEB5BD",
+   "aermel_zweit": "#B4B4B4",
    "beschreibung": "Grise. .un chevron violet t bleu-clair",
    "farben_offiziell": "Grise. .un chevron violet t bleu-clair",
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
-   "svg_override": "zeichnungen/chantilly-20261010-mj-racing.svg"
+   "svg_override": "zeichnungen/20261025/korr-owner-13c08b393ce9.svg"
   },
   "MJ Racing u. Soc. d'Entre. Ph. Decouz": {
    "koerper_grund": "#888888",
@@ -42667,14 +42681,16 @@
   "Ms Janine Byrne": {
    "beschreibung": "White, dark blue cross",
    "koerper_grund": "#FFFFFF",
-   "koerper_muster": "kreuz",
-   "koerper_zweit": "#0E4C80",
+   "koerper_muster": "lothringerkreuz",
+   "koerper_zweit": "#1737D6",
    "aermel_grund": "#FFFFFF",
    "aermel_muster": "einfarbig",
-   "aermel_zweit": null,
-   "status": "DRAWN_FROM_IMAGE",
+   "aermel_zweit": "#FFFFFF",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "sicher": true,
-   "aliase": []
+   "aliase": [],
+   "svg_override": "zeichnungen/20261025/korr-owner-d4b465b58f24.svg",
+   "farben_offiziell": "Blanche cx de lorraine blue t noire"
   },
   "Ms Leora Judah": {
    "koerper_grund": "#FFFFFF",
@@ -47169,14 +47185,16 @@
    "status": "DRAWN_FROM_IMAGE"
   },
   "Ph betts": {
-   "koerper_grund": "#4F559F",
-   "koerper_muster": "zwei_streifen",
-   "koerper_zweit": "#F3EB5A",
-   "aermel_grund": "#4F559F",
+   "koerper_grund": "#FAEC1A",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#1737D6",
+   "aermel_grund": "#1737D6",
    "aermel_muster": "sterne",
-   "aermel_zweit": "#F3EB5A",
+   "aermel_zweit": "#FAEC1A",
    "beschreibung": "royal, yellow zwei streifen, royal and yellow sterne sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/korr-owner-aecbee985efc.svg",
+   "farben_offiziell": "Jaune bretelles bles m et t bleues etoiles jaunes"
   },
   "Phil Cunningham": {
    "koerper_grund": "#FFFFFF",
@@ -50937,15 +50955,17 @@
    "aliase": []
   },
   "Rockcliffe Stud": {
-   "koerper_grund": "#FDFDFC",
-   "koerper_muster": "kreuzbaender",
-   "aermel_grund": "#032642",
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "kreuzbaender_schmal",
+   "aermel_grund": "#061660",
    "aermel_muster": "einfarbig",
-   "koerper_zweit": "#04243D",
-   "aermel_zweit": "#032642",
+   "koerper_zweit": "#061660",
+   "aermel_zweit": "#061660",
    "beschreibung": "white, navy kreuzbaender, navy sleeves",
-   "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [],
+   "svg_override": "zeichnungen/20261025/korr-owner-44c56ab18818.svg",
+   "farben_offiziell": "Blanche croix de st andre gr-bl m et t gros-bleu"
   },
   "Rocker O Ranch Llc": {
    "koerper_grund": "#FFFFFF",
@@ -51855,10 +51875,12 @@
    "koerper_zweit": "#FFFFFF",
    "aermel_grund": "#FFFFFF",
    "aermel_muster": "querstreifen",
-   "aermel_zweit": "#ADD7E6",
+   "aermel_zweit": "#8BC4F1",
    "beschreibung": "black, white sterne, white and lightblue querstreifen sleeves",
-   "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [],
+   "svg_override": "zeichnungen/20261025/korr-owner-d9d56e38dcac.svg",
+   "farben_offiziell": "Noire .etoi blches m cer blanc/bl-cl t noire etoi blches"
   },
   "S Olive, A Olive": {
    "koerper_grund": "#E2D002",
@@ -52471,12 +52493,16 @@
   "Sarah Weis": {
    "koerper_grund": "#1A2FB8",
    "aermel_grund": "#FFFFFF",
-   "aermel_muster": "manschetten",
-   "aermel_zweit": "#EE1C25",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#111111",
    "koerper_muster": "einfarbig",
    "beschreibung": "dunkelblau, weiß-rot-schwarze Ärmel, schw. K., roter Punkt, weiße Quaste",
    "farben_offiziell": "dunkelblau, weiß-rot-schwarze Ärmel, schw. K., roter Punkt, weiße Quaste",
-   "status": "DRAWN_FROM_OFFICIAL_WORDING"
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/korr-dg-2571167.svg",
+   "dg_ids": [
+    "2571167"
+   ]
   },
   "Sarl Darpat France": {
    "beschreibung": "Yellow, turquoise sleeves, white stripes",
@@ -54826,16 +54852,16 @@
    "aliase": []
   },
   "SPARKLING STAR": {
-   "koerper_grund": "#858585",
+   "koerper_grund": "#B4B4B4",
    "koerper_muster": "quartiert",
    "koerper_zweit": "#1737D6",
-   "aermel_grund": "#858585",
-   "aermel_muster": "gespalten",
-   "aermel_zweit": "#1737D6",
+   "aermel_grund": "#1737D6",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#B4B4B4",
    "beschreibung": "Ecart gris & bl m mi-gris mi-bleu t ecart gris & bleu",
    "farben_offiziell": "Ecart gris & bl m mi-gris mi-bleu t ecart gris & bleu",
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
-   "svg_override": "zeichnungen/chantilly-20261015-sparkling-star.svg"
+   "svg_override": "zeichnungen/20261025/korr-owner-c04500df1622.svg"
   },
   "Sparta Racing, Studleaf, St James Parents, L Thompson, O Favaloro, A Holmes, S Ridgway, D Pope, D Silver, D Wallace, R Thompson, R Wallace, S Douglas, T Stewart, M Pollard, M Stewart, M Wallace, P Rechter, J Stewart": {
    "koerper_grund": "#74C6F0",
@@ -59918,21 +59944,22 @@
    "herkunft": "GaloppFacts (RaceBets-Vorlage), uebernommen 23.10.2026"
   },
   "Team Valor": {
-   "koerper_grund": "#008D53",
+   "koerper_grund": "#36B94A",
    "koerper_muster": "v_gross",
-   "aermel_grund": "#008D53",
-   "aermel_muster": "einfarbig",
-   "koerper_zweit": "#F80017",
-   "aermel_zweit": "#008D53",
+   "aermel_grund": "#36B94A",
+   "aermel_muster": "naht",
+   "koerper_zweit": "#EE1C25",
+   "aermel_zweit": "#EE1C25",
    "beschreibung": "emerald, red v gross, emerald sleeves",
-   "status": "DRAWN_FROM_IMAGE",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "aliase": [
     "Team Valor/England"
    ],
    "dg_ids": [
     "23096897"
    ],
-   "svg_override": "zeichnungen/dg/23096897.svg"
+   "svg_override": "zeichnungen/20261025/korr-dg-23096897.svg",
+   "farben_offiziell": "grün, rotes V, grüne Ärmel, rote Nähte u. Kappe"
   },
   "Team Valor 1": {
    "koerper_grund": "#008D53",
@@ -61193,18 +61220,20 @@
   "Tony Bloom & Ian McAleavy": {
    "beschreibung": "Royal blue, white stripe, white sleeves with royal blue armlets, royal blue cap",
    "silk_id": 36,
-   "status": "DRAWN_FROM_WORDING",
-   "koerper_grund": "#1B3A93",
-   "koerper_muster": "streifen",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "koerper_grund": "#1737D6",
+   "koerper_muster": "naht",
    "koerper_zweit": "#FFFFFF",
-   "aermel_grund": "#FFFFFF",
-   "aermel_muster": "armringe",
-   "aermel_zweit": "#1B3A93",
+   "aermel_grund": "#1737D6",
+   "aermel_muster": "naht",
+   "aermel_zweit": "#FFFFFF",
    "kappe_grund": "#1B3A93",
    "kappe_muster": "einfarbig",
    "kappe_zweit": "",
    "sicher": true,
-   "aliase": []
+   "aliase": [],
+   "svg_override": "zeichnungen/20261025/korr-owner-9bebbb0226b1.svg",
+   "farben_offiziell": "Bleu .coutures blanches t bleu 1 etoile blanche"
   },
   "Tony Perkins & Partners": {
    "koerper_grund": "#FEFE00",
@@ -97471,15 +97500,17 @@
   },
   "Wathnan Racing": {
    "beschreibung": "Blue, beige sleeves",
-   "status": "DRAWN_FROM_IMAGE",
-   "koerper_grund": "#4858A8",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "koerper_grund": "#1737D6",
    "koerper_muster": "einfarbig",
-   "koerper_zweit": null,
-   "aermel_grund": "#D8B888",
+   "koerper_zweit": "#1737D6",
+   "aermel_grund": "#FAEC1A",
    "aermel_muster": "einfarbig",
-   "aermel_zweit": null,
+   "aermel_zweit": "#FAEC1A",
    "sicher": true,
-   "aliase": []
+   "aliase": [],
+   "svg_override": "zeichnungen/20261025/korr-owner-5cb5275e9fd4.svg",
+   "farben_offiziell": "Bleue m or t rouge"
   },
   "Watson, Karl, Pegram, Michael E And Weitman, Paul": {
    "koerper_grund": "#FA0017",
@@ -97602,7 +97633,7 @@
   },
   "Wertheimer & Frere": {
    "beschreibung": "Bleue coutures m et t blanches",
-   "koerper_grund": "#4FA9E2",
+   "koerper_grund": "#1737D6",
    "koerper_muster": "naht",
    "koerper_zweit": "#FFFFFF",
    "aermel_grund": "#FFFFFF",
@@ -97616,12 +97647,13 @@
    ],
    "svg": "SVG/Wertheimer & Frere.svg",
    "farben_offiziell": "Bleue coutures m et t blanches",
-   "svg_override": "zeichnungen/chantilly-20261010-wertheimer-frere.svg",
+   "svg_override": "zeichnungen/20261025/korr-owner-4aa4f475d0e7.svg",
    "silk_id": 29,
    "sicher": true,
    "kappe_grund": "#FFFFFF",
    "kappe_muster": "einfarbig",
-   "kappe_zweit": ""
+   "kappe_zweit": "",
+   "aermel_zweit": "#FFFFFF"
   },
   "Wertheimer & Frere [Goldikova 2008–2011]": {
    "beschreibung": "Royal-blue jacket, white seams and sleeves.",
@@ -100715,7 +100747,7 @@
    "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
   },
   "Rennstall Adventskonzert.de": {
-   "koerper_grund": "#14206E",
+   "koerper_grund": "#1A2FB8",
    "text": "Name",
    "text_farbe": "#FAEC1A",
    "aermel_grund": "#FAEC1A",
@@ -100723,8 +100755,13 @@
    "aermel_zweit": "#1A2FB8",
    "koerper_muster": "einfarbig",
    "beschreibung": "dunkelblau, Name in Gelb, gelbe Ärmel, dunkelblaue Sterne u. Kappe",
-   "status": "DRAWN_FROM_DESCRIPTION",
-   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026"
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "herkunft": "Mac-Ordner Rennfarben (Fantasy Galopp / Renntag-Importe), übernommen 23.10.2026",
+   "svg_override": "zeichnungen/20261025/korr-dg-37498156.svg",
+   "farben_offiziell": "dunkelblau, Name in Gelb, gelbe Ärmel, dunkelblaue Sterne u. Kappe",
+   "dg_ids": [
+    "37498156"
+   ]
   },
   "Stall MaMö": {
    "koerper_grund": "#F78CD8",
@@ -100923,15 +100960,17 @@
   },
   "Smith/magnier/tabor/merri": {
    "beschreibung": "Purple, white seams",
-   "status": "DRAWN_FROM_IMAGE",
-   "koerper_grund": "#2A0070",
-   "koerper_muster": "panelnaehte",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "koerper_grund": "#A87DF0",
+   "koerper_muster": "naht",
    "koerper_zweit": "#FFFFFF",
-   "aermel_grund": "#2A0070",
-   "aermel_muster": "naht",
+   "aermel_grund": "#A87DF0",
+   "aermel_muster": "laengsstreifen",
    "aermel_zweit": "#FFFFFF",
    "sicher": true,
-   "aliase": []
+   "aliase": [],
+   "svg_override": "zeichnungen/20261025/korr-owner-0ba8c4c3b49b.svg",
+   "farben_offiziell": "Violette cout blc m rayviolet et blc t violette"
   },
   "I  Alsagar": {
    "beschreibung": "Emerald green, white seams, white stars on sleeves",
@@ -101631,15 +101670,17 @@
   },
   "Akela Thoroughbreds Limited": {
    "beschreibung": "Light blue, dark blue seams, dark blue sleeves, light blue diabolo",
-   "status": "DRAWN_FROM_IMAGE",
-   "koerper_grund": "#A8D0E0",
-   "koerper_muster": "panelnaehte",
-   "koerper_zweit": "#002040",
-   "aermel_grund": "#002040",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "koerper_grund": "#8BC4F1",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#061660",
+   "aermel_grund": "#061660",
    "aermel_muster": "diabolo",
-   "aermel_zweit": "#A8D0E0",
+   "aermel_zweit": "#8BC4F1",
    "sicher": true,
-   "aliase": []
+   "aliase": [],
+   "svg_override": "zeichnungen/20261025/korr-owner-982ca30b7957.svg",
+   "farben_offiziell": "Bl-cl. .cout gr-bl m diabolo t ecart bl-cl /gr-bl"
   },
   "J C Smith": {
    "beschreibung": "Purple, light blue V, purple sleeves",
@@ -101911,14 +101952,17 @@
   },
   "E Elhrari": {
    "beschreibung": "Red, white stars, red sleeves",
-   "status": "DRAWN_FROM_IMAGE",
-   "koerper_grund": "#F80010",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "koerper_grund": "#EE1C25",
    "koerper_muster": "sterne",
    "koerper_zweit": "#FFFFFF",
-   "aermel_grund": "#F80010",
+   "aermel_grund": "#FFFFFF",
    "aermel_muster": "einfarbig",
    "sicher": true,
-   "aliase": []
+   "aliase": [],
+   "aermel_zweit": "#FFFFFF",
+   "svg_override": "zeichnungen/20261025/korr-owner-34f277337266.svg",
+   "farben_offiziell": "Rouge etoiles blanches m blanches t rouge"
   },
   "Mr M O'flynn": {
    "beschreibung": "Yellow and red chevrons, yellow and red chevrons on sleeves",
@@ -102101,14 +102145,17 @@
   },
   "Team Valor International": {
    "beschreibung": "Green, dark red V, green sleeves, red cap",
-   "status": "DRAWN_FROM_IMAGE",
-   "koerper_grund": "#008800",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "koerper_grund": "#124B2A",
    "koerper_muster": "v_gross",
-   "koerper_zweit": "#B00000",
-   "aermel_grund": "#008800",
+   "koerper_zweit": "#8B2158",
+   "aermel_grund": "#124B2A",
    "aermel_muster": "einfarbig",
    "sicher": true,
-   "aliase": []
+   "aliase": [],
+   "aermel_zweit": "#124B2A",
+   "svg_override": "zeichnungen/20261025/korr-owner-440780379ab0.svg",
+   "farben_offiziell": "Gros-.vert un chevron et t grenat"
   },
   "Craig Bernick/j Camiller": {
    "beschreibung": "Orange, white V, black sleeves, white armlets, yellow cap",
@@ -103551,26 +103598,31 @@
   },
   "S Tardy": {
    "beschreibung": "Red, black braces, red sleeves, black armlets",
-   "status": "DRAWN_FROM_IMAGE",
-   "koerper_grund": "#F80010",
-   "koerper_muster": "zwei_streifen",
-   "koerper_zweit": "#000000",
-   "aermel_grund": "#F80010",
-   "aermel_muster": "oberarmband",
-   "aermel_zweit": "#000000",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "koerper_grund": "#EE1C25",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#EE1C25",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#111111",
    "sicher": true,
-   "aliase": []
+   "aliase": [],
+   "svg_override": "zeichnungen/20261025/korr-owner-a48ac2abf551.svg",
+   "farben_offiziell": "Rouge bretelles & brass noirs t blanche une etoile rge"
   },
   "K Freeman": {
    "beschreibung": "Light blue, light green stripe, light blue sleeves, white cap",
-   "status": "DRAWN_FROM_IMAGE",
-   "koerper_grund": "#A8D0E0",
-   "koerper_muster": "streifen_breit",
-   "koerper_zweit": "#90E890",
-   "aermel_grund": "#A8D0E0",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "koerper_grund": "#8BC4F1",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#A7DF74",
+   "aermel_grund": "#8BC4F1",
    "aermel_muster": "einfarbig",
    "sicher": true,
-   "aliase": []
+   "aliase": [],
+   "aermel_zweit": "#8BC4F1",
+   "svg_override": "zeichnungen/20261025/korr-owner-e8939c054454.svg",
+   "farben_offiziell": "Bleu-.clair bande vert-clair t blanche"
   },
   "D J Stable, LLC": {
    "beschreibung": "Maroon, white diamonds on hem, maroon sleeves, white diamonds",
@@ -104051,14 +104103,17 @@
   },
   "Mme J White": {
    "beschreibung": "Dark blue and pink quartered, cream sleeves",
-   "status": "DRAWN_FROM_IMAGE",
-   "koerper_grund": "#002040",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "koerper_grund": "#E990DA",
    "koerper_muster": "quartiert",
-   "koerper_zweit": "#F8C8C8",
-   "aermel_grund": "#F0F0D0",
+   "koerper_zweit": "#061660",
+   "aermel_grund": "#E8C79A",
    "aermel_muster": "einfarbig",
    "sicher": true,
-   "aliase": []
+   "aliase": [],
+   "aermel_zweit": "#E8C79A",
+   "svg_override": "zeichnungen/20261025/korr-owner-423b47ac44b5.svg",
+   "farben_offiziell": "Ecart rose/gr-bl m baiges t ecart rose/gr-bleu"
   },
   "Deg Racing, Qatar Bloodstock Ltd, O Kheir, J O'Neill, N Greenhalgh, M Greenhalgh, A R E Investments, Sneesby Racing, A Willoughby, Carty Racing, A K Racing [racing.com 211308]": {
    "beschreibung": "Dark blue, yellow spots, yellow and dark blue halved sleeves",
@@ -104717,6 +104772,585 @@
    "beschreibung": "silver, white gespalten + scheibe, silver and white querstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
+  },
+  "Katharina Michael-Böttcher": {
+   "koerper_grund": "#33D8B4",
+   "aermel_grund": "#33D8B4",
+   "koerper_muster": "einfarbig",
+   "aermel_muster": "einfarbig",
+   "kragen_grund": "#F0C818",
+   "farben_offiziell": "türkis, kl. goldene Sterne, türkis Ärmel, türkis-gold gevierteilte Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/af47f7146660.svg",
+   "dg_ids": [
+    "38547759"
+   ]
+  },
+  "Sabine Klohss": {
+   "koerper_grund": "#1A2FB8",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#A8DAF8",
+   "aermel_grund": "#1A2FB8",
+   "aermel_muster": "einfarbig",
+   "farben_offiziell": "dunkelblau, hellblauer Stern, dunkelblaue Kappe, hellblaue Sterne",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/52b1aaa57631.svg",
+   "dg_ids": [
+    "1859785"
+   ]
+  },
+  "Kristina Winter": {
+   "koerper_grund": "#EE1C25",
+   "aermel_grund": "#B4B4B4",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#EE1C25",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#B4B4B4",
+   "farben_offiziell": "rot, silbergraue Sterne, sgr. Ärmel, rote Sterne, rote K., sgr. Stern",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/c95270f20149.svg",
+   "dg_ids": [
+    "2656577"
+   ]
+  },
+  "Lea Holtermann": {
+   "koerper_grund": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_zweit": "#B4B4B4",
+   "aermel_muster": "quer_gespalten",
+   "koerper_muster": "zwei_streifen",
+   "koerper_zweit": "#B4B4B4",
+   "farben_offiziell": "schwarz, zwei silbergraue Streifen, schw.-sgr. quer get. Ärmel, schw. K.",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/4aa504a71259.svg",
+   "dg_ids": [
+    "36846759"
+   ]
+  },
+  "Hof Castanea": {
+   "koerper_grund": "#FF7A1E",
+   "text_farbe": "#111111",
+   "aermel_grund": "#FF7A1E",
+   "aermel_zweit": "#36B94A",
+   "aermel_muster": "quer_gespalten",
+   "koerper_muster": "band",
+   "koerper_zweit": "#36B94A",
+   "farben_offiziell": "orange, grüner Gürtel, Name in Schwarz, quer get. Ärmel, geviert. Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/537623918687.svg",
+   "dg_ids": [
+    "17828462"
+   ]
+  },
+  "Adela Racing": {
+   "koerper_grund": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_zweit": "#A87DF0",
+   "aermel_muster": "quer_gespalten",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#A87DF0",
+   "farben_offiziell": "weiß, lila Nähte, weiß-lila quer geteilte Ärmel, weiß-lila gestreifte Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/1b352b00eafd.svg",
+   "dg_ids": [
+    "32684244"
+   ]
+  },
+  "Galopp Impuls Start Up": {
+   "koerper_grund": "#F78CD8",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#888888",
+   "aermel_grund": "#F78CD8",
+   "aermel_muster": "einfarbig",
+   "farben_offiziell": "rosa, graue Schultern u. Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/236d8a1d3af8.svg",
+   "dg_ids": [
+    "37926114"
+   ]
+  },
+  "Mariposa Racing": {
+   "koerper_grund": "#A8DAF8",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#A0103E",
+   "aermel_grund": "#A8DAF8",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#8B2158",
+   "farben_offiziell": "hellblau, bordeauxroter Schmetterling, bordeauxr.-hbl.-bord. Armbinden, hbl. K., bord. Sterne",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/68eeac3b815e.svg",
+   "dg_ids": [
+    "34964067"
+   ]
+  },
+  "Florian Martens": {
+   "koerper_grund": "#B00010",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#B4B4B4",
+   "aermel_grund": "#B00010",
+   "aermel_muster": "einfarbig",
+   "farben_offiziell": "dunkelrot, silbergraue Nähte, Gauklersymbole, rote K., sgr. Stern",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/23b35d5aaa8c.svg",
+   "dg_ids": [
+    "4561726"
+   ]
+  },
+  "Brigitte Dieckmann": {
+   "koerper_grund": "#EE1C25",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#EE1C25",
+   "aermel_muster": "einfarbig",
+   "farben_offiziell": "rot, weiß-rot-weiße Raute, weiße Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/2de27404b85c.svg",
+   "dg_ids": [
+    "37523590"
+   ]
+  },
+  "Stall Cardboard/Tschechien": {
+   "koerper_grund": "#0E7A2C",
+   "aermel_grund": "#0E7A2C",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#36B94A",
+   "koerper_muster": "band",
+   "koerper_zweit": "#36B94A",
+   "farben_offiziell": "dunkelgrün, grüner Gürtel u. Armbinden, grüne Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/c3e3fd025b81.svg",
+   "dg_ids": [
+    "36594161"
+   ]
+  },
+  "Tomasz Czerwinski u.a./Polen": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "gespalten",
+   "koerper_zweit": "#EE1C25",
+   "aermel_grund": "#2A86E8",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFFFFF",
+   "farben_offiziell": "rot-weiß längs geteilt, blaue Ärmel, weiße Armbinden u. Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/6961b7f31b78.svg",
+   "dg_ids": [
+    "38726565"
+   ]
+  },
+  "Rennstall Emalico": {
+   "koerper_grund": "#111111",
+   "aermel_grund": "#F0C818",
+   "aermel_zweit": "#111111",
+   "aermel_muster": "karo",
+   "koerper_muster": "kreuzbaender_schmal",
+   "koerper_zweit": "#F0C818",
+   "farben_offiziell": "schwarz, goldene Schärpen über Kreuz, gold-schwarz karierte Ärmel u K.",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/b919c8cff6cc.svg",
+   "dg_ids": [
+    "37125806"
+   ]
+  },
+  "Mühle Racing": {
+   "koerper_grund": "#008B8B",
+   "aermel_grund": "#008B8B",
+   "aermel_zweit": "#111111",
+   "aermel_muster": "quer_gespalten",
+   "koerper_muster": "einfarbig",
+   "farben_offiziell": "blau, schwarze Mühlenflügel, blau-schwarz quer get. Ärmel, schwarze K.",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/b0b726c8e6a3.svg",
+   "dg_ids": [
+    "38220697"
+   ]
+  },
+  "Sarah Feldmann": {
+   "koerper_grund": "#2A86E8",
+   "aermel_grund": "#2A86E8",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#FFFFFF",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FFFFFF",
+   "farben_offiziell": "blau, weiße Schultern u. Aufschläge, blaue Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/e053dde3adb3.svg",
+   "dg_ids": [
+    "26793078"
+   ]
+  },
+  "T. Dwan": {
+   "koerper_grund": "#EE1C25",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#278B36",
+   "aermel_grund": "#278B36",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#278B36",
+   "farben_offiziell": "Rouge echarpe verte m vertes trouge etoile verte",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/72d042f1e85d.svg"
+  },
+  "M. J. Taylor/L A. Taylor": {
+   "koerper_grund": "#278B36",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#EE1C25",
+   "aermel_grund": "#278B36",
+   "aermel_muster": "diabolo",
+   "aermel_zweit": "#EE1C25",
+   "farben_offiziell": "Vert epaulrouge m vert diabolo rouge t rouge",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/c3ec5abcdc2d.svg"
+  },
+  "Sights On Gold Three Part": {
+   "koerper_grund": "#278B36",
+   "koerper_muster": "chevrons_oben",
+   "koerper_zweit": "#061660",
+   "aermel_grund": "#EE1C25",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#EE1C25",
+   "farben_offiziell": "Chevronnee vert & gr-bl m et trouge",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/f29e9d09a44d.svg"
+  },
+  "Ab Racing/Ec S. Stempniak": {
+   "koerper_grund": "#8B2158",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#B4B4B4",
+   "aermel_grund": "#B4B4B4",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#B4B4B4",
+   "farben_offiziell": "Grenat epaulettes et m grises t grenat",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/ed4e2e89661f.svg"
+  },
+  "S. Mcphee": {
+   "koerper_grund": "#FF7A1E",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#278B36",
+   "aermel_grund": "#FF7A1E",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#278B36",
+   "farben_offiziell": "Orange 1 chevr et brass verts t verte 1 etoile orange",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/e7adf253832b.svg"
+  },
+  "Buck Racing": {
+   "koerper_grund": "#FAEC1A",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#EE1C25",
+   "aermel_grund": "#FAEC1A",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#EE1C25",
+   "farben_offiziell": "Jaune echarpe et brass rouges t cerclee rouge et jaune",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/04573880f5f6.svg"
+  },
+  "M. Fougy-Smaga": {
+   "koerper_grund": "#061660",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FF7A1E",
+   "aermel_grund": "#061660",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#061660",
+   "farben_offiziell": "Gros-.bleu epaulettes orange t gros-bleu",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/f2d0ece336ea.svg"
+  },
+  "Scea Haras Des Forets": {
+   "koerper_grund": "#1737D6",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#1737D6",
+   "aermel_grund": "#1737D6",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFFFFF",
+   "farben_offiziell": "Bleue m bles etoiles blches t blche etoiles bles",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/628541d5a484.svg"
+  },
+  "M. Pj O'Brien/P. Shan": {
+   "koerper_grund": "#278B36",
+   "koerper_muster": "band",
+   "koerper_zweit": "#124B2A",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#111111",
+   "farben_offiziell": "Vert. .cerc gr-vert m blc bras noir t gr-vert diam vert",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/7f3df9241ace.svg"
+  },
+  "Famille Pharaon": {
+   "koerper_grund": "#1737D6",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#1737D6",
+   "aermel_grund": "#1737D6",
+   "aermel_muster": "querstreifen",
+   "aermel_zweit": "#EE1C25",
+   "farben_offiziell": "Bleue m cerclees rouge & bleu t rouge",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/d19ba276b56d.svg"
+  },
+  "G. Sellier": {
+   "koerper_grund": "#8BC4F1",
+   "koerper_muster": "chevrons_oben",
+   "koerper_zweit": "#061660",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "farben_offiziell": "Chevronnee bleu-cl et gros-bleu m et t blanches",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/8db3bd8c1d1a.svg"
+  },
+  "Ecurie Victoria Dreams": {
+   "koerper_grund": "#061660",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#EE1C25",
+   "aermel_grund": "#061660",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#061660",
+   "farben_offiziell": "Gros-bleu un disque rouge m & t gros-bleu",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/750b61502d73.svg"
+  },
+  "A. Ren": {
+   "koerper_grund": "#A87DF0",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#A87DF0",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#FFFFFF",
+   "farben_offiziell": "Mauve etoiles blches m et t damier blanc et mauve",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/b364952ee925.svg"
+  },
+  "E. Mudge": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#EE1C25",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#EE1C25",
+   "farben_offiziell": "Blanche bretelles et embleme noirs m et t rouges",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/be03cfb64969.svg"
+  },
+  "P. David": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#278B36",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#278B36",
+   "farben_offiziell": "Cercl blc et vert m blches brass verts t blche",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/0f22b10df9a2.svg"
+  },
+  "G. Bajetti": {
+   "koerper_grund": "#124B2A",
+   "koerper_muster": "band",
+   "koerper_zweit": "#8B2158",
+   "aermel_grund": "#124B2A",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#124B2A",
+   "farben_offiziell": "Gros-vert ceinture et t grenat",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/1722d7b79a93.svg"
+  },
+  "F. F. Rohaut": {
+   "koerper_grund": "#1737D6",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "farben_offiziell": "Bleue bretelles et m blches t cercl blanc et bl",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/bc76ae5fa6bc.svg"
+  },
+  "E. Decoster": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FAEC1A",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FAEC1A",
+   "farben_offiziell": "Blanche m et t jaunes",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/fcb5c91da8f1.svg"
+  },
+  "Me Kisber": {
+   "koerper_grund": "#1737D6",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#1737D6",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#EE1C25",
+   "farben_offiziell": "Bleue disque et embleme m los blcs et rges t rge",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/245b7f93f153.svg"
+  },
+  "Blake/Palmer/Wilson/Luck": {
+   "koerper_grund": "#FF7A1E",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#8BC4F1",
+   "aermel_grund": "#8BC4F1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#8BC4F1",
+   "farben_offiziell": "Orange chevron bl-cl m bl-cl torange",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/672be3803c29.svg"
+  },
+  "A. Fabre": {
+   "koerper_grund": "#783B37",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#783B37",
+   "aermel_grund": "#783B37",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#783B37",
+   "farben_offiziell": "Marron t rose",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/60c5f9f7cd12.svg"
+  },
+  "G. Meunier": {
+   "koerper_grund": "#EE1C25",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#EE1C25",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#EE1C25",
+   "farben_offiziell": "Rouge bretelles blanches t bleue",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/3771a0a45b55.svg"
+  },
+  "Tolmi Racing Sc/Nightchill Llc": {
+   "koerper_grund": "#061660",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#B4B4B4",
+   "aermel_grund": "#061660",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#B4B4B4",
+   "farben_offiziell": "Gros-.bl etoiles grises t gr-bl une etoile grise",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/cc78f66c1bba.svg"
+  },
+  "N. Rothschild": {
+   "koerper_grund": "#061660",
+   "koerper_muster": "zickzackband",
+   "koerper_zweit": "#FAEC1A",
+   "aermel_grund": "#061660",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#061660",
+   "farben_offiziell": "Gros-bleu ceinture chevronnee jaune t jaune",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/b956c05a1423.svg"
+  },
+  "C. De Moubray/L. Caccialupi": {
+   "koerper_grund": "#EE1C25",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#A87DF0",
+   "aermel_grund": "#EE1C25",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#A87DF0",
+   "farben_offiziell": "Rouge 1 los et brass mauves t rge 1 los mauve",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/ff6e74cf0bd4.svg"
+  },
+  "Jp Masson/A Fouassier/P Camus": {
+   "koerper_grund": "#E990DA",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#1737D6",
+   "aermel_grund": "#E990DA",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#1737D6",
+   "farben_offiziell": "Rose .bretelles et brass bls t rose etoiles bles",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/7640c9ee9152.svg"
+  },
+  "Ot Bernard": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "diabolo",
+   "koerper_zweit": "#8B2158",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#8B2158",
+   "farben_offiziell": "Blanche diab grenat m blches etoiles & t grenat 1 etoi",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/096d5085708d.svg"
+  },
+  "M. Guarnieri": {
+   "koerper_grund": "#124B2A",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#E990DA",
+   "aermel_grund": "#124B2A",
+   "aermel_muster": "naht",
+   "aermel_zweit": "#E990DA",
+   "farben_offiziell": "Gros-vert cout roses t ecart rose et gros-vert",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/8d1b125f72bf.svg"
+  },
+  "Jl Pignet": {
+   "koerper_grund": "#8BC4F1",
+   "koerper_muster": "lothringerkreuz",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#8BC4F1",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFFFFF",
+   "farben_offiziell": "Bleu-cl cx de lorraine et brass blancs t bleu-cl",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/6221396f37fa.svg"
+  },
+  "A. Casteu": {
+   "koerper_grund": "#FAEC1A",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#8BC4F1",
+   "aermel_grund": "#FAEC1A",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FAEC1A",
+   "farben_offiziell": "Losanges jaunes et bleu-cl m jaunes t bleu-clair",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/ab783d9672e3.svg"
+  },
+  "M. Desvaux": {
+   "koerper_grund": "#EE1C25",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#278B36",
+   "aermel_grund": "#EE1C25",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#EE1C25",
+   "farben_offiziell": "Rouge epaulettes vertes t rouge une etoile verte",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/c445de1b451c.svg"
+  },
+  "J. Cygler": {
+   "koerper_grund": "#FAEC1A",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#1737D6",
+   "aermel_grund": "#FAEC1A",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FAEC1A",
+   "farben_offiziell": "Jaune etoiles bles m jaunes t jaune etoiles bles",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/d33eddeb8d99.svg"
+  },
+  "Jp Masson/P Camus/A Fouassier": {
+   "koerper_grund": "#E990DA",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#1737D6",
+   "aermel_grund": "#E990DA",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#1737D6",
+   "farben_offiziell": "Rose .bretelles et brass bls t rose etoiles bles (ech.)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/c821b8cab7c3.svg"
+  },
+  "M. Artu": {
+   "koerper_grund": "#E990DA",
+   "koerper_muster": "kreuzbaender_schmal",
+   "koerper_zweit": "#8BC4F1",
+   "aermel_grund": "#8BC4F1",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#E990DA",
+   "farben_offiziell": "Rose croix st-andre et m bl-cl brass et t roses",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "svg_override": "zeichnungen/20261025/171b7f7048dc.svg"
   }
  },
  "pferde": {
