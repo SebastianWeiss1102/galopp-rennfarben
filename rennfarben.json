@@ -105545,6 +105545,152 @@
    "beschreibung": "Red, green sash, red and green diamond sleeves (Prestonwood Farm)",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
+  },
+  "Vorlage racingcom:177454": {
+   "koerper_grund": "#028B49",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#BEA330",
+   "aermel_grund": "#028B49",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#028B49",
+   "beschreibung": "emerald, gold epauletten, emerald sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:183514": {
+   "koerper_grund": "#035AA2",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#035AA2",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#035AA2",
+   "aermel_zweit": "#035AA2",
+   "beschreibung": "royal, royal sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:184705": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "drei_armsterne",
+   "aermel_zweit": "#FAA830",
+   "koerper_zweit": "#FFFFFF",
+   "beschreibung": "white, white and gold drei armsterne sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:168462": {
+   "koerper_grund": "#E21B22",
+   "koerper_muster": "chevrons_oben",
+   "koerper_zweit": "#287C45",
+   "aermel_grund": "#E21B22",
+   "aermel_muster": "chevrons_oben",
+   "aermel_zweit": "#287C45",
+   "beschreibung": "red, green chevrons oben, red and green chevrons oben sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:130757": {
+   "koerper_grund": "#782785",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#782785",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#782785",
+   "beschreibung": "purple, white v gross, purple sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:173813": {
+   "koerper_grund": "#F1DD05",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#C8533C",
+   "aermel_grund": "#F1DD05",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#C8533C",
+   "beschreibung": "yellow, scarlet v gross, yellow and scarlet aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:183515": {
+   "koerper_grund": "#025CA6",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#025CA6",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#025CA6",
+   "aermel_zweit": "#025CA6",
+   "beschreibung": "royal, royal sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:144485": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#0A65B1",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "querstreifen",
+   "aermel_zweit": "#0A65B1",
+   "aermel_dritt": "#FA9F1A",
+   "beschreibung": "white, royal naht, white and royal querstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:89521": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#BFD730",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#BFD730",
+   "beschreibung": "black, lime scheibe, black and lime armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:144693": {
+   "koerper_grund": "#DD1C22",
+   "koerper_muster": "diagonalstreifen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#DD1C22",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#111111",
+   "beschreibung": "red, black diagonalstreifen, red and black armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:40617": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#E81C23",
+   "aermel_grund": "#439B54",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#439B54",
+   "beschreibung": "white, red scheibe, green sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:191618": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#111111",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "black, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "text": "A",
+   "text_farbe": "#FFFFFF"
+  },
+  "Vorlage racingcom:174356": {
+   "koerper_grund": "#07589E",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#E51D24",
+   "aermel_grund": "#603367",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#603367",
+   "beschreibung": "royal, red punkte gross, purple sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
   }
  },
  "pferde": {
