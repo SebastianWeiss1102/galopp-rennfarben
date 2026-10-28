@@ -105351,6 +105351,105 @@
    "farben_offiziell": "Rose croix st-andre et m bl-cl brass et t roses",
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "svg_override": "zeichnungen/20261025/171b7f7048dc.svg"
+  },
+  "Vorlage racingcom:149478": {
+   "koerper_grund": "#018C49",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#018C49",
+   "koerper_zweit": "#018C49",
+   "beschreibung": "emerald, white and emerald karo sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:1446": {
+   "koerper_grund": "#E27AB4",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#E27AB4",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#E27AB4",
+   "beschreibung": "pink, white saltire, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:36237": {
+   "koerper_grund": "#04599F",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#04599F",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFFFFF",
+   "koerper_zweit": "#04599F",
+   "beschreibung": "royal, royal and white armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:20306": {
+   "koerper_grund": "#52B84F",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#52B84F",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#52B84F",
+   "aermel_zweit": "#52B84F",
+   "beschreibung": "green, green sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:2391": {
+   "koerper_grund": "#132E4D",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#132E4D",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#132E4D",
+   "aermel_zweit": "#132E4D",
+   "beschreibung": "navy, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:176794": {
+   "koerper_grund": "#015DAA",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#015DAA",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#00A1C8",
+   "koerper_zweit": "#015DAA",
+   "beschreibung": "royal, royal and turquoise armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:175156": {
+   "koerper_grund": "#D73023",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#D73023",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#D73023",
+   "beschreibung": "red, white sterne, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:189323": {
+   "koerper_grund": "#D88B1C",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "orange, black naht, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:143859": {
+   "koerper_grund": "#0060AF",
+   "koerper_muster": "hufeisen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#111111",
+   "beschreibung": "royal, white hufeisen, white and black karo sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
   }
  },
  "pferde": {
