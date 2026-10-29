@@ -107743,6 +107743,50 @@
    "aliase": [
     "Broman, Sr., Chester and Mary"
    ]
+  },
+  "Yoshihisa Ozasa": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "band",
+   "koerper_zweit": "#FF0000",
+   "aermel_grund": "#111111",
+   "aermel_muster": "zwei_armbaender",
+   "aermel_zweit": "#FF0000",
+   "beschreibung": "black, red band, black and red zwei armbaender sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "J Mcmanus": {
+   "koerper_grund": "#DEDF1F",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#429A54",
+   "aermel_grund": "#DEDF1F",
+   "aermel_muster": "querstreifen",
+   "aermel_zweit": "#429A54",
+   "beschreibung": "yellow, green querstreifen, yellow and green querstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "E Sauren": {
+   "koerper_grund": "#275BAA",
+   "koerper_muster": "zacken_unten",
+   "koerper_zweit": "#E62726",
+   "aermel_grund": "#275BAA",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#E62726",
+   "beschreibung": "royal, scarlet zacken unten, royal and scarlet manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "K Oka": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#ED1C24",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#ED1C24",
+   "beschreibung": "white, red saltire, white and red armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
   }
  },
  "pferde": {
