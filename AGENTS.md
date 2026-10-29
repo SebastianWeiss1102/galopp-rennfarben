@@ -1,3 +1,7 @@
+## Derby-Rennfarben zentral korrigiert – 29.10.2026
+
+Auf Nutzerauftrag Yacomo (DG32627043, Andiamo Racing Club), Varley (DG35775449, HJ Racing Team) und Iron Triumph (DG34678160, Ali Özdemir) über amtliche Farbnummern mit der gemeinsamen Zeichnung verknüpft. Yacomo: rote Mitte im gelben V ergänzt; Iron Triumph: dunkelroter Stern und Armbinden statt leerem Weiß. Amtliche Vorlagen und konkrete Derby-Starts in GaloppFacts geprüft; keine historischen Rennvorlagen ersetzt. Datenbankprüfung 9.101 Besitzer/3.803 DG-Nummern ohne Fehler. Nutzer hat zentrale Sicherung und GaloppFacts-Livegang ausdrücklich beauftragt.
+
 ## 23.10.2026 – Drei amtliche Zeichnungen korrigiert (Abnahme offen)
 
 Ursache: importierte vereinfachte SVG-Overrides hatten Vorrang vor Musterangaben; Besitzerzeichnungen waren separat und ohne DG-ID verknüpft. Nannippus 1593424: sieben blaue/rote Sterne nach DG, BN Bygg 38618313: weiße Vierteilung und blaue Schultern, Ebbesloh 1594742: schwarz-weiß-grüne Schärpe in Richtung der amtlichen Vorlage. Besitzer und DG-ID nutzen jeweils dieselbe geprüfte Override-Datei. Historische Vorlagen unverändert. Regressionstest prüft gemeinsame Zuordnung und fehlende Details und läuft im Prüfworkflow.

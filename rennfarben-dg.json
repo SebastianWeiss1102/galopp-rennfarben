@@ -30758,7 +30758,8 @@
    "koerper_zweit": "#FAEC1A",
    "status": "DRAWN_FROM_OFFICIAL_WORDING",
    "beschreibung_de": "weiß, gelb-rot-gelbes V, weiße Ärmel, gelb-rot-gelbe Armbinden, gelbe Kappe, rote Quaste",
-   "svg_override": "zeichnungen/dg/32627043.svg"
+   "svg_override": "zeichnungen/dg/32627043.svg",
+   "koerper_dritt": "#EE1C25"
   },
   "32650755": {
    "koerper_grund": "#2A86E8",
@@ -32049,11 +32050,13 @@
   "34678160": {
    "koerper_grund": "#FFFFFF",
    "aermel_grund": "#FFFFFF",
-   "koerper_muster": "einfarbig",
-   "aermel_muster": "einfarbig",
+   "koerper_muster": "stern",
+   "aermel_muster": "armbinde",
    "status": "DRAWN_FROM_OFFICIAL_WORDING",
    "beschreibung_de": "weiß dunkelroter Stern, weiße Ärmel dkl.rote Armbinden, weiße Kappe dkl.roter Stern",
-   "svg_override": "zeichnungen/dg/34678160.svg"
+   "svg_override": "zeichnungen/dg/34678160.svg",
+   "koerper_zweit": "#971810",
+   "aermel_zweit": "#971810"
   },
   "34679875": {
    "koerper_grund": "#111111",

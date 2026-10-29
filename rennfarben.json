@@ -2766,7 +2766,12 @@
    "aermel_zweit": "#971810",
    "beschreibung": "white, maroon stern, white and maroon armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [],
+   "dg_ids": [
+    "34678160"
+   ],
+   "svg_override": "zeichnungen/dg/34678160.svg",
+   "farben_offiziell": "weiß dunkelroter Stern, weiße Ärmel dkl.rote Armbinden, weiße Kappe dkl.roter Stern"
   },
   "Alice Bamford": {
    "koerper_grund": "#9D0508",
@@ -3475,9 +3480,14 @@
    "aermel_grund": "#FFFFFF",
    "aermel_muster": "armbinde",
    "aermel_zweit": "#DB2021",
-   "beschreibung": "white, red v gross, white and red armbinde sleeves",
+   "beschreibung": "weiß, gelb-rot-gelbes V, weiße Ärmel, gelb-rot-gelbe Armbinden, gelbe Kappe, rote Quaste",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [],
+   "dg_ids": [
+    "32627043"
+   ],
+   "svg_override": "zeichnungen/dg/32627043.svg",
+   "farben_offiziell": "weiß, gelb-rot-gelbes V, weiße Ärmel, gelb-rot-gelbe Armbinden, gelbe Kappe, rote Quaste"
   },
   "Andrea D.Mayer": {
    "koerper_grund": "#A8DAF8",
@@ -25513,7 +25523,12 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "blue, white sterne, white sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "dg_ids": [
+    "35775449"
+   ],
+   "svg_override": "zeichnungen/dg/35775449.svg",
+   "farben_offiziell": "blau, weiße Sterne, weiße Ärmel, blau-weiß gevierteilte Kappe"
   },
   "Hk Football Club Horse Racing Syndicate": {
    "koerper_grund": "#FFFFFF",
