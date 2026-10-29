@@ -105854,6 +105854,52 @@
    "beschreibung": "scarlet, royal quartiert, scarlet and royal karo sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
+  },
+  "Vorlage racingcom:150206": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#329B78",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#0463AA",
+   "koerper_zweit": "#FFFFFF",
+   "beschreibung": "white, teal and royal aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:111170": {
+   "koerper_grund": "#E61C24",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#E61C24",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#E61C24",
+   "aermel_zweit": "#E61C24",
+   "beschreibung": "red, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "text": "TRIPLE CROWN",
+   "text_farbe": "#FFFFFF"
+  },
+  "Vorlage racingcom:155754": {
+   "koerper_grund": "#D21E22",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#F4891C",
+   "aermel_grund": "#D21E22",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#F4891C",
+   "beschreibung": "red, orange querstreifen, red and orange rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage racingcom:139236": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#ECDA00",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#ECDA00",
+   "beschreibung": "black, yellow grosskaro, black and yellow armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
   }
  },
  "pferde": {
