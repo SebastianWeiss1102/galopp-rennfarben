@@ -2660,7 +2660,9 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "white, red harlekin, royal and white querstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Alex G. Campbell, Jr."
+   ]
   },
   "Alexander Tamagni-Bodmer & Mme Regula Vannod": {
    "koerper_grund": "#ADD7E6",
@@ -5392,7 +5394,8 @@
    "beschreibung": "emerald, orange epauletten, orange and emerald quer gespalten sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Ballylinch Stud 1"
+    "Ballylinch Stud 1",
+    "Ballylinch Stud/aquis Far"
    ]
   },
   "Ballylinch Stud 1": {
@@ -6028,7 +6031,9 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "black, white gespalten, black and white quer gespalten sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Barry K. Schwartz"
+   ]
   },
   "Barry Taylor, Cam Massie, Goetz Maeuser, T G Fitzgerald, Paul H Redmond &": {
    "koerper_grund": "#DA4641",
@@ -12604,7 +12609,8 @@
    "sicher": true,
    "aliase": [
     "D Archer, S Archer, D Wright, N Micarone",
-    "D Archer, D Wright Et Al"
+    "D Archer, D Wright Et Al",
+    "D L Archer, S C Archer, D J Wright & N N Micarone"
    ]
   },
   "D L Pagan & Mrs C N Pagan": {
@@ -14904,7 +14910,9 @@
    "koerper_zweit": "#FEFE00",
    "beschreibung": "yellow, yellow and cream manschetten sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Michael Dubb, Madaket Stables and Robert LaPenta"
+   ]
   },
   "Dubb, Michael, Madaket Stables Llc, Bailey, Morris And Rucker, William J": {
    "koerper_grund": "#7EFED3",
@@ -22990,7 +22998,10 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#7F7F7F",
    "beschreibung": "maroon, grey scheibe, grey sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Eurowest Bloodstock Services and Gunther"
+   ]
   },
   "Guy Brook": {
    "koerper_grund": "#280070",
@@ -28176,7 +28187,9 @@
    "aermel_zweit": "#004529",
    "beschreibung": "darkgreen, yellow epauletten, darkgreen sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "James Harron Bloodstock Colts Partnership"
+   ]
   },
   "James Harron Bloodstock Colts TFI Et Al": {
    "beschreibung": "Green, gold epaulettes, green sleeves",
@@ -29575,7 +29588,9 @@
    "aermel_zweit": "#31CD31",
    "beschreibung": "cream, green quartiert, green sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Park, Jun H. and Nash, Delia"
+   ]
   },
   "Jun Yoshikawa": {
    "beschreibung": "Pink, yellow stars, white sleeves",
@@ -31261,7 +31276,9 @@
    "aermel_zweit": "#111111",
    "beschreibung": "yellow, black raute, yellow and black rauten sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "King's Road Racing Partnership"
+   ]
   },
   "Kingsclere Racing Club": {
    "koerper_grund": "#090909",
@@ -32952,7 +32969,9 @@
    "aermel_zweit": "#FEFE00",
    "beschreibung": "yellow, darkgreen kreuzbaender, darkgreen and yellow chevrons sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Haras De La Gousserie And Guy Pariente"
+   ]
   },
   "Lea Farms, Llc": {
    "koerper_grund": "#FFFFFF",
@@ -38148,7 +38167,9 @@
    "aermel_zweit": "#9BD22E",
    "beschreibung": "White, lime ball, lime sleeves",
    "status": "DRAWN_FROM_OFFICIAL_WORDING",
-   "aliase": []
+   "aliase": [
+    "Dubb, Michael, Madaket Stables Llc, Deutsch, Peter, Kisber, Michael E , The Elkstone Group, Llc (stuart Grant) And Bethlehem Stables Llc"
+   ]
   },
   "Michael Dubb, Michael E. Kisber, Wonder Stables, Bethlehem Stables & Madaket Stables": {
    "koerper_grund": "#7EFED3",
@@ -43208,7 +43229,8 @@
    "beschreibung": "black, white scheibe, black sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "MyRacehorse and Spendthrift Farm LLC"
+    "MyRacehorse and Spendthrift Farm LLC",
+    "MyRacehorse.com and Spendthrift Farm LLC"
    ]
   },
   "Myracehorse Com And Platts, Joey": {
@@ -47886,7 +47908,8 @@
    "aermel_muster": "einfarbig",
    "sicher": true,
    "aliase": [
-    "Princesse Zahra Aga Khan / Frankreich"
+    "Princesse Zahra Aga Khan / Frankreich",
+    "Princess Zahra Aga Khan"
    ],
    "herkunft": "GaloppFacts (RaceBets-Vorlage), uebernommen 23.10.2026"
   },
@@ -48590,7 +48613,8 @@
    "beschreibung": "white, red v gross, white and red armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "R. A. Hill Stable, Black Type Thoroughbreds, Rock Ridge Racing LLC, BlackRidge Stables LLC and Brown, James"
+    "R. A. Hill Stable, Black Type Thoroughbreds, Rock Ridge Racing LLC, BlackRidge Stables LLC and Brown, James",
+    "R A Hill Stable, Black Type Thoroughbreds, Rock Ridge Racing Llc, Blackridge Stables Llc And Brown, James F"
    ]
   },
   "R A Hill Stable, Blackridge Stables Llc, Swinbank Stables, Big Tufff Stables And Black Type Thoroughbreds": {
@@ -49794,7 +49818,8 @@
    "beschreibung": "red, red sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Red Baron's Barn Llc, Rancho Temescal Llc, Branch, William A And Reeves, William Dean"
+    "Red Baron's Barn Llc, Rancho Temescal Llc, Branch, William A And Reeves, William Dean",
+    "Red Baron's Barn Llc, Rancho Temescal Llc, Branch, William And Reeves, William Dean"
    ]
   },
   "Red Lane Thoroughbreds Llc": {
@@ -50976,7 +51001,9 @@
    "koerper_zweit": "#FFFFFF",
    "beschreibung": "white, white and green armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Boat Racing, Gainesway Stable, Roadrunner Racing, Bill Strauss"
+   ]
   },
   "Robert and Beverly Lewis": {
    "beschreibung": "Green jacket with yellow hoops; yellow sleeves.",
@@ -53531,7 +53558,9 @@
    "aermel_zweit": "#F2D22E",
    "beschreibung": "Royal blue, yellow star, yellow diamonds on sleeves",
    "status": "DRAWN_FROM_OFFICIAL_WORDING",
-   "aliase": []
+   "aliase": [
+    "SF Racing LLC, Starlight Racing, Madaket Stables LLC, Stonestreet Stables LLC and Bashor"
+   ]
   },
   "Sf Racing Llc, Starlight Racing, Madaket Stables Llc, Stonestreet Stables Llc, Robert Materson, Catherine Donovan, Waves Edge, Jay Schoenfarber": {
    "koerper_grund": "#7EFED3",
@@ -58630,7 +58659,9 @@
    "aermel_zweit": "#C33731",
    "beschreibung": "white, red band, red sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Stuart S. Janney, III"
+   ]
   },
   "Stud Facundito": {
    "koerper_grund": "#83C6D2",
@@ -96885,7 +96916,8 @@
    "beschreibung": "black, black sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Robert Zoellner"
+    "Robert Zoellner",
+    "Robert H. Zoellner"
    ]
   },
   "Vorlage hrn:20260516:Napoleon Solo": {
@@ -97556,7 +97588,9 @@
    "aermel_zweit": "#000001",
    "beschreibung": "black, yellow streifen, black sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Randy Hill, Wachtel Stable, Gary Barber, Reeves Thoroughbred Racing"
+   ]
   },
   "Wachtel Stable, Gary Barber And Pantofel Llc": {
    "koerper_grund": "#FE69B3",
@@ -97794,7 +97828,10 @@
    "aermel_zweit": "#1E8A45",
    "beschreibung": "Green, yellow cross, green stripe on yellow sleeves",
    "status": "DRAWN_FROM_OFFICIAL_WORDING",
-   "aliase": []
+   "aliase": [
+    "Warriors Reward and Commonwealth New Era Racing",
+    "Warriors Reward, LLC and Commonwealth New Era Racing"
+   ]
   },
   "Watership Down Stud And Tactful Finance": {
    "koerper_grund": "#FEC8CB",
@@ -98778,7 +98815,9 @@
    "aermel_zweit": "#111111",
    "beschreibung": "black, yellow sterne, black sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "William H. Lawrence"
+   ]
   },
   "William Peeples": {
    "koerper_grund": "#FFFFFF",
@@ -103508,7 +103547,9 @@
    "aermel_muster": "manschetten",
    "aermel_zweit": "#00D800",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Harry T. Rosenblum"
+   ]
   },
   "John Minchello": {
    "beschreibung": "Emerald green, white stars, emerald green sleeves, white spots",
@@ -103520,7 +103561,9 @@
    "aermel_muster": "drei_armpunkte",
    "aermel_zweit": "#FFFFFF",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "John C. Minchello"
+   ]
   },
   "Siena Farms, Llc And Asmussenequine Com": {
    "beschreibung": "Red and yellow halved, red and yellow check sleeves",
@@ -103725,7 +103768,9 @@
    "aermel_muster": "zwei_armbaender",
    "aermel_zweit": "#2A0070",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Muhaideb Abdullah A Almuhaideb"
+   ]
   },
   "Maitha Salem Mohammed Belobaida Alsuwaidi": {
    "beschreibung": "Dark blue, red epaulets, dark blue sleeves, red seams",
