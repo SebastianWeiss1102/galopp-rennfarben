@@ -37999,7 +37999,9 @@
    "aermel_muster": "laengsstreifen",
    "aermel_zweit": "#F8E858",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Mike Pegram, Karl Watson, Paul Weitman"
+   ]
   },
   "Michael Eiserman": {
    "koerper_grund": "#00007F",
@@ -55180,7 +55182,10 @@
    "aermel_zweit": "#FFFFFF",
    "koerper_zweit": "#83BF5F",
    "beschreibung": "lightgreen, lightgreen and white armringe sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "St. Elias Stable"
+   ]
   },
   "St Elias Stable, Langone, Ken, Duncker, C Steven And Vicarage Stable": {
    "koerper_grund": "#81BC5E",
