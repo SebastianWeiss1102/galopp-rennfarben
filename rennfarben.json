@@ -107787,6 +107787,50 @@
    "beschreibung": "white, red saltire, white and red armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
+  },
+  "Mr & Mrs Chadwick Mok Cham Hung": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#C67D30",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#4D6678",
+   "beschreibung": "white, gold v gross, white and teal sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Jeetu Ramchandani": {
+   "koerper_grund": "#35616D",
+   "koerper_muster": "diagonalstreifen",
+   "koerper_zweit": "#EA60C4",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "teal, mauve diagonalstreifen, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Lim Siah Mong": {
+   "koerper_grund": "#143B54",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#A69E61",
+   "aermel_grund": "#143B54",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#A69E61",
+   "beschreibung": "navy, tan sterne, navy and tan sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Dr & Mrs Arthur Leung, Elaine Leung and Angela Leung": {
+   "koerper_grund": "#DCD70E",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#5B2593",
+   "aermel_grund": "#DCD70E",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#5B2593",
+   "beschreibung": "yellow, purple v gross, yellow and purple karo sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
   }
  },
  "pferde": {
