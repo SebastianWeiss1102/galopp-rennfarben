@@ -108009,6 +108009,39 @@
    "beschreibung": "pink, black rautenband, pink sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
+  },
+  "Mrs J Morley": {
+   "koerper_grund": "#FEFE00",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FEFE00",
+   "beschreibung": "yellow, black v gross, black and yellow sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "G Augustin-normand/mme R Perron": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Shamrock Thoroughbreds / Miss Susan Barton": {
+   "koerper_grund": "#FA0017",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#084E86",
+   "aermel_grund": "#FA0017",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FA0017",
+   "beschreibung": "red, royal laengsstreifen, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
   }
  },
  "pferde": {
