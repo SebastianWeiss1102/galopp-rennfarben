@@ -529,7 +529,8 @@
    "beschreibung": "royal, white band, royal and white armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "A Bosma, T Cunneen, T Morrissey, D Stewart, M Mccullough, A Focas, K Mccullough, K Robinson, K Samson, G Jurie, G Moreno, W Flaunty, W Hamilton, B Phee, D Focas, N Pablecheque, N Reeve, P Baker, P Corkill, P Vinaccia"
+    "A Bosma, T Cunneen, T Morrissey, D Stewart, M Mccullough, A Focas, K Mccullough, K Robinson, K Samson, G Jurie, G Moreno, W Flaunty, W Hamilton, B Phee, D Focas, N Pablecheque, N Reeve, P Baker, P Corkill, P Vinaccia",
+    "A J A Bosma, Mrs P J Clark et al."
    ]
   },
   "A J A Bosma, Sir P J Vela, J F Hepburn, G Sheppard, D V Gilliard, D B McGuinness, M Cole, M L Solomon & Clearwater (Mgr: A J A Bosma)": {
@@ -5357,7 +5358,10 @@
    "aermel_muster": "armringe",
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "white, black joch, black and white armringe sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Katherine G. Ball"
+   ]
   },
   "Ballygallon Stud Limited": {
    "koerper_grund": "#ADD7E6",
@@ -24773,7 +24777,9 @@
    "aermel_zweit": "#084E86",
    "beschreibung": "royal, white v gross, royal sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Zayed bin Mohammed"
+   ]
   },
   "HH Sheikha Al Jalila Racing": {
    "koerper_grund": "#7F0000",
@@ -54577,7 +54583,8 @@
     "Silk Racing Co. Ltd.",
     "Silk Racing Co. Ltd. Syndicated For 1 Share: ¥80,000/ 500 Shares",
     "Silk Racing Co. Ltd. Syndicated For 1 Share: ¥90,000/ 500 Shares",
-    "Silk Racing Co. Ltd. Syndicated For 1 Share: ¥60,000/ 500 Shares"
+    "Silk Racing Co. Ltd. Syndicated For 1 Share: ¥60,000/ 500 Shares",
+    "Silk Racing"
    ]
   },
   "Silverton Hill LLC": {
@@ -99892,7 +99899,9 @@
    "aermel_zweit": "#3032C5",
    "beschreibung": "royal, white naht, white and royal quer gespalten sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Yeguada Centurion Sl"
+   ]
   },
   "Yeguada Centurion S L U": {
    "koerper_grund": "#365789",
@@ -108200,6 +108209,122 @@
    "aermel_muster": "armbinde",
    "aermel_zweit": "#D11616",
    "beschreibung": "red, black stern, white and red armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Robert Sangster": {
+   "koerper_grund": "#48B46C",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#0049A8",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#48B46C",
+   "aermel_zweit": "#0049A8",
+   "beschreibung": "turquoise, royal sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Lady Zia Wernher": {
+   "koerper_grund": "#269042",
+   "koerper_muster": "gespalten",
+   "koerper_zweit": "#EFDB40",
+   "aermel_grund": "#EFDB40",
+   "aermel_muster": "gespalten",
+   "aermel_zweit": "#269042",
+   "beschreibung": "green, yellow gespalten, yellow and green gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Snailwell Stud Co": {
+   "koerper_grund": "#F9BFC1",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#138F34",
+   "aermel_grund": "#F9BFC1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#F9BFC1",
+   "beschreibung": "pink, green grosskaro, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Gladys Joel"
+   ]
+  },
+  "Seamus Sheridan": {
+   "koerper_grund": "#1616C0",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#EFDB40",
+   "aermel_grund": "#1616C0",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#EFDB40",
+   "beschreibung": "royal, yellow sterne, royal and yellow quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Paul Mellon": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "kreuz",
+   "koerper_zweit": "#D9A62E",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "black, gold kreuz, black sleeves",
+   "status": "FROM_TEXT_SOURCE",
+   "aliase": []
+  },
+  "Gerry Oldham": {
+   "koerper_grund": "#4A2A1E",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#4A2A1E",
+   "aermel_muster": "querstreifen",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "chocolate, white querstreifen, chocolate and white querstreifen sleeves",
+   "status": "FROM_TEXT_SOURCE",
+   "aliase": []
+  },
+  "Cain Hoy Stable": {
+   "koerper_grund": "#2F6FD0",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "blue, white grosskaro, white sleeves",
+   "status": "FROM_TEXT_SOURCE",
+   "aliase": []
+  },
+  "Lucayan Stud": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "zickzackband",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "black, white zickzackband, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Charles St George"
+   ]
+  },
+  "G.J. Wilkie, K.J. Wilkie, Werrett Bloodstock Pty Ltd, C.H. Madden, J. Madden, P.A. Hawkes, D.M. Taylor, J. Taylor": {
+   "koerper_grund": "#F2A487",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#F2A487",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#111111",
+   "beschreibung": "tan, black punkte gross, tan and black punkte sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Black Caviar Syndicate"
+   ]
+  },
+  "Daniel Yeung Ngai": {
+   "koerper_grund": "#F2A6C0",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#1E8A45",
+   "aermel_grund": "#1E8A45",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#1E8A45",
+   "beschreibung": "pink, green kreuzband, green sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
   }
