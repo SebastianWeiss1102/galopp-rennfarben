@@ -106307,6 +106307,1442 @@
    "beschreibung": "black, yellow grosskaro, black and yellow armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
+  },
+  "Vorlage hrn:20201002:Xtrema": {
+   "koerper_grund": "#D7262E",
+   "koerper_muster": "rautenband",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#D7262E",
+   "beschreibung": "red, white rautenband, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Big Chief Racing, LLC, Rocker O Ranch, LLC and Desormeaux, J. Keith"
+   ]
+  },
+  "Vorlage hrn:20210417:Chance to Shine": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "rautenband",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "drei_aermelrauten",
+   "aermel_zweit": "#D7262E",
+   "beschreibung": "white, red rautenband, white and red drei aermelrauten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Peggy Thompson"
+   ]
+  },
+  "Vorlage hrn:20210417:Getridofwhatailesu": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#AADD66",
+   "aermel_grund": "#AADD66",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#AADD66",
+   "beschreibung": "white, lightgreen scheibe, lightgreen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "The Elkstone Group LLC"
+   ]
+  },
+  "Vorlage hrn:20210417:Monomoy Girl": {
+   "koerper_grund": "#9966AA",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#FF5522",
+   "aermel_grund": "#FF5522",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FF5522",
+   "beschreibung": "mauve, scarlet quartiert, scarlet sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "My Racehorse Stable, Spendthrift Farm LLC and Madaket Stables LLC"
+   ]
+  },
+  "Vorlage hrn:20200502:Charlatan": {
+   "koerper_grund": "#0055AA",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FFEE11",
+   "aermel_grund": "#0055AA",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FFEE11",
+   "beschreibung": "royal, yellow stern, royal and yellow rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "SF Racing, Starlight Racing, Madaket Stables, Stonestreet, Frederick Hertrich III, John Fielding, Golconda Stables"
+   ]
+  },
+  "Vorlage hrn:20210410:Hozier": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#1F6F73",
+   "aermel_grund": "#FFDD00",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFDD00",
+   "beschreibung": "black, teal scheibe, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "SF Racing LLC, Starlight Racing, Madaket Stables LLC, Stonestreet Stables LLC, Golconda Stables, Siena Farm LLC and Masterson, Robert E."
+   ]
+  },
+  "Vorlage hrn:20220402:Doppelganger": {
+   "koerper_grund": "#999999",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#DDDDFF",
+   "aermel_grund": "#999999",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#999999",
+   "beschreibung": "grey, white quartiert, grey sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Golconda Stable, Madaket Stables LLC, SF Racing LLC, Siena Farm LLC, Starlight Racing, Waves Edge Capital LLC, Donovan, Catherine, Masterson, Robert E. and Schoenfarber, Jay A."
+   ]
+  },
+  "Vorlage hrn:20220402:Kavod": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "chevron",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, black scheibe, black and white chevron sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Rogers, James and Robinson, Michael"
+   ]
+  },
+  "Vorlage hrn:20220402:Un Ojo": {
+   "koerper_grund": "#118844",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#222277",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#222277",
+   "beschreibung": "green, white scheibe, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Cypress Creek Equine LLC and Whispering Oaks Farm LLC"
+   ]
+  },
+  "Vorlage hrn:20220402:We the People": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#118844",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, green stern, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "WinStar Farm LLC, CMNWLTH and Siena Farm LLC"
+   ]
+  },
+  "Vorlage hrn:20200314:Kaydetre": {
+   "koerper_grund": "#335533",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#335533",
+   "aermel_grund": "#335533",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#335533",
+   "text": "R",
+   "text_farbe": "#6633FF",
+   "beschreibung": "darkgreen, darkgreen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "David Randall"
+   ]
+  },
+  "Vorlage hrn:20200314:Zusha": {
+   "koerper_grund": "#000099",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#000099",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#000099",
+   "beschreibung": "navy, red harlekin, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Rafael Steinbruch"
+   ]
+  },
+  "Vorlage hrn:20201003:Venezuelan Hug": {
+   "koerper_grund": "#88FFDD",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#FFEE11",
+   "aermel_grund": "#88FFDD",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFEE11",
+   "beschreibung": "aqua, yellow sterne, aqua and yellow sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Spedale Family Racing, LLC, R. A. Hill Stable and Spedale, Marianne"
+   ]
+  },
+  "Vorlage hrn:20220709:Tiz the Bomb": {
+   "koerper_grund": "#1B2A5E",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#1B2A5E",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#99CCFF",
+   "text": "H",
+   "text_farbe": "#000066",
+   "beschreibung": "navy, white scheibe, navy and lightblue armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Magdalena Racing (Sherri McPeek)"
+   ]
+  },
+  "Vorlage hrn:20220709:Concert Hall": {
+   "koerper_grund": "#9900CC",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#9900CC",
+   "aermel_grund": "#9900CC",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#9900CC",
+   "beschreibung": "violet, violet sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20220709:New Year's Eve": {
+   "koerper_grund": "#1177CC",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#1177CC",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#1177CC",
+   "text": "JBL",
+   "text_farbe": "#FFFFFF",
+   "beschreibung": "blue, white and blue rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Detampel, Marc and Galvin, Fergus"
+   ]
+  },
+  "Vorlage hrn:20220611:Mo Donegal": {
+   "koerper_grund": "#2266AA",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FF9944",
+   "aermel_grund": "#2266AA",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FF9944",
+   "text": "R",
+   "text_farbe": "#2266AA",
+   "beschreibung": "royal, gold scheibe, royal and gold armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20200801:Collusion Illusion": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "pferdekopf",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "chevron",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "black, white pferdekopf, black and white chevron sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Agnew, Dan J , Orr, Rodney E , Schneider, Jerry And Xitco, John V"
+   ]
+  },
+  "Vorlage hrn:20200801:Heartwood": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#118811",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, green stern, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Tsujimoto, Stuart And David A Bernsen, Llc"
+   ]
+  },
+  "Vorlage hrn:20230729:C Z Rocket": {
+   "koerper_grund": "#F2A6C0",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#F2A6C0",
+   "aermel_grund": "#F2A6C0",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#F2A6C0",
+   "text": "B",
+   "text_farbe": "#000000",
+   "beschreibung": "pink, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Altamira Racing Stable, Madaket Stables LLC and Kagele, Tom"
+   ]
+  },
+  "Vorlage hrn:20230729:Kid Corleone": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#1E8A45",
+   "beschreibung": "white, white and green armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Roadrunner Racing and Evenson, Barbara"
+   ]
+  },
+  "Vorlage hrn:20230729:Spirit of Makena": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "band",
+   "koerper_zweit": "#FF4488",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FF4488",
+   "beschreibung": "white, cerise band, white and cerise sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Bruce Chandler"
+   ]
+  },
+  "Vorlage hrn:20230729:Todo Fino": {
+   "koerper_grund": "#AACCDD",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#AACCDD",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#AACCDD",
+   "beschreibung": "lightblue, red epauletten, lightblue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Stud Vendaval, Inc. and Sanchez, Amador"
+   ]
+  },
+  "Vorlage hrn:20230408:Verifying": {
+   "koerper_grund": "#330099",
+   "koerper_muster": "kleeblatt",
+   "koerper_zweit": "#33CC33",
+   "aermel_grund": "#330099",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#33CC33",
+   "beschreibung": "purple, green kleeblatt, purple and green aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20201003:Founder": {
+   "koerper_grund": "#0033FF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#0033FF",
+   "aermel_muster": "diagonalstreifen",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "blue, white sterne, blue and white diagonalstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Drown, Jeff and Rachel, Don"
+   ]
+  },
+  "Vorlage hrn:20201003:Keepmeinmind": {
+   "koerper_grund": "#9966AA",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#FF5522",
+   "aermel_grund": "#FF5522",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FF5522",
+   "beschreibung": "mauve, scarlet quartiert, scarlet sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Southern Equine Stable LLC"
+   ]
+  },
+  "Vorlage hrn:20201003:Upstriker": {
+   "koerper_grund": "#0000FF",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#0000FF",
+   "beschreibung": "royal, red quartiert, red and royal aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Sparks, William S., Jones, Brereton C. and LaPenta, Robert V."
+   ]
+  },
+  "Vorlage hrn:20221001:Champions Dream": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "ring",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#111111",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#D7262E",
+   "beschreibung": "black, red ring, black and red aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Rosedown Racing Stables, LLC"
+   ]
+  },
+  "Vorlage hrn:20221001:Top Recruit": {
+   "koerper_grund": "#22CCCC",
+   "koerper_muster": "rautenband",
+   "koerper_zweit": "#FFEE66",
+   "aermel_grund": "#22CCCC",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFEE66",
+   "beschreibung": "turquoise, yellow rautenband, turquoise and yellow armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Paradise Farms Corp., Staudacher, David, Three Diamonds Farm and Maker, Michael J."
+   ]
+  },
+  "Vorlage hrn:20221001:Verifying": {
+   "koerper_grund": "#330099",
+   "koerper_muster": "kleeblatt",
+   "koerper_zweit": "#33CC33",
+   "aermel_grund": "#330099",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#33CC33",
+   "beschreibung": "purple, green kleeblatt, purple and green aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20210501:Flagstaff": {
+   "koerper_grund": "#118844",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#118844",
+   "beschreibung": "green, white querstreifen, white and green armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Lane's End Racing and Hronis Racing"
+   ]
+  },
+  "Vorlage hrn:20220806:Soothsay": {
+   "koerper_grund": "#FF99AA",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#118877",
+   "aermel_grund": "#FF99AA",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FF99AA",
+   "beschreibung": "pink, teal laengsstreifen, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Bass II, Perry R., Bass, Ramona S., Dilschneider, Adele B. and Hancock, II, Waddell W."
+   ]
+  },
+  "Vorlage hrn:20220723:Butterbean": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "sanduhr",
+   "koerper_zweit": "#0033EE",
+   "aermel_grund": "#0033EE",
+   "aermel_muster": "diagonalstreifen",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, blue sanduhr, blue and white diagonalstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Magdalena Racing (Sherri McPeek) and Klimashousky, William"
+   ]
+  },
+  "Vorlage hrn:20220924:Morning Matcha": {
+   "koerper_grund": "#F2A6C0",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#F2A6C0",
+   "aermel_grund": "#F2A6C0",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#F2A6C0",
+   "text": "B",
+   "text_farbe": "#000000",
+   "beschreibung": "pink, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "LC Racing, Cash is King LLC and Barber, Gary"
+   ]
+  },
+  "Vorlage hrn:20230923:Ceiling Crusher": {
+   "koerper_grund": "#33CC33",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#33CC33",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "green, white stern, green and white sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Wonderland Racing Stables, LLC, Cady, Todd, Kasparoff, Tim and Leatherman, Ty"
+   ]
+  },
+  "Vorlage hrn:20230923:Foggy Night": {
+   "koerper_grund": "#00EE00",
+   "koerper_muster": "chevrons_oben",
+   "koerper_zweit": "#0000FF",
+   "aermel_grund": "#00EE00",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#0000FF",
+   "beschreibung": "emerald, royal chevrons oben, emerald and royal rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Pine Brook Farm"
+   ]
+  },
+  "Vorlage hrn:20230923:Imonra": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#D7262E",
+   "beschreibung": "white, red v gross, white and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Vegso Racing Stable"
+   ]
+  },
+  "Vorlage hrn:20230923:Majestic Creed": {
+   "koerper_grund": "#AACCEE",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#FFFF00",
+   "aermel_grund": "#AACCEE",
+   "aermel_muster": "chevron",
+   "aermel_zweit": "#FFFF00",
+   "text": "R",
+   "text_farbe": "#000066",
+   "beschreibung": "lightblue, yellow kreuzband, lightblue and yellow chevron sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Cheryl A. Rickards"
+   ]
+  },
+  "Vorlage hrn:20200907:Dr. Schivel": {
+   "koerper_grund": "#883322",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FF6655",
+   "aermel_grund": "#883322",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#FF6655",
+   "beschreibung": "maroon, orange scheibe, maroon and orange aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20250816:Lush Lips": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "rauten",
+   "koerper_zweit": "#116633",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#116633",
+   "beschreibung": "white, darkgreen rauten, white and darkgreen rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Medallion Racing, Parkland Thoroughbreds and Mrs Paul Shanahan"
+   ]
+  },
+  "Vorlage hrn:20220507:Kimari": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#0022CC",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#0022CC",
+   "beschreibung": "white, royal naht, white and royal aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20201018:Elizabeth Way": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#CCEE88",
+   "beschreibung": "black, black and beige armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "John J. McCormack"
+   ]
+  },
+  "Vorlage hrn:20201018:Rideforthecause": {
+   "koerper_grund": "#FF3366",
+   "koerper_muster": "band",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FF3366",
+   "aermel_muster": "chevron",
+   "aermel_zweit": "#111111",
+   "beschreibung": "cerise, black band, cerise and black chevron sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Sam-Son Farm"
+   ]
+  },
+  "Vorlage hrn:20221008:Mylady": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#99DDEE",
+   "aermel_grund": "#99DDEE",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#99DDEE",
+   "beschreibung": "black, lightblue kreuzband, lightblue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Gestut Karlshof"
+   ]
+  },
+  "Vorlage hrn:20221008:Rougir": {
+   "koerper_grund": "#0044FF",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FF9900",
+   "aermel_grund": "#0044FF",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#FF9900",
+   "beschreibung": "blue, orange scheibe, blue and orange aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20201003:Crystal Lake": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "chevrons_oben",
+   "koerper_zweit": "#1166BB",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#1166BB",
+   "beschreibung": "white, royal chevrons oben, white and royal armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Aaron Sones"
+   ]
+  },
+  "Vorlage hrn:20221008:Market Rumor": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "rautenband",
+   "koerper_zweit": "#FFCC00",
+   "aermel_grund": "#111111",
+   "aermel_muster": "diagonalstreifen",
+   "aermel_zweit": "#FFCC00",
+   "beschreibung": "black, yellow rautenband, black and yellow diagonalstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Bloch, Randall L. and Six Column Stables, LLC, et al"
+   ]
+  },
+  "Vorlage hrn:20200822:Emmaus": {
+   "koerper_grund": "#CCE6F5",
+   "koerper_muster": "band",
+   "koerper_zweit": "#003366",
+   "aermel_grund": "#CCE6F5",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#CCE6F5",
+   "beschreibung": "silver, navy band, silver sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Murphy, Conor And M And J Thoroughbreds Llc"
+   ]
+  },
+  "Vorlage hrn:20200822:Without Parole": {
+   "koerper_grund": "#118811",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#880000",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "green, maroon quartiert, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Gunther, John D And Gunther, Tanya"
+   ]
+  },
+  "Vorlage hrn:20221002:Vedareo": {
+   "koerper_grund": "#CC7755",
+   "koerper_muster": "rautenband",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "tan, black rautenband, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Swilcan Stable LLC"
+   ]
+  },
+  "Vorlage hrn:20200525:Beautiful Lover": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#111111",
+   "beschreibung": "black, white and black aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Pompa, Jr., Paul P. and Tolchin, Gary"
+   ]
+  },
+  "Vorlage hrn:20200525:Etoile": {
+   "koerper_grund": "#226622",
+   "koerper_muster": "grosses_joch",
+   "koerper_zweit": "#55AA22",
+   "aermel_grund": "#226622",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#55AA22",
+   "beschreibung": "darkgreen, olive grosses joch, darkgreen and olive armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20200525:Lady Prancealot": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#2255CC",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#D7262E",
+   "beschreibung": "white, blue sterne, white and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Arntz, Craig, Arntz, Josie, Durando, Donald, Iavarone, Jules, Iavarone, Michael and McClanahan, Jerry"
+   ]
+  },
+  "Vorlage hrn:20200525:Simply Breathless": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "band",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, red band, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Cloros Bloodstock"
+   ]
+  },
+  "Vorlage hrn:20200926:Improbable": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#118844",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, green stern, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Winstar Farm Llc, China Horse Club International Ltd And Sf Racing Llc"
+   ]
+  },
+  "Vorlage hrn:20200801:Captain Bombastic": {
+   "koerper_grund": "#CCE6F5",
+   "koerper_muster": "sanduhr",
+   "koerper_zweit": "#002255",
+   "aermel_grund": "#CCE6F5",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#CCE6F5",
+   "beschreibung": "silver, navy sanduhr, silver sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Team Hanley"
+   ]
+  },
+  "Vorlage hrn:20200801:Eight Rings": {
+   "koerper_grund": "#999999",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#DDDDFF",
+   "aermel_grund": "#999999",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#999999",
+   "beschreibung": "grey, white quartiert, grey sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20200801:Hopeful Treasure": {
+   "koerper_grund": "#FFEE00",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#1122CC",
+   "aermel_grund": "#FFEE00",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#1122CC",
+   "beschreibung": "yellow, royal stern, yellow and royal karo sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Just In Time Racing LLC"
+   ]
+  },
+  "Vorlage hrn:20200801:Liam's Pride": {
+   "koerper_grund": "#DDEEFF",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#DDEEFF",
+   "aermel_grund": "#DDEEFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#DDEEFF",
+   "beschreibung": "white, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Mansor, Tom, Pushor, Richard J., Roy, Robert G., Calvert, D. Chadwick and Caroom, Jerry"
+   ]
+  },
+  "Vorlage hrn:20200718:Ancient Warrior": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Al Graziani"
+   ]
+  },
+  "Vorlage hrn:20200718:Fame to Famous": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#118811",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFCC22",
+   "beschreibung": "white, green kreuzband, white and yellow armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Kingdom Racing"
+   ]
+  },
+  "Vorlage hrn:20200718:Lebda": {
+   "koerper_grund": "#D7262E",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#D7262E",
+   "beschreibung": "red, white harlekin, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Euro Stable"
+   ]
+  },
+  "Vorlage hrn:20200718:Ny Traffic": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "lilie",
+   "koerper_zweit": "#AAAAAA",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#AAAAAA",
+   "beschreibung": "black, grey lilie, black and grey armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "John Fanelli, Cash is King LLC, LC Racing, Paul Braverman"
+   ]
+  },
+  "Vorlage hrn:20220723:Benevengo": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#EE6644",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#118844",
+   "beschreibung": "white, orange and green punkte sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Wasabi Ventures Stables LLC"
+   ]
+  },
+  "Vorlage hrn:20220723:Jack Christopher": {
+   "koerper_grund": "#0022FF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "blue, white sterne, red and white armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20220723:King of Hollywood": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#D7262E",
+   "beschreibung": "white, red kreuzband, white and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Monmouth Stud and Pinnacle Racing Team"
+   ]
+  },
+  "Vorlage hrn:20220723:One Time Willard": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "rautenband",
+   "koerper_zweit": "#116633",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "black, darkgreen rautenband, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Barrister Breeding, LLC"
+   ]
+  },
+  "Vorlage hrn:20201128:Decorated Invader": {
+   "koerper_grund": "#FFBB00",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFBB00",
+   "beschreibung": "yellow, black stern, black and yellow armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "West Point Thoroughbreds, Freeman, Sandbrook, and Manning"
+   ]
+  },
+  "Vorlage hrn:20201128:Lane Way": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "pferdekopf",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "chevron",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "black, white pferdekopf, black and white chevron sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20201128:Scarto": {
+   "koerper_grund": "#D7262E",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#FFEE00",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#D7262E",
+   "beschreibung": "red, yellow grosskaro, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Little Red Feather Racing and Naify, Marsha"
+   ]
+  },
+  "Vorlage hrn:20201128:Strongconstitution": {
+   "koerper_grund": "#88CC55",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#88CC55",
+   "aermel_grund": "#336655",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#336655",
+   "beschreibung": "lime, teal sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Roadrunner Racing and Sayjay Racing LLC"
+   ]
+  },
+  "Vorlage hrn:20240608:Coppola": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "pferdekopf",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "black, white pferdekopf, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Hammer Time Stable And S O K Racing"
+   ]
+  },
+  "Vorlage hrn:20201003:Channel Maker": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#FFEE00",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFEE00",
+   "beschreibung": "black, yellow streifen, black and yellow armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20201003:Laccario": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#D7262E",
+   "beschreibung": "white, red streifen, white and red armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Manfred Ostermann"
+   ]
+  },
+  "Vorlage hrn:20221008:Astronaut": {
+   "koerper_grund": "#FFCCDD",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFCCDD",
+   "aermel_grund": "#FFCCDD",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFCCDD",
+   "beschreibung": "cream, cream sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "John M. B. O'Connor"
+   ]
+  },
+  "Vorlage hrn:20200904:Bayerness": {
+   "koerper_grund": "#E6E6FA",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#E6E6FA",
+   "aermel_grund": "#E6E6FA",
+   "aermel_muster": "drei_aermelrauten",
+   "aermel_zweit": "#4455DD",
+   "beschreibung": "white, white and blue drei aermelrauten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Belladonna Racing, LLC"
+   ]
+  },
+  "Vorlage hrn:20200904:Donna Veloce": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#2266AA",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#2266AA",
+   "beschreibung": "white, red laengsstreifen, royal sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20200904:Tempers Rising": {
+   "koerper_grund": "#D7262E",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#0033FF",
+   "beschreibung": "red, white streifen, red and blue manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Stanley, Mark H. and Stanley, Nancy W."
+   ]
+  },
+  "Vorlage hrn:20210430:Coach": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "ring",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#D7262E",
+   "beschreibung": "white, red ring, white and red armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Kueber Racing, LLC"
+   ]
+  },
+  "Vorlage hrn:20220506:Candy Raid": {
+   "koerper_grund": "#006600",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FFCC22",
+   "aermel_grund": "#88EE88",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFCC22",
+   "beschreibung": "darkgreen, yellow stern, lightgreen and yellow sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Don't Tell My Wife Stables and Desormeaux, J. Keith"
+   ]
+  },
+  "Vorlage hrn:20220506:Kathleen O.": {
+   "koerper_grund": "#1B2A5E",
+   "koerper_muster": "kleeblatt",
+   "koerper_zweit": "#66DDAA",
+   "aermel_grund": "#1B2A5E",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#1B2A5E",
+   "beschreibung": "navy, aqua kleeblatt, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Winngate Stables, LLC"
+   ]
+  },
+  "Vorlage hrn:20220506:Venti Valentine": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#1A1A66",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#1A1A66",
+   "beschreibung": "white, navy scheibe, white and navy armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "NY Final Furlong Racing Stable and Parkland Thoroughbreds"
+   ]
+  },
+  "Vorlage hrn:20200904:Lady Kate": {
+   "koerper_grund": "#D7262E",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#D7262E",
+   "beschreibung": "red, white kreuzband, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Brad Anderson"
+   ]
+  },
+  "Vorlage hrn:20220506:Battle Bling": {
+   "koerper_grund": "#CC1144",
+   "koerper_muster": "litzen",
+   "koerper_zweit": "#FFCC33",
+   "aermel_grund": "#FFCC33",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFCC33",
+   "beschreibung": "red, yellow litzen, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Dubb, Michael and Gandharvi Racing Stables"
+   ]
+  },
+  "Vorlage hrn:20220506:Jilted Bride": {
+   "koerper_grund": "#115533",
+   "koerper_muster": "band",
+   "koerper_zweit": "#111844",
+   "aermel_grund": "#115533",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#111844",
+   "beschreibung": "darkgreen, navy band, darkgreen and navy armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Bradley Thoroughbreds, Cambron, Tim, Cambron, Anna, Carruth, Brady and Carruth, Zane"
+   ]
+  },
+  "Vorlage hrn:20220506:Shedaresthedevil": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "black, white stern, black and white karo sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Flurry Racing Stables LLC, Qatar Racing Limited and Whisper Hill Farm, LLC"
+   ]
+  },
+  "Vorlage hrn:20220506:Temper Time": {
+   "koerper_grund": "#D7262E",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#0033FF",
+   "beschreibung": "red, white streifen, red and blue manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Mark H. Stanley"
+   ]
+  },
+  "Vorlage hrn:20200710:Emmaus": {
+   "koerper_grund": "#CCE6F5",
+   "koerper_muster": "band",
+   "koerper_zweit": "#003366",
+   "aermel_grund": "#CCE6F5",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#CCE6F5",
+   "beschreibung": "silver, navy band, silver sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "M and J Thoroughbreds LLC and Riverside Bloodstock, LLC"
+   ]
+  },
+  "Vorlage hrn:20200710:Without Parole": {
+   "koerper_grund": "#118811",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#880000",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "green, maroon quartiert, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Gunther, John D. and Gunther, Tanya"
+   ]
+  },
+  "Vorlage hrn:20201129:Sharing": {
+   "koerper_grund": "#995511",
+   "koerper_muster": "joch",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#995511",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "brown, white joch, brown and white armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Eclipse Thoroughbred Partners and Gainesway Stable"
+   ]
+  },
+  "Vorlage hrn:20240608:Castle Chaos": {
+   "koerper_grund": "#0033FF",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#D7262E",
+   "beschreibung": "blue, red streifen, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Goldfarb, Sanford J , Nice Guys Stables And Falcone, Jr , Robert N"
+   ]
+  },
+  "Vorlage hrn:20200920:Big Big Plans": {
+   "koerper_grund": "#0033FF",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#0033FF",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "blue, red and white armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Martha Gonzalez"
+   ]
+  },
+  "Vorlage hrn:20200125:Tax": {
+   "koerper_grund": "#EE5577",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#EE5577",
+   "aermel_grund": "#EE5577",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#CCCCCC",
+   "text": "RAH",
+   "text_farbe": "#FFFFFF",
+   "beschreibung": "cerise, cerise and silver karo sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "R A Hill Stable, Reeves Thoroughbred Racing, Lynch, Hugh And Corms Racing Stable"
+   ]
+  },
+  "Vorlage hrn:20210925:Weyburn": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "dreifarbig_quer",
+   "koerper_zweit": "#FFEE00",
+   "koerper_dritt": "#117733",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFEE00",
+   "beschreibung": "white, yellow dreifarbig quer, white and yellow armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Chiefswood Stable"
+   ]
+  },
+  "Vorlage hrn:20240921:Lonesome Boy": {
+   "koerper_grund": "#FFEE00",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFEE00",
+   "aermel_grund": "#FFEE00",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#111111",
+   "text": "JP",
+   "text_farbe": "#000000",
+   "beschreibung": "yellow, yellow and black manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "John E. Parker"
+   ]
+  },
+  "Vorlage hrn:20240921:Timeout": {
+   "koerper_grund": "#FFCC22",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFCC22",
+   "aermel_grund": "#FFCC22",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFCC22",
+   "beschreibung": "yellow, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Claiborne Farm and Dilschneider, Adele B."
+   ]
+  },
+  "Vorlage hrn:20240921:Uncle Heavy": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#1188DD",
+   "beschreibung": "black, white raute, black and blue rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Milam Racing Stables and LC Racing"
+   ]
+  },
+  "Vorlage hrn:20200801:Motion Emotion": {
+   "koerper_grund": "#9966AA",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#FF5522",
+   "aermel_grund": "#FF5522",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FF5522",
+   "beschreibung": "mauve, scarlet quartiert, scarlet sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "DeDomenico, Mark, Abbondanza Racing, LLC and Medallion Racing"
+   ]
+  },
+  "Vorlage hrn:20220409:Messier": {
+   "koerper_grund": "#0055AA",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FFEE11",
+   "aermel_grund": "#0055AA",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FFEE11",
+   "beschreibung": "royal, yellow stern, royal and yellow rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Golconda Stable, Madaket Stables LLC, SF Racing LLC, Siena Farm LLC, Starlight Racing, Waves Edge Capital LLC, Donovan, Catherine, Masterson, Robert E., and Schoenfarber, Jay A."
+   ]
+  },
+  "Vorlage hrn:20220409:Win the Day": {
+   "koerper_grund": "#44DDCC",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "aqua, white scheibe, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Boat Racing, LLC, Fritz Brothers Racing, LLC, and Strauss, William"
+   ]
+  },
+  "Vorlage hrn:20200525:Blitzkrieg": {
+   "koerper_grund": "#FFEE00",
+   "koerper_muster": "hufeisen",
+   "koerper_zweit": "#113355",
+   "aermel_grund": "#FFEE00",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#113355",
+   "beschreibung": "yellow, navy hufeisen, yellow and navy armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "R3 Racing and Calara Farms"
+   ]
+  },
+  "Vorlage hrn:20200525:Neptune's Storm": {
+   "koerper_grund": "#BBDDEE",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#001188",
+   "aermel_grund": "#BBDDEE",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#BBDDEE",
+   "beschreibung": "lightblue, navy grosskaro, lightblue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "CYBT; Gevertz, Saul; Gitomer, Lynn; Goetz, Mike; Nentwig, Michael; Weiner, Daniel"
+   ]
+  },
+  "Vorlage hrn:20230903:Lemorian": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#FFFFFF",
+   "text": "E",
+   "text_farbe": "#FFFFFF",
+   "beschreibung": "black, black and white punkte sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Antonio Scotto di Carlo"
+   ]
+  },
+  "Vorlage hrn:20220708:Sammy Stone": {
+   "koerper_grund": "#FFEE00",
+   "koerper_muster": "rautenband",
+   "koerper_zweit": "#888888",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#888888",
+   "beschreibung": "yellow, grey rautenband, white and grey aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Willow Pond Stable"
+   ]
+  },
+  "Vorlage hrn:20230714:Airosa": {
+   "koerper_grund": "#1155AA",
+   "koerper_muster": "ring",
+   "koerper_zweit": "#FFDD00",
+   "aermel_grund": "#1155AA",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FFDD00",
+   "beschreibung": "royal, yellow ring, royal and yellow rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "X-men Racing 3, Starladies Racing, Madaket Stables Llc And Sf Racing Llc"
+   ]
+  },
+  "Vorlage hrn:20220806:Wish You Well": {
+   "koerper_grund": "#D7262E",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#1133AA",
+   "beschreibung": "red, white scheibe, white and royal karo sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Black Type Thoroughbreds, R. A. Hill Stable, Reeves Thoroughbred Racing and Kallenberg Farms"
+   ]
+  },
+  "Vorlage hrn:20220507:Cavalry Charge": {
+   "koerper_grund": "#FFBB00",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFBB00",
+   "beschreibung": "yellow, black stern, black and yellow armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "West Point Thoroughbreds, Sandbrook, William and Masiello, Robert"
+   ]
+  },
+  "Vorlage hrn:20220507:Tribhuvan": {
+   "koerper_grund": "#FF3399",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FF3399",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "cerise, white harlekin, cerise and white armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Dubb, Michael, Madaket Stables LLC and Wonder Stables"
+   ]
+  },
+  "Vorlage hrn:20201003:Bowies Hero": {
+   "koerper_grund": "#110022",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#110022",
+   "aermel_grund": "#110022",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#88CC44",
+   "beschreibung": "black, black and lime armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Agave Racing Stable, ERJ Racing, LLC and Madaket Stables LLC, et al"
+   ]
+  },
+  "Vorlage hrn:20200801:Improbable": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#118844",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, green stern, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20200801:Mr. Buff": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "sanduhr",
+   "koerper_zweit": "#118866",
+   "aermel_grund": "#118866",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#118866",
+   "beschreibung": "white, teal sanduhr, teal sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Broman, Sr., Chester and Mary"
+   ]
   }
  },
  "pferde": {
