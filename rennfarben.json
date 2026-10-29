@@ -107831,6 +107831,184 @@
    "beschreibung": "yellow, purple v gross, yellow and purple karo sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
+  },
+  "Vorlage hrn:20211105:Grafton Street": {
+   "koerper_grund": "#000099",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#000099",
+   "aermel_grund": "#000099",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#000099",
+   "beschreibung": "navy, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20211105:Coinage": {
+   "koerper_grund": "#882233",
+   "koerper_muster": "rautenband",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#882233",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "maroon, white rautenband, maroon and white rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "D. J. Stable LLC, Chester Broman, Sr. and Mary Broman"
+   ]
+  },
+  "Vorlage hrn:20211105:Glounthaune": {
+   "koerper_grund": "#CCE6F0",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#884411",
+   "aermel_grund": "#CCE6F0",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#CCE6F0",
+   "beschreibung": "silver, brown kreuzbaender, silver sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Vorlage hrn:20241102:Mufasa": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#FF9900",
+   "beschreibung": "black, black and orange aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Stud Los Leones and Stud Vendaval, Inc."
+   ],
+   "text": "RRR",
+   "text_farbe": "#FF9900"
+  },
+  "Vorlage hrn:20200613:She's A Julie": {
+   "koerper_grund": "#118811",
+   "koerper_muster": "band",
+   "koerper_zweit": "#2233AA",
+   "aermel_grund": "#118811",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#2233AA",
+   "beschreibung": "green, royal band, green and royal armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Bradley Thoroughbreds, Cambron, Tim, Cambron, Anna, Denali Stud, Rigney Racing, Llc And Madaket Stables Llc"
+   ]
+  },
+  "Vorlage hrn:20200613:Blamed": {
+   "koerper_grund": "#00FFFF",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#00FFFF",
+   "aermel_muster": "chevron",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "aqua, white kreuzband, aqua and white chevron sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Cleber Massey"
+   ]
+  },
+  "Vorlage hrn:20230701:Speed Bias": {
+   "koerper_grund": "#0000FF",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#D7262E",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#0000FF",
+   "beschreibung": "royal, red quartiert, red and royal aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Johnston, Keith F. and Sparks, William S."
+   ]
+  },
+  "Vorlage hrn:20240224:Senor Buscador": {
+   "koerper_grund": "#2233AA",
+   "koerper_muster": "ring",
+   "koerper_zweit": "#33CC33",
+   "aermel_grund": "#33CC33",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#2233AA",
+   "beschreibung": "royal, green ring, green and royal karo sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Sharaf Mohammed S Al Hariri & Joe R Peacock Jr"
+   ]
+  },
+  "Vorlage hrn:20240224:National Treasure": {
+   "koerper_grund": "#0055AA",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FFEE11",
+   "aermel_grund": "#0055AA",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FFEE11",
+   "beschreibung": "royal, yellow stern, royal and yellow rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "SF Racing LLC, Starlight Racing et al"
+   ]
+  },
+  "Vorlage hrn:20240224:Carmel Road": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, red naht, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "King Abdullah bin Abdulaziz Sons"
+   ]
+  },
+  "Vorlage hrn:20220226:Country Grammer": {
+   "koerper_grund": "#1F55A8",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#D7262E",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "royal, red kreuzband, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Winstar Farm Llc Amer Zedan"
+   ]
+  },
+  "Vorlage hrn:20220226:Aero Trem": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#111111",
+   "beschreibung": "white, black kreuzbaender, white and black armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Prince Sultan Bin Mishal Bin A/ Aziz"
+   ]
+  },
+  "Vorlage hrn:20210220:Mishriff": {
+   "koerper_grund": "#880000",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#AAAAAA",
+   "aermel_grund": "#880000",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#880000",
+   "beschreibung": "maroon, grey epauletten, maroon sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Prince Faisal"
+   ]
+  },
+  "Vorlage hrn:20200229:Maximum Security": {
+   "koerper_grund": "#FF66AA",
+   "koerper_muster": "rautenband",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FF66AA",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FF66AA",
+   "beschreibung": "pink, black rautenband, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
   }
  },
  "pferde": {
