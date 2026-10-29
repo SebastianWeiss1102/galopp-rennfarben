@@ -3263,7 +3263,8 @@
    "beschreibung": "cerise, cerise sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Amo Racing Limited & P Waney"
+    "Amo Racing Limited & P Waney",
+    "Amo Racing Ltd/charles Ob"
    ]
   },
   "AMO Racing Limited & Mrs A O'Callaghan": {
@@ -22252,7 +22253,10 @@
    "aermel_muster": "chevron",
    "aermel_zweit": "#324F3C",
    "beschreibung": "yellow, darkgreen kreuzbaender, yellow and darkgreen chevron sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Gousserie/ec Gribomont/mdelaunay"
+   ]
   },
   "Gousserie Racing & Guy Pariente Holding": {
    "koerper_grund": "#FEFE00",
@@ -23376,7 +23380,9 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "grey, grey streifen, grey and white laengsstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Hasan Mefareh Alajmi Fawzi Abdulla Nass"
+   ]
   },
   "H Newton": {
    "koerper_grund": "#004A8F",
@@ -108183,6 +108189,17 @@
    "aermel_muster": "armbinde",
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "turquoise, red kreuzband, red and white armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Miss Alison Jones (Partner)": {
+   "koerper_grund": "#D11616",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#D11616",
+   "beschreibung": "red, black stern, white and red armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
   }
