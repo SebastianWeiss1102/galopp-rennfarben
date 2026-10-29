@@ -107800,24 +107800,24 @@
    "aliase": []
   },
   "Jeetu Ramchandani": {
-   "koerper_grund": "#35616D",
+   "koerper_grund": "#2E8B9A",
    "koerper_muster": "diagonalstreifen",
    "koerper_zweit": "#EA60C4",
    "aermel_grund": "#111111",
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#111111",
-   "beschreibung": "teal, mauve diagonalstreifen, black sleeves",
+   "beschreibung": "turquoise, mauve diagonalstreifen, black sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
   },
   "Lim Siah Mong": {
    "koerper_grund": "#143B54",
    "koerper_muster": "sterne",
-   "koerper_zweit": "#A69E61",
+   "koerper_zweit": "#E8B830",
    "aermel_grund": "#143B54",
    "aermel_muster": "sterne",
-   "aermel_zweit": "#A69E61",
-   "beschreibung": "navy, tan sterne, navy and tan sterne sleeves",
+   "aermel_zweit": "#E8B830",
+   "beschreibung": "navy, gold sterne, navy and gold sterne sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
   },
