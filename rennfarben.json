@@ -108042,6 +108042,149 @@
    "beschreibung": "red, royal laengsstreifen, red sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
+  },
+  "Miss J Deadman's Barrow": {
+   "koerper_grund": "#27324A",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#27324A",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#9BC4E2",
+   "koerper_zweit": "#27324A",
+   "beschreibung": "navy, navy and lightblue punkte sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Richard Ravin": {
+   "koerper_grund": "#14213D",
+   "koerper_muster": "quadrat_rahmen",
+   "koerper_zweit": "#E5D02C",
+   "aermel_grund": "#E5D02C",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#E5D02C",
+   "beschreibung": "navy, yellow quadrat rahmen, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Mohammed Rashid": {
+   "koerper_grund": "#165BB4",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#165BB4",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "royal, white scheibe, royal and white punkte sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Mme Jacques Cygler": {
+   "koerper_grund": "#E6D12C",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#0051BA",
+   "aermel_grund": "#E6D12C",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#0051BA",
+   "beschreibung": "yellow, royal sterne, yellow and royal sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Corinna Baronin von Ullmann": {
+   "koerper_grund": "#A32638",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#14213D",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#A32638",
+   "aermel_zweit": "#14213D",
+   "beschreibung": "maroon, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Robert Ng": {
+   "koerper_grund": "#49176D",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#DC0000",
+   "aermel_grund": "#DC0000",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#DC0000",
+   "beschreibung": "purple, red stern, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Patrick Moyles": {
+   "koerper_grund": "#A32638",
+   "koerper_muster": "gespalten",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#A32638",
+   "beschreibung": "maroon, white gespalten, white and maroon sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Straight To Victory Syndicate": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#E1ACAE",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#E1ACAE",
+   "beschreibung": "black, pink kreuzbaender, black and pink armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Sharaf Mohammed S Al Hariri & Joe R Peacock Jr": {
+   "koerper_grund": "#0049A8",
+   "koerper_muster": "chevron",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#0049A8",
+   "beschreibung": "royal, white chevron, white and royal armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "King Abdullah bin Abdulaziz Sons": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#DC0000",
+   "koerper_zweit": "#FFFFFF",
+   "beschreibung": "white, white and red aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Keiji Nagai": {
+   "koerper_grund": "#3EB370",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFF00",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#3EB370",
+   "koerper_zweit": "#3EB370",
+   "beschreibung": "turquoise, yellow and turquoise armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Takashi Suzuki": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#E60033",
+   "beschreibung": "black, white laengsstreifen, black and red armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Hidaka Breeders Union Co Ltd": {
+   "koerper_grund": "#3EB370",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#E60033",
+   "aermel_grund": "#E60033",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "turquoise, red kreuzband, red and white armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
   }
  },
  "pferde": {
