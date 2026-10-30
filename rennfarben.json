@@ -235,7 +235,9 @@
     "A Bosma, JWB Thoroughbreds, J D'arcy, J Hepburn, K Samson, K Whitecliffe, G Clarke, G Jurie, D Stewart, D Arthur, T Cunneen, R Lloyd, N Smith, J Widdows, A Focas, A Jones",
     "A Bosma, N Smith Et Al",
     "A J A Bosma, Sir P J Vela, J F Hepburn, G Sheppard, D V Gilliard, D B McGuinness, M Cole, M L Solomon & Clearwater",
-    "A Bosma, G Wade Et Al"
+    "A Bosma, G Wade Et Al",
+    "Go Racing Esprit",
+    "A Bosma, J Vaughan Et Al"
    ]
   },
   "A Braun": {
@@ -757,7 +759,8 @@
     "O Kheir, N Greenhalgh Et Al",
     "O Kheir, M Arbib Et Al",
     "O Kheir, C Algie Et Al",
-    "O Kheir, Busuttin Racing Et Al"
+    "O Kheir, Busuttin Racing Et Al",
+    "O Kheir, A Guoga Et Al"
    ]
   },
   "A Kheir, J O'Neill, AK Racing, Mrs C Algie, Ciaron Maher Racing et al.": {
@@ -38128,7 +38131,8 @@
    "beschreibung": "royal, gold sterne, royal sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Mhumhain Racing, R A A H Racing, D Insall, J Burton, J Carr, J Wilson, Z Carr, R Cizauskas, D Mcdaid, J Morgan, C Nolan, L Brook, N Stuhlener, P Burton, G Furfaro"
+    "Mhumhain Racing, R A A H Racing, D Insall, J Burton, J Carr, J Wilson, Z Carr, R Cizauskas, D Mcdaid, J Morgan, C Nolan, L Brook, N Stuhlener, P Burton, G Furfaro",
+    "Mhumhain Racing, D Insall Et Al"
    ]
   },
   "Mia Familia Racing Stable": {
@@ -46185,7 +46189,8 @@
     "D O'brien, J Hardwick, J O'brien, A Lennen, T Rourke, C Kopacz, B Ainsworth, R Salter, S Bruhn",
     "P Ganci, Bearman Racing, Killarney, Sunny Coast Mates, Three Three Five Six Racing, Dunpunting, P2 Racing, Fat's Back Racing, Team Hit Racing, Turker's Lurkers, A Bright Idea, No More Ponies, D Mullen, B Shipton, J Huggett, D Cremasco, B Fowler, S Ganci, S Kyriazis, S Payne",
     "P Ganci, Bearman Racing, Team Hit Racing, Turker's Lurkers, A Bright Idea, No More Ponies, P2 Racing, Fat's Back Racing, Killarney, Sunny Coast Mates, Dunpunting, Three Three Five Six Racing, B Shipton, B Fowler, S Ganci, S Kyriazis, S Payne, D Mullen, J Huggett, D Cremasco",
-    "D O B Racing Cristal Eyes, T Rourke Et Al"
+    "D O B Racing Cristal Eyes, T Rourke Et Al",
+    "P Lanskey, H Hueston Et Al"
    ]
   },
   "P Lau": {
@@ -107794,7 +107799,10 @@
    "aermel_zweit": "#429A54",
    "beschreibung": "yellow, green querstreifen, yellow and green querstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "J McManus"
+   ],
+   "datum": "2026-10-28"
   },
   "E Sauren": {
    "koerper_grund": "#275BAA",
