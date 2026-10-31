@@ -7767,7 +7767,13 @@
    "aermel_zweit": "#90EE90",
    "beschreibung": "darkgreen, lightgreen joch, darkgreen and lightgreen armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Brant,Magnier,Tabor,Smith,Westerberg",
+    "Brant/magnier/tabor/smith",
+    "Brant/magnier/tabor/smith/westerberg",
+    "Westerberg, Brant, Peter M , Magnier, Mrs John, Smith, Derrick And Tabor, Michael B"
+   ],
+   "herkunft_alias": "31.10.2026 (Sebastian): Benvenuto Cellini laeuft in den Brant-Farben (Sporting-Life-Vorlage 20261031xke213602 geprueft: dunkelgruen, hellgruenes Joch, hellgruene Armbinden, dunkelgruene Kappe)"
   },
   "Brant/magnier/tabor/smith": {
    "koerper_grund": "#124B2A",
