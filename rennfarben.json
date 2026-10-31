@@ -1,5 +1,5 @@
 {
- "_stand": "2026-10-23",
+ "_stand": "2026-10-31",
  "_hinweis": "Die eine Trikot-Datenbank aller Galopp-Projekte. Je Besitzer die Zeichenangaben fuer trikot.py. Nichts von Hand ausserhalb dieses Repos pflegen.",
  "besitzer": {
   "22/23 David Hall Trainer Syndicate": {
@@ -14695,7 +14695,9 @@
    "aermel_zweit": "#31CD31",
    "beschreibung": "green, royal epauletten, green sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Dr Jim Walker"
+   ]
   },
   "Dr. Hubertus Diers u. a.": {
    "beschreibung": "Royal blue, white sleeves",
@@ -108354,6 +108356,241 @@
    "beschreibung": "pink, green kreuzband, green sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": []
+  },
+  "Tony Wechsler & Ann Plummer": {
+   "koerper_grund": "#FE69B3",
+   "koerper_muster": "kreuzbaender",
+   "aermel_grund": "#FE69B3",
+   "aermel_muster": "armbinde",
+   "beschreibung": "pink, light blue cross belts and armlets",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports Irish 2000 Guineas 2019 (Phoenix of Spain)",
+   "koerper_zweit": "#ADD7E6",
+   "aermel_zweit": "#ADD7E6"
+  },
+  "Pall Mall Partners": {
+   "koerper_grund": "#008D53",
+   "koerper_muster": "stern",
+   "aermel_grund": "#FA0017",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "emerald green, yellow star, red sleeves and cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports 1000 Guineas 2018 (Billesdon Brook)",
+   "koerper_zweit": "#FEFE00"
+  },
+  "Al Shaqab Racing & Gerard Augustin-Normand": {
+   "koerper_grund": "#7F7F7F",
+   "koerper_muster": "litzen",
+   "aermel_grund": "#7F7F7F",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "grey, gold braid, maroon cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "Al Shaqab / Augustin-Normand"
+   ],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports Poule d'Essai des Poulains 2017 (Brametot)",
+   "koerper_zweit": "#CC993D"
+  },
+  "H H Sheikh Mohammed Bin Khalifa Al Thani": {
+   "koerper_grund": "#084E86",
+   "koerper_muster": "sterne",
+   "aermel_grund": "#084E86",
+   "aermel_muster": "sterne",
+   "beschreibung": "royal blue, white stars, royal blue sleeves, white stars",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "Mohammed bin Khalifa Al Thani"
+   ],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports Poule d'Essai des Pouliches 2018 (Teppal)",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_zweit": "#FFFFFF"
+  },
+  "Mme Anne-Marie Hayes": {
+   "koerper_grund": "#FE69B3",
+   "koerper_muster": "epauletten",
+   "aermel_grund": "#FE69B3",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "pink, chocolate epaulets, quartered cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "Anne-Marie Hayes"
+   ],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports Poule d'Essai des Pouliches 2017 (Precieuse)",
+   "koerper_zweit": "#3F2D2F"
+  },
+  "3 Batterhams and A Reay": {
+   "koerper_grund": "#008D53",
+   "koerper_muster": "quartiert",
+   "aermel_grund": "#008D53",
+   "aermel_muster": "gespalten",
+   "beschreibung": "emerald green and maroon quartered, halved sleeves",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports Princess Margaret Stakes (Nyaleti, gleicher Besitzer)",
+   "koerper_zweit": "#7F0000",
+   "aermel_zweit": "#7F0000"
+  },
+  "Stall Ullmann": {
+   "koerper_grund": "#FEFE00",
+   "koerper_muster": "kreuzbaender",
+   "aermel_grund": "#084E86",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "yellow, royal blue cross sashes and sleeves",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "Stall Ullman"
+   ],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports Prix Vermeille 2018 (Well Timed)",
+   "koerper_zweit": "#084E86"
+  },
+  "Chelsea Srls": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "quartiert",
+   "aermel_grund": "#1D82C2",
+   "aermel_muster": "sterne",
+   "beschreibung": "white and blue quartered, blue sleeves, white stars",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: SNAI San Siro Programm 30.11.2024",
+   "koerper_zweit": "#1D82C2",
+   "aermel_zweit": "#FFFFFF"
+  },
+  "Scuderia Genets": {
+   "koerper_grund": "#1D82C2",
+   "koerper_muster": "sterne",
+   "aermel_grund": "#1D82C2",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "blue, yellow stars, blue cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: SNAI San Siro Programm 30.11.2024",
+   "koerper_zweit": "#FEFE00"
+  },
+  "Scuderia Sagam Sris": {
+   "koerper_grund": "#FA0017",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FEFE00",
+   "aermel_muster": "armbinde",
+   "beschreibung": "red, yellow sleeves, red armlets, yellow cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: SNAI San Siro Programm 16.11.2025",
+   "aermel_zweit": "#FA0017"
+  },
+  "Sandro Cardaioli": {
+   "koerper_grund": "#FEFE00",
+   "koerper_muster": "sterne",
+   "aermel_grund": "#FEFE00",
+   "aermel_muster": "laengsstreifen",
+   "beschreibung": "yellow, blue stars, yellow sleeves, blue stripes",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: SNAI San Siro Programm 29.10.2025",
+   "koerper_zweit": "#1D82C2",
+   "aermel_zweit": "#1D82C2"
+  },
+  "Razza Dormello-Olgiata": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "saltire",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "white, red St Andrew's cross, red cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: SNAI San Siro Programm 30.11.2024",
+   "koerper_zweit": "#FA0017"
+  },
+  "Buti Bintooq Almarri": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "diabolo",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "black, white diabolo, black sleeves",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports UAE Oaks 2017 (Nomorerichblondes)",
+   "koerper_zweit": "#FFFFFF"
+  },
+  "Rashid bin Humaid Al Nuaimi": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "band",
+   "aermel_grund": "#111111",
+   "aermel_muster": "querstreifen",
+   "beschreibung": "black, red hoop, black sleeves with orange stripes",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports UAE Oaks 2018 (Rayya)",
+   "koerper_zweit": "#FA0017",
+   "aermel_zweit": "#FD6611"
+  },
+  "Imperial Racing": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "rauten",
+   "aermel_grund": "#1D82C2",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "white, red diamonds, blue sleeves, red cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports UAE Derby 2019 (Plus Que Parfait)",
+   "koerper_zweit": "#FA0017"
+  },
+  "Mohammed Al Suboosi": {
+   "koerper_grund": "#7F0000",
+   "koerper_muster": "naht",
+   "aermel_grund": "#7F0000",
+   "aermel_muster": "armbinde",
+   "beschreibung": "maroon, white seams, maroon sleeves, white armlets, white cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports UAE 2000 Guineas 2025 (Golden Vekoma)",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_zweit": "#FFFFFF"
+  },
+  "Glaesner Racing APS": {
+   "koerper_grund": "#FEFE00",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FEFE00",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "yellow, yellow sleeves, yellow cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports UAE Oaks 2025 (Queen Azteca)"
+  },
+  "Suited & Booted Racing Syndicate": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "quartiert",
+   "aermel_grund": "#FA0017",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "white and royal blue quartered, red sleeves",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports UAE 2000 Guineas 2024 (Mendelssohn Bay)",
+   "koerper_zweit": "#084E86"
+  },
+  "Mrs J S Bolger (Zweitfarben)": {
+   "koerper_grund": "#7F7F7F",
+   "koerper_muster": "quadrat",
+   "aermel_grund": "#7F7F7F",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "grey, purple panel, check cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports Irish 2000 Guineas 2021 (Mac Swiney)",
+   "koerper_zweit": "#280070"
+  },
+  "Saif Ali (Main Edition)": {
+   "koerper_grund": "#FEFE00",
+   "koerper_muster": "kreuzband",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armbinde",
+   "beschreibung": "yellow, black sash, black sleeves, yellow armlets, yellow cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [],
+   "herkunft": "ClassicWinners 31.10.2026, Wortlaut: Sky Sports Albany Stakes 2018 (Main Edition)",
+   "koerper_zweit": "#111111",
+   "aermel_zweit": "#FEFE00"
   }
  },
  "pferde": {
