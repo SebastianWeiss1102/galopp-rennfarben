@@ -109100,6 +109100,16 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [],
    "herkunft": "ClassicWinners 01.11.2026: Renntags-Rennfarben laut Racing Post (New Zealand 1,000 Guineas 2022, Legarto), Bild https://www.rp-assets.com/svg/1/8/6/312681.svg"
+  },
+  "Mrs John Magnier (grey)": {
+   "koerper_grund": "#A6A6A6",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#A6A6A6",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "grey, grey sleeves, grey cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "ClassicWinners 01.11.2026: Renntagsfarben Serpentine, Epsom Derby 2020, Racing Post Bild https://www.rp-assets.com/svg/f/1/2/143821f.svg (Coolmore-Partnerschaft in Magnier-Zweitfarben)"
   }
  },
  "pferde": {
