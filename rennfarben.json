@@ -58148,7 +58148,8 @@
    "aliase": [
     "Ryan & Alexiou Racing, Stallion Match, The Big 4 Racing, South Arm, Tripp Racing, Legacy Thoroughbreds, L Coghlan, M Stevens, M Tripp, N Lovett, J Plozza, J Townley, T Carroll, M Burford, I Burford",
     "Stallion Match, Tussocks Racing, Dean Racing, J Rawlinson, C Christopoulos, J Hetrel, J Jacobs, R Cocks, N Kutcher, N Lovett, N Oates, J Bongiorno",
-    "Ryan & Alexiou Racing, Stallion Match Et Al"
+    "Ryan & Alexiou Racing, Stallion Match Et Al",
+    "Ryan & Alexiou Racing (G A Ryan), Stallion Match (M Ennis), The Big 4 Racing (M W Lowe), South Arm (J A Kennedy), J B Plozza, J F Townley, Ms L Coghlan, I C Burford, Mrs M A Burford, Legacy Thoroughbreds (D F Macaskill), Tripp Racing (Mrs C M Tripp), T Carroll, M T Tripp, M A Stevens & N J Lovett"
    ]
   },
   "Stamford Bloodstock": {
@@ -104978,7 +104979,10 @@
    "koerper_zweit": "#FFFFFF",
    "beschreibung": "white, silver and black sterne sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "P M Cunningham, Widden Stud Pty Ltd, Ciaron Maher Racing, W J Betar, P S Frampton, C Massie, P Trainor, J M Simmons, Ms S M Fitzgerald, A K Racing, Ms S Hill & C Trinder"
+   ],
+   "datum": "2026-10-28"
   },
   "P Kearney, C McGregor Et Al": {
    "koerper_grund": "#0061B2",
