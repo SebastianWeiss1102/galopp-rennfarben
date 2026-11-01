@@ -27321,7 +27321,9 @@
    "aermel_zweit": "#280070",
    "beschreibung": "white, navy sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "John Dance"
+   ]
   },
   "J Docherty, Emerald Girls, Corces, Pioneer Walk, KILA Racing, The Sentimental Blokes, Goonawarra Golf Club 1, Goonawarriors, B Morcomb, R Scanlon, R Stephens, P Christodoulou, D Headrick, A Bruhn, A Kempster, A Page, M Ehmer, J Rayner, J Reid, K Franklin": {
    "koerper_grund": "#D01C23",
@@ -27394,14 +27396,18 @@
   },
   "J Gilbert": {
    "koerper_grund": "#3032C5",
-   "koerper_muster": "raute",
+   "koerper_muster": "epauletten+raute",
    "koerper_zweit": "#FA0017",
    "aermel_grund": "#3032C5",
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#3032C5",
-   "beschreibung": "royal, red raute, royal sleeves",
+   "beschreibung": "royal, red epaulettes and diamond, royal sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Jean Gilbert"
+   ],
+   "koerper_dritt": "#FA0017",
+   "herkunft": "Korrektur ClassicWinners 01.11.2026 nach Sky-Sports-Wortlaut Prix Royal-Oak 2018 (Holdthasigreen): Blue, Red epaulettes and diamond"
   },
   "J Goddard": {
    "koerper_grund": "#FFFFFF",
@@ -31440,7 +31446,9 @@
    "aermel_muster": "joch",
    "aermel_zweit": "#D84848",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Klaravich Stables & William Lawrence"
+   ]
   },
   "Klaravich Stables Inc": {
    "beschreibung": "White, two red stripes, white sleeves, red shoulders",
@@ -109485,6 +109493,90 @@
    "beschreibung": "Apricot",
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "aliase": []
+  },
+  "First Light Racing Pty Ltd, Greenwich Stud Pty Ltd Et Al": {
+   "koerper_grund": "#032642",
+   "koerper_muster": "diagonal_gespalten_l",
+   "koerper_zweit": "#FBC02D",
+   "aermel_grund": "#032642",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "navy and gold diagonally halved, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "ClassicWinners 01.11.2026: Renntags-Rennfarben laut Racing Post (VRC Oaks 2018, Aristia), Bild https://www.rp-assets.com/svg/3/4/1/263143.svg"
+  },
+  "Gainesway Stable & Andrew Rosen": {
+   "koerper_grund": "#7B4A1E",
+   "koerper_muster": "joch",
+   "aermel_grund": "#7B4A1E",
+   "aermel_muster": "armringe",
+   "beschreibung": "brown, white yoke, brown sleeves, white armlets",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Gainesway Stables & Andrew Rosen"
+   ],
+   "herkunft": "ClassicWinners 01.11.2026: Renntags-Rennfarben laut Racing Post (Woodbine 15.08.2026, Luster, https://www.rp-assets.com/svg/1/2/8/225821.svg)",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_zweit": "#FFFFFF"
+  },
+  "Janice Wong Oi Ying": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "stern",
+   "aermel_grund": "#A9DDF3",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "black, light blue star, light blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "ClassicWinners 01.11.2026: Renntags-Rennfarben laut Racing Post (Hong Kong Classic Cup 2023, Super Sunny Sing, https://www.rp-assets.com/svg/0/8/7/317780.svg)",
+   "koerper_zweit": "#A9DDF3"
+  },
+  "Fabrizio Cameli": {
+   "koerper_grund": "#A6A6A6",
+   "koerper_muster": "dreieck_unten",
+   "aermel_grund": "#A6A6A6",
+   "aermel_muster": "laengsstreifen",
+   "beschreibung": "grey, yellow triangle, grey sleeves, yellow seams",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "ClassicWinners 01.11.2026: Renntags-Rennfarben laut Racing Post (Derby Italiano 2023, Goldenas, https://www.rp-assets.com/svg/8/6/7/310768.svg)",
+   "koerper_zweit": "#FEFE00",
+   "aermel_zweit": "#FEFE00"
+  },
+  "B W P Wright, D R & Mrs L M Weatherley & Mr Aziz Kheir": {
+   "koerper_grund": "#10106E",
+   "koerper_muster": "punkte",
+   "aermel_grund": "#10106E",
+   "aermel_muster": "quer_gespalten",
+   "beschreibung": "navy, gold spots, navy and gold halved sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "ClassicWinners 01.11.2026: Renntags-Rennfarben laut Racing Post (New Zealand 2,000 Guineas 2022, Pier, https://www.rp-assets.com/svg/6/8/4/319486.svg)",
+   "koerper_zweit": "#D4A72C",
+   "aermel_zweit": "#D4A72C"
+  },
+  "Alfonso Cammarota": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "sterne",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "beschreibung": "white, green stars, white sleeves, red armlets",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "ClassicWinners 01.11.2026: Renntags-Rennfarben laut Racing Post (Black-Eyed Susan Stakes 2020, Miss Marissa, https://www.rp-assets.com/svg/2/1/6/196612.svg)",
+   "koerper_zweit": "#108A50",
+   "aermel_zweit": "#E8173A"
+  },
+  "Vladimir Kazakov": {
+   "koerper_grund": "#1E6FC0",
+   "koerper_muster": "quer_gespalten",
+   "aermel_grund": "#1E6FC0",
+   "aermel_muster": "quer_gespalten",
+   "beschreibung": "blue and red halved horizontally, blue and red halved sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "ClassicWinners 01.11.2026: Renntags-Rennfarben laut Racing Post (UAE 2000 Guineas 2022, Azure Coast, https://www.rp-assets.com/svg/7/7/5/192577.svg)",
+   "koerper_zweit": "#E8173A",
+   "aermel_zweit": "#E8173A"
   }
  },
  "pferde": {
