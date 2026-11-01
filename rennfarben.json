@@ -2280,7 +2280,11 @@
    "beschreibung": "Grise brandebourgs or t grenat pampille or",
    "farben_offiziell": "Grise brandebourgs or t grenat pampille or",
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
-   "svg_override": "zeichnungen/chantilly-20261010-al-shaqab-racing.svg"
+   "svg_override": "zeichnungen/chantilly-20261010-al-shaqab-racing.svg",
+   "aliase": [
+    "Joaan al Thani",
+    "Sheikh Joaan al Thani"
+   ]
   },
   "Al Shaqab Racing & Amo Racing": {
    "koerper_grund": "#AC3E87",
@@ -4805,7 +4809,8 @@
     "B Lindsay, Raffles Thoroughbred Racing, J Lindsay, M Watson, N Greenhalgh, B Waldron, E Waldron, R Chitty, R Ferguson, M Chitty",
     "Cambridge Stud, N De Chambure",
     "J Lindsay",
-    "Te Akau 2020 Four Colt Breeding"
+    "Te Akau 2020 Four Colt Breeding",
+    "Brendan Lindsay MNZM & Mrs Jo Lindsay"
    ]
   },
   "B Jaensch": {
@@ -10594,7 +10599,8 @@
    "beschreibung": "red, yellow sterne, red and yellow quer gespalten sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "China Horse Club"
+    "China Horse Club",
+    "China Horse Club International Ltd./Clearsky Farms"
    ]
   },
   "China Horse Club Racing Pty Ltd": {
@@ -11084,7 +11090,9 @@
    "aermel_zweit": "#2D598C",
    "beschreibung": "navy, royal querstreifen, navy and royal querstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "CJ Thoroughbreds & Mo Speed Racing"
+   ]
   },
   "Cj Thoroughbreds And Nash, Delia": {
    "koerper_grund": "#2F455E",
@@ -12477,7 +12485,9 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "maroon, white rautenband, maroon and white rauten sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Cash is King LLC & DJ Stable, LLC"
+   ]
   },
   "D J Stable Llc And Cotran, Robert": {
    "koerper_grund": "#7F0000",
@@ -13256,7 +13266,8 @@
    "sicher": true,
    "aliase": [
     "Daniel John Deer / Frankreich",
-    "Daniel Deer"
+    "Daniel Deer",
+    "John Deer"
    ],
    "herkunft": "GaloppFacts (RaceBets-Vorlage), uebernommen 23.10.2026"
   },
@@ -18414,7 +18425,9 @@
    "koerper_zweit": "#FFFFFF",
    "beschreibung": "white, white and black querstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Sean & Dorothy Fitzhenry"
+   ]
   },
   "Fitzwilliam Racing": {
    "koerper_grund": "#032642",
@@ -18935,7 +18948,9 @@
    "koerper_zweit": "#FEC8CB",
    "beschreibung": "cream, white and cream karo sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Diane Fradkin & John Fradkin"
+   ]
   },
   "Frank and Janis Whitham [Bayakoa]": {
    "beschreibung": "Maroon jacket and sleeves; silver sash and sleeve band.",
@@ -19682,7 +19697,8 @@
    "beschreibung": "royal, white saltire, royal sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "G Harvey, R Simpson, J Simpson"
+    "G Harvey, R Simpson, J Simpson",
+    "Gerry Harvey, J & R Simpson"
    ]
   },
   "G Hickman, Jimlee Racing, M Woodlands, N Burke, S Woodlands, T Bonello, A Bonello, A Carney, G Cunningham, G Maynard, J Hickman, T Carney, V Clegg, W Clegg, P Burke, P Hickman, K Smith, B Turton": {
@@ -20970,7 +20986,8 @@
    "kappe_zweit": "",
    "sicher": true,
    "aliase": [
-    "G Strawbridge"
+    "G Strawbridge",
+    "George Strawbridge Jr."
    ]
   },
   "George Waud": {
@@ -21351,7 +21368,9 @@
    "aermel_zweit": "#D5B50C",
    "beschreibung": "white, gold stern, lilac and gold sterne sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Gestut Haus Zoppenbroich"
+   ]
   },
   "Gestüt Hof Iserneichen": {
    "beschreibung": "Black, white hoop, white sleeves",
@@ -23798,7 +23817,9 @@
    "aermel_zweit": "#3032C5",
    "beschreibung": "royal, white epauletten, royal sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Hamdan al Maktoum"
+   ]
   },
   "Hamdan Harmash": {
    "beschreibung": "Yellow, red chevron, white sleeves",
@@ -30287,7 +30308,9 @@
    "aermel_zweit": "#FEE600",
    "beschreibung": "yellow, navy chevrons, orange and yellow sterne sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Lo Ki Yan Karen"
+   ]
   },
   "Kariba Racing, J'raver, D Devonport, R Ford, L Reddaway, M Merton, G Pell, W Reddaway": {
    "koerper_grund": "#FFFFFF",
@@ -32506,7 +32529,9 @@
    "aermel_zweit": "#FD6611",
    "beschreibung": "white, orange stern, white and orange armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "William & Corinne Heiligbrodt"
+   ]
   },
   "L. Delaugere": {
    "koerper_grund": "#278B36",
@@ -33865,7 +33890,9 @@
    "aermel_zweit": "#FD6611",
    "beschreibung": "royal, orange band, orange sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "LLP Performance Horse"
+   ]
   },
   "LMGW Bloodstock": {
    "beschreibung": "Light blue, white chevrons, red sleeves",
@@ -38292,7 +38319,9 @@
     "Mike Pegram, Karl Watson, Paul Weitman",
     "Michael E. Pegram & Watson & Weitman Performances",
     "Watson & Weitman Performances & Pegram",
-    "Watson & Weitman Performance LLC and Mike Pegram"
+    "Watson & Weitman Performance LLC and Mike Pegram",
+    "Karl Watson, Mike Pegram & Paul Weitman",
+    "Mike Pegram, Karl Watson & Paul Weitman"
    ]
   },
   "Michael Eiserman": {
@@ -41158,7 +41187,10 @@
    "koerper_zweit": "#DA4641",
    "aermel_zweit": "#DA4641",
    "beschreibung": "scarlet, scarlet sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "David W Armstrong"
+   ]
   },
   "Mr Edward J Ware": {
    "koerper_grund": "#111111",
@@ -42712,7 +42744,9 @@
    "aermel_zweit": "#032642",
    "beschreibung": "lightblue, navy kreuzbaender, navy sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Gaie Johnson Houghton"
+   ]
   },
   "Mrs R G Hillen": {
    "koerper_grund": "#032642",
@@ -45034,7 +45068,9 @@
    "aermel_zweit": "#280070",
    "beschreibung": "white, navy chevrons, white and navy chevrons sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "NK Racing & LNJ Foxwoods"
+   ]
   },
   "Noboru Iyama": {
    "koerper_grund": "#E8E30F",
@@ -45455,7 +45491,9 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "yellow, royal querstreifen, white sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Three Mile House Partnership & Oti True Self Syndicate"
+   ]
   },
   "O Tait, J Nivison": {
    "koerper_grund": "#E81C23",
@@ -50481,7 +50519,8 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "Repole Stable And St Elias Stable",
-    "Repole Stable and St. Elias Stable"
+    "Repole Stable and St. Elias Stable",
+    "Repole Stables & St. Elias Stable"
    ]
   },
   "Repole Stable & St. Elias Stables": {
@@ -52397,7 +52436,8 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "S Piper,T Hirschfeld,D Fish & J Collins",
-    "S Piper, T Hirschfeld, D Fish & J Collins"
+    "S Piper, T Hirschfeld, D Fish & J Collins",
+    "Piper, Hirschfeld, Fish & Collins"
    ]
   },
   "S Ritchie, Gee Gee Equine Limited, P Cranitch, C Talbot, E Wood, G Barnett, G Bates, G Jennings, P Massey, R Cooper": {
@@ -52918,7 +52958,10 @@
    "aermel_muster": "laengsstreifen",
    "aermel_zweit": "#FFFFFF",
    "sicher": true,
-   "herkunft": "GaloppFacts (RaceBets-Vorlage), uebernommen 23.10.2026"
+   "herkunft": "GaloppFacts (RaceBets-Vorlage), uebernommen 23.10.2026",
+   "aliase": [
+    "SARL Darpat France"
+   ]
   },
   "Sarl Ecurie J L Tepper": {
    "koerper_grund": "#FEFE00",
@@ -54877,7 +54920,9 @@
    "aermel_zweit": "#3FDFD0",
    "beschreibung": "orange, aqua scheibe, orange and aqua rauten sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "SkyChai Racing & Sand Dollar Stable"
+   ]
   },
   "Sl Family Racing": {
    "koerper_grund": "#7F7F7F",
@@ -58604,7 +58649,10 @@
    "aermel_muster": "sterne",
    "aermel_zweit": "#9BD22E",
    "beschreibung": "black, lime chevron, black and lime sterne sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Stonestreet Stables, Bolton & Leidel"
+   ]
   },
   "Stonestreet Stables, LLC & AMO Racing Limited": {
    "koerper_grund": "#F3EB5A",
@@ -59002,7 +59050,8 @@
    "beschreibung": "orange, black kreuzband, orange sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Summertime Thoroughbreds, Daleigh Park Livestock"
+    "Summertime Thoroughbreds, Daleigh Park Livestock",
+    "Summertime Thoroughbreds Syndicate"
    ]
   },
   "Sun Bloodstock Sarl": {
@@ -60311,7 +60360,8 @@
    "beschreibung": "gold, royal sterne, gold and royal laengsstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Te Akau Campionessa"
+    "Te Akau Campionessa",
+    "Te Akau Hopskip'n'jump Syndicate"
    ]
   },
   "Te Akau Invincible Empress Racing Partnership": {
@@ -60323,7 +60373,12 @@
    "aermel_zweit": "#1D689E",
    "beschreibung": "gold, royal sterne, gold and royal laengsstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Te Akau Racing",
+    "Te Akau 2016 Breeding Syndicate",
+    "Te Akau Gingernuts Syndicate",
+    "Te Akau 2014 Breeding Syndicate"
+   ]
   },
   "Te Akau Tea Rose Syndicate 1, Te Akau Tea Rose Syndicate 2": {
    "koerper_grund": "#F29D1F",
@@ -60487,7 +60542,9 @@
    "aermel_zweit": "#008D53",
    "beschreibung": "emerald, red v gross, emerald sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Arrowfield Stud, / Team Valor Stable LLC"
+   ]
   },
   "Team Valor International LLC & Gary Barber": {
    "koerper_grund": "#736E3F",
@@ -60991,7 +61048,9 @@
    "aermel_zweit": "#F07D1A",
    "beschreibung": "Royal blue, orange stripes on sleeves",
    "status": "DRAWN_FROM_OFFICIAL_WORDING",
-   "aliase": []
+   "aliase": [
+    "R J Arculli"
+   ]
   },
   "The Honorable Earle I Mack & Les Boyer": {
    "koerper_grund": "#9D0508",
@@ -61142,7 +61201,8 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "HM The King & HM The Queen",
-    "The King"
+    "The King",
+    "Queen Elizabeth II"
    ]
   },
   "The Rogues Gallery": {
@@ -62592,7 +62652,8 @@
    "beschreibung": "yellow, orange querstreifen, yellow and orange chevron sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Al & Bill Ulwelling"
+    "Al & Bill Ulwelling",
+    "Al Ulwelling & Bill Ulwelling"
    ]
   },
   "Ungar Family, Team T S A No 2, D Perkins, A Rix, S Shelton, B Playford, W Shelton, L Howl, P Young": {
@@ -98762,7 +98823,10 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#C03342",
    "beschreibung": "red, silver kreuzband r, red sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Janis R. Whitham"
+   ]
   },
   "Whitham Thoroughbreds, LLC": {
    "beschreibung": "Red, grey sash, red sleeves",
@@ -100776,7 +100840,9 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "royal, red kreuzband r, white sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Zedan Racing Stables, / WinStar Farm & Commonwealth T'Breds"
+   ]
   },
   "Zenith Racing": {
    "koerper_grund": "#FFFFFF",
