@@ -18304,8 +18304,7 @@
     "First Light Racing Pty Ltd, Aristia Park Bloodstock Pty Ltd, S J V, Boys Night Out, G Austin, C A Mathews, Kinetica Racing, Mrs R A McDonald, A C Millar, A G Cid, M T Foote, Last Five Percent & D G Malcolm",
     "First Light Racing Pty Ltd, Last Five Percent, Nova Clause, Rabbits Racing, G1G Colts & Breeding Pty Ltd, Diesel n Scrub, S J V, V Harink, G Baker, G Daniels, N Fletcher, K Boghossian, M Gleadow, J Bonnici, S Laidlaw, E Taylor, R Peel",
     "First Light Racing Pty Ltd, Platinum Darling, The Big Boys, F L R Pretty Mixed, Teeming TNK, Frazelstone, Hunter Racing, Wessel Thoroughbreds, P Harris, A Eastaughfee, F Carnovale, G Daniels, G Jones, N Fletcher, B Carroll, G Walker, H Beresowskyj, J Ebert, J Lawrence",
-    "First Light Racing Pty Ltd, Platinum Darling, The Big Boys, Teeming TNK, Frazelstone, Wessel Thoroughbreds, Hunter Racing, F L R Pretty Mixed, J Ebert, J Lawrence, F Carnovale, G Walker, H Beresowskyj, G Daniels, G Jones, N Fletcher, P Harris, A Eastaughfee, B Carroll",
-    "First Light Racing Pty Ltd, Aristia Park Bloodstock Pty Ltd Et Al"
+    "First Light Racing Pty Ltd, Platinum Darling, The Big Boys, Teeming TNK, Frazelstone, Wessel Thoroughbreds, Hunter Racing, F L R Pretty Mixed, J Ebert, J Lawrence, F Carnovale, G Walker, H Beresowskyj, G Daniels, G Jones, N Fletcher, P Harris, A Eastaughfee, B Carroll"
    ]
   },
   "First Row Partners": {
@@ -103146,7 +103145,8 @@
    "sicher": true,
    "aliase": [
     "Lord Horse Club Co , Ltd",
-    "Lord Horse Club Co, Ltd"
+    "Lord Horse Club Co, Ltd",
+    "Lord Horse Club"
    ]
   },
   "Three H Racing Co Ltd": {
@@ -108523,7 +108523,10 @@
    "aermel_muster": "einfarbig",
    "beschreibung": "white, red St Andrew's cross, red cap",
    "status": "DRAWN_FROM_WORDING",
-   "aliase": [],
+   "aliase": [
+    "Mario Incisa Rocchetta",
+    "Mario Incisa della Rocchetta"
+   ],
    "herkunft": "ClassicWinners 31.10.2026, Wortlaut: SNAI San Siro Programm 30.11.2024",
    "koerper_zweit": "#FA0017"
   },
@@ -109142,7 +109145,9 @@
    "kappe_zweit": "",
    "beschreibung": "Royal blue, light blue cap",
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Ecurie Wildenstein"
+   ]
   },
   "François Dupré": {
    "koerper_grund": "#919693",
@@ -109251,7 +109256,9 @@
    "beschreibung": "Black, white cap",
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "aliase": [
-    "Edward Stanley, 17th Earl of Derby"
+    "Edward Stanley, 17th Earl of Derby",
+    "Lord Derby",
+    "19th Earl of Derby"
    ]
   },
   "John Yuen Se Kit": {
@@ -109577,6 +109584,289 @@
    "herkunft": "ClassicWinners 01.11.2026: Renntags-Rennfarben laut Racing Post (UAE 2000 Guineas 2022, Azure Coast, https://www.rp-assets.com/svg/7/7/5/192577.svg)",
    "koerper_zweit": "#E8173A",
    "aermel_zweit": "#E8173A"
+  },
+  "Jean-Luc Lagardère": {
+   "koerper_grund": "#919693",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#919693",
+   "aermel_grund": "#919693",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#919693",
+   "kappe_grund": "#FECCE7",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Grey, pink cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "Jean-Luc Lagardere",
+    "J-L Lagardere",
+    "J. L. Lagardère"
+   ]
+  },
+  "Lady Mairi Bury": {
+   "koerper_grund": "#F7A8C4",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#F7A8C4",
+   "aermel_grund": "#F7A8C4",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#F7A8C4",
+   "kappe_grund": "#F7A8C4",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Rose (Fighting Charlie)",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "Lady M Bury",
+    "Lady M. Bury"
+   ]
+  },
+  "John Reid Walker": {
+   "koerper_grund": "#90D47A",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#90D47A",
+   "aermel_grund": "#90D47A",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#90D47A",
+   "kappe_grund": "#90D47A",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Light green (Invershin)",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "J Reid Walker",
+    "J. Reid Walker"
+   ]
+  },
+  "Thomas Pilkington": {
+   "koerper_grund": "#A9B2BC",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#E34234",
+   "aermel_grund": "#A9B2BC",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#A9B2BC",
+   "kappe_grund": "#E34234",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "French grey, vermilion hoops and cap (Prince Palatine)",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "T. Pilkington"
+   ]
+  },
+  "Charles Lambton": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#00843D",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#00843D",
+   "kappe_grund": "#D7282F",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Black and white stripes, green sleeves, red cap (Trimdon)",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "Hon Charles Lambton",
+    "Hon. C. Lambton"
+   ]
+  },
+  "Rodney R. Dangar": {
+   "koerper_grund": "#F39200",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#00703C",
+   "aermel_grund": "#F39200",
+   "aermel_muster": "querstreifen",
+   "aermel_zweit": "#00703C",
+   "kappe_grund": "#F39200",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Orange and green hoops, orange cap (Peter Pan)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "R. R. Dangar",
+    "Rodney Dangar"
+   ]
+  },
+  "Clifford A. Reid": {
+   "koerper_grund": "#FFD100",
+   "koerper_muster": "punkte",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFD100",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#FFFFFF",
+   "kappe_grund": "#FFD100",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Gold, white spots, gold cap (Rain Lover)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "C. A. Reid",
+    "Cliff Reid"
+   ]
+  },
+  "Dato Tan Chin Nam et al.": {
+   "koerper_grund": "#FFD100",
+   "koerper_muster": "diagonalstreifen_r",
+   "koerper_zweit": "#00A651",
+   "aermel_grund": "#D7282F",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#D7282F",
+   "kappe_grund": "#D7282F",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Green and gold diagonal stripes, red sleeves and cap (Think Big 1975)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": []
+  },
+  "Mr & Mrs R White": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "kreuz",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "kappe_grund": "#FFFFFF",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Black, white Maltese cross and cap (Evening Peal)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Mr and Mrs R White"
+   ]
+  },
+  "Michael Smurfit": {
+   "koerper_grund": "#FFF200",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#1F5FB5",
+   "aermel_grund": "#FFF200",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFF200",
+   "kappe_grund": "#FFF200",
+   "kappe_muster": "stern",
+   "kappe_zweit": "#1F5FB5",
+   "beschreibung": "Yellow, royal blue epaulettes, yellow cap, royal blue star (Vintage Crop)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Dr M. W. Smurfit",
+    "Dr M W Smurfit",
+    "Dr Michael Smurfit"
+   ]
+  },
+  "C E Holt et al.": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#E8173A",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#176FC1",
+   "kappe_grund": "#176FC1",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Royal blue, red V, royal blue sleeves and cap (Zaaki)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "C E Holt, P J Prendergast Et Al"
+   ]
+  },
+  "Rockingham Ranch & D. A. Bernsen": {
+   "koerper_grund": "#40E0D0",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#40E0D0",
+   "aermel_muster": "drei_aermelrauten",
+   "aermel_zweit": "#111111",
+   "kappe_grund": "#40E0D0",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Turquoise, black diamond, black diamonds on sleeves, turquoise cap (Roy H, Stormy Liberal)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Rockingham Ranch (Gary Hartunian)",
+    "Rockingham Ranch And David A Bernsen Llc",
+    "Rockingham Ranch & David A. Bernsen"
+   ]
+  },
+  "Fitri Hay": {
+   "koerper_grund": "#FFC4CC",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#00894F",
+   "aermel_grund": "#FFC4CC",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#00894F",
+   "kappe_grund": "#FFFFFF",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Pink, emerald green chevron, pink and emerald green halved sleeves, white cap (Khaadem 2024)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": []
+  },
+  "Sabena Power": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#D7282F",
+   "kappe_grund": "#FFFFFF",
+   "kappe_muster": "karo",
+   "kappe_zweit": "#D7282F",
+   "beschreibung": "White, red striped sleeves, red and white check cap (Sole Power)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Mrs S. Power",
+    "Mrs S Power"
+   ]
+  },
+  "Mayfair / Equifrance": {
+   "koerper_grund": "#00894F",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#FFD100",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "kappe_grund": "#111111",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Emerald green, yellow stars, black sleeves and cap (The Juliet Rose)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Mayfair Speculators/equifrance",
+    "Mayfair Speculators / Equifrance"
+   ]
+  },
+  "Fred Bradley, William Bradley, Brent Burns, Carl Hurst": {
+   "koerper_grund": "#E8173A",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#E8173A",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFFFFF",
+   "kappe_grund": "#FFFFFF",
+   "kappe_muster": "stern",
+   "kappe_zweit": "#E8173A",
+   "beschreibung": "Red, white epaulets, red sleeves, white armlet, white cap, red star (Groupie Doll)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Fred F. & William B. Bradley, Carl Hurst & Brent Burns"
+   ]
+  },
+  "First Light Racing Pty Ltd, Aristia Park Bloodstock Pty Ltd, Kelso & Co, Last Five Percent, A C Millar, C Cooper, G W Jones, L Smith, Nova Clause, S C B Thoroughbreds, S M Robinson, Hot Tips, Ago Vires, S G Eisenhuth, B Eisenhuth, M O'Donoghue, C A Anson & R Fairhall": {
+   "koerper_grund": "#015CA8",
+   "koerper_muster": "diagonal_gespalten",
+   "koerper_zweit": "#ECDA00",
+   "aermel_grund": "#015CA8",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#015CA8",
+   "kappe_grund": "#ECDA00",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Royal blue, white sash, yellow below, royal blue sleeves, yellow cap (Saintly Dancer)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "First Light Racing Pty Ltd, Aristia Park Bloodstock Pty Ltd Et Al",
+    "First Light Racing Pty Ltd, Aristia Park Bloodstock Pty Ltd, Kelso & Co, Last Five Percent, A Millar, C Cooper, G Jones, L Smith, Nova Clause, S C B Thoroughbreds, S Robinson, Hot Tips, Ago Vires, S Eisenhuth, B Eisenhuth, M O'Donoghue, C Anson, R Fairhall"
+   ],
+   "koerper_dritt": "#FFFFFF"
   }
  },
  "pferde": {
