@@ -38256,7 +38256,10 @@
    "aermel_zweit": "#F8E858",
    "sicher": true,
    "aliase": [
-    "Mike Pegram, Karl Watson, Paul Weitman"
+    "Mike Pegram, Karl Watson, Paul Weitman",
+    "Michael E. Pegram & Watson & Weitman Performances",
+    "Watson & Weitman Performances & Pegram",
+    "Watson & Weitman Performance LLC and Mike Pegram"
    ]
   },
   "Michael Eiserman": {
@@ -109867,6 +109870,163 @@
     "First Light Racing Pty Ltd, Aristia Park Bloodstock Pty Ltd, Kelso & Co, Last Five Percent, A Millar, C Cooper, G Jones, L Smith, Nova Clause, S C B Thoroughbreds, S Robinson, Hot Tips, Ago Vires, S Eisenhuth, B Eisenhuth, M O'Donoghue, C Anson, R Fairhall"
    ],
    "koerper_dritt": "#FFFFFF"
+  },
+  "Cee's Stables": {
+   "koerper_grund": "#FF3EA5",
+   "koerper_muster": "punkte",
+   "koerper_zweit": "#5B2C8F",
+   "aermel_grund": "#FF3EA5",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FF3EA5",
+   "kappe_grund": "#FF3EA5",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Fluorescent pink, purple spots, pink sleeves and cap (Tiznow)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Cee's Stable",
+    "Cee’s Stable",
+    "Cee’s Stables",
+    "Michael Cooper & Cecilia Straub-Rubens"
+   ]
+  },
+  "C. Chapman, T. McArthur": {
+   "koerper_grund": "#E0202A",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#E0202A",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#E0202A",
+   "kappe_grund": "#FFFFFF",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Red and white check, red sleeves, white cap (Caller One)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "C Chapman, T McArthur",
+    "Chapman & McArthur"
+   ]
+  },
+  "Sin Kang Yuk": {
+   "koerper_grund": "#1F3A8A",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#F5D300",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#13965A",
+   "kappe_grund": "#FFFFFF",
+   "kappe_muster": "querstreifen",
+   "kappe_zweit": "#13965A",
+   "beschreibung": "Blue, yellow sash, white sleeves, green hoops, white cap, green hoop (Sacred Kingdom)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Sin Kang-yuk",
+    "冼江煜"
+   ]
+  },
+  "Oliver Lehane": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#1B2A6B",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "kappe_grund": "#D7262E",
+   "kappe_muster": "quartiert",
+   "kappe_zweit": "#1B2A6B",
+   "beschreibung": "White, dark blue sash, red and dark blue quartered cap (Oscar Schindler)",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "O Lehane",
+    "O. Lehane"
+   ]
+  },
+  "Carlo d'Alessio": {
+   "koerper_grund": "#D7262E",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#1E8A3C",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#1E8A3C",
+   "kappe_grund": "#D7262E",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Red and white hoops, green sleeves, red cap (Le Moss, Bolkonski, Wollow)",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "Carlo d’Alessio",
+    "C. d'Alessio",
+    "C d'Alessio",
+    "Carlo D'Alessio"
+   ]
+  },
+  "Messrs N Jonsson, B Kantor & Late W J C Mitchell": {
+   "koerper_grund": "#FEFE00",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#084E86",
+   "aermel_grund": "#FEFE00",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FEFE00",
+   "kappe_grund": "#FEFE00",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Yellow, royal blue epaulettes, yellow sleeves and cap (Do It Again)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Messrs N Jonsson, B Kantor & W J C Mitchell"
+   ]
+  },
+  "Mr & Mrs M L P Rattray": {
+   "koerper_grund": "#FA0017",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FA0017",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FA0017",
+   "kappe_grund": "#FA0017",
+   "kappe_muster": "quartiert",
+   "kappe_zweit": "#FFFFFF",
+   "beschreibung": "Red and white quartered, red sleeves, quartered cap (Rainbow Bridge)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Mike Rattray",
+    "Mr M L P Rattray"
+   ]
+  },
+  "Late Mr M C Gerber": {
+   "koerper_grund": "#3032C5",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FEFE00",
+   "aermel_grund": "#3032C5",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#3032C5",
+   "kappe_grund": "#FEFE00",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Blue, yellow epaulettes and cap (Rainbow Bridge 2019)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Mr M C Gerber",
+    "Chris Gerber"
+   ]
+  },
+  "Mr N M Shirtliff & Mr & Mrs A D Webber": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "quer_gespalten",
+   "koerper_zweit": "#3032C5",
+   "aermel_grund": "#FFC4CC",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFC4CC",
+   "kappe_grund": "#3032C5",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "White and blue halved horizontally, pink sleeves, blue cap (Marsh Shirtliff; Pocket Power)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Mr N M Shirtliff and Mr & Mrs A D Webber",
+    "N M Shirtliff and Mr & Mrs A D Webber",
+    "Marsh Shirtliff"
+   ]
   }
  },
  "pferde": {
