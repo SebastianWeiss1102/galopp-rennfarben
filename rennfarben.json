@@ -7770,10 +7770,9 @@
    "aliase": [
     "Brant,Magnier,Tabor,Smith,Westerberg",
     "Brant/magnier/tabor/smith",
-    "Brant/magnier/tabor/smith/westerberg",
-    "Westerberg, Brant, Peter M , Magnier, Mrs John, Smith, Derrick And Tabor, Michael B"
+    "Brant/magnier/tabor/smith/westerberg"
    ],
-   "herkunft_alias": "31.10.2026 (Sebastian): Benvenuto Cellini laeuft in den Brant-Farben (Sporting-Life-Vorlage 20261031xke213602 geprueft: dunkelgruen, hellgruenes Joch, hellgruene Armbinden, dunkelgruene Kappe)"
+   "herkunft_alias": "31.10.2026: Schreibweisen der Ergebnisquellen. Die Langform 'Westerberg, Brant, Peter M , Magnier, ...' bleibt eigener Eintrag (lief 2025 auch in Magnier-Farben); Benvenuto Cellini wird ueber die Renntag-Vorlage (rennfarben_quellen) zugeordnet."
   },
   "Brant/magnier/tabor/smith": {
    "koerper_grund": "#124B2A",
