@@ -110027,6 +110027,74 @@
     "N M Shirtliff and Mr & Mrs A D Webber",
     "Marsh Shirtliff"
    ]
+  },
+  "T W Jarvis, A R Lawrence & J A Rattray": {
+   "koerper_grund": "#00924A",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#4A9AD8",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "green, light blue sleeves, red cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "racing.com Profil Bonneval, Seidenbild 61119, Besitzer wie am Renntag (01.11.2026)"
+  },
+  "Miss M Basson and Miss J M Wilson": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#8B2A9B",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "white, purple stripes, white sleeves, purple and white hooped cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "racing.com Profil Dark Dream, Seidenbild 134222, Besitzer wie am Renntag (01.11.2026)"
+  },
+  "Aziz Kheir, Peter & Heather Crofskey": {
+   "koerper_grund": "#1B3A6B",
+   "koerper_muster": "fuenf_punkte",
+   "koerper_zweit": "#F2E34B",
+   "aermel_grund": "#F2E34B",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#1B3A6B",
+   "beschreibung": "navy, five yellow spots, yellow and navy halved sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "racing.com Profil Leica Lucy, Seidenbild 183831, Besitzer wie am Renntag (01.11.2026)"
+  },
+  "Mr G R Browne, Miss J Erkelens, Miss K A Curtis, Mr P S Malaspina, Mr P R WAtkins, Mr C A Gilson, Mr J Wynn-Taylor, Mr J M Mijacika, Mr M A Biggs, Bin Chicken Pony Club, Mrs J L Wynn-Taylor, Mrs A J Mijacika": {
+   "koerper_grund": "#FFE600",
+   "koerper_muster": "hufeisen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFE600",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#111111",
+   "beschreibung": "yellow, black horseshoe, yellow and black striped sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "racing.com Profil Machine Gun Gracie, Seidenbild 89850, Besitzer wie am Renntag (01.11.2026)"
+  },
+  "Mrs J M Howkins": {
+   "koerper_grund": "#F2DA00",
+   "koerper_muster": "buchstabe_W",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#F2DA00",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "yellow, black 'W', yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "racing.com Profil Sentimental Legend, Seidenbild 195855, Besitzer wie am Renntag (01.11.2026)"
+  },
+  "B G Black, Mrs E L Clotworthy & MyRacehorse Pty Ltd": {
+   "koerper_grund": "#E81E5A",
+   "koerper_muster": "pferdekopf",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#E81E5A",
+   "aermel_muster": "chevrons",
+   "aermel_zweit": "#111111",
+   "beschreibung": "cerise, black horse head (MyRacehorse), cerise and black chevron sleeves, black cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "racing.com Profil Willydoit, Seidenbild 196988, Besitzer wie am Renntag (01.11.2026)"
   }
  },
  "pferde": {
