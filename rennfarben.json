@@ -3139,7 +3139,9 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "navy, white epauletten, navy and white querstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Amerman Racing"
+   ]
   },
   "Amerman Racing Stables LLC": {
    "beschreibung": "Navy, white epaulets, navy sleeves, white armband",
@@ -6307,7 +6309,10 @@
    "aermel_muster": "manschetten",
    "aermel_zweit": "#2D394B",
    "beschreibung": "white, navy epauletten, white and navy manschetten sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Bearstone Stud"
+   ]
   },
   "BEAUMELLES RACING": {
    "koerper_grund": "#8BC4F1",
@@ -10542,7 +10547,9 @@
    "aermel_zweit": "#F8E656",
    "beschreibung": "white, lightgreen gespalten, white and yellow querstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Chiefswood Stables"
+   ]
   },
   "Childs, Edward, A": {
    "koerper_grund": "#FEE600",
@@ -10586,7 +10593,9 @@
    "aermel_zweit": "#FEFE00",
    "beschreibung": "red, yellow sterne, red and yellow quer gespalten sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "China Horse Club"
+   ]
   },
   "China Horse Club Racing Pty Ltd": {
    "koerper_grund": "#111111",
@@ -13246,7 +13255,8 @@
    "aermel_zweit": "#3A3AE0",
    "sicher": true,
    "aliase": [
-    "Daniel John Deer / Frankreich"
+    "Daniel John Deer / Frankreich",
+    "Daniel Deer"
    ],
    "herkunft": "GaloppFacts (RaceBets-Vorlage), uebernommen 23.10.2026"
   },
@@ -16580,7 +16590,9 @@
    "beschreibung": "orange, black rautenband, black sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Gousserie Racing & Ecuries Serge Stempniak"
+    "Gousserie Racing & Ecuries Serge Stempniak",
+    "Serge Stempniak",
+    "Serge Stempniak / Gousserie Racing"
    ]
   },
   "Eddie Wong Ming Chak & Wong Leung Sau Hing": {
@@ -21006,7 +21018,10 @@
    "koerper_zweit": "#FFFFFF",
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "white, white sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Caro / Augustin-Normand"
+   ]
   },
   "Gerard Augustin-Normand & Stephen Lahmi": {
    "beschreibung": "White, light blue 'VTS', white sleeves, light blue armlets",
@@ -26457,7 +26472,9 @@
    "aermel_zweit": "#BD0920",
    "beschreibung": "white, blue laengsstreifen, blue and red querstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Yoshimi Ichikawa"
+   ]
   },
   "Ichiro Izumi": {
    "koerper_grund": "#FFFFFF",
@@ -28663,7 +28680,9 @@
    "aermel_zweit": "#EEA0AD",
    "status": "DRAWN_FROM_WORDING",
    "sicher": true,
-   "aliase": [],
+   "aliase": [
+    "Jerry & Ann Moss"
+   ],
    "historisch": true
   },
   "Jerry Caroom": {
@@ -30255,7 +30274,8 @@
    "sicher": true,
    "aliase": [
     "Kaneko Makoto Holdings Co.,Ltd.",
-    "Makoto Kaneko Holdings"
+    "Makoto Kaneko Holdings",
+    "Makoto Kaneko"
    ]
   },
   "Karen Lo Ki Yan": {
@@ -30409,7 +30429,9 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": null,
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Yoshida Katsumi"
+   ]
   },
   "Katsunori Kusakabe": {
    "koerper_grund": "#EFB5EF",
@@ -30788,7 +30810,12 @@
    "aermel_zweit": "#FFFFFF",
    "koerper_zweit": "#FFFFFF",
    "beschreibung": "white, scarlet and white armringe sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Kenneth and Sarah Ramsey",
+    "Kenneth & Sarah Ramsey",
+    "Ken & Sarah Ramsey"
+   ]
   },
   "Kensei Murakami": {
    "koerper_grund": "#60D5D4",
@@ -31062,7 +31089,9 @@
    "aermel_zweit": "#CCCCCC",
    "beschreibung": "white, silver grosskaro, silver sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Kieffers Co., Ltd."
+   ]
   },
   "Kieran McCabe / Paul Byrn": {
    "koerper_grund": "#032642",
@@ -33823,7 +33852,9 @@
    "aermel_zweit": "#FEC8CB",
    "beschreibung": "cream, grey kreuzband r, cream sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Lloyd Webber, Tactful Finance & S Roden"
+   ]
   },
   "Llp Performance Horse, Llc": {
    "koerper_grund": "#3032C5",
@@ -34070,7 +34101,9 @@
    "aermel_zweit": "#FEC8CB",
    "beschreibung": "cream, grey kreuzband r, cream sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Andrew Lloyd Webber"
+   ]
   },
   "Lord Lloyd Webber and Arthur Mitchell": {
    "koerper_grund": "#F1CACC",
@@ -39576,7 +39609,9 @@
    "aermel_zweit": "#FEFE00",
    "beschreibung": "red, yellow streifen, red and yellow chevrons sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Chantal Regalado-Gonzalez"
+   ]
   },
   "Mme C Wingtans/n Caullery": {
    "koerper_grund": "#FEC8CB",
@@ -42414,7 +42449,9 @@
    "aermel_zweit": "#FEFEFD",
    "beschreibung": "white, navy streifen, white sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Jackie Bolger"
+   ]
   },
   "Mrs J Wood": {
    "koerper_grund": "#EC3438",
@@ -45240,7 +45277,8 @@
    "beschreibung": "aqua, red kreuzbaender, red sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "North Hills Co. Ltd."
+    "North Hills Co. Ltd.",
+    "North Hills Management Co."
    ]
   },
   "Nova Stables And Anderson Ii, William A": {
@@ -46596,7 +46634,9 @@
    "aermel_zweit": "#FEFE00",
    "beschreibung": "yellow, red punkte, yellow sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Pan Sutong"
+   ]
   },
   "Panic Stable LLC": {
    "koerper_grund": "#00007F",
@@ -49987,7 +50027,8 @@
    "beschreibung": "white, navy band, navy and white armringe sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Reddam Racing LLC"
+    "Reddam Racing LLC",
+    "J. Paul Reddam"
    ]
   },
   "RedFox Racing, Redfox Racing WBP Et Al": {
@@ -51067,7 +51108,9 @@
    "aermel_zweit": null,
    "status": "DRAWN_FROM_WORDING",
    "sicher": true,
-   "aliase": [],
+   "aliase": [
+    "Bob & Beverly Lewis"
+   ],
    "historisch": true
   },
   "Robert Aschenbrenner": {
@@ -53747,7 +53790,10 @@
    "aermel_zweit": "#084E86",
    "beschreibung": "royal, white epauletten, royal sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Sheikh Hamdan bin Rashid Al Maktoum",
+    "Sheikh Hamdan bin Rashid al Maktoum"
+   ]
   },
   "Sh Humaid Bin Rashid Al Nuaimi": {
    "koerper_grund": "#E17545",
@@ -53789,7 +53835,11 @@
    "aermel_zweit": "#FEFE00",
    "beschreibung": "yellow, black punkte, yellow sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Mohammed Obaid Al Maktoum",
+    "Sheikh Mohammed Obaid",
+    "Obaid Al Maktoum"
+   ]
   },
   "Sh Mohd Obaid Al Maktoum": {
    "koerper_grund": "#FEFE00",
@@ -53834,7 +53884,9 @@
    "beschreibung": "yellow, black laengsstreifen, yellow and purple armringe sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Shadai Race Horse Co. Ltd."
+    "Shadai Race Horse Co. Ltd.",
+    "Shadai Racehorse",
+    "Shadai Horse Race Co"
    ]
   },
   "Shadai Race Horse Co Ltd Syndicated For 1 Share: ¥1,00 mil/ 40 Shares": {
@@ -54263,7 +54315,9 @@
    "aermel_zweit": "#FEFE00",
    "beschreibung": "yellow, royal v gross, yellow sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Sheikh M. bin Khalifa"
+   ]
   },
   "Sheikh Mohammed Obaid Al Maktoum": {
    "koerper_grund": "#FEFE00",
@@ -61868,7 +61922,9 @@
    "aermel_zweit": "#FA0017",
    "beschreibung": "red, yellow stern, red sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Trainers House Enterprises"
+   ]
   },
   "Tranquility Lake Farms LLC": {
    "koerper_grund": "#293A4E",
@@ -62517,7 +62573,10 @@
    "aermel_muster": "chevron",
    "aermel_zweit": "#FD6611",
    "beschreibung": "yellow, orange querstreifen, yellow and orange chevron sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Al & Bill Ulwelling"
+   ]
   },
   "Ungar Family, Team T S A No 2, D Perkins, A Rix, S Shelton, B Playford, W Shelton, L Howl, P Young": {
    "koerper_grund": "#0B6DA3",
@@ -99512,7 +99571,9 @@
    "aermel_zweit": null,
    "status": "DRAWN_FROM_WORDING",
    "sicher": true,
-   "aliase": [],
+   "aliase": [
+    "Woodlands Stud"
+   ],
    "historisch": true
   },
   "Woodside Park Stud, Legend Racing": {
@@ -99647,7 +99708,9 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "lightblue, white rautenband, lightblue and white rauten sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Pam & Martin Wygod"
+   ]
   },
   "Wylie Dalziel Roy Higgins Racing, Bolr Racing, Mallee Drought Breakers Club, Rosemont Stud Pty Ltd, P Cormack, P Johnson, S Thompson, M Davies, M Lang, D Williams, G Goyne, C Sheehy, D Hurley": {
    "koerper_grund": "#FFFFFF",
@@ -103290,7 +103353,9 @@
    "aermel_muster": "oberarmband",
    "aermel_zweit": "#F8F000",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Ryotokuji Kenji Holdings Co., Ltd."
+   ]
   },
   "Silk Racing Co Ltd": {
    "beschreibung": "Light blue, red spots, light blue sleeves, red armlets",
@@ -108672,7 +108737,8 @@
    "aermel_zweit": "#FEFE00",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Scuderia Effevi SRL"
+    "Scuderia Effevi SRL",
+    "Effevi"
    ],
    "herkunft": "ClassicWinners 01.11.2026: Renntags-Rennfarben laut Racing Post (Italian 1,000 Guineas 2017, Mi Raccomando), Bild https://www.rp-assets.com/svg/4/0/6/182604.svg"
   },
