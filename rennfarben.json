@@ -39272,7 +39272,15 @@
    "beschreibung": "Einfarbig grau, violette Kappe",
    "status": "DRAWN_FROM_IMAGE",
    "vorlage_sha256": "746053c84a6933f3c5a5070d874384c97c662c5ea7a26c018d096b60721d0157",
-   "sicher": true
+   "sicher": true,
+   "aliase": [
+    "M.Goodbody"
+   ],
+   "dg_ids": [
+    "33424111"
+   ],
+   "svg_override": "zeichnungen/dg/33424111.svg",
+   "farben_offiziell": "grau, lila Kappe"
   },
   "Mitsuko Yasuoka": {
    "koerper_grund": "#FFA600",
@@ -42892,7 +42900,14 @@
    "aermel_muster": "sterne",
    "aermel_zweit": "#3333CC",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "W.Spanner"
+   ],
+   "dg_ids": [
+    "17943651"
+   ],
+   "svg_override": "zeichnungen/dg/17943651.svg",
+   "farben_offiziell": "rosa, rosa Ärmel, blaue Sterne, rosa Kappe, blaue Sterne"
   },
   "Mrs. John Magnier, Michael Tabor, Derrick Smith & Westerberg": {
    "koerper_grund": "#00007F",
