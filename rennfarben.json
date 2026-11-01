@@ -23818,7 +23818,8 @@
    "beschreibung": "royal, white epauletten, royal sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Hamdan al Maktoum"
+    "Hamdan al Maktoum",
+    "Shadwell South Africa"
    ]
   },
   "Hamdan Harmash": {
@@ -24594,7 +24595,9 @@
    "aermel_zweit": "#111111",
    "beschreibung": "black, white punkte, black sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Meon Valley Stud"
+   ]
   },
   "Hello Possum, Crack Seven Racing, In The Gravy, M B Dreams, Youngandold, Ultimate Racing, J Serle, M Atchison, M Bracken, M Fleming, B Deverall, J Farrow, P Van Ginneken, R Carey, E Petherick, L Petherick, L Reichelt, W Burgoyne": {
    "koerper_grund": "#A7B52D",
@@ -29556,7 +29559,8 @@
    "kappe_zweit": "",
    "sicher": true,
    "aliase": [
-    "Juddmonte Farms"
+    "Juddmonte Farms",
+    "Khalid ibn Abdullah"
    ]
   },
   "Juddmonte Farm": {
@@ -39647,7 +39651,8 @@
    "beschreibung": "red, yellow streifen, red and yellow chevrons sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Chantal Regalado-Gonzalez"
+    "Chantal Regalado-Gonzalez",
+    "Mrs C Regaldo Onzalez"
    ]
   },
   "Mme C Wingtans/n Caullery": {
@@ -50493,7 +50498,9 @@
    "aermel_zweit": "#FD6611",
    "beschreibung": "royal, orange ring, royal and orange querstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Mike Repole"
+   ]
   },
   "Repole Stable & Donegal Racing": {
    "koerper_grund": "#008A50",
@@ -60510,7 +60517,10 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#736E3F",
    "beschreibung": "olive, scarlet v gross, olive sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Team Valor International & / Gary Barber"
+   ]
   },
   "Team Valor International / Gary Barber": {
    "koerper_grund": "#736E3F",
@@ -61256,7 +61266,10 @@
    "aermel_muster": "aermelstreifen",
    "aermel_zweit": "#4A8F60",
    "beschreibung": "white, green laengsstreifen, white and green aermelstreifen sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "The Thoroughbred Racing Corp"
+   ]
   },
   "The Woodway 20": {
    "koerper_grund": "#FA0017",
@@ -110587,6 +110600,107 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "谷水雄三"
+   ]
+  },
+  "Al Homaizi / Al Sagar": {
+   "koerper_grund": "#0B4A2A",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#0B4A2A",
+   "aermel_grund": "#0B4A2A",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#F2EBD0",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Dark green, dark green sleeves, cream spots, dark green cap (Decorated Knight)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Saleh Al Homaizi & Imad Al Sagar",
+    "Al Homaizi & Al Sagar",
+    "Saleh Al Homaizi and Imad Al Sagar"
+   ]
+  },
+  "Tony Bloom": {
+   "koerper_grund": "#1C4E8C",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#E8E8F0",
+   "aermel_grund": "#1C4E8C",
+   "aermel_muster": "naht",
+   "aermel_zweit": "#E8E8F0",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Royal blue, white seams, royal blue cap, white star (Librisa Breeze)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Mr Tony Bloom"
+   ]
+  },
+  "Phoenix Thoroughbred Racing 1": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#F06418",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "White, white sleeves, orange stars, white cap, orange star (Advertise)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Phoenix Thoroughbred Limited 1",
+    "Phoenix Thoroughbred Ltd 1"
+   ]
+  },
+  "Sir Evelyn de Rothschild": {
+   "koerper_grund": "#0E2240",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#0E2240",
+   "aermel_grund": "#0E2240",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#0E2240",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Dark blue, dark blue sleeves, yellow cap (Crystal Ocean)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Evelyn de Rothschild",
+    "Sir Evelyn De Rothschild"
+   ]
+  },
+  "John & Tanya Gunther": {
+   "koerper_grund": "#0B4A2A",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#7A0E12",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Dark green and maroon quartered, white sleeves, white cap (Without Parole)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "John Gunther & Tanya Gunther"
+   ]
+  },
+  "W J and T C O Gredley": {
+   "koerper_grund": "#FFF200",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFF200",
+   "aermel_grund": "#FFF200",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#111111",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Yellow, yellow sleeves, black stripes, white cap (Big Orange)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Bill Gredley",
+    "W J & T C O Gredley"
    ]
   }
  },
