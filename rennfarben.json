@@ -43965,7 +43965,9 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "royal, white sterne, royal and white sterne sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Nagai Shoji Co., Ltd."
+   ]
   },
   "Nagako Fujita": {
    "koerper_grund": "#DF222B",
@@ -110269,6 +110271,257 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [],
    "herkunft": "racing.com VRC Oaks 2026 (Weights) Chocolate Freckles, Seidenbild 203792, Besitzer wie bei racing.com (01.11.2026)"
+  },
+  "Takao Watanabe": {
+   "koerper_grund": "#F5E000",
+   "koerper_muster": "zwei_baender",
+   "koerper_zweit": "#4CC8F0",
+   "aermel_grund": "#E8202A",
+   "aermel_muster": "zwei_armbaender",
+   "aermel_zweit": "#4CC8F0",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Yellow, two light blue hoops, red sleeves, light blue hoops (Agnes)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "渡辺孝男"
+   ]
+  },
+  "Ōno Shoji": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "zwei_baender",
+   "koerper_zweit": "#8B4A2B",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#8B4A2B",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Black, brown hoops, black sleeves, brown hoops (Kitasan Black)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "大野商事",
+    "Ono Shoji",
+    "Ohno Shoji"
+   ]
+  },
+  "Keizo Ōshiro": {
+   "koerper_grund": "#1F45F0",
+   "koerper_muster": "band",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Blue, white hoop, white sleeves (Daiwa)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "大城敬三",
+    "Keizo Oshiro"
+   ]
+  },
+  "Mitsuishi Kawakami Bokujo": {
+   "koerper_grund": "#F060F0",
+   "koerper_muster": "rautenband",
+   "koerper_zweit": "#10C050",
+   "aermel_grund": "#F060F0",
+   "aermel_muster": "zwei_armbaender",
+   "aermel_zweit": "#10C050",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Pink, green diamonds, pink sleeves, green hoops (Kawakami Princess)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "三石川上牧場"
+   ]
+  },
+  "Yushun Horse Syndicate": {
+   "koerper_grund": "#1F45F0",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#E8202A",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Blue, white hoops, white sleeves, red hoops (Tap Dance City)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "友駿ホースクラブ",
+    "Yushun Horse Club"
+   ]
+  },
+  "Akira Fukui": {
+   "koerper_grund": "#E8202A",
+   "koerper_muster": "band",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#E8202A",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#111111",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Red, black hoop, red sleeves, black hoops (Oken Bruce Lee)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "福井明"
+   ]
+  },
+  "Eiichi Kobayshi": {
+   "koerper_grund": "#E8202A",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#E8202A",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#E8202A",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Red, white sleeves, red armlet (Gold Ship)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Eiichi Kobayashi",
+    "小林英一",
+    "小林英一ホールディングス",
+    "Kobayashi Eiichi Holdings"
+   ]
+  },
+  "Shigemasa Ōsawa": {
+   "koerper_grund": "#F060F0",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#10C050",
+   "aermel_grund": "#F060F0",
+   "aermel_muster": "zwei_armbaender",
+   "aermel_zweit": "#10C050",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Pink, green stars, pink sleeves, green hoops (Rhein Kraft)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "大澤繁昌",
+    "Shigemasa Osawa"
+   ]
+  },
+  "Kazuko Yoshida": {
+   "koerper_grund": "#F5E000",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#E8202A",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#F5E000",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Yellow, black stripes, red sleeves, yellow armlet (Kiss to Heaven)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "吉田和子"
+   ]
+  },
+  "Juichi Hoshin": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#4CC8F0",
+   "aermel_grund": "#111111",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#4CC8F0",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Black, light blue cross sashes, black sleeves, light blue stripe (Ayusan)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "星野壽市",
+    "Juichi Hoshino"
+   ]
+  },
+  "Bamboo Bokujo": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "joch+querstreifen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "koerper_dritt": "#111111",
+   "beschreibung": "White, black yoke and hoops, white sleeves (Tico Tico Tac)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "バンブー牧場"
+   ]
+  },
+  "Tatsuo Fushikida": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "band",
+   "koerper_zweit": "#10C050",
+   "aermel_grund": "#E8202A",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#10C050",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "White, green hoop, red sleeves, green armlet (Fine Motion)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "伏木田達男"
+   ]
+  },
+  "Tosho Sangyo": {
+   "koerper_grund": "#F5E000",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#A5123A",
+   "aermel_grund": "#9030F0",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#9030F0",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Yellow and maroon diamonds, purple sleeves (Sweep Tosho)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "トウショウ産業"
+   ]
+  },
+  "K.Thoroughbred Club Ruffian": {
+   "koerper_grund": "#E8202A",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#E8202A",
+   "aermel_grund": "#10C050",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#E8202A",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Red, green sleeves, red armlet (Uberleben)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "サラブレッドクラブ・ラフィアン",
+    "Thoroughbred Club Ruffian"
+   ]
+  },
+  "Yuzo Tanimizu": {
+   "koerper_grund": "#F5E000",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#4CC8F0",
+   "aermel_grund": "#F5E000",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#F5E000",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Yellow, light blue sash, yellow sleeves (Tanino Gimlet, Vodka)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "谷水雄三"
+   ]
   }
  },
  "pferde": {
