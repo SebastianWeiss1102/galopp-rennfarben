@@ -2682,7 +2682,8 @@
    "beschreibung": "lightblue, white epauletten, lightblue sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "A Tamagni/mme R Vannod"
+    "A Tamagni/mme R Vannod",
+    "Alexander Tamagni"
    ]
   },
   "Alexander Yeung Kwok Kai, Edward Yeung, Kenny Cheng Tsin Ki & Michael Cheng Ka": {
@@ -53135,7 +53136,9 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "white, black v gross, white sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Haras de Saint Pair du Mont"
+   ]
   },
   "Scea Haras De Saint Pair": {
    "koerper_grund": "#FFFFFF",
@@ -53378,7 +53381,9 @@
    "aermel_zweit": "#084E86",
    "beschreibung": "white, royal diagonalstreifen, royal sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Sean Jones, David Spratt & Lynne Lyons"
+   ]
   },
   "Sean Shay": {
    "koerper_grund": "#FFFFFF",
@@ -110701,6 +110706,22 @@
    "aliase": [
     "Bill Gredley",
     "W J & T C O Gredley"
+   ]
+  },
+  "Global Racing Club & Mrs E Burke": {
+   "koerper_grund": "#9A9A9A",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#3B1A7A",
+   "aermel_grund": "#9A9A9A",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#9A9A9A",
+   "kappe_grund": "",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Grey and purple diamonds, grey sleeves, grey cap (Havana Grey)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Global Racing Club & Mrs E. Burke"
    ]
   }
  },
