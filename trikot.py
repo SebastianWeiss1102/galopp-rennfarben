@@ -87,6 +87,18 @@ def muster(art, teil, grund, zweit, dritt=None):
         return _rect(x,y,b,h,grund)+_rect(x,y,b,20,z)+"<text x='50.5' y='72' text-anchor='middle' font-family='Arial,sans-serif' font-size='25' font-weight='bold'><tspan fill='#D6242C'>A</tspan><tspan fill='#2058A5'>P</tspan></text>"
     if art == "winx_m":
         return muster("epauletten",teil,grund,z)+"<text x='50.5' y='73' text-anchor='middle' fill='white' font-family='Arial,sans-serif' font-size='36' font-weight='bold'>M</text>"
+    if art == "makybe_diva":                       # Santic (01.11.2026): blau, untere Haelfte rot-weiss kariert, Kreuz des Suedens
+        aus = [_rect(x, y, b, h, grund)]
+        if teil == "koerper":
+            s, y0 = b / 6.0, y + h * 0.46
+            aus.append(_rect(x, y0, b, y + h - y0 + 1, d3))
+            for i in range(7):
+                for j in range(int((y + h - y0) / s) + 1):
+                    if (i + j) % 2 == 0:
+                        aus.append(_rect(x + i * s, y0 + j * s, s, s, z))
+            for cx, cy, r in ((0.70, 0.10, 3.4), (0.62, 0.20, 3.4), (0.80, 0.21, 3.4), (0.73, 0.32, 3.4), (0.78, 0.27, 1.9)):
+                aus.append(_stern(x + b * cx, y + h * cy, r, "#FFFFFF"))
+        return "".join(aus)
     if art == "melody_belle":
         return muster("sterne",teil,grund,z)+_poly([(x,y),(x+9,y),(x+b,y+h-13),(x+b,y+h),(x+b-9,y+h),(x,y+13)],"#FFFFFF")
     aus = [_rect(x, y, b, h, grund)]

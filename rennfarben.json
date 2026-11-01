@@ -9866,7 +9866,8 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "A Ottobre, Mrs L Ottobre & M Ottobre",
-    "Cape Schanck Racing"
+    "Cape Schanck Racing",
+    "T, M & L Ottobre"
    ]
   },
   "Capital System Co. Ltd.": {
@@ -27895,7 +27896,9 @@
    "aermel_zweit": "#FD6611",
    "beschreibung": "navy, orange scheibe, navy and orange chevrons sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "J Stables, Head Of Plains Partners LLC Et Al"
+   ]
   },
   "J Stewart": {
    "koerper_grund": "#008D53",
@@ -53688,7 +53691,10 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#F3EB5A",
    "beschreibung": "yellow, black epauletten, yellow sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Ahmed Al Maktoum"
+   ]
   },
   "Sh Al Sayyid Saud Harib Thuwaini Shihabalsaid": {
    "koerper_grund": "#FFFFFF",
@@ -53930,7 +53936,9 @@
    "kappe_muster": "laengsstreifen",
    "kappe_zweit": "#FFFFFF",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Shadwell Estate"
+   ]
   },
   "Shadwell France": {
    "koerper_grund": "#3032C5",
@@ -102118,7 +102126,9 @@
    "aermel_grund": "#2A0070",
    "aermel_muster": "einfarbig",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Jeff Smith"
+   ]
   },
   "Giselle De Aguiar & AMO Racing Limited": {
    "beschreibung": "Purple, white hoop, purple sleeves, two white armlets",
@@ -102730,7 +102740,9 @@
    "aermel_grund": "#FFFFFF",
    "aermel_muster": "einfarbig",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Moyglare Stud"
+   ]
   },
   "Mr John C Oxley": {
    "beschreibung": "Yellow and light blue check, yellow and white striped sleeves",
@@ -109109,6 +109121,370 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [],
    "herkunft": "ClassicWinners 01.11.2026: Renntagsfarben Serpentine, Epsom Derby 2020, Racing Post Bild https://www.rp-assets.com/svg/f/1/2/143821f.svg (Coolmore-Partnerschaft in Magnier-Zweitfarben)"
+  },
+  "Daniel Wildenstein": {
+   "koerper_grund": "#0051BA",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#0051BA",
+   "aermel_grund": "#0051BA",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#0051BA",
+   "kappe_grund": "#9BC4E2",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Royal blue, light blue cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": []
+  },
+  "François Dupré": {
+   "koerper_grund": "#919693",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#919693",
+   "aermel_grund": "#919693",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#919693",
+   "kappe_grund": "#FECCE7",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Grey, pink cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Francois Dupre",
+    "François Dupre"
+   ]
+  },
+  "John W. Galbreath": {
+   "koerper_grund": "#E5AA70",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#E5AA70",
+   "aermel_grund": "#603311",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#603311",
+   "kappe_grund": "#E5AA70",
+   "kappe_muster": "quartiert",
+   "kappe_zweit": "#603311",
+   "beschreibung": "Fawn, brown sleeves, fawn and brown quartered cap, brown pompon",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "J. W. Galbreath"
+   ]
+  },
+  "Jim Joel": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "kappe_grund": "#FF2400",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Black, scarlet cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "H. J. Joel",
+    "Mr H J Joel"
+   ]
+  },
+  "Robert Barnett": {
+   "koerper_grund": "#DE3163",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#DE3163",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#DE3163",
+   "kappe_grund": "#FFE831",
+   "kappe_muster": "quartiert",
+   "kappe_zweit": "#FFFFFF",
+   "beschreibung": "Cherry, black sash, primrose and white quartered cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Mr R Barnett"
+   ]
+  },
+  "Aga Khan III": {
+   "koerper_grund": "#138F34",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#7B3F00",
+   "aermel_grund": "#138F34",
+   "aermel_muster": "querstreifen",
+   "aermel_zweit": "#7B3F00",
+   "kappe_grund": "#7B3F00",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Green and chocolate hoops, chocolate cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": []
+  },
+  "Sir Victor Sassoon": {
+   "koerper_grund": "#00A4B4",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#CFB53B",
+   "aermel_grund": "#CFB53B",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#CFB53B",
+   "kappe_grund": "#00A4B4",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Peacock blue, old gold hoops and sleeves, peacock blue cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": []
+  },
+  "17th Earl of Derby": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "kappe_grund": "#FFFFFF",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Black, white cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Edward Stanley, 17th Earl of Derby"
+   ]
+  },
+  "John Yuen Se Kit": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#E0202A",
+   "aermel_grund": "#111111",
+   "aermel_muster": "unterarm",
+   "aermel_zweit": "#E0202A",
+   "kragen_grund": "#E0202A",
+   "beschreibung": "Black, red star, black sleeves, red forearms, red collar (as worn on Good Ba Ba)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Javier Martinez Salmean": {
+   "koerper_grund": "#E96D1F",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#F9BFC1",
+   "aermel_grund": "#F9BFC1",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#E96D1F",
+   "kappe_grund": "#E96D1F",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Orange, pink star, pink sleeves, orange stars, orange cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "J Martinez Salmean",
+    "Mr J Martinez Salmean"
+   ]
+  },
+  "Dawn Falvey et al.": {
+   "koerper_grund": "#DE3163",
+   "koerper_muster": "dreieck_unten_gross",
+   "koerper_zweit": "#0068B3",
+   "aermel_grund": "#DE3163",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#0068B3",
+   "kappe_grund": "#FFD700",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Cerise, royal blue yoke to a point, cerise sleeves, royal blue armbands, yellow cap (as carried by Falvelon 2000-2002)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Archie & Betty da Silva": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#00843D",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "Black with green cross-belts (the Silent Witness colours)",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": []
+  },
+  "Ransley, Birks, Hillen": {
+   "koerper_grund": "#0051BA",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#FFE831",
+   "aermel_grund": "#0051BA",
+   "aermel_muster": "diabolo",
+   "aermel_zweit": "#FFE831",
+   "kappe_grund": "#0051BA",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Royal blue, yellow stripes, royal blue sleeves and yellow diabolo, royal blue cap (Benbaun)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Ransley / Birks / Hillen"
+   ]
+  },
+  "Gunpowder Farms": {
+   "koerper_grund": "#9D0508",
+   "koerper_muster": "dreieck_gross",
+   "koerper_zweit": "#FEFED6",
+   "aermel_grund": "#FEFED6",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FEFED6",
+   "kappe_grund": "#9D0508",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Maroon, cream triangle, cream sleeves, maroon cap (Divisidero)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Cornelius V. Whitney": {
+   "koerper_grund": "#96C8A2",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#96C8A2",
+   "aermel_grund": "#96C8A2",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#96C8A2",
+   "kappe_grund": "#6B3A1E",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Light (Eton) blue, brown cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "C. V. Whitney",
+    "C.V. Whitney"
+   ]
+  },
+  "Belair Stud": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "punkte",
+   "koerper_zweit": "#DC0000",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#DC0000",
+   "kappe_grund": "#DC0000",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "White, red dots, red cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": []
+  },
+  "Edward R. Bradley": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#00843D",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "kappe_grund": "#00843D",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "White, green hoops, white sleeves, green cap",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "E. R. Bradley"
+   ]
+  },
+  "Emily Krstina Syndicate": {
+   "koerper_grund": "#1F5FB5",
+   "koerper_muster": "makybe_diva",
+   "koerper_zweit": "#D7282F",
+   "aermel_grund": "#1F5FB5",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#1F5FB5",
+   "kappe_grund": "#D7282F",
+   "kappe_muster": "karo",
+   "kappe_zweit": "#FFFFFF",
+   "koerper_dritt": "#FFFFFF",
+   "beschreibung": "Tony Santic (Makybe Diva): royal blue, Southern Cross in white stars, lower half red and white checks, royal blue sleeves, red and white check cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Emily Krstina (Aust) Pty Ltd (T Santic)",
+    "Emily Krstina (Aust) Pty Ltd"
+   ]
+  },
+  "R. A., J. D. & A. J. Lee": {
+   "koerper_grund": "#1B2A6B",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#D7282F",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#D7282F",
+   "kappe_grund": "#D7282F",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Dark blue and white diamonds, red sleeves and cap (Comic Court)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "aliase": []
+  },
+  "Adolph Basser": {
+   "koerper_grund": "#6B3A1E",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#1B2A6B",
+   "aermel_grund": "#6B3A1E",
+   "aermel_muster": "querstreifen",
+   "aermel_zweit": "#1B2A6B",
+   "kappe_grund": "#D7282F",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Brown and dark blue hoops, red cap (Delta)",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": [
+    "A. Basser"
+   ]
+  },
+  "C. B. Kellow": {
+   "koerper_grund": "#D4AF37",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#D4AF37",
+   "aermel_grund": "#00843D",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#00843D",
+   "kappe_grund": "#00843D",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Gold, green sleeves and cap (Hall Mark)",
+   "status": "DRAWN_FROM_WORDING",
+   "aliase": []
+  },
+  "Peter & Erica Dickmann": {
+   "koerper_grund": "#FFDE00",
+   "koerper_muster": "dreifarbig_quer",
+   "koerper_zweit": "#00A651",
+   "aermel_grund": "#CD0C02",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#CD0C02",
+   "kappe_grund": "#00A651",
+   "kappe_muster": "querstreifen",
+   "kappe_zweit": "#FFDE00",
+   "koerper_dritt": "#CD0C02",
+   "beschreibung": "Green, yellow and red hooped thirds, red sleeves (Happy Trails)",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "P & Mrs E Dickmann Et Al"
+   ]
+  },
+  "Jean Hislop": {
+   "koerper_grund": "#8F00FF",
+   "koerper_muster": "punkte",
+   "koerper_zweit": "#D8027F",
+   "aermel_grund": "#8F00FF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#8F00FF",
+   "kappe_grund": "#D8027F",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Violet, cerise spots, violet sleeves, cerise cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": [
+    "Mrs J L Hislop"
+   ]
+  },
+  "Lord Howard de Walden": {
+   "koerper_grund": "#FFCBA4",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFCBA4",
+   "aermel_grund": "#FFCBA4",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFCBA4",
+   "kappe_grund": "#FFCBA4",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "",
+   "beschreibung": "Apricot",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "aliase": []
   }
  },
  "pferde": {
