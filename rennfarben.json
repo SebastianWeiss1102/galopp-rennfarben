@@ -97915,16 +97915,18 @@
    "aliase": []
   },
   "Wathnan Racing": {
-   "beschreibung": "Blue, beige sleeves",
+   "beschreibung": "Blue, beige sleeves, red cap",
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "koerper_grund": "#1737D6",
    "koerper_muster": "einfarbig",
    "koerper_zweit": "#1737D6",
-   "aermel_grund": "#FAEC1A",
+   "aermel_grund": "#C9A66B",
    "aermel_muster": "einfarbig",
-   "aermel_zweit": "#FAEC1A",
+   "aermel_zweit": "#C9A66B",
    "sicher": true,
-   "aliase": [],
+   "aliase": [
+    "Wathnan Rcing"
+   ],
    "svg_override": "zeichnungen/20261025/korr-owner-5cb5275e9fd4.svg",
    "farben_offiziell": "Bleue m or t rouge"
   },
@@ -110095,6 +110097,97 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [],
    "herkunft": "racing.com Profil Willydoit, Seidenbild 196988, Besitzer wie am Renntag (01.11.2026)"
+  },
+  "A Alexander, Quat Quatta Thoroughbreds Et Al": {
+   "koerper_grund": "#FCAF17",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FCAF17",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "orange, orange cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "A Alexander, Quat Quatta Thoroughbreds, A Melahridis, Jet Thoroughbreds, J Nointin, W Frendo, S Seventis, J Kadlecik, N A K Racing, Triple Helix, R Menchise, A Warren, Cool Parents Club, W McTaggart, P Murray, G Pell, J Travaglia, S Kennedy, G 1 Bound, Rifle Range Racing"
+   ],
+   "herkunft": "racing.com VRC Oaks 2026 (Weights) Notified, Seidenbild 3216, Besitzer wie bei racing.com (01.11.2026)"
+  },
+  "M Alysandratos, D Alysandratos Et Al": {
+   "koerper_grund": "#0060AF",
+   "koerper_muster": "kreuz_umrandet",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#0060AF",
+   "aermel_muster": "raute",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "royal blue, white-edged royal blue cross, royal blue sleeves with white diamond, royal blue cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "M Alysandratos, D Alysandratos, N Chhabra, R Chhabra, A Kennedy-McDonald, B Johnstone, W Johnstone, R Taylor, G Dimitrakis, M Groidis, P Groidis, K Harrison, B Harrison, J Traikos, H Traikos, A Lehmann, B Lehmann"
+   ],
+   "herkunft": "racing.com VRC Oaks 2026 (Weights) Nikitria, Seidenbild 207149, Besitzer wie bei racing.com (01.11.2026)"
+  },
+  "M Strachan, L Flynn Et Al": {
+   "koerper_grund": "#4BB860",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#231F20",
+   "aermel_grund": "#4BB860",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "green, black epaulettes, green sleeves, green cap with black star",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "M Strachan, L Flynn, D Flynn, Duc Racing, A Scott, N Strachan, E Strachan, T Strachan, 5 G O M RACING"
+   ],
+   "herkunft": "racing.com VRC Oaks 2026 (Weights) Shameful Impulse, Seidenbild 166301, Besitzer wie bei racing.com (01.11.2026)"
+  },
+  "T Liston, G Johnson Et Al": {
+   "koerper_grund": "#DE71AC",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#ECDA00",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "drei_armsterne",
+   "aermel_zweit": "#C8C8C8",
+   "beschreibung": "pink, yellow star, white sleeves with silver stars, pink cap with yellow star",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "T Liston, G Johnson, S Gardiner, S D K Racing, C Bolt"
+   ],
+   "herkunft": "racing.com VRC Oaks 2026 (Weights) Billycart, Seidenbild 186109, Besitzer wie bei racing.com (01.11.2026)"
+  },
+  "T White, S Forster Et Al": {
+   "koerper_grund": "#45BFAD",
+   "koerper_muster": "breites_band",
+   "koerper_zweit": "#DE5A9E",
+   "aermel_grund": "#62D0FA",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "turquoise, pink hoop, light blue sleeves, white cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "T White, S Forster, G Demamiel, D Whiting, K Barker, C Noone, G Scalise, P White, J Gray, M Rose, S Romano, C Romano, Y Phillipson, M McNamara, M Corrigan, A Corrigan, J Westbrook, P Westbrook, G Warren, B Warren"
+   ],
+   "herkunft": "racing.com VRC Oaks 2026 (Weights) Little Ally Bama, Seidenbild 208265, Besitzer wie bei racing.com (01.11.2026)"
+  },
+  "J MacKenzie, A Chow Et Al": {
+   "koerper_grund": "#4BB860",
+   "koerper_muster": "zwei_streifen_breit",
+   "koerper_zweit": "#489BD4",
+   "aermel_grund": "#4BB860",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#F9EE34",
+   "beschreibung": "green, light blue braces, green sleeves, yellow armbands, yellow cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "J MacKenzie, A Chow, S Chow, G Noonan, D Versa, A Sharp, Reining In, D Williams, G Ingram, G Chow, S Noonan, R Pickett, M Porter, M Chow, Bushfield Pub, P Halton, J Chow, S Bishop, R Bawden, M Fowler"
+   ],
+   "herkunft": "racing.com VRC Oaks 2026 (Weights) Endless Fury, Seidenbild 13656, Besitzer wie bei racing.com (01.11.2026)"
+  },
+  "P O'Connor, M O'Connor": {
+   "koerper_grund": "#ED1C24",
+   "koerper_muster": "fuenf_punkte",
+   "koerper_zweit": "#EFEABB",
+   "aermel_grund": "#EFEABB",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "red, cream spots, cream sleeves, cream cap with red pompom",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "racing.com VRC Oaks 2026 (Weights) Chocolate Freckles, Seidenbild 203792, Besitzer wie bei racing.com (01.11.2026)"
   }
  },
  "pferde": {

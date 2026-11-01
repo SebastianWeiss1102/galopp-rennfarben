@@ -363,7 +363,17 @@ def muster(art, teil, grund, zweit, dritt=None):
     elif art == "zwei_streifen":                   # two stripes, wide centre panel
         aus.append(_rect(x + b * 0.28, y, b * 0.08, h, z))
         aus.append(_rect(x + b * 0.64, y, b * 0.08, h, z))
-    elif art == "dreieck_unten":                   # inverted triangle (Spitze unten)
+    elif art == "zwei_streifen_breit":             # braces: two broad stripes (racing.com 13656, 01.11.2026)
+        aus.append(_rect(x + b * 0.18, y, b * 0.17, h, z))
+        aus.append(_rect(x + b * 0.65, y, b * 0.17, h, z))
+    elif art == "kreuz_umrandet":                  # large cross in body colour, edged in zweit (racing.com 207149, 01.11.2026)
+        if teil == "koerper":
+            s = b * 0.065
+            aus.append(_rect(x + b * 0.34, y + h * 0.07, b * 0.32, h * 0.88, z))
+            aus.append(_rect(x + b * 0.08, y + h * 0.29, b * 0.84, h * 0.30, z))
+            aus.append(_rect(x + b * 0.34 + s, y + h * 0.07 + s, b * 0.32 - 2 * s, h * 0.88 - 2 * s, grund))
+            aus.append(_rect(x + b * 0.08 + s, y + h * 0.29 + s, b * 0.84 - 2 * s, h * 0.30 - 2 * s, grund))
+    elif art == "dreieck_unten":                  # inverted triangle (Spitze unten)
         cx, cy = x + b / 2.0, y + h * 0.4
         aus.append(_poly([(cx - 17, cy - 13), (cx + 17, cy - 13), (cx, cy + 18)], z))
     elif art == "harlekin_fein":                   # kleine Rauten ueberall
