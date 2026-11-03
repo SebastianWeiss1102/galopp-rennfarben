@@ -25752,7 +25752,9 @@
    "aermel_zweit": "#280070",
    "beschreibung": "yellow, navy sterne, yellow and navy sterne sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Hollywood Syndicate (Nom: A Delpech)"
+   ]
   },
   "Holy Cow Stable, Llc": {
    "koerper_grund": "#FFFFFF",
@@ -110724,6 +110726,539 @@
    "aliase": [
     "Global Racing Club & Mrs E. Burke"
    ]
+  },
+  "Mrs S Viljoen": {
+   "koerper_grund": "#3F89D0",
+   "koerper_muster": "drei_verbundene_rauten",
+   "koerper_zweit": "#ED0D92",
+   "aermel_grund": "#ED0D92",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "lightblue, pink three diamonds, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2020-12-12 (World Sports Betting Cape Fillies Guineas, Captain's Ransom), Seidenbild 279111, Besitzer am Renntag (03.11.2026)"
+  },
+  "A N Foster & The Hon Mrs G R Foster": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#AA6C2D",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "red, brown cross-belts, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2017-12-16 (Forus Cape Guineas, Tap O' Noth), Seidenbild 262114, Besitzer am Renntag (03.11.2026)"
+  },
+  "Wilgerbosdrift Pty Ltd": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "black, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2025-02-01 (Wilgerbosdrift Gauteng Fillies Guineas, Spumante Dolce), Seidenbild 209157, Besitzer am Renntag (03.11.2026)"
+  },
+  "River Palace Racing Syndicate": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#FFCE32",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "black and yellow stripes, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2019-05-03 (KRA Guineas, Twist Of Fate), Seidenbild 263455, Besitzer am Renntag (03.11.2026)"
+  },
+  "L M Nestadt, M A Currie Et Al": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#083C67",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "navy, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2018-04-07 (S A Classic, Lobo's Legend), Seidenbild 263837, Besitzer am Renntag (03.11.2026)"
+  },
+  "W V & Mrs Rippon, A & Mrs R Chadha Et Al": {
+   "koerper_grund": "#33BDF2",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#A87AC4",
+   "aermel_grund": "#33BDF2",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#A87AC4",
+   "beschreibung": "lightblue, mauve star, lightblue sleeves, mauve stars",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2017-04-01 (S A Classic, Heavenly Blue), Seidenbild 246483, Besitzer am Renntag (03.11.2026)"
+  },
+  "Al Adiyaat South Africa Pty Ltd": {
+   "koerper_grund": "#FFF31A",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#FFF31A",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "yellow, royal blue chevron, yellow sleeves, royal blue cuffs",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2017-05-06 (S A Derby, Al Sahem), Seidenbild 212380, Besitzer am Renntag (03.11.2026)"
+  },
+  "Mauritzfontein (Pty) Ltd (Nom: Mrs J B Jell)": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#FFF31A",
+   "aermel_grund": "#FFF31A",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "black, yellow sash, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Mauritzfontein (Pty) Ltd"
+   ],
+   "herkunft": "Racing Post Ergebnis 2024-03-02 (Wilgerbosdrift SA Fillies Classic, Gimme A Nother), Seidenbild 249248, Besitzer am Renntag (03.11.2026)"
+  },
+  "G L Huddy & Mrs L F Huddy": {
+   "koerper_grund": "#FFF31A",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "yellow and maroon stripes, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2017-05-13 (UBET South Australian Derby, Volatile Mix), Seidenbild 182013, Besitzer am Renntag (03.11.2026)"
+  },
+  "Stefano Botti": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "royal blue, white seam, white sleeves, royal blue stripes",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2025-04-27 (Premio Parioli Hid Italian 2000 Guineas, Lao Tzu), Seidenbild 144368, Besitzer am Renntag (03.11.2026)"
+  },
+  "Wilgerbosdrift (Pty) Ltd (Nom: Mrs M Slack)": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "black, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2020-02-22 (ARF Commemorative Cape Derby, Golden Ducat), Seidenbild 209157, Besitzer am Renntag (03.11.2026)"
+  },
+  "AM, AR, CJ, FH & JF Bruford, JD, LR & RA Coupland": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "buchstabe_C",
+   "koerper_zweit": "#E4032E",
+   "aermel_grund": "#0069B4",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "white, red 'C', royal blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Mrs A M, A R, C J, F H & J F Bruford Et Al"
+   ],
+   "herkunft": "Racing Post Ergebnis 2018-03-17 (Al Basti Equiworld Dubai New Zealand Oaks, Savvy Coup), Seidenbild 257127, Besitzer am Renntag (03.11.2026)"
+  },
+  "ASSM Racing Syndicate (Nom: A Chadha)": {
+   "koerper_grund": "#A7A5A6",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#043558",
+   "aermel_grund": "#043558",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "grey, navy epaulets, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "ASSM Racing Syndicate"
+   ],
+   "herkunft": "Racing Post Ergebnis 2024-12-07 (World Sports Betting Cape Fillies Guineas, Fatal Flaw), Seidenbild 305270, Besitzer am Renntag (03.11.2026)"
+  },
+  "Aquis Farm, B J Spicer Et Al": {
+   "koerper_grund": "#66CEF5",
+   "koerper_muster": "breites_band",
+   "koerper_zweit": "#231F20",
+   "aermel_grund": "#66CEF5",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "lightblue, black and lightblue check hoop, lightblue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2018-11-03 (AAMI Victoria Derby, Extra Brut), Seidenbild 268883, Besitzer am Renntag (03.11.2026)"
+  },
+  "C J H Van Niekerk": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "unterarm",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "royal blue, red disc, royal blue sleeves, red forearms",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2019-03-02 (Wilgerbosdrift S A Fillies Classic, Return Flight), Seidenbild 155722, Besitzer am Renntag (03.11.2026)"
+  },
+  "C L Gabler, Jane Truter & K P Truter": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#118ACB",
+   "aermel_grund": "#118ACB",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "white, blue chevron, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Mrs C L Gabler & Jane Truter & K P Truter"
+   ],
+   "herkunft": "Racing Post Ergebnis 2021-02-27 (Jonsson Workwear Cape Derby, Linebacker), Seidenbild 298225, Besitzer am Renntag (03.11.2026)"
+  },
+  "Chrigor Stud (Pty) Ltd (Nom: Mrs S Hattingh)": {
+   "koerper_grund": "#FFF31A",
+   "koerper_muster": "rautenflaeche",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "yellow, royal blue diamonds, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Chrigor Stud (Pty) Ltd"
+   ],
+   "herkunft": "Racing Post Ergebnis 2018-01-27 (Investec Cape Derby, Eyes Wide Open), Seidenbild 246479, Besitzer am Renntag (03.11.2026)"
+  },
+  "D T O'Brien, Mrs J O'Brien Et Al": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#043558",
+   "text": "O",
+   "text_farbe": "#043558",
+   "beschreibung": "white, navy 'O', white sleeves, navy hoops",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2019-11-07 (Kennedy Oaks, Miami Bound), Seidenbild 276832, Besitzer am Renntag (03.11.2026)"
+  },
+  "Edmond Sui": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#231F20",
+   "aermel_grund": "#231F20",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "red and black stripes, black sleeves, red hoops",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Edmond Siu Kim Ping"
+   ],
+   "herkunft": "Racing Post Ergebnis 2019-12-21 (Cape Guineas, Kilindini), Seidenbild 191644, Besitzer am Renntag (03.11.2026)"
+  },
+  "Elite Leisure Syndicate": {
+   "koerper_grund": "#00B1EB",
+   "koerper_muster": "zwei_streifen",
+   "koerper_zweit": "#E4032E",
+   "aermel_grund": "#FFEE00",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#E4032E",
+   "koerper_dritt": "#FFEE00",
+   "beschreibung": "lightblue, red and yellow stripes, red and yellow check sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2019-02-17 (The Hong Kong Classic Cup, Mission Tycoon), Seidenbild 261019, Besitzer am Renntag (03.11.2026)"
+  },
+  "Greg Bortz & E A Braun & Greenacres Trust (Nom: N M Shirtliff)": {
+   "koerper_grund": "#40BFC5",
+   "koerper_muster": "panelnaehte",
+   "koerper_zweit": "#C8C7C7",
+   "aermel_grund": "#40BFC5",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#C8C7C7",
+   "beschreibung": "turquoise, grey seams, turquoise sleeves, grey armlets",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Greg Bortz, E A Braun & Greenacres Trust"
+   ],
+   "herkunft": "Racing Post Ergebnis 2022-02-26 (Jonsson Workwear Cape Derby, Pomp And Power), Seidenbild 312223, Besitzer am Renntag (03.11.2026)"
+  },
+  "Hidden Brook Farm & Hare Forest Farm": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#043558",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#A80350",
+   "text": "HB",
+   "text_farbe": "#A80350",
+   "beschreibung": "white, maroon and navy 'HB', navy sleeves, maroon hoops",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2017-07-01 (Mother Goose Stakes, Unchained Melody), Seidenbild 252136, Besitzer am Renntag (03.11.2026)"
+  },
+  "J F & L M F Wernars, B G Gardner et al": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "lilie",
+   "koerper_zweit": "#083C67",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "white, navy fleur-de-lys, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "J F & L M F Wernars, B G Gardner Et Al"
+   ],
+   "herkunft": "Racing Post Ergebnis 2018-05-05 (S A Derby, Hero's Honour), Seidenbild 261215, Besitzer am Renntag (03.11.2026)"
+  },
+  "J J Habib, Estate Of The Late S F G Habib et al": {
+   "koerper_grund": "#E4032E",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#E4032E",
+   "aermel_muster": "querstreifen",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "red and white hoops, hooped sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "J J Habib, Estate Of The Late S F G Habib Et Al"
+   ],
+   "herkunft": "Racing Post Ergebnis 2020-06-06 (S A Derby, Out Of Your League), Seidenbild 287925, Besitzer am Renntag (03.11.2026)"
+  },
+  "Jerome Sas & Elena Benvenutti": {
+   "koerper_grund": "#99DEF9",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "lightblue and red stripes, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2026-06-21 (Premio Oaks d'Italia Tattersalls, Piccola Piuma), Seidenbild 317845, Besitzer am Renntag (03.11.2026)"
+  },
+  "Kestorm Investments (Nom: Kenneth Pillay)": {
+   "koerper_grund": "#E4032E",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "red, white stars, black sleeves, white stars",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Kestorm Investments"
+   ],
+   "herkunft": "Racing Post Ergebnis 2023-03-04 (Wilgerbosdrift SA Fillies Classic, Bless My Stars), Seidenbild 288330, Besitzer am Renntag (03.11.2026)"
+  },
+  "Khaya Stables (Pty) Ltd (SAF)": {
+   "koerper_grund": "#FFF31A",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#3A3536",
+   "aermel_grund": "#FFF31A",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#231F20",
+   "beschreibung": "yellow, black stripe, yellow and black striped sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Khaya Stables Pty Ltd"
+   ],
+   "herkunft": "Racing Post Ergebnis 2024-02-24 (SplashOut Cape Derby, Green With Envy), Seidenbild 216822, Besitzer am Renntag (03.11.2026)"
+  },
+  "L & Mrs H Potgieter": {
+   "koerper_grund": "#13A538",
+   "koerper_muster": "drei_verbundene_rauten",
+   "koerper_zweit": "#F7A600",
+   "aermel_grund": "#F7A600",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "green, orange three diamonds, orange sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2019-03-30 (S A Derby, Samurai Warrior), Seidenbild 264093, Besitzer am Renntag (03.11.2026)"
+  },
+  "M F De Kock, M Makepeace et al": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "malteserkreuz",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "white, red Maltese cross, white and red striped sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "M F De Kock, M Makepeace Et Al"
+   ],
+   "herkunft": "Racing Post Ergebnis 2022-04-02 (World Sports Betting SA Derby, Aragosta), Seidenbild 314834, Besitzer am Renntag (03.11.2026)"
+  },
+  "M J A Ferreira": {
+   "koerper_grund": "#59C251",
+   "koerper_muster": "malteserkreuz",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "green, red Maltese cross, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2019-12-14 (World Sports Betting Cape Fillies Guineas, Missisippi Burning), Seidenbild 236416, Besitzer am Renntag (03.11.2026)"
+  },
+  "Messrs D Chinsammy, H Adams & J A Soma": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#231F20",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "red, black epaulets, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "D Chinsammy, H Adams & J A Soma"
+   ],
+   "herkunft": "Racing Post Ergebnis 2020-03-07 (S A Classic, Got The Greenlight), Seidenbild 273438, Besitzer am Renntag (03.11.2026)"
+  },
+  "Messrs N Jonsson & J P Rupert": {
+   "koerper_grund": "#F9B5B2",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#5EBC5E",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "pink, green cross-belts, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "N Jonsson & J P Rupert"
+   ],
+   "herkunft": "Racing Post Ergebnis 2025-02-22 (SplashOut Cape Derby, Eight On Eighteen), Seidenbild 352846, Besitzer am Renntag (03.11.2026)"
+  },
+  "Miss S Bhana & J A Soma": {
+   "koerper_grund": "#231F20",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#D8E83A",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "black, lime sash, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2022-03-05 (WSB SA Classic, Red Saxon), Seidenbild 304598, Besitzer am Renntag (03.11.2026)"
+  },
+  "Mr S S Pooe": {
+   "koerper_grund": "#ED1A3B",
+   "koerper_muster": "rautenflaeche",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "red and white diamonds, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "S S Pooe"
+   ],
+   "herkunft": "Racing Post Ergebnis 2024-03-02 (TAB SA Classic, Purple Pitcher), Seidenbild 316970, Besitzer am Renntag (03.11.2026)"
+  },
+  "Mrs D L Erasmus, Mrs L Huntingford & H W Leyenaar": {
+   "koerper_grund": "#0000FF",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#FF7A1A",
+   "aermel_grund": "#0000FF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FF7A1A",
+   "beschreibung": "blue and orange stripes, blue sleeves, orange stars",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2025-12-13 (Hollywoodbets Cape Guineas, Jan Van Goyen), Seidenbild 358982, Besitzer am Renntag (03.11.2026)"
+  },
+  "Mrs S Plattner": {
+   "koerper_grund": "#59C251",
+   "koerper_muster": "hufeisen",
+   "koerper_zweit": "#A850AE",
+   "aermel_grund": "#A850AE",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#59C251",
+   "beschreibung": "green, mauve horseshoe, mauve sleeves, green cuffs",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2021-12-04 (World Sports Betting Cape Fillies Guineas, Chansonette), Seidenbild 128433, Besitzer am Renntag (03.11.2026)"
+  },
+  "N Jonsson": {
+   "koerper_grund": "#EC047C",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#009160",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "pink, green cross-belts, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2021-12-18 (Cape Guineas, Double Superlative), Seidenbild 267208, Besitzer am Renntag (03.11.2026)"
+  },
+  "Nick Jonsson": {
+   "koerper_grund": "#EC047C",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#009160",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "pink, green cross-belts, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2023-02-25 (Splashout Cape Derby, See It Again), Seidenbild 267208, Besitzer am Renntag (03.11.2026)"
+  },
+  "R M Sewgoolam": {
+   "koerper_grund": "#FAB23D",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FAB23D",
+   "aermel_muster": "unterarm",
+   "aermel_zweit": "#3F89D0",
+   "beschreibung": "gold, gold sleeves, blue forearms",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2024-12-14 (Hollywoodbets Cape Guineas, One Stripe), Seidenbild 236405, Besitzer am Renntag (03.11.2026)"
+  },
+  "Steven Chetty": {
+   "koerper_grund": "#BDD2C7",
+   "koerper_muster": "rautenflaeche",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "pale green, red diamonds, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2023-04-01 (World Sports Betting SA Derby, Son Of Raj), Seidenbild 271753, Besitzer am Renntag (03.11.2026)"
+  },
+  "Superhorse Syndicate": {
+   "koerper_grund": "#EC047C",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#EC047C",
+   "aermel_muster": "einfarbig",
+   "text": "S",
+   "text_farbe": "#FFFFFF",
+   "beschreibung": "pink, royal blue diamond with white 'S', pink sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2019-04-06 (Harrolds Australian Derby, Angel Of Truth), Seidenbild 229115, Besitzer am Renntag (03.11.2026)"
+  },
+  "V Kaufling": {
+   "koerper_grund": "#99DEF9",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#8CD024",
+   "aermel_grund": "#99DEF9",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "lightblue, lime stars, lightblue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2025-05-18 (Coolmore City of Troy German 2000 Guineas, Matilda), Seidenbild 112697, Besitzer am Renntag (03.11.2026)"
+  },
+  "We Bloodstock Srl": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#A80350",
+   "beschreibung": "white and maroon stripes, striped sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2020-07-05 (Premio Oaks d'Italia, Auyantepui), Seidenbild 230512, Besitzer am Renntag (03.11.2026)"
+  },
+  "Wernars Family & H Willson": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "lilie",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#F1190C",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#111111",
+   "beschreibung": "white, black fleur-de-lys, red sleeves, black cuffs",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "Racing Post Ergebnis 2025-12-06 (World Sports Betting Cape Fillies Guineas, Quickstepgal), Seidenbild 365409, Besitzer am Renntag (03.11.2026)"
   }
  },
  "pferde": {
