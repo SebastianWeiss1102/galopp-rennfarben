@@ -47578,7 +47578,8 @@
    "status": "DRAWN_FROM_IMAGE",
    "sicher": true,
    "aliase": [
-    "Peters Investments Pty Ltd (Mgr: R J Peters)"
+    "Peters Investments Pty Ltd (Mgr: R J Peters)",
+    "Peters Investments"
    ]
   },
   "Peters Investments Pty Ltd [racing.com 131914]": {
@@ -48071,7 +48072,8 @@
    "sicher": true,
    "aliase": [
     "Princesse Zahra Aga Khan / Frankreich",
-    "Princess Zahra Aga Khan"
+    "Princess Zahra Aga Khan",
+    "Zahra Aga Khan"
    ],
    "herkunft": "GaloppFacts (RaceBets-Vorlage), uebernommen 23.10.2026"
   },
@@ -54398,7 +54400,8 @@
    "beschreibung": "yellow, royal v gross, yellow sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Sheikh M. bin Khalifa"
+    "Sheikh M. bin Khalifa",
+    "Mohammed bin Khalifa Al Maktoum"
    ]
   },
   "Sheikh Mohammed Obaid Al Maktoum": {
@@ -108934,7 +108937,9 @@
    "koerper_zweit": "#FEFE00",
    "aermel_zweit": "#FEFE00",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": [],
+   "aliase": [
+    "Scuderia Rencati"
+   ],
    "herkunft": "ClassicWinners 01.11.2026: Renntags-Rennfarben laut Racing Post (Oaks d'Italia 2017, Folega), Bild https://www.rp-assets.com/svg/3/2/4/18423.svg"
   },
   "Quafin Spa": {
@@ -110187,7 +110192,8 @@
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
    "aliase": [
     "Mr M C Gerber",
-    "Chris Gerber"
+    "Chris Gerber",
+    "M C Gerber"
    ]
   },
   "Mr N M Shirtliff & Mr & Mrs A D Webber": {
@@ -110905,7 +110911,9 @@
    "aermel_zweit": "#ED1639",
    "beschreibung": "royal blue, red disc, royal blue sleeves, red forearms",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": [],
+   "aliase": [
+    "Mr C J H van Niekerk"
+   ],
    "herkunft": "Racing Post Ergebnis 2019-03-02 (Wilgerbosdrift S A Fillies Classic, Return Flight), Seidenbild 155722, Besitzer am Renntag (03.11.2026)"
   },
   "C L Gabler, Jane Truter & K P Truter": {
