@@ -111333,6 +111333,269 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [],
    "herkunft": "racing.com Profil Well Written, Seidenbild 187802, Besitzer wie am Renntag abgeglichen (04.11.2026)"
+  },
+  "Pamela Isdell": {
+   "koerper_grund": "#2B0A6E",
+   "koerper_muster": "streifen_breit",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#2B0A6E",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#FFFFFF",
+   "aliase": [],
+   "beschreibung": "purple, white stripe, purple sleeves, white stripes",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis KZN Guineas 2022 (Zapatillas), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20220507gre142306.png (05.11.2026)"
+  },
+  "R S Wentzel & Dr R E Waterman-Wentzel": {
+   "koerper_grund": "#F9C8E6",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#111111",
+   "aliase": [],
+   "beschreibung": "pink, black stars, white sleeves, black stars",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Gauteng Fillies Guineas 2021 (War of Athena), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20210213trf132002.png (05.11.2026)"
+  },
+  "Mayfair Speculators (Pty) Ltd (Nom: Mr D L Brugman)": {
+   "koerper_grund": "#008B48",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#FFF31A",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "green, yellow stars, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Cape Derby 2017 (Edict of Nantes), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20170128ken141502.png (05.11.2026)"
+  },
+  "Anyasec (Pty) Ltd (Caroline Rupert)": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#E8132A",
+   "aermel_grund": "#2F37C4",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "white, red spots, royal blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis KZN Guineas 2020 (Wild Coast), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20200607gre144809.png (05.11.2026)"
+  },
+  "Bryn Ressell, F H McGrath Et Al": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "querstreifen",
+   "aermel_zweit": "#FFF31A",
+   "aliase": [],
+   "beschreibung": "red and black hoops, red and yellow hooped sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Gauteng Guineas 2019 (National Park), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20190202trf143502.png (05.11.2026)"
+  },
+  "C & R Kieswetter & Ridgemont Highlands": {
+   "koerper_grund": "#00422A",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#2F37C4",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "dark green, royal blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Cape Fillies Guineas 2018 (Front And Centre), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20181215ken135504.png (05.11.2026)"
+  },
+  "D D Maclean": {
+   "koerper_grund": "#FF9900",
+   "koerper_muster": "punkte",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#7CFC00",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "orange, black spots, lime sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis KZN Guineas 2017 (Secret Captain), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20170507gre143511.png (05.11.2026)"
+  },
+  "Drakenstein Stud & W J C Mitchell": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "punkte",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "white, black spots, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Cape Fillies Guineas 2017 (Snowdance), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20171202ken135501.png (05.11.2026)"
+  },
+  "Gary Barber & St. Elias Stable": {
+   "koerper_grund": "#F06EAA",
+   "koerper_muster": "ring",
+   "koerper_zweit": "#231F20",
+   "aermel_grund": "#F06EAA",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "pink, black ring, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Prince of Wales Stakes 2026 (Military Time), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20260907xfe213602.png (05.11.2026)"
+  },
+  "Gary Basel, Lance Clark & Werner Volschenk": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#808080",
+   "aliase": [],
+   "beschreibung": "black, black sleeves, grey hoops",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Gauteng Guineas 2025 (Parisian Walkway), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20250201trf133509.png (05.11.2026)"
+  },
+  "Heste Sport Inc.": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#2F37C4",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "white, royal blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Breeders' Stakes 2022 (Sir for Sure), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20221002xwo223809.png (05.11.2026)"
+  },
+  "I W Longmore, Bryn Ressell & N M Shirtliff": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "malteserkreuz",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#2F37C4",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "red, white Maltese cross, royal blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Cape Guineas 2020 (Russian Rock), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20201219ken144514.png (05.11.2026)"
+  },
+  "Jack of Hearts Racing / J.R. Racing Stable Inc.": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "herz",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#FFFFFF",
+   "aliase": [],
+   "beschreibung": "red, white heart, red sleeves, white spots",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Prince of Wales Stakes 2017 (Cool Catomine), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20170725qfe004506.png (05.11.2026)"
+  },
+  "Kisten Pillay Racing Syndicate, MGAS Bloodstock (Nom: G A Soma), PowerOf5 Syndicate, D Chinsammy, R G Coppin & E Naicker": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "chevrons",
+   "koerper_zweit": "#2F37C4",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "white, royal blue chevrons, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Gauteng Fillies Guineas 2023 (Lady of Power), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20230204trf125510.png (05.11.2026)"
+  },
+  "M Makepeace, M F De Kock & M C Shea": {
+   "koerper_grund": "#00F000",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#2A0070",
+   "aermel_grund": "#00F000",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#2A0070",
+   "aliase": [
+    "M Makepeace, M F de Kock & M C Shea"
+   ],
+   "beschreibung": "emerald green, purple star, emerald green sleeves, purple hoops",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Gauteng Fillies Guineas 2018 (Takingthepeace), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20180303trf140004.png (05.11.2026)"
+  },
+  "Mary Slack": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "black, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis South African Oaks 2023 (None Other), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20230401trf145005.png (05.11.2026)"
+  },
+  "Matthew & Anthony Kapnias": {
+   "koerper_grund": "#00422A",
+   "koerper_muster": "v_gross",
+   "koerper_zweit": "#7A0000",
+   "aermel_grund": "#00422A",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#7A0000",
+   "aliase": [],
+   "beschreibung": "dark green, maroon chevron, dark green sleeves, maroon hoops",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Gauteng Guineas 2023 (Eye of the Prophet), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20230204trf133314.png (05.11.2026)"
+  },
+  "Mrs J P Gardner, M A Currie et al": {
+   "koerper_grund": "#00EE00",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#00EE00",
+   "aliase": [],
+   "beschreibung": "emerald green and black check, check sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis South African Derby 2025 (Legend of Arthur), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20250329trf141502.png (05.11.2026)"
+  },
+  "Paul Ryder": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#2F37C4",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "red, royal blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Breeders' Stakes 2026 (Fire and Wine), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20260927xwo223003.png (05.11.2026)"
+  },
+  "S M Jerrier": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#FF6611",
+   "aermel_grund": "#FF6611",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#111111",
+   "aliase": [],
+   "beschreibung": "orange and black quartered, orange and black striped sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis South African Oaks 2018 (Secret Potion), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20180505trf132504.png (05.11.2026)"
+  },
+  "Varsfontein Stud & Partners": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "white, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis Gauteng Guineas 2024 (Sandringham Summit), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20240203trf133501.png (05.11.2026)"
+  },
+  "D Chinsammy, W G de Koker, E Naicker, G J Nassif, J Nassif, G, K & M M Nassif, Tri-Deal Sixteen CC (Nom: Z L Nassif) & TKP Racing (Nom: Trevelen Pillay)": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "aliase": [
+    "D Chinsammy, W G De Koker Et Al",
+    "J R Blumberg, D Chinsammy Et Al",
+    "Team Valor International, Anant Singh, Perry Sambor, D Chinsammy & G Knowles",
+    "Messrs J R Blumberg,D Chinsammy, R G Coppin, E Naicker, B M Nassif, G, K & M M Nassif, Mr B & Mrs K Ncube, MGAS Bloodstock, Kisten Pillay Racing (Trevelen)"
+   ],
+   "beschreibung": "red, black epaulets, red sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "Sporting Life Ergebnis South African Classic 2025 (Confederate), Seidenbild vom Renntag https://www.sportinglife.com/images/silks/20250301trf133505.png (05.11.2026)"
+  },
+  "Mr T M Andrews, Mr D A Houston, Mr G W Rogers, Mr B K Willison, Mr P A Wildermoth, Mr K D Land, Mr M P Dixon, Mr G C Dickie, Mr C Valenti, Mr B L Nutt, Mr G Lyons, Mr G R Williamson, Mr B W Griffiths, Mr J P Hetherington, Mr A S Brennan, Mr J A Smith, Mr D P Andrews, Mr R J Fuller, Mr M J Ferguson, D D Gundry": {
+   "koerper_grund": "#0060AF",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#0060AF",
+   "aermel_muster": "einfarbig",
+   "aliase": [],
+   "beschreibung": "royal blue, white epaulets, royal blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "racing.com Ergebnis WATC Derby 2024 (A Lot of Good Men), Seidenbild vom Renntag https://cdn.silks.racing.com/bb/157855.png (05.11.2026)"
   }
  },
  "pferde": {
