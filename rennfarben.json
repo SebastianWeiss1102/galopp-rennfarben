@@ -111266,6 +111266,63 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [],
    "herkunft": "Racing Post Ergebnis 2025-12-06 (World Sports Betting Cape Fillies Guineas, Quickstepgal), Seidenbild 365409, Besitzer am Renntag (03.11.2026)"
+  },
+  "Wylie Dalziel Roy Higgins Racing et al.": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "wappen",
+   "koerper_zweit": "#E82C24",
+   "aermel_grund": "#204290",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, red lion, royal blue sleeves, white spots",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "racing.com Profil Mr Quickie, Seidenbild 186383, Besitzer wie am Renntag abgeglichen (04.11.2026)"
+  },
+  "Eclipse Thoroughbred Partners, Newgate S F Et Al": {
+   "koerper_grund": "#231F20",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#73C4EE",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#73C4EE",
+   "beschreibung": "black, light blue sash, white sleeves, light blue spots",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "racing.com Profil Pinot, Seidenbild 181154, Besitzer wie am Renntag abgeglichen (04.11.2026)"
+  },
+  "Rehame Racing, C B McKenna et al": {
+   "koerper_grund": "#BFD730",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#0060AF",
+   "aermel_grund": "#0060AF",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "lime and royal blue hoops, royal blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "racing.com Profil Ruthven, Seidenbild 67205, Besitzer wie am Renntag abgeglichen (04.11.2026)"
+  },
+  "Stan Saric": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#E81C23",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "red and white check, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "racing.com Profil Awesome John, Seidenbild 152507, Besitzer wie am Renntag abgeglichen (04.11.2026)"
+  },
+  "Yulong Investment NZ Ltd, 8 Mates Syndicate, et al": {
+   "koerper_grund": "#00914C",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#00914C",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "green, green and white check sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [],
+   "herkunft": "racing.com Profil Well Written, Seidenbild 187802, Besitzer wie am Renntag abgeglichen (04.11.2026)"
   }
  },
  "pferde": {
