@@ -39602,6 +39602,16 @@
    "svg_override": "zeichnungen/20261025/korr-dg-2571167.svg",
    "beschreibung_de": "dunkelblau, weiß-rot-schwarze Ärmel, schw. K., roter Punkt, weiße Quaste",
    "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE"
+  },
+  "38879171": {
+   "_unsicher": [],
+   "koerper_grund": "#36B94A",
+   "aermel_grund": "#36B94A",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FF7A1E",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FF7A1E",
+   "_quelle": "Deutscher Galopp, Starterfeld Grosser Allianz Preis von Bayern 07.11.2026, DG-Farbnummer 38879171: \"grün, orange Schultern u. Armbinden, orange Kappe, weißer Stern\" (Herbal, Ballylinch Stud u. Oti Management)"
   }
  }
 }
