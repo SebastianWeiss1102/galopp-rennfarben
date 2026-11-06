@@ -24738,7 +24738,10 @@
    "aermel_muster": "chevron",
    "aermel_zweit": "#E21B22",
    "beschreibung": "Dark green, red chevrons, dark green and red chevron sleeves, green and red cap",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Hermitage (S Clarke)"
+   ]
   },
   "Hertrich Iii, Frederick And Fielding, John D": {
    "koerper_grund": "#280070",
@@ -65849,7 +65852,8 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "A Giles, C Vincent Et Al",
-    "A P Giles, Ms C L Vincent & H Docherty"
+    "A P Giles, Ms C L Vincent & H Docherty",
+    "Transtasman Breeders Pty Ltd (A Giles, C Vincent & H Docherty)"
    ]
   },
   "Vorlage 191064.png": {
