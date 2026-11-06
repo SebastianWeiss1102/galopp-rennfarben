@@ -1,5 +1,5 @@
 {
- "_stand": "2026-11-01",
+ "_stand": "2026-11-06",
  "_hinweis": "Die eine Trikot-Datenbank aller Galopp-Projekte. Je Besitzer die Zeichenangaben fuer trikot.py. Nichts von Hand ausserhalb dieses Repos pflegen.",
  "besitzer": {
   "22/23 David Hall Trainer Syndicate": {
@@ -113616,6 +113616,92 @@
    "kappe_zweit": "",
    "beschreibung": "Red, black spots, black sleeves, red cap",
    "status": "DRAWN_FROM_IMAGE",
+   "aliase": []
+  },
+  "Ballylinch Stud u.Oti Management  Pty.Ltd.": {
+   "beschreibung": "Green, orange epaulets, green sleeves, orange armlet",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#00D926",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#F47B20",
+   "aermel_grund": "#00D926",
+   "aermel_muster": "armband",
+   "aermel_zweit": "#F47B20",
+   "farben_offiziell": "grün, orange Schultern u. Armbinden, orange Kappe, weißer Stern",
+   "sicher": true,
+   "aliase": []
+  },
+  "Australian Bloodstock, AB Vauban Et Al": {
+   "beschreibung": "Royal blue, white horseshoe, black and white check sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#0060AF",
+   "koerper_muster": "hufeisen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#111111",
+   "sicher": true,
+   "aliase": []
+  },
+  "P Boyle, M Boyle Et Al": {
+   "beschreibung": "Light blue, royal blue box, light blue and royal blue striped sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#73C4EE",
+   "koerper_muster": "quadrat_rahmen",
+   "koerper_zweit": "#0060AF",
+   "koerper_dritt": "#73C4EE",
+   "aermel_grund": "#73C4EE",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#0060AF",
+   "sicher": true,
+   "aliase": []
+  },
+  "A Carney, T Carney Et Al": {
+   "beschreibung": "Yellow and red diagonal stripes, royal blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FFF200",
+   "koerper_muster": "diagonalstreifen",
+   "koerper_zweit": "#E81C23",
+   "aermel_grund": "#0060AF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#0060AF",
+   "sicher": true,
+   "aliase": []
+  },
+  "Eales Racing Pty Ltd, Blur Racing Syndicate Et Al": {
+   "beschreibung": "Black, orange diamond sash, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#111111",
+   "koerper_muster": "rauten_schraeg",
+   "koerper_zweit": "#FCA11B",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "sicher": true,
+   "aliase": []
+  },
+  "HOS Syndicate [racing.com 49991]": {
+   "beschreibung": "White, pink star, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#F6D4E6",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "sicher": true,
+   "aliase": []
+  },
+  "J McManus [racing.com 211384]": {
+   "beschreibung": "Yellow and green hoops, yellow and green hooped sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#E8E213",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#49B861",
+   "aermel_grund": "#E8E213",
+   "aermel_muster": "querstreifen",
+   "aermel_zweit": "#49B861",
+   "sicher": true,
    "aliase": []
   }
  },
