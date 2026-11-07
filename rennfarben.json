@@ -113707,6 +113707,20 @@
    "aermel_zweit": "#49B861",
    "sicher": true,
    "aliase": []
+  },
+  "M J & S L Hardy, C Hardy, K Hardy, A Collings & L Collings, R Tangye & B Tangye": {
+   "beschreibung": "Navy blue, white star, white sleeves with navy blue stars, navy blue cap with white star",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "koerper_grund": "#1B2A5C",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#1B2A5C",
+   "kappe": "navy blue, white star",
+   "herkunft": "loveracing.nz Riccarton 07.11.2026 Rennen 10 (Angels Halo), offizielle Farbenbeschreibung",
+   "sicher": true,
+   "aliase": []
   }
  },
  "pferde": {
