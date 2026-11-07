@@ -99703,7 +99703,8 @@
    "status": "DRAWN_FROM_WORDING",
    "sicher": true,
    "aliase": [
-    "Woodlands Stud"
+    "Woodlands Stud",
+    "Woodlands Stud Syndicate"
    ],
    "historisch": true
   },
@@ -113719,6 +113720,33 @@
    "aermel_zweit": "#1B2A5C",
    "kappe": "navy blue, white star",
    "herkunft": "loveracing.nz Riccarton 07.11.2026 Rennen 10 (Angels Halo), offizielle Farbenbeschreibung",
+   "sicher": true,
+   "aliase": []
+  },
+  "Gestüt Erlenhof": {
+   "beschreibung": "dunkelblau, rote Ärmel und Kappe",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "koerper_grund": "#16285E",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#D2232A",
+   "aermel_muster": "einfarbig",
+   "kappe": "rot",
+   "herkunft": "Deutscher Galopp Renndatenbank, Farbenangabe zu All Ready (Besitzer Gestüt Erlenhof), Gelsenkirchen 27.05.1995: https://www.deutscher-galopp.de/gr/renntage/rennen.php?id=1136154",
+   "sicher": true,
+   "aliase": [
+    "Gestut Erlenhof",
+    "Gestuet Erlenhof"
+   ]
+  },
+  "Wheatley Stable": {
+   "beschreibung": "yellow, purple sleeves and cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "koerper_grund": "#F2C318",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#5B2A86",
+   "aermel_muster": "einfarbig",
+   "kappe": "purple",
+   "herkunft": "Daily Racing Form 04.05.1957 (drf.uky.edu drf1957050401_28_1); Racing Museum: 'Wheatley gold and purple silks'",
    "sicher": true,
    "aliase": []
   }
