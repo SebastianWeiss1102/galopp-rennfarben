@@ -113630,7 +113630,10 @@
    "aermel_zweit": "#F47B20",
    "farben_offiziell": "grün, orange Schultern u. Armbinden, orange Kappe, weißer Stern",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Ballylinch Stud u.Oti Management Pty.Ltd."
+   ],
+   "bild_sha256": "beb8cf1ea3085bf0c072846d891f48b4e0075858374bfecb1186029aa7cc7c1c"
   },
   "Australian Bloodstock, AB Vauban Et Al": {
    "beschreibung": "Royal blue, white horseshoe, black and white check sleeves",
