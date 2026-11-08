@@ -1,5 +1,5 @@
 {
- "_stand": "2026-11-06",
+ "_stand": "2026-11-08",
  "_hinweis": "Die eine Trikot-Datenbank aller Galopp-Projekte. Je Besitzer die Zeichenangaben fuer trikot.py. Nichts von Hand ausserhalb dieses Repos pflegen.",
  "besitzer": {
   "22/23 David Hall Trainer Syndicate": {
@@ -30976,11 +30976,13 @@
    "koerper_muster": "sterne",
    "koerper_zweit": "#FFFFFF",
    "aermel_grund": "#632E17",
-   "aermel_muster": "einfarbig",
-   "aermel_zweit": "#632E17",
-   "beschreibung": "brown, white sterne, brown sleeves",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "Brown, white stars, brown and white striped sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Koichi Hoshika"
+   ]
   },
   "Khalid Khalifa Al Nabooda": {
    "koerper_grund": "#111111",
@@ -102162,7 +102164,11 @@
    "aermel_grund": "#002040",
    "aermel_muster": "einfarbig",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Mrs John Magnier, Michael Tabor, Derrick Smith and Westerberg",
+    "Poulin, Jonathan, Westerberg, Magnier, Mrs. John, Smith, Derrick and Tabor, Michael B.",
+    "Mrs. John Magnier"
+   ]
   },
   "A Al Mansoori": {
    "beschreibung": "Yellow, dark blue sleeves, yellow stars",
@@ -104770,7 +104776,9 @@
    "aermel_muster": "naht",
    "aermel_zweit": "#FFFFFF",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Derrick Smith, Mrs John Magnier, Michael Tabor"
+   ]
   },
   "Jean-jacques Biarese": {
    "beschreibung": "White, black and white check sleeves",
@@ -106058,7 +106066,8 @@
    "beschreibung": "pink, white saltire, pink sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Arrowfield Pastoral Pty Ltd, East Coast Agricultural Investments Et Al"
+    "Arrowfield Pastoral Pty Ltd, East Coast Agricultural Investments Et Al",
+    "K Bowerman, Miss G I Solomon-Innes, G M Mayes, D N Reeves, C L Mitchell, M J Summers, B J Summers, Mrs B P Mawer, P G Hood, J A Taylor, Mrs D L Mills, R A Coniglione & G Isdale"
    ]
   },
   "Vorlage racingcom:36237": {
@@ -106092,7 +106101,9 @@
    "aermel_zweit": "#132E4D",
    "beschreibung": "navy, navy sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Coolmore, P Shanahan, L P Maxsted, P K Allen, Mrs C D Allen & A M V Nicoll"
+   ]
   },
   "Vorlage racingcom:176794": {
    "koerper_grund": "#015DAA",
@@ -113793,6 +113804,282 @@
    "kappe_muster": "laengsstreifen",
    "kappe_zweit": "#EE6FB4",
    "herkunft": "loveracing.nz Pferdeprofil (EntryDetail), Farbenbild gesichtet 08.11.2026; Besitzer identisch mit Siegerbesitzern (Molly Bloom, NZ 1000 Guineas 2023)",
+   "sicher": true,
+   "aliase": []
+  },
+  "J O'Neill & Kheir Coolangatta Partnership": {
+   "beschreibung": "Navy, yellow spots, yellow sleeves, navy lower half",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#032642",
+   "koerper_muster": "punkte",
+   "koerper_zweit": "#FEFE00",
+   "aermel_grund": "#FEFE00",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#032642",
+   "sicher": true,
+   "aliase": []
+  },
+  "Robert Nina Bailey": {
+   "beschreibung": "Red, black star, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FA0017",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "sicher": true,
+   "aliase": []
+  },
+  "Heiligbrodt, L. William, Heiligbrodt, Corinne, Jackpot Farm, Whispering Oaks Farm LLC and Coolmore Stud": {
+   "beschreibung": "White, orange star, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FD6611",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "sicher": true,
+   "aliase": []
+  },
+  "Carroll Boys Racing, Harlow Stables LLC, Iavarone, Michael and McClanahan, Jerry": {
+   "beschreibung": "White, royal blue stars, white sleeves, royal blue hoops",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#3032C5",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#3032C5",
+   "sicher": true,
+   "aliase": []
+  },
+  "ERJ Racing, LLC, Madaket Stables LLC and Dave Kenney": {
+   "beschreibung": "Blue, royal blue disc, royal blue sleeves, white stars",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#084E86",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#3032C5",
+   "aermel_grund": "#3032C5",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFFFFF",
+   "sicher": true,
+   "aliase": []
+  },
+  "Mrs. Evelyn M. Stockwell, Coolmore Stud and Westerberg": {
+   "beschreibung": "Steel blue, maroon cross sashes, steel blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#436B94",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#33000D",
+   "aermel_grund": "#436B94",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#436B94",
+   "sicher": true,
+   "aliase": []
+  },
+  "SF Racing LLC, Starlight Racing, Madaket Stables LLC, Stonestreet Stables LLC, Hertrich, III, Frederick, Fielding, John D. and Golconda Stables": {
+   "beschreibung": "Blue, yellow star, blue sleeves, yellow diamonds",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#084E86",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FEFE00",
+   "aermel_grund": "#084E86",
+   "aermel_muster": "drei_aermelrauten",
+   "aermel_zweit": "#FEFE00",
+   "sicher": true,
+   "aliase": []
+  },
+  "Deborah McAnally Trust": {
+   "beschreibung": "Pink, green sash, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FEC8CB",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#00D926",
+   "aermel_grund": "#FEC8CB",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FEC8CB",
+   "sicher": true,
+   "aliase": []
+  },
+  "Katsuko Muraki": {
+   "beschreibung": "Pink, black cross sashes, yellow sleeves, pink hoop",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FF66FF",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFF00",
+   "aermel_muster": "band",
+   "aermel_zweit": "#FF66FF",
+   "sicher": true,
+   "aliase": []
+  },
+  "K's Japan": {
+   "beschreibung": "White and purple check, white sleeves, lavender hoops",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "karo",
+   "koerper_zweit": "#6224B5",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#B380C5",
+   "sicher": true,
+   "aliase": []
+  },
+  "Teruo Ono": {
+   "beschreibung": "Red, white stars, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FF0000",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "sicher": true,
+   "aliase": []
+  },
+  "Tomoko Hirosaki": {
+   "beschreibung": "White, black diamond hoop, black sleeves, yellow hoop",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "drei_verbundene_rauten",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "band",
+   "aermel_zweit": "#FFFF00",
+   "sicher": true,
+   "aliase": []
+  },
+  "Dearest Club Co. Ltd.": {
+   "beschreibung": "Lilac, blue hoop, lilac sleeves, blue stripes",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#CC99FF",
+   "koerper_muster": "band",
+   "koerper_zweit": "#1544FF",
+   "aermel_grund": "#CC99FF",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#1544FF",
+   "sicher": true,
+   "aliase": []
+  },
+  "Kazuhiro Kameda": {
+   "beschreibung": "White, pink cross sashes, pink sleeves, white hoop",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#FF66FF",
+   "aermel_grund": "#FF66FF",
+   "aermel_muster": "band",
+   "aermel_zweit": "#FFFFFF",
+   "sicher": true,
+   "aliase": []
+  },
+  "Toako Abe": {
+   "beschreibung": "Grey, yellow diamond hoop, grey sleeves, yellow diamonds",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#CCCCCC",
+   "koerper_muster": "drei_verbundene_rauten",
+   "koerper_zweit": "#FFFF00",
+   "aermel_grund": "#CCCCCC",
+   "aermel_muster": "drei_verbundene_rauten",
+   "aermel_zweit": "#FFFF00",
+   "sicher": true,
+   "aliase": []
+  },
+  "Tomio Ono": {
+   "beschreibung": "Black, light blue sash, black sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#111111",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#40CCFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "sicher": true,
+   "aliase": []
+  },
+  "Tsuji B.": {
+   "beschreibung": "White, green zigzag yoke, red sleeves, white hoop",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "zackenjoch",
+   "koerper_zweit": "#00CC55",
+   "aermel_grund": "#FF0000",
+   "aermel_muster": "band",
+   "aermel_zweit": "#FFFFFF",
+   "sicher": true,
+   "aliase": []
+  },
+  "Yoichi Masuda": {
+   "beschreibung": "Pink, white hoop, red sleeves, white hoop",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FF66FF",
+   "koerper_muster": "band",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FF0000",
+   "aermel_muster": "band",
+   "aermel_zweit": "#FFFFFF",
+   "sicher": true,
+   "aliase": []
+  },
+  "Satomi Horse Company Co. Ltd.": {
+   "beschreibung": "Green, yellow diamond hoop, green sleeves, yellow stripes",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#00CC55",
+   "koerper_muster": "drei_verbundene_rauten",
+   "koerper_zweit": "#FFFF00",
+   "aermel_grund": "#00CC55",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#FFFF00",
+   "sicher": true,
+   "aliase": []
+  },
+  "Teruo Suzuki": {
+   "beschreibung": "Green and red stripes, green sleeves, white hoop",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#00CC55",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#FF0000",
+   "aermel_grund": "#00CC55",
+   "aermel_muster": "band",
+   "aermel_zweit": "#FFFFFF",
+   "sicher": true,
+   "aliase": []
+  },
+  "Nagahisa Yashima": {
+   "beschreibung": "Red, white cross sashes, white sleeves, green stripes",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FF0000",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#00CC55",
+   "sicher": true,
+   "aliase": []
+  },
+  "Yusuke Yamaguchi": {
+   "beschreibung": "Blue, grey cross sashes, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#1544FF",
+   "koerper_muster": "kreuzbaender",
+   "koerper_zweit": "#CCCCCC",
+   "aermel_grund": "#1544FF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#1544FF",
+   "sicher": true,
+   "aliase": []
+  },
+  "Taiji Yoshioka": {
+   "beschreibung": "Yellow, black sash, yellow sleeves, black stripes",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#FFFF00",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFF00",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#111111",
    "sicher": true,
    "aliase": []
   }
