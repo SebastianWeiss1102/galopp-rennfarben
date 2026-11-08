@@ -113749,6 +113749,52 @@
    "herkunft": "Daily Racing Form 04.05.1957 (drf.uky.edu drf1957050401_28_1); Racing Museum: 'Wheatley gold and purple silks'",
    "sicher": true,
    "aliase": []
+  },
+  "Wally Campbell, Adrian Mathieson, Natalie Walker et al": {
+   "beschreibung": "Green, navy and red tartan, red cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#1E6B3A",
+   "koerper_muster": "karo",
+   "koerper_zweit": "#1A1F3D",
+   "aermel_grund": "#1E6B3A",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#1A1F3D",
+   "kappe_grund": "#D7263D",
+   "kappe_muster": "einfarbig",
+   "herkunft": "loveracing.nz Pferdeprofil (EntryDetail), Farbenbild gesichtet 08.11.2026; Besitzer identisch mit Siegerbesitzern (Romanoff, NZ 2000 Guineas 2025); Rennfoto Haunui Farm bestaetigt Tartan und rote Kappe",
+   "sicher": true,
+   "aliase": []
+  },
+  "C Grace, J Walker, Riverrock Farm, D Roach & M J Moroney": {
+   "beschreibung": "Black and lime green check, black sleeves, lime green cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#111111",
+   "koerper_muster": "karo",
+   "koerper_zweit": "#8DC63F",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "kappe_grund": "#8DC63F",
+   "kappe_muster": "einfarbig",
+   "herkunft": "loveracing.nz Pferdeprofil (EntryDetail), Farbenbild gesichtet 08.11.2026; Besitzer identisch mit Siegerbesitzern (Pulchritudinous, NZ Oaks 2024)",
+   "sicher": true,
+   "aliase": []
+  },
+  "B Anderson, A R & C J Marshall, Forest Partnership, I Whitley, B Kwok, D Lye, K & L Morey, Kypu Syndicate, James Group Syndicate, B & D Verryt": {
+   "beschreibung": "Emerald green, white epaulettes, pink sleeves, green and pink striped cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#11946B",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#EE6FB4",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#EE6FB4",
+   "kappe_grund": "#11946B",
+   "kappe_muster": "laengsstreifen",
+   "kappe_zweit": "#EE6FB4",
+   "herkunft": "loveracing.nz Pferdeprofil (EntryDetail), Farbenbild gesichtet 08.11.2026; Besitzer identisch mit Siegerbesitzern (Molly Bloom, NZ 1000 Guineas 2023)",
+   "sicher": true,
+   "aliase": []
   }
  },
  "pferde": {
