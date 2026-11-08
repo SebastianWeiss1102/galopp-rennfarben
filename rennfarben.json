@@ -37584,8 +37584,10 @@
    "beschreibung": "silver, black streifen, black and silver laengsstreifen sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "Mathis Stable Llc"
-   ]
+    "Mathis Stable Llc",
+    "Averill Racing, LLC, Mathis Stable, LLC & Tristian De Meric"
+   ],
+   "herkunft_alias": " | Averill Racing, LLC, Mathis Stable, LLC & Tristian De Meric: Rennfoto gesichtet 08.11.2026 (My Miss Mo, AP/WTOP 15.05.2026 bzw. Margie's Intention, The Racing Biz 16.05.2025)"
   },
   "Matilda & Kilmichael R P": {
    "koerper_grund": "#FEFEFD",
@@ -99428,7 +99430,10 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "white, green stern, white sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "WinStar Farm & Baron Stable"
+   ],
+   "herkunft_alias": " | WinStar Farm & Baron Stable: Rennfoto gesichtet 08.11.2026 (My Miss Mo, AP/WTOP 15.05.2026 bzw. Margie's Intention, The Racing Biz 16.05.2025)"
   },
   "Winstar Farm LLC": {
    "koerper_grund": "#FFFFFF",
@@ -103435,7 +103440,9 @@
    "aermel_muster": "querstreifen",
    "aermel_zweit": "#F00058",
    "sicher": true,
-   "aliase": []
+   "aliase": [
+    "Whisper Hill Farm"
+   ]
   },
   "Myracehorse": {
    "beschreibung": "Black, white cap",
@@ -114082,6 +114089,128 @@
    "aermel_zweit": "#111111",
    "sicher": true,
    "aliase": []
+  },
+  "King Ranch": {
+   "beschreibung": "Brown, white Running W, white sleeves, brown armlet (cap not established)",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "koerper_grund": "#5A3A22",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#F2EFE6",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#5A3A22",
+   "herkunft": "https://www.thestoryoftexas.com/artifacts/king-ranch-racing-horse-jacket/ | Bullock Texas State History Museum object 'King Ranch Racing Horse Racing Jacket' (lender: King Ranch Archives): 'The ranch's famous Running W brand can be seen on this silk jacket worn by a King Ranch jockey.' Museum photo (downloaded kr_jacket.jpg) shows brown satin body with large white Running W brand on the front, off-white/white sleeves with one broad brown band at the elbow. Land Report ('Horse Power', landreport.com/horse-power) independently: 'the brown-and-white Running W silks'. Cap: no source found; leave undrawn or confirm separately. The Running W emblem is not in the pattern list (body_pattern set to einfarbig, emblem colour in body_second). (recherchiert 08.11.2026)",
+   "sicher": true,
+   "aliase": []
+  },
+  "Mrs B D Oppenheimer": {
+   "beschreibung": "Black, yellow sash, yellow sleeves, yellow cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "koerper_grund": "#111111",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#F5C400",
+   "aermel_grund": "#F5C400",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#F5C400",
+   "herkunft": "https://www.turftalk.co.za/?p=137408 | Turf Talk (5 Jul 2022, Durban July wall of honour article): 'together with the equally famous Oppenheimer silks, Black, yellow sash, sleeves and cap.' BizNews obituary of Bridget Oppenheimer: 'her famous yellow and black silks'. Sash direction not stated; kreuzband (left shoulder to right hip) used as default. (recherchiert 08.11.2026)",
+   "sicher": true,
+   "aliase": [],
+   "kappe_grund": "#F5C400",
+   "kappe_muster": "einfarbig"
+  },
+  "Tung Moon Fai": {
+   "beschreibung": "Pink, yellow star, pink sleeves, pink cap, yellow star",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#E58FC0",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#F2D930",
+   "aermel_grund": "#E58FC0",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#E58FC0",
+   "herkunft": "https://www.thoroughbreddailynews.com/?p=57214 | TDN 'Classic Cup Lives Up to Its Name' (Feb 2016): Sun Jewellery (owner Tung Moon Fai) won the HK Classic Cup under Ryan Moore; trophy photo (MooreClassicCup.jpg) shows Moore in pink jacket with one large yellow star, pink sleeves. TDN Classic Mile report (Jan 2016, SunJewelleryClassicMile.jpg): Moore on Sun Jewellery in the same pink jacket, pink sleeves, pink cap with a yellow star visible on the cap. (recherchiert 08.11.2026)",
+   "sicher": true,
+   "aliase": [],
+   "kappe_grund": "#E58FC0",
+   "kappe_muster": "stern",
+   "kappe_zweit": "#F2D930"
+  },
+  "Chouxmaani Investments Ltd.": {
+   "beschreibung": "Red and royal blue diamonds, red sleeves, royal blue armlet, red cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#E3203B",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#2B3F9E",
+   "aermel_grund": "#E3203B",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#2B3F9E",
+   "herkunft": "https://commons.wikimedia.org/wiki/File:Jimmy_Choux.jpg | Wikimedia Commons photo 'Jimmy Choux' (taken 2011-12-11, Hong Kong Mile day, Sha Tin; used in Wikipedia infobox 'Jimmy Choux started at Hong Kong Mile'); Wikipedia infobox: Owner Chouxmaani Investments Ltd. Photo shows red jacket with large royal blue diamonds (harlequin-style red/blue diamonds), red sleeves with one broad royal blue band above the elbow, plain red cap. 'grosskaro' chosen as closest to large diamonds; check against your renderer. (recherchiert 08.11.2026)",
+   "sicher": true,
+   "aliase": [],
+   "kappe_grund": "#E3203B",
+   "kappe_muster": "einfarbig"
+  },
+  "Sir Patrick & Lady Hogan": {
+   "beschreibung": "Dark green, lime green spots, dark green sleeves, lime green spots, dark green cap, lime green spots",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#1F6B3A",
+   "koerper_muster": "punkte",
+   "koerper_zweit": "#B5D334",
+   "aermel_grund": "#1F6B3A",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#B5D334",
+   "herkunft": "https://breednet.com.au/news/11513/promising-filly-for-sir-patrick-hogan- | Breednet 'Promising Filly for Sir Patrick Hogan': photo 'Sweet Anna - image Trish Dunnell', Sir Patrick quoted 'As owners, we...'. Photo shows emerald/dark green jacket, sleeves and cap all with large lime-green spots. NZ Racing Hall of Fame obituary: 'Sir Patrick's two-tone green (and very Irish) racing colours'. (recherchiert 08.11.2026)",
+   "sicher": true,
+   "aliase": [],
+   "kappe_grund": "#1F6B3A",
+   "kappe_muster": "punkte",
+   "kappe_zweit": "#B5D334"
+  },
+  "Rurik Gobel, Dave MacLean, Countess S Labia & Kalinga": {
+   "beschreibung": "Grey, grey sleeves, violet cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "koerper_grund": "#A8A6B8",
+   "koerper_muster": "einfarbig",
+   "koerper_zweit": "#A8A6B8",
+   "aermel_grund": "#A8A6B8",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#A8A6B8",
+   "herkunft": "https://www.planetsport.com/horse-racing/race-card/greyville/2025-05-03/698496/3504287/world-sports-betting-guineas | Planet Sport racecard WSB Guineas, Greyville 3 May 2025: Sail The Seas, owner 'Messrs R Gobel & D D Maclean, Countess S Labia & Kalinga', position 1, silk image 2155263.png = plain grey jacket and sleeves, purple/violet cap. Turf Talk 22 May 2025 caption: 'Sail The Seas winning the Gr 2 WSB Guineas (violet cap)'. Turf Talk photo SailTheSeasLKPDay.jpg (Kenilworth, 4 Jan 2025, Oisin Murphy up) shows the same plain silver-grey jacket and sleeves with violet cap. (recherchiert 08.11.2026)",
+   "sicher": true,
+   "aliase": [],
+   "kappe_grund": "#7B3FC4",
+   "kappe_muster": "einfarbig"
+  },
+  "S Dettori & A R Maccioni": {
+   "beschreibung": "Red and white quartered, emerald green sleeves, white and red cap",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING",
+   "koerper_grund": "#E3242B",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#3DAA6E",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#3DAA6E",
+   "herkunft": "https://www.ippodromisnai.it/wp-content/uploads/2025/10/45-1000galoppomilano2025mercoledi29ottobre-2.pdf | Official programme San Siro 29 Oct 2025 (SNAI, delegated by MASAF): owner 'Dettori S.-Maccio' A. - g. a quarti ro.-bia.. m. ve.. b. bi.-ro.' (giubba a quarti rosso-bianco, maniche verdi, berretto bianco-rosso); racecard row 'Dettori Sergio-Maccio' Ambra ... 4 g. a quarti ro.-bia., m. ve.'. Race photo of Wakanaka in the 2021 Regina Elena (Team Valor release Wakanaka_ReginaElena.pdf, Capannelle) shows red/white quartered body, green sleeves, cap white with red and green panels. Cap two-coloured (white-red, exact split not stated); cap_pattern einfarbig with cap_second as fallback. (recherchiert 08.11.2026)",
+   "sicher": true,
+   "aliase": [],
+   "kappe_grund": "#FFFFFF",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "#E3242B"
+  },
+  "Challenge No.10 Syndicate": {
+   "beschreibung": "Emerald green, white seams, emerald green sleeves, green and white cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#1F7A5C",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#1F7A5C",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#1F7A5C",
+   "herkunft": "https://www.windsorparkstud.co.nz/jennifer-eccles-nz-completes-runaway-nzb-filly-of-the-year-series-win | Windsor Park Stud article on Jennifer Eccles' 2020 NZ Oaks win, photo jennifer_eccles_te_rapa_800x533_1.jpg (Te Rapa, David & Karyn Ellis Fillies' Classic, same 2019/20 campaign, J W Waddell up). Shows green jacket with thin white seams/piping on shoulders and sleeves, green sleeves, cap green with white panels. Not the Oaks-day photo itself. White seams are not in the pattern list (your trikot.py has 'naht'); cap is green/white panelled, exact split unclear. (recherchiert 08.11.2026)",
+   "sicher": true,
+   "aliase": [],
+   "kappe_grund": "#1F7A5C",
+   "kappe_muster": "einfarbig",
+   "kappe_zweit": "#FFFFFF"
   }
  },
  "pferde": {
