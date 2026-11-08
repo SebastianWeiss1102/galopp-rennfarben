@@ -114211,6 +114211,25 @@
    "kappe_grund": "#1F7A5C",
    "kappe_muster": "einfarbig",
    "kappe_zweit": "#FFFFFF"
+  },
+  "Aleksandra Skrzypczak u.Panagioti Zorbas/Polen": {
+   "koerper_grund": "#2A86E8",
+   "koerper_muster": "drei_querstreifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#2A86E8",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFFFFF",
+   "kappe": "#2A86E8",
+   "status": "DRAWN_FROM_OFFICIAL_WORDING_AND_IMAGE",
+   "beschreibung_de": "blau, drei weiße Querstreifen, blaue Ärmel, weiß-blau-w. Armb., blaue K.",
+   "geprueft": "2026-11-08: amtliche DG-Vorlage 38802112 (Herzog von Ratibor-Rennen 14.11.2026, Bostonmasachusets) verglichen",
+   "aliase": [
+    "Aleksandra Skrzypczak u. Panagioti Zorbas"
+   ],
+   "dg_ids": [
+    "38802112"
+   ],
+   "farben_offiziell": "blau, drei weiße Querstreifen, blaue Ärmel, weiß-blau-w. Armb., blaue K."
   }
  },
  "pferde": {
