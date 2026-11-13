@@ -114232,6 +114232,18 @@
     "38802112"
    ],
    "farben_offiziell": "blau, drei weiße Querstreifen, blaue Ärmel, weiß-blau-w. Armb., blaue K."
+  },
+  "Tomokazu Iizuka": {
+   "beschreibung": "Blue, yellow stripes, blue sleeves, yellow armlets",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#1544FF",
+   "koerper_muster": "drei_laengsstreifen",
+   "koerper_zweit": "#FFFF00",
+   "aermel_grund": "#1544FF",
+   "aermel_muster": "armband",
+   "aermel_zweit": "#FFFF00",
+   "sicher": true,
+   "aliase": []
   }
  },
  "pferde": {
