@@ -4910,7 +4910,9 @@
    "aermel_zweit": "#2D429D",
    "beschreibung": "scarlet, royal sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Pearce Racing, O Hubber Et Al"
+   ]
   },
   "B Perks, A Clough": {
    "koerper_grund": "#20409B",
@@ -9029,7 +9031,8 @@
    "aliase": [
     "C Morton, Esquin, M Burrows, M Harders, P Walsh, A Anderson, A Durnin, D Flanagan, T Deutsher, T Hewitt, G Rogers, E Galante, F Fairthorne, M Tarling, M Tarling",
     "C Morton, Get The Round In, F H R U S Racing, Fewnicorns, McHams, Grandad's Gift Syndicate, R Pettigrove, R Walker, C Madaschi, M Madaschi, J Dunning, P Still, A Tottle, B Jardine, L Madaschi, J Byrne, A Durnin, A Hayden, D Pratt, G Baxter",
-    "C Morton, Get The Round In, F H R U S Racing, Grandad's Gift Syndicate, McHams, Fewnicorns, M Madaschi, R Pettigrove, R Walker, A Tottle, B Jardine, C Madaschi, A Durnin, A Hayden, J Dunning, D Pratt, G Baxter, J Byrne, P Still, L Madaschi"
+    "C Morton, Get The Round In, F H R U S Racing, Grandad's Gift Syndicate, McHams, Fewnicorns, M Madaschi, R Pettigrove, R Walker, A Tottle, B Jardine, C Madaschi, A Durnin, A Hayden, J Dunning, D Pratt, G Baxter, J Byrne, P Still, L Madaschi",
+    "C Morton, N Botica Et Al"
    ]
   },
   "C Munce, Iervese Racing, Milo Racing, More Oxygen, Kratzie Racing 2022, Kratzie Racing 3022, C Schembri, D Chivers, J Gorgogianis, L Henderson, L Thompson, C Chivers, J Chivers, M Wilde, T Chivers": {
@@ -19500,7 +19503,8 @@
    "aliase": [
     "G Baldwin, Ben Gee Racing, Snow Road Thoroughbreds, Swan Hill Gang, B Bannerman, B Morris, B Nally, P Walsh, A Cassidy, D Drum, T Weir, V Nally, G Mclaren, R Mcintosh, D Russ, E Telford, M Telford, G Wellard, P Hetherington, P Knight",
     "G Baldwin, Snow Road Thoroughbreds, Ben Gee Racing, Swan Hill Gang, D Drum, A Cassidy, B Bannerman, B Morris, B Nally, M Telford, G Wellard, T Weir, V Nally, P Walsh, G Mclaren, D Russ, E Telford, P Hetherington, P Knight, R Mcintosh",
-    "G Baldwin, Swan Hill Gang, Snow Road Thoroughbreds, Ben Gee Racing, G Wellard, P Hetherington, P Knight, B Bannerman, B Morris, B Nally, D Drum, D Russ, E Telford, P Walsh, M Telford, T Weir, V Nally, A Cassidy, R Mcintosh, G Mclaren"
+    "G Baldwin, Swan Hill Gang, Snow Road Thoroughbreds, Ben Gee Racing, G Wellard, P Hetherington, P Knight, B Bannerman, B Morris, B Nally, D Drum, D Russ, E Telford, P Walsh, M Telford, T Weir, V Nally, A Cassidy, R Mcintosh, G Mclaren",
+    "G Baldwin, D Drum Et Al"
    ]
   },
   "G Beattie, Bang Bang, K Bourke, G Bagg, G Grist, T Spielvogel, A Bradley, J Mitchell, B Hovey, D Wilson, R Burdon, D Fitzgerald": {
@@ -35235,7 +35239,9 @@
    "aliase": [
     "M Ojapold, Ridgeport, B Gudjonsson, A Blaskovic",
     "Ms M Ojapold, Ridgeport, B Gudjonsson & Miss A Blaskovic",
-    "Ridgeport, C Parnham, D Lee, R O'bree, N Parnham"
+    "Ridgeport, C Parnham, D Lee, R O'bree, N Parnham",
+    "M Ojapold, Ridgeport Et Al",
+    "Ridgeport, N Parnham Et Al"
    ]
   },
   "M Palmer": {
@@ -43816,7 +43822,8 @@
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
     "N Parnham, C Parnham, P Sullivan",
-    "N Parnham, Cockatoo Ridge, C Parnham, P Evans, S Kenny, M Tracy, F Kilner"
+    "N Parnham, Cockatoo Ridge, C Parnham, P Evans, S Kenny, M Tracy, F Kilner",
+    "N Parnham, C Parnham Et Al"
    ]
   },
   "N Parnham, C Parnham": {
@@ -62680,7 +62687,8 @@
    "beschreibung": "black, emerald chevron, white sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "P Buckley, S Leury"
+    "P Buckley, S Leury",
+    "Ultra Horse Syndicate, S Leury"
    ]
   },
   "Ultra Thoroughbred Racing Pty Ltd": {
@@ -65591,7 +65599,8 @@
    "beschreibung": "white, orange grosskaro, orange sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "A Williams, S Leury, A Latassa"
+    "A Williams, S Leury, A Latassa",
+    "J Howkins, A Latassa Et Al"
    ]
   },
   "Vorlage 182826.png": {
