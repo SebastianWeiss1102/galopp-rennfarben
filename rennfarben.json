@@ -114254,6 +114254,60 @@
    "aermel_zweit": "#FFFF00",
    "sicher": true,
    "aliase": []
+  },
+  "D Kay, C Henman [racing.com 127010]": {
+   "koerper_grund": "#812990",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#812990",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "Purple, white stripes, purple sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "racing.com Seidenbild 127010 (Awesome Boy, Railway Stakes 21.11.2026), Besitzer wie im Feld"
+  },
+  "S Miller, M Taylor Et Al [racing.com 47456]": {
+   "koerper_grund": "#231F20",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#EE3E7D",
+   "aermel_muster": "einfarbig",
+   "beschreibung": "Black and white stripes, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "racing.com Seidenbild 47456 (Bonjoy, Railway Stakes 21.11.2026), Besitzer wie im Feld"
+  },
+  "R Griffiths, R & C Legh Racing Pty Ltd Et Al [racing.com 36756]": {
+   "koerper_grund": "#0060AF",
+   "koerper_muster": "blitz_historisch",
+   "koerper_zweit": "#ECDA00",
+   "aermel_grund": "#0060AF",
+   "aermel_muster": "band_zweifarbig",
+   "aermel_zweit": "#ECDA00",
+   "aermel_dritt": "#FFFFFF",
+   "beschreibung": "Royal blue, yellow lightning bolt, yellow and white armbands",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "racing.com Seidenbild 36756 (Enxuto, Railway Stakes 21.11.2026), Besitzer wie im Feld"
+  },
+  "S Smith, V Smith Et Al [racing.com 165492]": {
+   "koerper_grund": "#812990",
+   "koerper_muster": "blitz_historisch",
+   "koerper_zweit": "#ECDA00",
+   "aermel_grund": "#812990",
+   "aermel_muster": "blitz_historisch",
+   "aermel_zweit": "#ECDA00",
+   "beschreibung": "Purple, yellow lightning bolt, purple sleeves with yellow lightning bolts",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "racing.com Seidenbild 165492 (Harry's Yacht, Railway Stakes 21.11.2026), Besitzer wie im Feld"
+  },
+  "K Fawcett, T Cranfield Et Al [racing.com 198589]": {
+   "koerper_grund": "#231F20",
+   "koerper_muster": "lilie",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#231F20",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "Black, white fleur-de-lis, black sleeves, white stars",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "racing.com Seidenbild 198589 (Magnatear, Railway Stakes 21.11.2026), Besitzer wie im Feld"
   }
  },
  "pferde": {
