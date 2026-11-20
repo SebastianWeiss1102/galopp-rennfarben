@@ -599,6 +599,13 @@ def muster(art, teil, grund, zweit, dritt=None):
                 aus.append("<circle cx='%.1f' cy='%.1f' r='%.1f' fill='%s'/>" % (x + b * cx, y + h * cy, b * 0.1, z))
     if art == "quer_gespalten_gf":                  # halved horizontally (untere Haelfte Zweitfarbe)
         aus.append(_rect(x, y + h * 0.5, b, h * 0.5 + 1, z))
+    if art == "armbinde_kleeblatt":              # Armbinde (zweit) mit kleinem Kleeblatt (dritt), z. B. Cape Falls (20.11.2026)
+        if teil != "koerper":
+            aus.append(_rect(x, y + h * 0.40, b, h * 0.15, z))
+            cx, cy = x + b / 2.0, y + h * 0.465
+            for dx, dy in ((0, -2.3), (-2.3, 0.6), (2.3, 0.6)):
+                aus.append("<circle cx='%.1f' cy='%.1f' r='2.2' fill='%s'/>" % (cx + dx, cy + dy, d3))
+            aus.append(_rect(cx - 0.6, cy + 1.5, 1.2, 4.0, d3))
     if art == "armband":                         # ein einzelner Ring am Aermel (25.09.2026, GaloppFacts)
         if teil != "koerper":
             aus.append(_rect(x, y + h * 0.42, b, h * 0.09, z))
