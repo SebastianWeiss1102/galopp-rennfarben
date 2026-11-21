@@ -811,6 +811,9 @@ _SUFFIX = {"ltd", "limited", "co", "pty", "llc", "inc", "plc", "gmbh", "sa", "sn
            "corporation", "company", "kg", "pl"}
 _FIRMA = {"racing", "stable", "stables", "farm", "farms", "stud", "bloodstock", "syndicate", "partners",
           "partnership", "thoroughbreds", "investments", "group", "management", "holdings", "family"}
+# Namensteile, die einen vierteiligen Namen als westlich/arabisch ausweisen (dann bleibt Initial + Familienname)
+_WESTLICH = {"jr", "sr", "ii", "iii", "iv", "de", "du", "la", "le", "da", "di", "al", "el", "van", "von", "der",
+             "den", "bin", "ibn", "baron", "baroness", "king", "queen", "sheik", "count", "countess", "duke", "earl"}
 _ZEICHNUNG = ("koerper_grund", "koerper_muster", "koerper_zweit", "aermel_grund", "aermel_muster", "aermel_zweit")
 
 
@@ -825,6 +828,11 @@ def _namensteil(t):
         w.pop()
     if not w:
         return ""
+    if (len(w) == 4 and all(x.isalpha() and len(x) >= 2 for x in w) and not any(x in _FIRMA for x in w)
+            and not any(x in _WESTLICH for x in w)):
+        # 21.11.2026: Hongkong-Namen ("Andy Chiu Koon Ming") enden mit dem Vornamen, nicht dem Familiennamen.
+        # Nur Initial + letztes Wort machte daraus "a ming" und traf "Angela Yeung Kit Ming" (anderer Besitzer).
+        return w[0][0] + " " + " ".join(w[1:])
     if 2 <= len(w) <= 4 and all(x.isalpha() for x in w) and not any(x in _FIRMA for x in w):
         return w[0][0] + " " + w[-1]
     return " ".join("farm" if x == "farms" else "stable" if x == "stables" else x for x in w)
