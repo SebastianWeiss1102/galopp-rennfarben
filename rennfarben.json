@@ -6418,7 +6418,9 @@
    "aermel_zweit": "#065AA0",
    "beschreibung": "royal, white stern, white and royal karo sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "aliase": []
+   "aliase": [
+    "Belhus Racing First Game"
+   ]
   },
   "Bell Gable Stable": {
    "koerper_grund": "#111111",
@@ -9032,7 +9034,9 @@
     "C Morton, Esquin, M Burrows, M Harders, P Walsh, A Anderson, A Durnin, D Flanagan, T Deutsher, T Hewitt, G Rogers, E Galante, F Fairthorne, M Tarling, M Tarling",
     "C Morton, Get The Round In, F H R U S Racing, Fewnicorns, McHams, Grandad's Gift Syndicate, R Pettigrove, R Walker, C Madaschi, M Madaschi, J Dunning, P Still, A Tottle, B Jardine, L Madaschi, J Byrne, A Durnin, A Hayden, D Pratt, G Baxter",
     "C Morton, Get The Round In, F H R U S Racing, Grandad's Gift Syndicate, McHams, Fewnicorns, M Madaschi, R Pettigrove, R Walker, A Tottle, B Jardine, C Madaschi, A Durnin, A Hayden, J Dunning, D Pratt, G Baxter, J Byrne, P Still, L Madaschi",
-    "C Morton, N Botica Et Al"
+    "C Morton, N Botica Et Al",
+    "S Scuderi",
+    "C Morton, McHams Et Al"
    ]
   },
   "C Munce, Iervese Racing, Milo Racing, More Oxygen, Kratzie Racing 2022, Kratzie Racing 3022, C Schembri, D Chivers, J Gorgogianis, L Henderson, L Thompson, C Chivers, J Chivers, M Wilde, T Chivers": {
@@ -20517,7 +20521,8 @@
    "aliase": [
     "Gangemi Thoroughbreds, S & G Thoroughbreds, Mercon Racing, R Wade, C Yeak, C Dakin, A Da Prato, A Skea, N Jaskola, S Graham, S White, L Scamaton, J Winship, J Young, K Hassan",
     "Gangemi Thoroughbreds, S & G Thoroughbreds, Mercon Racing, THE GLEESON CREW, Sat Boys, R Gartrell, R Wade, G Vassallo, J Herkes, A Vassallo, K Gartrell",
-    "Gangemi Thoroughbreds, Stormy Knights Racing, APJ, S & G Thoroughbreds, A1 Racing, Mercon Racing, Massimo Matters, Banjo Bloodstock, Slab City Racing, K Hassan, C Thomas, R Wade, S Dixon, J Herkes, G Mcnally, B Stephens, C Dakin, W Beament"
+    "Gangemi Thoroughbreds, Stormy Knights Racing, APJ, S & G Thoroughbreds, A1 Racing, Mercon Racing, Massimo Matters, Banjo Bloodstock, Slab City Racing, K Hassan, C Thomas, R Wade, S Dixon, J Herkes, G Mcnally, B Stephens, C Dakin, W Beament",
+    "Gangemi Thoroughbreds, G McNally Et Al"
    ]
   },
   "Gary & Linnet Woodward": {
@@ -46559,7 +46564,8 @@
    "beschreibung": "green, red and white armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE",
    "aliase": [
-    "P Walsh, C Cowcher, R Walker, S Cowcher, M Gelmi, J Hardy, D Jancec, A Harrod, A Walker"
+    "P Walsh, C Cowcher, R Walker, S Cowcher, M Gelmi, J Hardy, D Jancec, A Harrod, A Walker",
+    "P Walsh, C Cowcher Et Al"
    ]
   },
   "P Vela": {
@@ -99676,7 +99682,10 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#116AB3",
    "beschreibung": "royal, white naht, royal sleeves",
-   "status": "DRAWN_FROM_IMAGE"
+   "status": "DRAWN_FROM_IMAGE",
+   "aliase": [
+    "Woodbridge Thoroughbreds, R Huckson Et Al"
+   ]
   },
   "Woodford Racing Llc, Lanes End Farm, Phipps Stable, Ken Langone, And Edward J Hudson Jr": {
    "koerper_grund": "#FEC8CB",
