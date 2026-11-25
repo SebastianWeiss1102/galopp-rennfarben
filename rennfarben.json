@@ -114356,6 +114356,83 @@
    "aermel_dritt": "#0060AF",
    "sicher": true,
    "aliase": []
+  },
+  "C Casey [racing.com 204066]": {
+   "koerper_grund": "#E81C23",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#E81C23",
+   "kappe_grund": "#FFFFFF",
+   "kappe_muster": "einfarbig",
+   "beschreibung": "Red, black spade, white sleeves, red cuffs, white cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "racing.com Seidenbild 204066 (Thermosphere Lad, Winterbottom Stakes 28.11.2026), Besitzer wie im Feld",
+   "aliase": [
+    "C Casey"
+   ],
+   "svg_override": "zeichnungen/racingcom-204066.svg"
+  },
+  "I Roberts, M Roberts Et Al [racing.com 322]": {
+   "koerper_grund": "#E81C23",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#F5A332",
+   "aermel_muster": "einfarbig",
+   "kappe_grund": "#F5A332",
+   "kappe_muster": "einfarbig",
+   "beschreibung": "Red, orange sleeves and cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "racing.com Seidenbild 322 (Kraken Time, Winterbottom Stakes 28.11.2026), Besitzer wie im Feld",
+   "aliase": [
+    "I Roberts, M Roberts Et Al"
+   ]
+  },
+  "T Noske, G Oliver Et Al [racing.com 163066]": {
+   "koerper_grund": "#E81C23",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#8DCFF0",
+   "aermel_muster": "einfarbig",
+   "kappe_grund": "#8DCFF0",
+   "kappe_muster": "einfarbig",
+   "beschreibung": "Red, light blue sleeves and cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "racing.com Seidenbild 163066 (Cessation, Winterbottom Stakes 28.11.2026), Besitzer wie im Feld",
+   "aliase": [
+    "T Noske, G Oliver Et Al"
+   ]
+  },
+  "SM & KB Bloodstock, K Sutherland Et Al [racing.com 209588]": {
+   "koerper_grund": "#231F20",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#2BA84A",
+   "aermel_muster": "laengsstreifen",
+   "aermel_zweit": "#E2E421",
+   "kappe_grund": "#231F20",
+   "kappe_muster": "quartiert",
+   "kappe_zweit": "#2BA84A",
+   "beschreibung": "Black, green and yellow striped sleeves, black, green and yellow quartered cap",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "racing.com Seidenbild 209588 (Jedi Dream, Winterbottom Stakes 28.11.2026), Besitzer wie im Feld",
+   "aliase": [
+    "SM & KB Bloodstock, K Sutherland Et Al"
+   ]
+  },
+  "D Gatti, D Gatti Et Al [racing.com 207595]": {
+   "koerper_grund": "#0060AF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#F5A332",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#0060AF",
+   "kappe_grund": "#F5A332",
+   "kappe_muster": "sterne",
+   "kappe_zweit": "#0060AF",
+   "beschreibung": "Royal blue, orange horse emblem, orange sleeves, royal blue stars, orange cap, royal blue stars",
+   "status": "DRAWN_FROM_IMAGE",
+   "herkunft": "racing.com Seidenbild 207595 (Hurricane Harley, Winterbottom Stakes 28.11.2026), Besitzer wie im Feld",
+   "aliase": [
+    "D Gatti, D Gatti Et Al"
+   ],
+   "svg_override": "zeichnungen/racingcom-207595.svg"
   }
  },
  "pferde": {
