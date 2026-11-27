@@ -120061,6 +120061,2996 @@
    "kragen_grund": "#F99F1B",
    "sicher": true,
    "aliase": []
+  },
+  "T K Stuckey, Ms P Yan & Ms S P Yan": {
+   "koerper_grund": "#033558",
+   "koerper_muster": "chevrons",
+   "koerper_zweit": "#99DFF9",
+   "aermel_grund": "#033558",
+   "aermel_muster": "chevrons",
+   "aermel_zweit": "#99DFF9",
+   "beschreibung": "navy, lightblue chevrons, navy and lightblue chevrons sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "M Lanteri & J Lanteri": {
+   "koerper_grund": "#99DFF9",
+   "koerper_muster": "band",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "lightblue, black band, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "P M Humphreys, Mrs K L Humphreys Et Al": {
+   "koerper_grund": "#8CD024",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#8CD024",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#111111",
+   "beschreibung": "lime, black laengsstreifen, lime and black armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Love Racing": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "herz",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "red, white herz, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Teeley Assets Ltd Syndicate": {
+   "koerper_grund": "#FAB23D",
+   "koerper_muster": "kasten",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#8CD024",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "yellow, red kasten, lime and yellow armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Tanma Corporation": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "blue, yellow harlekin, blue and yellow armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mark Dedomenico LLC, Jerry Hollendorfer & George Todaro": {
+   "koerper_grund": "#F89AAA",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#F89AAA",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#176FC1",
+   "koerper_zweit": "#F89AAA",
+   "beschreibung": "pink, pink and blue armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "K Hunt, I Bruce Et Al": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#009160",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "emerald, yellow stern, emerald and yellow armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Narola Stables, Australian Bloodstock Et Al": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "hufeisen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#111111",
+   "beschreibung": "blue, white hufeisen, white and black karo sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mr & Mrs W J Williams": {
+   "koerper_grund": "#3E89D0",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#3E89D0",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#FFF419",
+   "koerper_zweit": "#3E89D0",
+   "beschreibung": "blue, blue and yellow streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs J Magnier, W H Webb Et Al": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "blue, red kreuzband r, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "J Simpson & Mrs J D Simpson": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "rauten",
+   "koerper_zweit": "#F9A6AF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#F9A6AF",
+   "beschreibung": "white, pink rauten, white and pink armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Philip A Sims & Jerry Namy": {
+   "koerper_grund": "#005D31",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FCC829",
+   "aermel_grund": "#005D31",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FCC829",
+   "beschreibung": "darkgreen, yellow scheibe, darkgreen and yellow armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Christopher T Dunn & Loooch Racing Stable Inc": {
+   "koerper_grund": "#59C251",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#59C251",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#176FC1",
+   "koerper_zweit": "#59C251",
+   "beschreibung": "lime, lime and blue armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Dr R Lambe/Merriebelle Irish Farm Ltd": {
+   "koerper_grund": "#5C2C96",
+   "koerper_muster": "kreuz_breit",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#5C2C96",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#5C2C96",
+   "beschreibung": "purple, yellow kreuz breit, purple sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Let's Go Stable": {
+   "koerper_grund": "#B3B5E2",
+   "koerper_muster": "ring",
+   "koerper_zweit": "#5C2C96",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "lilac, purple ring, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Highclere Thoroughbred Racing Australia Ltd": {
+   "koerper_grund": "#33BEF3",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#33BEF3",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#033558",
+   "koerper_zweit": "#33BEF3",
+   "beschreibung": "aqua, aqua and navy armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Kaleem Shah Inc & Fed Biz LLC": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#3E89D0",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#3E89D0",
+   "beschreibung": "white, red laengsstreifen, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Limerick Lane Syndicate": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "karo",
+   "koerper_zweit": "#3E89D0",
+   "aermel_grund": "#009160",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#009160",
+   "beschreibung": "white, blue karo, emerald sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Paul Smith": {
+   "koerper_grund": "#33BEF3",
+   "koerper_muster": "band",
+   "koerper_zweit": "#033558",
+   "aermel_grund": "#033558",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#033558",
+   "beschreibung": "aqua, navy band, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Dr Cyrus Poonawalla & Morgan J Cahalan": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "malteserkreuz",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "red, white malteserkreuz, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Middleham Park Racing XVIII & Partner": {
+   "koerper_grund": "#33BEF3",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FAB23D",
+   "aermel_grund": "#33BEF3",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#33BEF3",
+   "beschreibung": "aqua, yellow epauletten, aqua sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Nancy Favreau, Kathy Psoinos & Michael B Tabor": {
+   "koerper_grund": "#5C2C96",
+   "koerper_muster": "chevrons",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "chevrons",
+   "aermel_zweit": "#5C2C96",
+   "beschreibung": "purple, white chevrons, white and purple chevrons sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Antonino Miuccio": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "dreieck",
+   "koerper_zweit": "#079663",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "chevrons",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "white, emerald dreieck, white and red chevrons sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Magalen O Bryant": {
+   "koerper_grund": "#33BEF3",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#033558",
+   "aermel_grund": "#033558",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#033558",
+   "beschreibung": "aqua, navy kreuzband r, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "G Watts Humphrey Jr & St George Farm Racing Llc": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#009160",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#009160",
+   "beschreibung": "white, emerald harlekin, white and emerald streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Tom Van Meter & Michael Stidham": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "band",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#009160",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "emerald, red band, emerald and red armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Willis D Horton & Three Chimneys Farm LLC": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#111111",
+   "beschreibung": "white, black scheibe, white and black armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs P Gollan, B Siemsen Et Al": {
+   "koerper_grund": "#D9E93C",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "yellow, black laengsstreifen, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "P D L Horwitz, G G B Macdonald Et Al": {
+   "koerper_grund": "#A7A6A6",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFFFFF",
+   "koerper_zweit": "#A7A6A6",
+   "beschreibung": "grey, red and white armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Michael Tabart": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#AA6C2C",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#AA6C2C",
+   "beschreibung": "white, orange saltire, white and orange streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "P & R McClure, F Pollician Et Al": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FCC829",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FCC829",
+   "beschreibung": "blue, yellow stern, blue and yellow sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "G S Heber, Mrs P A Heber Et Al": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "malteserkreuz",
+   "koerper_zweit": "#FBBD1E",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "white, yellow malteserkreuz, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "WinStar Farm LLC & Twin Creeks Racing Stables LLC": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#009160",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, emerald stern, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Ling Chiu Shing & Gary Ling Kay Wai": {
+   "koerper_grund": "#FAB23D",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "yellow, blue epauletten, white and blue manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "S Stiles, B Harper Et Al": {
+   "koerper_grund": "#8CD024",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#8CD024",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#8CD024",
+   "beschreibung": "lime, black laengsstreifen, lime sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "D Puglisi, A Muollo Et Al": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#5C2C96",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, black sterne, purple and white sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mme Anne Dupont": {
+   "koerper_grund": "#40BB6A",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#40BB6A",
+   "koerper_zweit": "#40BB6A",
+   "beschreibung": "green, white and green streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Dr Marwan Koukash": {
+   "koerper_grund": "#A7A6A6",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FDD79D",
+   "aermel_grund": "#A7A6A6",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FDD79D",
+   "beschreibung": "grey, beige stern, grey and beige sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Fred F & William B Bradley et al": {
+   "koerper_grund": "#3E89D0",
+   "koerper_muster": "gespalten",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "blue, red gespalten, white and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Landaluce Educe Stables": {
+   "koerper_grund": "#CF0F3D",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#CF0F3D",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#111111",
+   "beschreibung": "red, black scheibe, red and black armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Godolphin Racing LLC, Lessee": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#176FC1",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "blue, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "W Carson, Miss E Asprey, C Wright": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "blue, yellow streifen, yellow and blue armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Kathy Harty & Mark Dedomenico LLC": {
+   "koerper_grund": "#ED047C",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#083C67",
+   "koerper_zweit": "#ED047C",
+   "beschreibung": "cerise, white and navy armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "G Augustin-Normand & Mme E Vidal": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Comte A De Ganay & C-B Baillet & G Pariente": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FFF419",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "yellow, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "T R G Vestey": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFF419",
+   "koerper_zweit": "#ED1639",
+   "beschreibung": "red, red and yellow armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "J Allen/Mrs J Magnier/M Tabor/D Smith": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#079663",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#079663",
+   "beschreibung": "white, emerald grosskaro, white and emerald streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "HE Sh Joaan Bin Hamad Al Thani": {
+   "koerper_grund": "#A7A6A6",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#ED1C24",
+   "aermel_grund": "#A7A6A6",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#A7A6A6",
+   "beschreibung": "grey, red epauletten, grey sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Michael Tabor, John Magnier & Derrick Smith": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FAB23D",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "blue, yellow scheibe, blue and yellow streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "B Keswick": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#076096",
+   "aermel_grund": "#076096",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#076096",
+   "beschreibung": "white, royal saltire, royal sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Sunrace Stables": {
+   "koerper_grund": "#40C0C6",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FAB23D",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#40C0C6",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "turquoise, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Strawberry Hill Stud": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "blue, white saltire, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs Fitri Hay/Mrs John Magnier": {
+   "koerper_grund": "#FAB3DD",
+   "koerper_muster": "v",
+   "koerper_zweit": "#00A650",
+   "aermel_grund": "#FAB3DD",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#00A650",
+   "beschreibung": "pink, emerald v, pink and emerald quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "K I Farm Corporation": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "band",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "white, blue band, white and blue streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Coolmore, Go Bloodstock Et Al": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#083C67",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#083C67",
+   "aermel_zweit": "#083C67",
+   "beschreibung": "navy, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Rontos Racing Stable Corp": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#ED1639",
+   "koerper_zweit": "#176FC1",
+   "beschreibung": "blue, blue and red manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Susan H Wantz": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "v",
+   "koerper_zweit": "#FEDD0F",
+   "aermel_grund": "#111111",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FEDD0F",
+   "beschreibung": "black, yellow v, black and yellow rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "G Augustin-Normand & H H Sheikh Mohammed Bin Khalifa Al Than": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "GoldMark Farm": {
+   "koerper_grund": "#FFCC40",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFCC40",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFCC40",
+   "beschreibung": "yellow, black scheibe, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Haras Du Quesnay": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#ED1639",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "red, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Estrela Energia, M B Talty Et Al": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#FCC829",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FCC829",
+   "beschreibung": "blue, yellow kreuzband r, blue and yellow sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Qatar Racing Ltd & Newsells Park Stud": {
+   "koerper_grund": "#BD1174",
+   "koerper_muster": "litzen",
+   "koerper_zweit": "#FCC829",
+   "aermel_grund": "#BD1174",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#BD1174",
+   "beschreibung": "cerise, yellow litzen, cerise sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Milburn Creek Thoroughbred Stud": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#AA6C2C",
+   "aermel_grund": "#AA6C2C",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#AA6C2C",
+   "beschreibung": "white, orange grosskaro, orange sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Comte A De Ganay & C-B Baillet": {
+   "koerper_grund": "#FFF200",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFF200",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FFF200",
+   "aermel_zweit": "#FFF200",
+   "beschreibung": "yellow, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "St George Farm Racing LLC (Banwell)": {
+   "koerper_grund": "#033558",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#033558",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#033558",
+   "beschreibung": "navy, red saltire, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Zabeel Racing International, Corp": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "yellow, cerise epauletten, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Cheng Ka Shing": {
+   "koerper_grund": "#FAB23D",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#009160",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#009160",
+   "beschreibung": "yellow, emerald stern, white and emerald sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Strawberry Hill Stud Syndicate": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "blue, white saltire, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Six-S Racing Stable & Nikolas Petralia": {
+   "koerper_grund": "#C8CCD0",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#C8CCD0",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#111111",
+   "koerper_zweit": "#C8CCD0",
+   "beschreibung": "silver, silver and black karo sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Cockatoo Ridge Syndicate": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "yellow, cerise streifen, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Sadamu Onishi": {
+   "koerper_grund": "#40C0C6",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#F9A6AF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#F9A6AF",
+   "beschreibung": "turquoise, pink querstreifen, white and pink armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Stephane Seignoux": {
+   "koerper_grund": "#A7A6A6",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#F89AAA",
+   "aermel_grund": "#F89AAA",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#F89AAA",
+   "beschreibung": "grey, pink scheibe, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "L Baudron & Mlle H Dichamp": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#ED1C24",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, red kreuzband r, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "K Biggs Enterprise Pty Syndicate Et Al": {
+   "koerper_grund": "#3E89D0",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#F9A6AF",
+   "aermel_grund": "#3E89D0",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#F9A6AF",
+   "beschreibung": "blue, pink querstreifen, blue and pink armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Stella Perdomo": {
+   "koerper_grund": "#079663",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#079663",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FCC829",
+   "beschreibung": "emerald, white kreuzband r, emerald and yellow armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Reality Partnerships I": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "yellow, red scheibe, yellow and red sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Michael Beaumont": {
+   "koerper_grund": "#33BEF3",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#33BEF3",
+   "beschreibung": "aqua, white epauletten, white and aqua armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Morgan J Cahalan & Adolf Schneider": {
+   "koerper_grund": "#3E89D0",
+   "koerper_muster": "quer_gespalten",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#3E89D0",
+   "beschreibung": "blue, yellow quer gespalten, yellow and blue quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Middleham Park Racing XVII": {
+   "koerper_grund": "#33BEF3",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FAB23D",
+   "aermel_grund": "#33BEF3",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#33BEF3",
+   "beschreibung": "aqua, yellow epauletten, aqua sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Frank L Jones Jr": {
+   "koerper_grund": "#FAB23D",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FAB23D",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#AA6C2C",
+   "koerper_zweit": "#FAB23D",
+   "beschreibung": "yellow, yellow and orange punkte sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Bluegrass Equine Bloodstock LLC": {
+   "koerper_grund": "#40C0C6",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#C8C7C8",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#40C0C6",
+   "aermel_zweit": "#C8C7C8",
+   "beschreibung": "turquoise, silver sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Ann Black,M Al Qatami & K M Al Mudhaf": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#33BEF3",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, aqua epauletten, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Stonestreet Stables & George Bolton": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#FCC829",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "blue, yellow laengsstreifen, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Glenlogan Park, B Danaher Et Al": {
+   "koerper_grund": "#A80350",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#A80350",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#A80350",
+   "beschreibung": "cerise, white epauletten, cerise sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Miss K Rausing & Mrs J S Bolger": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#079663",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, emerald querstreifen, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Gary & Cecil Barber": {
+   "koerper_grund": "#ED047C",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#ED047C",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#ED047C",
+   "beschreibung": "cerise, black epauletten, cerise sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "D H T Devine, Mrs D M Devine Et Al": {
+   "koerper_grund": "#ED037C",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#ED037C",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#111111",
+   "koerper_zweit": "#ED037C",
+   "beschreibung": "cerise, cerise and black streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Pinnacle Racing Stable & William A Kaplan": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#111111",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "black, red raute, black and red punkte sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Newhaven Park Stud Syndicate": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#59C251",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "black, lime kreuzband r, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Robert Smithen": {
+   "koerper_grund": "#59C251",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#079663",
+   "aermel_grund": "#079663",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#079663",
+   "beschreibung": "lime, emerald kreuzband r, emerald sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Saeed Nasser Al Romaithi": {
+   "koerper_grund": "#ED047C",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#FAB23D",
+   "aermel_grund": "#ED047C",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "cerise, yellow laengsstreifen, cerise and yellow quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Michael Dubb, Bethlehem Stables LLC & Stuart Grant": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#F9A6AF",
+   "koerper_zweit": "#FFF419",
+   "beschreibung": "yellow, yellow and pink manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Team Block": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#079663",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#079663",
+   "beschreibung": "yellow, emerald grosskaro, yellow and emerald streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Lanni Family Trust, Mercedes Stable Et Al": {
+   "koerper_grund": "#3E89D0",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FAB23D",
+   "aermel_grund": "#3E89D0",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "blue, yellow scheibe, blue and yellow streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Helen K Groves": {
+   "koerper_grund": "#841B8F",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#AA6C2C",
+   "aermel_grund": "#841B8F",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#841B8F",
+   "beschreibung": "purple, orange saltire, purple sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Michael Deegan": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#083C67",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#083C67",
+   "beschreibung": "navy, cerise streifen, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "F Thomas Conway & Jack Conway": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#A80350",
+   "beschreibung": "yellow, cerise scheibe, yellow and cerise armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Alex Rankin": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "band",
+   "koerper_zweit": "#005D31",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#005D31",
+   "beschreibung": "white, darkgreen band, white and darkgreen armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Eklektikos Stable LLC": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#111111",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#005D31",
+   "koerper_zweit": "#111111",
+   "beschreibung": "black, black and darkgreen karo sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "R C Strauss": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#005D31",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#005D31",
+   "beschreibung": "white, darkgreen querstreifen, white and darkgreen armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Amy Tarrant": {
+   "koerper_grund": "#FEE3AC",
+   "koerper_muster": "rauten",
+   "koerper_zweit": "#197953",
+   "aermel_grund": "#FEE3AC",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#197953",
+   "beschreibung": "beige, green rauten, beige and green rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "James E & Marilyn Helzer": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#BDD2C7",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#BDD2C7",
+   "beschreibung": "red, white querstreifen, silver sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "E Paul Robsham Stables LLC": {
+   "koerper_grund": "#A80350",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FCC829",
+   "aermel_grund": "#FCC829",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FCC829",
+   "beschreibung": "cerise, yellow scheibe, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs H Steel": {
+   "koerper_grund": "#079663",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FAB23D",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "emerald, white saltire, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "D L Morton, E A Galante et al": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#33BEF3",
+   "koerper_zweit": "#FFF419",
+   "beschreibung": "yellow, yellow and aqua armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "R Pegum, R Willis & M Buys": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#009160",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_zweit": "#009160",
+   "beschreibung": "white, emerald sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Bernard Westley": {
+   "koerper_grund": "#FAB23D",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FAB23D",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#111111",
+   "beschreibung": "yellow, black raute, yellow and black quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "A S Bongiorno & J A Bongiorno": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "white, red laengsstreifen, white and red streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Sullimar Stable": {
+   "koerper_grund": "#3E89D0",
+   "koerper_muster": "joch",
+   "koerper_zweit": "#3E89D0",
+   "aermel_grund": "#3E89D0",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#3E89D0",
+   "beschreibung": "blue, blue joch, blue and blue armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Robert & Loval Yagos": {
+   "koerper_grund": "#5C2C96",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FCC829",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#5C2C96",
+   "aermel_zweit": "#FCC829",
+   "beschreibung": "purple, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Dynamic Syndications, Atomic Syndicate Et Al": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "oval",
+   "koerper_zweit": "#ED1C24",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, red oval, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Leonidas Marinopoulos": {
+   "koerper_grund": "#076096",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#A7A6A6",
+   "aermel_grund": "#076096",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#A7A6A6",
+   "beschreibung": "royal, grey sterne, royal and grey sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "H S N Du Preez, C F Strydom et al": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#083C67",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#083C67",
+   "beschreibung": "navy, yellow punkte gross, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Dato Tan Chin Nam & Tunku Ahmad Yahaya": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "white, black grosskaro, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "G T Ryan, K L Bamford, & Mrs C O Bamford": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#99DFF9",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "white, lightblue streifen, white and red streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs Magnier/M Tabor/D Smith/Sangster Family": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#083C67",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#083C67",
+   "aermel_zweit": "#083C67",
+   "beschreibung": "navy, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Ecurie Jarlan": {
+   "koerper_grund": "#59C251",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#59C251",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "lime, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Pam, Martin & Emily Wygod": {
+   "koerper_grund": "#33BEF3",
+   "koerper_muster": "rauten",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#33BEF3",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "aqua, white rauten, aqua and white rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "G G Syndicate Ltd & O G Glenn": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "yellow, white punkte gross, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Darrell & Evelyn Yates": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#AA6C2C",
+   "koerper_zweit": "#FFFFFF",
+   "beschreibung": "white, white and orange manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Wood Street Syndicate V & C J Harper": {
+   "koerper_grund": "#005D31",
+   "koerper_muster": "band",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#005D31",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "darkgreen, yellow band, darkgreen and yellow armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "R Chotard, B Cadet & A Cadet": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "kasten",
+   "koerper_zweit": "#FAB23D",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "black, yellow kasten, black and yellow armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Douglas Owen McIntyre": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "blue, white epauletten, white and blue armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Rachel Hood and RJH Geffen": {
+   "koerper_grund": "#076096",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "royal, white kreuzband r, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs Magnier/M Tabor/D Smith/Denford Stud": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#083C67",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#083C67",
+   "aermel_zweit": "#083C67",
+   "beschreibung": "navy, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Tight Lines Partnership": {
+   "koerper_grund": "#033558",
+   "koerper_muster": "band",
+   "koerper_zweit": "#FDD79D",
+   "aermel_grund": "#033558",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FDD79D",
+   "beschreibung": "navy, beige band, navy and beige armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Gainesway Farm & Martin L Cherry": {
+   "koerper_grund": "#AA6C2C",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#AA6C2C",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFFFFF",
+   "koerper_zweit": "#AA6C2C",
+   "beschreibung": "orange, orange and white armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "The Calvera Partnership No 2": {
+   "koerper_grund": "#A80350",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#A7A6A6",
+   "aermel_grund": "#A80350",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#A80350",
+   "beschreibung": "cerise, grey raute, cerise sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mathieu Offenstadt": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FFF419",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "yellow, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Southern Equine Stable LLC, M Smith & Whispering Oaks Farm L": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#033558",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, navy harlekin, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "M Tabor/D Smith/Mrs Magnier/Ms Massey": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FAB23D",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "blue, yellow scheibe, blue and yellow streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Equilete Stable": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "chevron",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, cerise chevron, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Dr Stanley Ho Hung Sun": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "quer_gespalten",
+   "koerper_zweit": "#083C67",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#083C67",
+   "beschreibung": "red, navy quer gespalten, red and navy quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Eugene Chuang Yue Chien": {
+   "koerper_grund": "#005D31",
+   "koerper_muster": "chevrons",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#005D31",
+   "aermel_muster": "chevrons",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "darkgreen, red chevrons, darkgreen and red chevrons sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Thomas R McCarthy": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#079663",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, emerald punkte gross, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Nancy Mazzoni": {
+   "koerper_grund": "#2271A4",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#2271A4",
+   "beschreibung": "royal, white scheibe, white and royal armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Jananth Pty Ltd Syndicate": {
+   "koerper_grund": "#5EBC5E",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#643695",
+   "aermel_grund": "#5EBC5E",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#5EBC5E",
+   "beschreibung": "lightgreen, purple harlekin, lightgreen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Robert V LaPenta": {
+   "koerper_grund": "#A80350",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FAB23D",
+   "aermel_grund": "#A80350",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#A80350",
+   "beschreibung": "cerise, yellow epauletten, cerise sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Jacques Detre": {
+   "koerper_grund": "#A80350",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#A7A6A6",
+   "aermel_grund": "#A80350",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#A7A6A6",
+   "beschreibung": "cerise, grey laengsstreifen, cerise and grey streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "El Catorce": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "naht",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "white, blue naht, white and blue rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "IEAH Stables": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "white, blue sterne, white and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Sovereign Stable": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "diagonalstreifen",
+   "aermel_zweit": "#176FC1",
+   "koerper_zweit": "#FFF419",
+   "beschreibung": "yellow, yellow and blue diagonalstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "J Rauch & D Zell": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#009160",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "emerald, white raute, emerald and white streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs Carmen Burrell & Jonathan Harvey": {
+   "koerper_grund": "#A87AC4",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#A87AC4",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#A87AC4",
+   "beschreibung": "mauve, cerise stern, mauve sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Barry Abrams & Madeline Auerbach": {
+   "koerper_grund": "#5C2C96",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#5C2C96",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#5C2C96",
+   "aermel_zweit": "#5C2C96",
+   "beschreibung": "purple, purple sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Strydom, Du Preez, Houdalakis, Boyens": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#083C67",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#083C67",
+   "beschreibung": "navy, yellow punkte gross, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "M A Pitt": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#079663",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#079663",
+   "beschreibung": "red, white kreuzband r, emerald sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "R A Green": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Ecurie Vallee Martigny & Mme L Rabineau": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#F9A6AF",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#009160",
+   "aermel_zweit": "#F9A6AF",
+   "beschreibung": "emerald, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Leung Chung Shan": {
+   "koerper_grund": "#3E89D0",
+   "koerper_muster": "band",
+   "koerper_zweit": "#FAB23D",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "blue, yellow band, white and yellow sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "P F Radford, Mrs R N Lawrie et al": {
+   "koerper_grund": "#5C2C96",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#59C251",
+   "aermel_grund": "#5C2C96",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#59C251",
+   "beschreibung": "purple, lime sterne, purple and lime sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Eric Fein & Vic Carlson": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "blue, white scheibe, white and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "B Brown & G Nicholson": {
+   "koerper_grund": "#A80350",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#F9A6AF",
+   "aermel_grund": "#F9A6AF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#A80350",
+   "beschreibung": "cerise, pink harlekin, pink and cerise armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "L & M Partners LLC": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "v",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "yellow, cerise v, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "P, C, T & A Nehmy & Dr B Kardachi": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#083C67",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#083C67",
+   "beschreibung": "navy, white punkte gross, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Scott Richardson Bloodstock Ltd": {
+   "koerper_grund": "#F9A6AF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#F9A6AF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#A7A6A6",
+   "koerper_zweit": "#F9A6AF",
+   "beschreibung": "pink, pink and grey armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "P Devitt, L Gordon & D Hayes": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "diagonalstreifen",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "red, blue diagonalstreifen, red and blue streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "David Pong Chun Yee": {
+   "koerper_grund": "#33BEF3",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#33BEF3",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "aqua, yellow stern, aqua and yellow quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Jeff Harmon & Tim Kasparoff": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#F9C62A",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "navy, yellow raute, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "H Downs": {
+   "koerper_grund": "#A80350",
+   "koerper_muster": "quartiert",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#33BEF3",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#33BEF3",
+   "beschreibung": "cerise, white quartiert, aqua sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "C R Cono LLC": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#5C2C96",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "red, purple streifen, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "R Plersch & P Walichnowski": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#111111",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFF419",
+   "koerper_zweit": "#FFFFFF",
+   "beschreibung": "white, black and yellow sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mark T Gittins": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "v",
+   "koerper_zweit": "#079663",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#079663",
+   "beschreibung": "blue, emerald v, blue and emerald armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "R J Frankel": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "diagonalstreifen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, black diagonalstreifen, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Melnyk Racing Stables Inc": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "chevrons",
+   "koerper_zweit": "#FCC829",
+   "aermel_grund": "#FCC829",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "blue, yellow chevrons, yellow and blue armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Cuadra Miranda S.L.U": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "blue, red epauletten, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Stonerside Stable LLC": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "v",
+   "koerper_zweit": "#005D31",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#005D31",
+   "beschreibung": "white, darkgreen v, white and darkgreen manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Stonestreet Stables LLC & Midnight Cry Stables": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "v",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#A80350",
+   "beschreibung": "yellow, cerise v, yellow and cerise streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Tucci Stables": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "rauten",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "black, red rauten, black sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs J S Bolger & John Corcoran": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#5C2C96",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, purple streifen, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "IEAH Stables & P Pompa Jr": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#ED183B",
+   "beschreibung": "white, blue sterne, white and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Highbank Syndicate": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#005D31",
+   "aermel_grund": "#005D31",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, darkgreen grosskaro, darkgreen and white armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Waterford Stable": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "blue, white scheibe, white and blue streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Papal Bull Syndicate": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#FDD79D",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "red, beige saltire, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "B Headley & I Molasky": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Lewis G Lakin IEAH Stable & Pegasus Holding Group": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#3E89D0",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "white, blue sterne, white and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Zabeel Racing International": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "yellow, cerise epauletten, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "David & Jill Heerensperger": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#FAB23D",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "white, yellow querstreifen, white and yellow armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Stall Avena": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#FFF419",
+   "koerper_zweit": "#ED1639",
+   "beschreibung": "red, red and yellow streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Stonerside Stable": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "v",
+   "koerper_zweit": "#009160",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#009160",
+   "beschreibung": "white, emerald v, white and emerald manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "IEAH Stables & Winstar Farm LLC": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "white, blue sterne, white and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "M Shirtliff,E Braun, P Loomes, S Marcus": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "quer_gespalten",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#F9A6AF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#F9A6AF",
+   "beschreibung": "white, blue quer gespalten, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "L Cohen & W V Rippon": {
+   "koerper_grund": "#AA6C2C",
+   "koerper_muster": "streifen_breit",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "orange, white streifen breit, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Paul P Pompa Jr": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "ring",
+   "koerper_zweit": "#1A7A54",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "white, green ring, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "James T Scatuorchio": {
+   "koerper_grund": "#33BEF3",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#FDD79D",
+   "aermel_grund": "#33BEF3",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FDD79D",
+   "beschreibung": "aqua, beige harlekin, aqua and beige rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Hal J Earnhardt III": {
+   "koerper_grund": "#3E89D0",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#3E89D0",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFF419",
+   "koerper_zweit": "#3E89D0",
+   "beschreibung": "blue, blue and yellow armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "StoneStreet & Padua & G Bolton": {
+   "koerper_grund": "#3E89D0",
+   "koerper_muster": "dreieck",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#3E89D0",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#3E89D0",
+   "beschreibung": "blue, black dreieck, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mme B Jenney": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#33BEF3",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "emerald, aqua saltire, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Edward James Sukley": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FCC829",
+   "koerper_zweit": "#176FC1",
+   "beschreibung": "blue, blue and yellow armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Joseph Lacombe Stables Inc": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#D5832A",
+   "aermel_grund": "#083C67",
+   "aermel_muster": "chevrons",
+   "aermel_zweit": "#D5832A",
+   "beschreibung": "navy, orange raute, navy and orange chevrons sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "James B Tafel": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "yellow, blue saltire, yellow and blue armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Peter Onslow & Ian Henderson": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "black, white scheibe, black sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Starlight Stables & D Lucarelli": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "ring",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "blue, yellow ring, blue and yellow rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Stall Kaiserberg": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "black, white streifen, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Anthony Forde": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "blue, yellow grosskaro, blue and yellow armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Scuderia Millenium": {
+   "koerper_grund": "#BDD2C7",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#005D31",
+   "aermel_grund": "#BDD2C7",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#005D31",
+   "beschreibung": "silver, darkgreen harlekin, silver and darkgreen rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Exors of the late Chow Nam & Raymond Gianco": {
+   "koerper_grund": "#794477",
+   "koerper_muster": "quer_gespalten",
+   "koerper_zweit": "#FEE3AC",
+   "aermel_grund": "#FEE3AC",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#794477",
+   "beschreibung": "purple, beige quer gespalten, beige and purple armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "G K V Holdings Ltd & Kenamon Trust": {
+   "koerper_grund": "#99DFF9",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#99DFF9",
+   "aermel_zweit": "#111111",
+   "beschreibung": "lightblue, black sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Tony Lam Kai To & John Chan Siu Tan": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "quer_gespalten",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#59C251",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#59C251",
+   "beschreibung": "red, blue quer gespalten, lime sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "James Atkinson & Peter Walichnowski": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#111111",
+   "koerper_zweit": "#FFFFFF",
+   "beschreibung": "white, white and black karo sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "S Smith": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "black, yellow saltire, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Anstu Stables Inc": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "black, white raute, black sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Monceaux Stable": {
+   "koerper_grund": "#F9A6AF",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#F9A6AF",
+   "aermel_muster": "chevrons",
+   "aermel_zweit": "#111111",
+   "beschreibung": "pink, black grosskaro, pink and black chevrons sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs J Magnier,M Tabor,F Salman": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#083C67",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#083C67",
+   "aermel_zweit": "#083C67",
+   "beschreibung": "navy, navy sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Silverleaf Farm": {
+   "koerper_grund": "#BDD2C7",
+   "koerper_muster": "chevrons",
+   "koerper_zweit": "#59C251",
+   "aermel_grund": "#BDD2C7",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#59C251",
+   "beschreibung": "silver, lime chevrons, silver and lime quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Duddy McDonald Heeney IrishNationalStud": {
+   "koerper_grund": "#F9A6AF",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#079663",
+   "aermel_grund": "#F9A6AF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#079663",
+   "beschreibung": "pink, emerald saltire, pink and emerald armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Michael Hill": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "kreuz_breit",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "blue, white kreuz breit, blue and white armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Millennium Farms": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#FCC829",
+   "aermel_grund": "#009160",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#FCC829",
+   "beschreibung": "emerald, yellow raute, emerald and yellow manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Gainsborough Stud": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "v",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "blue, white v, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "W J P Jackson": {
+   "koerper_grund": "#0A578F",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#33BEF3",
+   "aermel_grund": "#33BEF3",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#0A578F",
+   "beschreibung": "royal, aqua stern, aqua and royal quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Stonecrest Farm": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "emerald, white punkte gross, blue and white punkte sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Buckram Oak Farm": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#009160",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#ED1639",
+   "koerper_zweit": "#009160",
+   "beschreibung": "emerald, emerald and red armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Gainsborough Stud Management Ltd": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "v",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "blue, white v, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Sh Mohd Bin Khalifa Al Maktoum & Vinery Stud": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "v",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "yellow, blue v, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Cecil N Peacock": {
+   "koerper_grund": "#40C0C6",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#40C0C6",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#40C0C6",
+   "aermel_zweit": "#40C0C6",
+   "beschreibung": "turquoise, turquoise sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Stan E Fulton": {
+   "koerper_grund": "#59C251",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#3E89D0",
+   "aermel_grund": "#59C251",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#59C251",
+   "beschreibung": "lime, blue scheibe, lime sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Homewrecker Racing LLC": {
+   "koerper_grund": "#5C2C96",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#59C251",
+   "aermel_grund": "#5C2C96",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "purple, lime kreuzband r, purple and yellow rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Guy And Alexander Carstairs": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "kreuz_breit",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, blue kreuz breit, blue and white quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mr & Mrs Kam Shing Kan": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#59C251",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#59C251",
+   "beschreibung": "blue, lime sterne, blue and lime armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Lam Yin Kee": {
+   "koerper_grund": "#8CD024",
+   "koerper_muster": "quer_gespalten",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#33BEF3",
+   "beschreibung": "lime, yellow quer gespalten, yellow and aqua armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs Kumiko Osako": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "zackenjoch",
+   "koerper_zweit": "#009160",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#009160",
+   "beschreibung": "yellow, emerald zackenjoch, yellow and emerald armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Beverly & Robert Lewis": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#009160",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "yellow, emerald querstreifen, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "JRepard,FMelrose,OPawle,MStokes,RBlack": {
+   "koerper_grund": "#005D31",
+   "koerper_muster": "band",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#005D31",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "darkgreen, yellow band, darkgreen and yellow armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "So Madcapt Stable": {
+   "koerper_grund": "#3E89D0",
+   "koerper_muster": "band",
+   "koerper_zweit": "#69396A",
+   "aermel_grund": "#69396A",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#69396A",
+   "beschreibung": "blue, purple band, purple sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "J Duddy & B McDonald": {
+   "koerper_grund": "#F9A6AF",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#079663",
+   "aermel_grund": "#F9A6AF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#079663",
+   "beschreibung": "pink, emerald saltire, pink and emerald armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "N & Mrs A Vass & Pongrass Bloodstock": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "hufeisen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "black, white hufeisen, black and white armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "The Australian Syndicate": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "v",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "navy, white v, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Stonerside Stable & Blazing Meadows Farm": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "v",
+   "koerper_zweit": "#005D31",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#005D31",
+   "beschreibung": "white, darkgreen v, white and darkgreen manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Flying Tiger Partnership": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "dreieck",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "red, yellow dreieck, red and yellow quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Jay Manoogian": {
+   "koerper_grund": "#5C2C96",
+   "koerper_muster": "gespalten",
+   "koerper_zweit": "#FCC829",
+   "aermel_grund": "#5C2C96",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#FCC829",
+   "beschreibung": "purple, yellow gespalten, purple and yellow karo sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "The Pursuits & National Stud Partnership": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#ED047C",
+   "aermel_grund": "#ED047C",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#ED047C",
+   "beschreibung": "blue, cerise punkte gross, cerise sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Irving & Marjorie Cowan": {
+   "koerper_grund": "#0A578F",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "royal, red scheibe, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Starlight Stables & P Saylor & J Martin": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "ring",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "blue, yellow ring, blue and yellow rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Hussain Nasser Abdullah Lootah": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#009160",
+   "beschreibung": "emerald, white kreuzband r, white and emerald armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Exors of the late Alan F S Li": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#009160",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#111111",
+   "koerper_zweit": "#ED1639",
+   "beschreibung": "red, emerald and black armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "M Tabor & D Smith": {
+   "koerper_grund": "#5C2C96",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#5C2C96",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#5C2C96",
+   "aermel_zweit": "#5C2C96",
+   "beschreibung": "purple, purple sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Anthony Cheung Hin Shun & P J Keller": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "kreuz_breit",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "white, red kreuz breit, white and red sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Lyraa Ng Yin Mui": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#111111",
+   "beschreibung": "red, black kreuzband r, white and black armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Gowin Chan Sin Tseng & Ringo Ng Yiu Kwok": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "yellow, red stern, yellow and red karo sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "H Yamaji": {
+   "koerper_grund": "#F9A6AF",
+   "koerper_muster": "zickzackband",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#F9A6AF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "pink, blue zickzackband, pink and blue armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Eugene & Laura Melnyk": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "chevrons",
+   "koerper_zweit": "#FCC829",
+   "aermel_grund": "#FCC829",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#083C67",
+   "beschreibung": "navy, yellow chevrons, yellow and navy armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Richard Englander": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#A7A6A6",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#A7A6A6",
+   "beschreibung": "emerald, white raute, grey sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Legard Sidebottom & Sykes": {
+   "koerper_grund": "#083C67",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#083C67",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FDD79D",
+   "koerper_zweit": "#083C67",
+   "beschreibung": "navy, navy and beige armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Roland Monnier": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#5C2C96",
+   "aermel_grund": "#009160",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#009160",
+   "beschreibung": "emerald, purple saltire, emerald sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs Gay Smith": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#B3B5E2",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#B3B5E2",
+   "beschreibung": "white, lilac sterne, white and lilac sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Jonathan Gill": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "band",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "red, yellow band, yellow and red quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Pepsi Syndicate": {
+   "koerper_grund": "#079663",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FCC829",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FCC829",
+   "beschreibung": "emerald, white kreuzband r, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Exors of the late Duke of Devonshire": {
+   "koerper_grund": "#FDD764",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FDD764",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FDD764",
+   "aermel_zweit": "#FDD764",
+   "beschreibung": "yellow, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Lo Ying Bin": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#F9A6AF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "red, yellow sterne, pink and red sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Steve Taub": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#ED047C",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#111111",
+   "aermel_zweit": "#ED047C",
+   "beschreibung": "black, cerise sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Frau Carde Ostermann-Richter": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#3E89D0",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#3E89D0",
+   "beschreibung": "white, blue streifen, white and blue armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Ambrose Turnbull Associates": {
+   "koerper_grund": "#A7A6A6",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "grey, red stern, red and yellow armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Thomas F Van Meter II": {
+   "koerper_grund": "#079663",
+   "koerper_muster": "band",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#079663",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "emerald, red band, emerald and red armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "D C Ellis et al": {
+   "koerper_grund": "#F35C19",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#F35C19",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "orange, blue sterne, orange and blue streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Select Stable": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FFFFFF",
+   "koerper_zweit": "#111111",
+   "beschreibung": "black, black and white armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Sanford R Robertson": {
+   "koerper_grund": "#FAB23D",
+   "koerper_muster": "band",
+   "koerper_zweit": "#AA6C2C",
+   "aermel_grund": "#FAB23D",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "yellow, orange band, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mountain High Partnership": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, black sterne, black and white quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Speedlith Group": {
+   "koerper_grund": "#3E89D0",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#3E89D0",
+   "beschreibung": "blue, red stern, red and blue sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Patrick J O'Donovan": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#0A578F",
+   "koerper_zweit": "#FFFFFF",
+   "beschreibung": "white, black and royal armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "J T & K M Thomas": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#841B8F",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#841B8F",
+   "beschreibung": "white, red querstreifen, purple sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Peter Gleeson, Julian Smith, Loz Conway": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#33BEF3",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#33BEF3",
+   "beschreibung": "blue, aqua sterne, white and aqua sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Team Valor, Winstar Farm & Sunmark Partners": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "v",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#009160",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#009160",
+   "beschreibung": "emerald, red v, emerald sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "S M R M": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#A80350",
+   "beschreibung": "white, cerise laengsstreifen, white and cerise armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Old Friends Inc, Winner Silk Inc et al": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#005D31",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "yellow, darkgreen saltire, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Amherst Stable & Spruce Pond Stable": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#F9A6AF",
+   "aermel_muster": "karo",
+   "aermel_zweit": "#176FC1",
+   "koerper_zweit": "#176FC1",
+   "beschreibung": "blue, pink and blue karo sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs A Head": {
+   "koerper_grund": "#FDD79D",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FDD79D",
+   "aermel_zweit": "#111111",
+   "beschreibung": "beige, black sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "D Borislow": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#176FC1",
+   "koerper_zweit": "#176FC1",
+   "beschreibung": "blue, red and blue armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Starlight Stable": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FFF419",
+   "koerper_zweit": "#176FC1",
+   "beschreibung": "blue, blue and yellow rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "6c Racing Ltd": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "v",
+   "koerper_zweit": "#3E89D0",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, blue v, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Thurloe T'breds V & Cheveley Park Stud": {
+   "koerper_grund": "#079663",
+   "koerper_muster": "streifen",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#079663",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#079663",
+   "beschreibung": "emerald, yellow streifen, emerald sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Sir Alex Ferguson & Mrs John Magnier": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFFFFF",
+   "koerper_zweit": "#ED1639",
+   "beschreibung": "red, red and white sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Gerald W Leigh - Cancerbacup": {
+   "koerper_grund": "#AA6C2C",
+   "koerper_muster": "chevrons",
+   "koerper_zweit": "#FDD79D",
+   "aermel_grund": "#AA6C2C",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#AA6C2C",
+   "beschreibung": "orange, beige chevrons, orange sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Tuesday Club Syndicate": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "v",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#005D31",
+   "aermel_muster": "chevrons",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "emerald, yellow v, darkgreen and yellow chevrons sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Nelson Bunker Hunt": {
+   "koerper_grund": "#59C251",
+   "koerper_muster": "grosskaro",
+   "koerper_zweit": "#005D31",
+   "aermel_grund": "#59C251",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#59C251",
+   "beschreibung": "lime, darkgreen grosskaro, lime sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "The Gurry Family & A S & J A Bongiorno": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "lilie",
+   "koerper_zweit": "#616B33",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "black, olive lilie, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mme H Devin & Mme B Ashbrooke": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "raute",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#111111",
+   "beschreibung": "white, black raute, white and black streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "K L Blackmore & D G Canny Et Al": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "lilie",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "streifen",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "white, red lilie, white and red streifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Ecurie Vallin": {
+   "koerper_grund": "#FDD79D",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FDD79D",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FDD79D",
+   "aermel_zweit": "#FDD79D",
+   "beschreibung": "beige, beige sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "D S Milch": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "white, red harlekin, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Gary Seidler & Andy J Smith": {
+   "koerper_grund": "#005D31",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#005D31",
+   "aermel_muster": "diagonalstreifen",
+   "aermel_zweit": "#FDD79D",
+   "koerper_zweit": "#005D31",
+   "beschreibung": "darkgreen, darkgreen and beige diagonalstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Round Table Syndicate": {
+   "koerper_grund": "#079663",
+   "koerper_muster": "kreuzband_r",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "emerald, white kreuzband r, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Athos Christodoulou": {
+   "koerper_grund": "#FAB23D",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#A80350",
+   "aermel_grund": "#FAB23D",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "yellow, cerise scheibe, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Derrick C Broomfield": {
+   "koerper_grund": "#F9A6AF",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#F9A6AF",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#111111",
+   "koerper_zweit": "#F9A6AF",
+   "beschreibung": "pink, pink and black rauten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "C Bowling & C Thompson& Kathy Jo Stable": {
+   "koerper_grund": "#A80350",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#A80350",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "cerise, white harlekin, cerise and white manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Centaur Farms Inc": {
+   "koerper_grund": "#99DFF9",
+   "koerper_muster": "zwei_baender",
+   "koerper_zweit": "#176FC1",
+   "aermel_grund": "#99DFF9",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "lightblue, blue zwei baender, lightblue and blue armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Lord Weinstock": {
+   "koerper_grund": "#D3F1FD",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#D3F1FD",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#D3F1FD",
+   "aermel_zweit": "#D3F1FD",
+   "beschreibung": "white, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Jeffen Racing": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#A7A6A6",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#A7A6A6",
+   "beschreibung": "red, grey epauletten, red and grey armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Michael Pescod": {
+   "koerper_grund": "#33BEF3",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#111111",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#111111",
+   "beschreibung": "aqua, black laengsstreifen, black sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Exors Of The Late M W Jenney": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "saltire",
+   "koerper_zweit": "#33BEF3",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "emerald, aqua saltire, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Vhw Stables": {
+   "koerper_grund": "#A80350",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#A80350",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "cerise, white scheibe, cerise and white armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "J A Anderson & P H Butts Et Al": {
+   "koerper_grund": "#009160",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FAB23D",
+   "koerper_zweit": "#009160",
+   "beschreibung": "emerald, white and yellow armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mrs Joan Keaney": {
+   "koerper_grund": "#BDD2C7",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#BDD2C7",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "silver, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Mme M-S Vidal": {
+   "koerper_grund": "#176FC1",
+   "koerper_muster": "scheibe",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#176FC1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#176FC1",
+   "beschreibung": "blue, white scheibe, blue sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "L Neil Jones": {
+   "koerper_grund": "#B3B2B2",
+   "koerper_muster": "kreuz_breit",
+   "koerper_zweit": "#E4022D",
+   "aermel_grund": "#B3B2B2",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#E4022D",
+   "beschreibung": "grey, red kreuz breit, grey and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Jeanne G Vance": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "harlekin",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#ED1639",
+   "beschreibung": "black, white harlekin, black and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Girsonfield Ltd": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#A7A6A6",
+   "aermel_grund": "#A7A6A6",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#A7A6A6",
+   "beschreibung": "red, grey laengsstreifen, grey sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Tonkin Racing": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "red, black querstreifen, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Golden Eagle Farm": {
+   "koerper_grund": "#A80350",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FCC829",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#A80350",
+   "aermel_zweit": "#FCC829",
+   "beschreibung": "cerise, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
   }
  },
  "pferde": {
