@@ -120036,6 +120036,31 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "red, blue laengsstreifen, white sleeves",
    "status": "DRAWN_FROM_IMAGE"
+  },
+  "S Wolfe, R Webb Et Al": {
+   "beschreibung": "Red, white inverted chevron, white sleeves, red stars",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#E81C23",
+   "koerper_muster": "spitze_oben",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "drei_armsterne",
+   "aermel_zweit": "#E81C23",
+   "kragen_grund": "#E81C23",
+   "sicher": true,
+   "aliase": []
+  },
+  "Corumbene Stud Pty Ltd": {
+   "beschreibung": "Orange, brown spots, white sleeves",
+   "status": "DRAWN_FROM_IMAGE",
+   "koerper_grund": "#F99F1B",
+   "koerper_muster": "fuenf_punkte",
+   "koerper_zweit": "#AF721D",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "kragen_grund": "#F99F1B",
+   "sicher": true,
+   "aliase": []
   }
  },
  "pferde": {
