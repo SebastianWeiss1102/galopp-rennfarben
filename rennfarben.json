@@ -131233,16 +131233,6 @@
    "beschreibung": "yellow, emerald zackenjoch, yellow and emerald armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE"
   },
-  "Masatake Iide": {
-   "koerper_grund": "#FFFF00",
-   "koerper_muster": "ring",
-   "koerper_zweit": "#111111",
-   "aermel_grund": "#FFFF00",
-   "aermel_muster": "einfarbig",
-   "aermel_zweit": "#FFFF00",
-   "beschreibung": "yellow, black ring, yellow sleeves",
-   "status": "DRAWN_FROM_IMAGE"
-  },
   "Daiwa Shoji K": {
    "koerper_grund": "#1544FF",
    "koerper_muster": "band",
@@ -131331,16 +131321,6 @@
    "aermel_muster": "armringe",
    "aermel_zweit": "#A7CDEB",
    "beschreibung": "yellow, emerald kreuzband, yellow and lightblue armringe sleeves",
-   "status": "DRAWN_FROM_IMAGE"
-  },
-  "Keiko Ueda": {
-   "koerper_grund": "#009940",
-   "koerper_muster": "ring",
-   "koerper_zweit": "#D2190A",
-   "aermel_grund": "#009940",
-   "aermel_muster": "ring",
-   "aermel_zweit": "#D2190A",
-   "beschreibung": "emerald, red ring, emerald and red ring sleeves",
    "status": "DRAWN_FROM_IMAGE"
   },
   "Nagai Shoji": {
