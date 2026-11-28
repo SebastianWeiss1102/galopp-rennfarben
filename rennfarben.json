@@ -131182,6 +131182,256 @@
    "koerper_zweit": "#FA0017",
    "beschreibung": "red, red and yellow armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE"
+  },
+  "Minoru Ikeda": {
+   "koerper_grund": "#F260F7",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#903A90",
+   "aermel_grund": "#00CC55",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#903A90",
+   "beschreibung": "lilac, violet kreuzband, emerald and violet armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Y Asakawa": {
+   "koerper_grund": "#00913D",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#1544FF",
+   "aermel_muster": "punkte",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "emerald, white punkte gross, blue and white punkte sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Kazue Kitamura": {
+   "koerper_grund": "#6B26BE",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#FFFF00",
+   "aermel_grund": "#C18C8F",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#C18C8F",
+   "beschreibung": "violet, yellow punkte gross, tan sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Bamboo Stud Co Ltd": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "black, white querstreifen, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Shinobu Oosako": {
+   "koerper_grund": "#FFFF00",
+   "koerper_muster": "zackenjoch",
+   "koerper_zweit": "#00CC55",
+   "aermel_grund": "#FFFF00",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#00CC55",
+   "beschreibung": "yellow, emerald zackenjoch, yellow and emerald armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Masatake Iide": {
+   "koerper_grund": "#FFFF00",
+   "koerper_muster": "ring",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFF00",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFF00",
+   "beschreibung": "yellow, black ring, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Daiwa Shoji K": {
+   "koerper_grund": "#1544FF",
+   "koerper_muster": "band",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "blue, white band, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Takao Tsuruta": {
+   "koerper_grund": "#6C27BF",
+   "koerper_muster": "zickzackband",
+   "koerper_zweit": "#FFFF00",
+   "aermel_grund": "#E15AE1",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#E15AE1",
+   "beschreibung": "violet, yellow zickzackband, mauve sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "S Shimizu": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "zackenjoch",
+   "koerper_zweit": "#FF0000",
+   "aermel_grund": "#1544FF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FF0000",
+   "beschreibung": "white, red zackenjoch, blue and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Yuichi Odagiri": {
+   "koerper_grund": "#00963F",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FF0000",
+   "beschreibung": "emerald, white punkte gross, white and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Maekawa Kikaku Co Ltd": {
+   "koerper_grund": "#077A37",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#BE80D4",
+   "aermel_grund": "#077A37",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#BE80D4",
+   "beschreibung": "darkgreen, lilac laengsstreifen, darkgreen and lilac armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "M Tosa": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#B01040",
+   "aermel_grund": "#B01040",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#B01040",
+   "beschreibung": "white, red kreuzband, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Yoshinori Ota": {
+   "koerper_grund": "#FF0000",
+   "koerper_muster": "band",
+   "koerper_zweit": "#5FA4CD",
+   "aermel_grund": "#FF0000",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#FFFF00",
+   "beschreibung": "red, aqua band, red and yellow aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Takao Otani": {
+   "koerper_grund": "#EF5FEF",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#EF5FEF",
+   "beschreibung": "pink, black laengsstreifen, white and pink armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Tetsu Takashima": {
+   "koerper_grund": "#FFFF00",
+   "koerper_muster": "kreuzband",
+   "koerper_zweit": "#00CC55",
+   "aermel_grund": "#FFFF00",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#A7CDEB",
+   "beschreibung": "yellow, emerald kreuzband, yellow and lightblue armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Keiko Ueda": {
+   "koerper_grund": "#009940",
+   "koerper_muster": "ring",
+   "koerper_zweit": "#D2190A",
+   "aermel_grund": "#009940",
+   "aermel_muster": "ring",
+   "aermel_zweit": "#D2190A",
+   "beschreibung": "emerald, red ring, emerald and red ring sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Nagai Shoji": {
+   "koerper_grund": "#1544FF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#1544FF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "blue, white sterne, blue and white sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Keiichi Yamagishi": {
+   "koerper_grund": "#1544FF",
+   "koerper_muster": "sterne",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#1544FF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FF0000",
+   "beschreibung": "blue, white sterne, blue and red armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Yoshiko Tanaka": {
+   "koerper_grund": "#01AA48",
+   "koerper_muster": "laengsstreifen",
+   "koerper_zweit": "#D676E3",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#D676E3",
+   "beschreibung": "emerald, lilac laengsstreifen, white and lilac armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Hyakutaro Kobayashi": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "punkte_gross",
+   "koerper_zweit": "#00CC55",
+   "aermel_grund": "#D2F624",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#00CC55",
+   "beschreibung": "white, emerald punkte gross, yellow and emerald aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Yosimi Ota": {
+   "koerper_grund": "#FF0000",
+   "koerper_muster": "band",
+   "koerper_zweit": "#5FA4CD",
+   "aermel_grund": "#FF0000",
+   "aermel_muster": "aermelstreifen",
+   "aermel_zweit": "#FFFF00",
+   "beschreibung": "red, aqua band, red and yellow aermelstreifen sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Koichi Yabe": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "zickzackband",
+   "koerper_zweit": "#111111",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armringe",
+   "aermel_zweit": "#FF0000",
+   "beschreibung": "white, black zickzackband, white and red armringe sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Kobayashi Eiichi Holdings LLC": {
+   "koerper_grund": "#FF0000",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FF0000",
+   "koerper_zweit": "#FF0000",
+   "beschreibung": "red, white and red armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Kaname Ishiro": {
+   "koerper_grund": "#B01040",
+   "koerper_muster": "band",
+   "koerper_zweit": "#FFFF00",
+   "aermel_grund": "#B01040",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#B01040",
+   "beschreibung": "red, yellow band, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Kazumasa Yamada": {
+   "koerper_grund": "#FFFF00",
+   "koerper_muster": "zackenjoch",
+   "koerper_zweit": "#1544FF",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "yellow, blue zackenjoch, white sleeves",
+   "status": "DRAWN_FROM_IMAGE"
   }
  },
  "pferde": {
