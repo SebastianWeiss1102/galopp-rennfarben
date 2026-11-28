@@ -43714,13 +43714,13 @@
    ]
   },
   "N C Williams, L J Williams Et Al": {
-   "beschreibung": "Royal blue, white armbands",
+   "beschreibung": "navy, navy and white armbinde sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "koerper_grund": "#1F5BB0",
+   "koerper_grund": "#003C5E",
    "koerper_muster": "einfarbig",
-   "koerper_zweit": null,
-   "aermel_grund": "#1F5BB0",
-   "aermel_muster": "band",
+   "koerper_zweit": "#003C5E",
+   "aermel_grund": "#003C5E",
+   "aermel_muster": "armbinde",
    "aermel_zweit": "#FFFFFF",
    "sicher": true,
    "aliase": [
@@ -103383,15 +103383,16 @@
    ]
   },
   "Three H Racing Co Ltd": {
-   "beschreibung": "Pink, blue sash, white sleeves",
+   "beschreibung": "pink, blue kreuzband r, white sleeves",
    "status": "DRAWN_FROM_IMAGE",
-   "koerper_grund": "#F0C8C8",
+   "koerper_grund": "#F9A6AF",
    "koerper_muster": "kreuzband_r",
-   "koerper_zweit": "#4E50A0",
+   "koerper_zweit": "#176FC1",
    "aermel_grund": "#FFFFFF",
    "aermel_muster": "einfarbig",
    "sicher": true,
-   "aliase": []
+   "aliase": [],
+   "aermel_zweit": "#FFFFFF"
   },
   "Rabbah Bloodstock": {
    "beschreibung": "Emerald green and yellow stripes",
@@ -131080,6 +131081,66 @@
    "aermel_muster": "einfarbig",
    "aermel_zweit": "#F9A6AF",
    "beschreibung": "pink, black band, pink sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "L William & Corinne Heiligbrodt, Jackpot Farm & Whispering Oaks Farm": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#DA8D2C",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#DA8D2C",
+   "beschreibung": "white, gold stern, white and gold armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Wonderland Racing Stables, Todd Cady, Tim Kasparoff & Ty Leatherman": {
+   "koerper_grund": "#A0C012",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#A0C012",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#A0C012",
+   "aermel_zweit": "#A0C012",
+   "beschreibung": "lime, lime sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "A Cummings Thoroughbreds, J W, R P M & P J M Kelly Et Al": {
+   "koerper_grund": "#FFF419",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#ED1639",
+   "aermel_grund": "#FFF419",
+   "aermel_muster": "einfarbig",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "yellow, red epauletten, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Newgate Sf, C C Pickford, M D Skinner, M J Davidson, C Lamond, J A Wilson, G O T G Racing, L Myers, S A Aboud, M Barakat, M J Blundell, S A Tilley, M Pond, K Wilson, China Horse Club Racing Pty Ltd, Horse Ventures, Go Bloodstock Australia, Grant Lowe Bloodstock, M D Shaw & Corumbene Asco Hamman": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#66CEF6",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#DD1737",
+   "beschreibung": "white, aqua querstreifen, white and red sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "LNJ Foxwoods": {
+   "koerper_grund": "#033558",
+   "koerper_muster": "v",
+   "koerper_zweit": "#FFF419",
+   "aermel_grund": "#033558",
+   "aermel_muster": "sterne",
+   "aermel_zweit": "#FFF419",
+   "beschreibung": "navy, yellow v, navy and yellow sterne sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "M P Sherrin": {
+   "koerper_grund": "#ED1639",
+   "koerper_muster": "querstreifen",
+   "koerper_zweit": "#FAB23D",
+   "aermel_grund": "#ED1639",
+   "aermel_muster": "rauten",
+   "aermel_zweit": "#FAB23D",
+   "beschreibung": "red, yellow querstreifen, red and yellow rauten sleeves",
    "status": "DRAWN_FROM_IMAGE"
   }
  },
