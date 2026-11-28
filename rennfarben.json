@@ -131412,6 +131412,26 @@
    "aermel_zweit": "#FFFFFF",
    "beschreibung": "yellow, blue zackenjoch, white sleeves",
    "status": "DRAWN_FROM_IMAGE"
+  },
+  "B Peters [racing.com 211229]": {
+   "koerper_grund": "#111111",
+   "koerper_muster": "epauletten",
+   "koerper_zweit": "#FFFFFF",
+   "aermel_grund": "#111111",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#FFFFFF",
+   "beschreibung": "black, white epauletten, black and white manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "S Stafford [racing.com 6899]": {
+   "koerper_grund": "#ECDA00",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#ECDA00",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#ECDA00",
+   "aermel_zweit": "#ECDA00",
+   "beschreibung": "yellow, yellow sleeves",
+   "status": "DRAWN_FROM_IMAGE"
   }
  },
  "pferde": {
