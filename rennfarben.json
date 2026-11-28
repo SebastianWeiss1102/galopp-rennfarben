@@ -131142,6 +131142,46 @@
    "aermel_zweit": "#FAB23D",
    "beschreibung": "red, yellow querstreifen, red and yellow rauten sleeves",
    "status": "DRAWN_FROM_IMAGE"
+  },
+  "Cybt, McLean Racing Stables, Strand Beach Llc, Aldabbagh, Omar, Mcclanahan, Jerry And Nentwig, Michael": {
+   "koerper_grund": "#FFFFFF",
+   "koerper_muster": "stern",
+   "koerper_zweit": "#3032C5",
+   "aermel_grund": "#FFFFFF",
+   "aermel_muster": "manschetten",
+   "aermel_zweit": "#C7092A",
+   "beschreibung": "white, royal stern, white and red manschetten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Saints Or Sinners And Agnew, Dan J": {
+   "koerper_grund": "#FA0017",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FA0017",
+   "aermel_muster": "einfarbig",
+   "koerper_zweit": "#FA0017",
+   "aermel_zweit": "#FA0017",
+   "beschreibung": "red, red sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Cypress Creek Equine, Ad Noir, Llc And Kk Thoroughbred Racing, Llc": {
+   "koerper_grund": "#9BD22E",
+   "koerper_muster": "ring",
+   "koerper_zweit": "#0E173A",
+   "aermel_grund": "#3032C5",
+   "aermel_muster": "quer_gespalten",
+   "aermel_zweit": "#9BD22E",
+   "beschreibung": "lime, black ring, royal and lime quer gespalten sleeves",
+   "status": "DRAWN_FROM_IMAGE"
+  },
+  "Innergy Racing Corp And Pais, Alfred": {
+   "koerper_grund": "#FA0017",
+   "koerper_muster": "einfarbig",
+   "aermel_grund": "#FA0017",
+   "aermel_muster": "armbinde",
+   "aermel_zweit": "#FEE600",
+   "koerper_zweit": "#FA0017",
+   "beschreibung": "red, red and yellow armbinde sleeves",
+   "status": "DRAWN_FROM_IMAGE"
   }
  },
  "pferde": {
